@@ -138,7 +138,7 @@
 *   [tuituidan/team-nav](https://github.com/tuituidan/team-nav) ⭐: 307 ⌨️: Java
     前后端完整的网址导航服务，相较一般的靠配置生成的网址导航服务，本系统具有更强的后台管理能力，技术上主打一个轻量级，无任何依赖服务。
 
-*   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) ⭐: 30399 ⌨️: Java `dotnet` `java` `javascript` `python` `ruby` `selenium` `webdriver`
+*   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) ⭐: 30403 ⌨️: Java `dotnet` `java` `javascript` `python` `ruby` `selenium` `webdriver`
     A browser automation framework and ecosystem.
 
 *   [weaksloth/dolphinscheduler-sdk-java](https://github.com/weaksloth/dolphinscheduler-sdk-java) ⭐: 55 ⌨️: Java `apache` `dolphinscheduler` `java` `sdk`
@@ -159,16 +159,16 @@
 *   [mpusher/mpush](https://github.com/mpusher/mpush) ⭐: 3756 ⌨️: Java `android` `im` `java` `netty` `push` `tcp-ip`
     MPush开源实时消息推送系统
 
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) ⭐: 9522 ⌨️: Java `crawler` `jsoup` `spider` `spider-flow` `web-crawler` `web-spider` `webcrawler` `webspider` `xpath`
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) ⭐: 9521 ⌨️: Java `crawler` `jsoup` `spider` `spider-flow` `web-crawler` `web-spider` `webcrawler` `webspider` `xpath`
     新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
-*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) ⭐: 16214 ⌨️: Java `aouth2` `authorization` `java` `springcloud` `sso` `token`
+*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) ⭐: 16215 ⌨️: Java `aouth2` `authorization` `java` `springcloud` `sso` `token`
     一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
 
 *   [datageartech/datagear](https://github.com/datageartech/datagear) ⭐: 1430 ⌨️: Java `bi` `business-intelligence` `chart` `data-analysis` `data-analytics` `data-visualization` `echarts`
     DataGear数据可视化分析平台，自由制作任何您想要的数据看板
 
-*   [apache/hertzbeat](https://github.com/apache/hertzbeat) ⭐: 5526 ⌨️: Java `alerting` `cloud` `database` `devops` `grafana` `linux` `metrics` `monitor` `monitoring` `mysql` `notifications` `observability` `prometheus` `self-hosted` `server` `status` `status-page` `uptime` `uptime-monitoring` `zabbix`
+*   [apache/hertzbeat](https://github.com/apache/hertzbeat) ⭐: 5529 ⌨️: Java `alerting` `cloud` `database` `devops` `grafana` `linux` `metrics` `monitor` `monitoring` `mysql` `notifications` `observability` `prometheus` `self-hosted` `server` `status` `status-page` `uptime` `uptime-monitoring` `zabbix`
     Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 *   [childe/hangout](https://github.com/childe/hangout) ⭐: 503 ⌨️: Java `elasticsearch` `kafka` `logstash`
@@ -192,25 +192,25 @@
 *   [zuoyuip/easy-mybatis](https://github.com/zuoyuip/easy-mybatis) ⭐: 22 ⌨️: Java
     一个把Mybatis操作简化至极致的框架
 
-*   [alibaba/QLExpress](https://github.com/alibaba/QLExpress) ⭐: 4807 ⌨️: Java
+*   [alibaba/QLExpress](https://github.com/alibaba/QLExpress) ⭐: 4808 ⌨️: Java
     QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.
 
 *   [polardb/polardbx-sql](https://github.com/polardb/polardbx-sql) ⭐: 1533 ⌨️: Java `cloud-native` `distributed-transactions` `enterprise-class` `high-availability` `high-concurrency` `horizontal-scaling` `htap` `massive-datasets` `mysql` `relational-database`
     PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
 
-*   [questdb/questdb](https://github.com/questdb/questdb) ⭐: 14379 ⌨️: Java `analytics` `big-data` `cpp` `database` `financial-analysis` `grafana` `hacktoberfest` `iot` `java` `low-latency` `postgres` `postgresql` `questdb` `simd` `sql` `time-series` `time-series-database` `tsdb`
+*   [questdb/questdb](https://github.com/questdb/questdb) ⭐: 14382 ⌨️: Java `analytics` `big-data` `cpp` `database` `financial-analysis` `grafana` `hacktoberfest` `iot` `java` `low-latency` `postgres` `postgresql` `questdb` `simd` `sql` `time-series` `time-series-database` `tsdb`
     QuestDB is an open source time-series database for fast ingest and SQL queries
 
-*   [provectus/kafka-ui](https://github.com/provectus/kafka-ui) ⭐: 9560 ⌨️: Java `apache-kafka` `big-data` `cluster-management` `event-streaming` `hacktoberfest` `kafka` `kafka-brokers` `kafka-client` `kafka-cluster` `kafka-connect` `kafka-manager` `kafka-producer` `kafka-streams` `kafka-ui` `opensource` `streaming-data` `streams` `web-ui`
+*   [provectus/kafka-ui](https://github.com/provectus/kafka-ui) ⭐: 9567 ⌨️: Java `apache-kafka` `big-data` `cluster-management` `event-streaming` `hacktoberfest` `kafka` `kafka-brokers` `kafka-client` `kafka-cluster` `kafka-connect` `kafka-manager` `kafka-producer` `kafka-streams` `kafka-ui` `opensource` `streaming-data` `streams` `web-ui`
     Open-Source Web UI for Apache Kafka Management
 
-*   [dataease/dataease](https://github.com/dataease/dataease) ⭐: 17523 ⌨️: Java `apache-doris` `business-intelligence` `data-analysis` `data-visualization` `echarts` `kettle` `superset` `tableau`
+*   [dataease/dataease](https://github.com/dataease/dataease) ⭐: 17525 ⌨️: Java `apache-doris` `business-intelligence` `data-analysis` `data-visualization` `echarts` `kettle` `superset` `tableau`
     🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
 
 *   [knightliao/CanalX](https://github.com/knightliao/CanalX) ⭐: 202 ⌨️: Java
     基于 `Canal` 的数据感知服务框架. 可用于围绕数据库`Mysql`进行数据相关的各式业务开发, 并建立各式各样的服务平台.
 
-*   [antlr/antlr4](https://github.com/antlr/antlr4) ⭐: 17033 ⌨️: Java `antlr` `antlr4` `cpp` `csharp` `dart` `golang` `grammar` `java` `javascript` `language-recognition` `parse` `parser-generator` `parsing` `php` `python` `swift`
+*   [antlr/antlr4](https://github.com/antlr/antlr4) ⭐: 17035 ⌨️: Java `antlr` `antlr4` `cpp` `csharp` `dart` `golang` `grammar` `java` `javascript` `language-recognition` `parse` `parser-generator` `parsing` `php` `python` `swift`
     ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 
 *   [graphhopper/jsprit](https://github.com/graphhopper/jsprit) ⭐: 1626 ⌨️: Java `algorithm` `java` `traveling-salesman` `vehicle-routing-problem` `vrp`
@@ -225,7 +225,7 @@
 *   [DeemOpen/zkui](https://github.com/DeemOpen/zkui) ⭐: 2354 ⌨️: Java
     A UI dashboard that allows CRUD operations on Zookeeper.
 
-*   [debezium/debezium](https://github.com/debezium/debezium) ⭐: 10485 ⌨️: Java `apache-kafka` `cdc` `change-data-capture` `database` `debezium` `event-streaming` `kafka` `kafka-connect` `kafka-producer`
+*   [debezium/debezium](https://github.com/debezium/debezium) ⭐: 10486 ⌨️: Java `apache-kafka` `cdc` `change-data-capture` `database` `debezium` `event-streaming` `kafka` `kafka-connect` `kafka-producer`
     Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
 
 *   [Dsiner/DMusic](https://github.com/Dsiner/DMusic) ⭐: 143 ⌨️: Java `cache` `customizable` `lrc` `lrc-parser` `multi-function` `music` `music-download` `music-player` `mv` `online-music` `skin`
@@ -234,7 +234,7 @@
 *   [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) ⭐: 4553 ⌨️: Java
     Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
 
-*   [yuanguangxin/LeetCode](https://github.com/yuanguangxin/LeetCode) ⭐: 7358 ⌨️: Java `leetcode` `leetcode-classification` `leetcode-java` `leetcode-solutions`
+*   [yuanguangxin/LeetCode](https://github.com/yuanguangxin/LeetCode) ⭐: 7357 ⌨️: Java `leetcode` `leetcode-classification` `leetcode-java` `leetcode-solutions`
     LeetCode刷题记录与面试整理
 
 *   [alldatacenter/alldata](https://github.com/alldatacenter/alldata) ⭐: 2470 ⌨️: Java `alldata` `cloudeon` `cube-studio` `datahub` `datart` `datasophon` `datavines` `dinky` `dolphinscheduler` `griffin` `hudi` `iceberg` `openmetadata` `paimon` `streampark`
@@ -249,7 +249,7 @@
 *   [xtTech/app-version](https://github.com/xtTech/app-version) ⭐: 314 ⌨️: Java `android` `app` `appversion` `css` `dew` `dew-framework` `html` `ios` `java` `javascript` `react-native` `spring-boot` `swift` `vue`
     APP版本管理是一套多应用更新发版的管理平台。用户可以通过部署本管理系统，以实现对多APP的多平台多渠道上的版本管理。
 
-*   [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) ⭐: 30178 ⌨️: Java `docker` `docker-composer` `fastdfs` `java` `mongodb` `mybatis` `rabbitmq` `scheduler` `spring` `spring-boot` `spring-boot-examples` `spring-boot-mail` `spring-boot-mongodb` `spring-boot-upload-file` `spring-cloud` `spring-data-jpa` `springboot` `springboot-shiro` `springcloud` `thymeleaf`
+*   [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) ⭐: 30181 ⌨️: Java `docker` `docker-composer` `fastdfs` `java` `mongodb` `mybatis` `rabbitmq` `scheduler` `spring` `spring-boot` `spring-boot-examples` `spring-boot-mail` `spring-boot-mongodb` `spring-boot-upload-file` `spring-cloud` `spring-data-jpa` `springboot` `springboot-shiro` `springcloud` `thymeleaf`
     about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 
 *   [jsonljd/konga-lang-plugin](https://github.com/jsonljd/konga-lang-plugin) ⭐: 47 ⌨️: Java `docker` `java` `konga` `konga-language-zh` `plugin`
@@ -291,13 +291,13 @@
 *   [justauth/JustAuth](https://github.com/justauth/JustAuth) ⭐: 16432 ⌨️: Java `googlelogin` `justauth` `oauth2` `qqlogin` `weixinlogin`
     🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
 
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) ⭐: 39450 ⌨️: Java `database` `db2` `dbeaver` `erd` `gui` `java` `mysql` `nosql` `oracle` `postgresql` `redshift` `sql` `sqlite` `sqlserver` `tycho`
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) ⭐: 39452 ⌨️: Java `database` `db2` `dbeaver` `erd` `gui` `java` `mysql` `nosql` `oracle` `postgresql` `redshift` `sql` `sqlite` `sqlserver` `tycho`
     Free universal database tool and SQL client
 
 *   [ngbdf/redis-manager](https://github.com/ngbdf/redis-manager) ⭐: 2936 ⌨️: Java `cachecloud` `redis` `redis-cloud` `redis-cluster` `redis-create` `redis-manager` `redis-monitor` `redis-query` `redis-slowlog` `redis-tool` `rediscluster` `redismanager` `redismonitor` `redisquery`
     Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
 
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) ⭐: 99357 ⌨️: Java
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) ⭐: 99380 ⌨️: Java
     :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 *   [jellyfin-archive/jellyfin-android-original](https://github.com/jellyfin-archive/jellyfin-android-original) ⭐: 271 ⌨️: Java
@@ -318,13 +318,13 @@
 *   [mayabot/mynlp](https://github.com/mayabot/mynlp) ⭐: 675 ⌨️: Java `fasttext` `nlp` `pinyin` `segment` `starspace`
     一个生产级、高性能、模块化、可扩展的中文NLP工具包。（中文分词、平均感知机、fastText、拼音、新词发现、分词纠错、BM25、人名识别、命名实体、自定义词典）
 
-*   [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) ⭐: 7443 ⌨️: Java
+*   [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) ⭐: 7444 ⌨️: Java
     SVG library for React Native, React Native Web, and plain React web projects.
 
 *   [czfshine/wechattool](https://github.com/czfshine/wechattool) ⭐: 49 ⌨️: Java
     微信聊天记录工具，包括备份，查看，统计，处理等一系列工具
 
-*   [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) ⭐: 15790 ⌨️: Java `azkaban` `big-data` `bigdata` `flume` `hadoop` `hbase` `hdfs` `hive` `kafka` `mapreduce` `phoenix` `scala` `spark` `sqoop` `storm` `yarn` `zookeeper`
+*   [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) ⭐: 15794 ⌨️: Java `azkaban` `big-data` `bigdata` `flume` `hadoop` `hbase` `hdfs` `hive` `kafka` `mapreduce` `phoenix` `scala` `spark` `sqoop` `storm` `yarn` `zookeeper`
     大数据入门指南  :star:
 
 *   [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) ⭐: 2574 ⌨️: Java
@@ -350,10 +350,10 @@
 *   [yu120/micro](https://github.com/yu120/micro) ⭐: 2 ⌨️: Java
     micro
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) ⭐: 40181 ⌨️: Java `activiti` `ant-design` `ant-design-vue` `antd` `codegenerator` `flowable` `java` `jbpm` `jeecg` `jeecgboot` `low-code` `mybatis` `shiro` `spring` `spring-boot` `spring-cloud` `springboot` `springcloud` `vue` `vue3`
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) ⭐: 40183 ⌨️: Java `activiti` `ant-design` `ant-design-vue` `antd` `codegenerator` `flowable` `java` `jbpm` `jeecg` `jeecgboot` `low-code` `mybatis` `shiro` `spring` `spring-boot` `spring-cloud` `springboot` `springcloud` `vue` `vue3`
     🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 
-*   [TheKingOfDuck/MySQLMonitor](https://github.com/TheKingOfDuck/MySQLMonitor) ⭐: 454 ⌨️: Java `mysql` `mysqlmonitor` `pymysql`
+*   [TheKingOfDuck/MySQLMonitor](https://github.com/TheKingOfDuck/MySQLMonitor) ⭐: 455 ⌨️: Java `mysql` `mysqlmonitor` `pymysql`
     MySQL实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 
 *   [DarLiner/openzaly](https://github.com/DarLiner/openzaly) ⭐: 104 ⌨️: Java
@@ -362,7 +362,7 @@
 *   [liukelin/canal\_mysql\_nosql\_sync](https://github.com/liukelin/canal_mysql_nosql_sync) ⭐: 1429 ⌨️: Java `binlog` `canal` `canal-mysql` `mysql` `sync`
     基于canal 的 mysql 与 redis/memcached/mongodb 的 nosql 数据实时同步方案 案例 demo canal client
 
-*   [jeequan/jeepay](https://github.com/jeequan/jeepay) ⭐: 5124 ⌨️: Java `jeepay` `xxpay`
+*   [jeequan/jeepay](https://github.com/jeequan/jeepay) ⭐: 5128 ⌨️: Java `jeepay` `xxpay`
     Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
 
 *   [l123456789jy/WxDatabaseDecryptKey](https://github.com/l123456789jy/WxDatabaseDecryptKey) ⭐: 305 ⌨️: Java `enmicromsg` `wx` `wxapp`
@@ -371,7 +371,7 @@
 *   [sofastack/sofa-jraft](https://github.com/sofastack/sofa-jraft) ⭐: 3577 ⌨️: Java `consensus` `distributed-consensus-algorithms` `java` `raft` `raft-algorithm` `raft-java` `sofa-bolt` `sofa-jraft` `sofastack`
     A production-grade java implementation of RAFT consensus algorithm.
 
-*   [apache/commons-text](https://github.com/apache/commons-text) ⭐: 342 ⌨️: Java `commons`
+*   [apache/commons-text](https://github.com/apache/commons-text) ⭐: 343 ⌨️: Java `commons`
     Apache Commons Text
 
 *   [actiontech/dble](https://github.com/actiontech/dble) ⭐: 1089 ⌨️: Java `dble` `distributed-database` `mysql` `mysql-sharding` `sharding`
@@ -389,10 +389,10 @@
 *   [siaorg/sia-gateway](https://github.com/siaorg/sia-gateway) ⭐: 790 ⌨️: Java
     微服务路由网关（zuul-plus）
 
-*   [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) ⭐: 1092 ⌨️: Java `graphql` `graphql-api` `graphql-server` `java`
+*   [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) ⭐: 1093 ⌨️: Java `graphql` `graphql-api` `graphql-server` `java`
     Build a GraphQL service in seconds
 
-*   [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) ⭐: 28270 ⌨️: Java `learning` `shiro` `spring-boot` `spring-boot-learning` `spring-cloud` `spring-security` `springboot`
+*   [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) ⭐: 28273 ⌨️: Java `learning` `shiro` `spring-boot` `spring-boot-learning` `spring-cloud` `spring-security` `springboot`
     循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
 
 *   [LoveFunny/elasticsearch-tool](https://github.com/LoveFunny/elasticsearch-tool) ⭐: 19 ⌨️: Java
@@ -401,7 +401,7 @@
 *   [jetbinliu/prophet](https://github.com/jetbinliu/prophet) ⭐: 24 ⌨️: Java
     一个优秀的大数据查询平台，提供hive异步任务查询、LDAP用户、数据权限控制、历史查询任务与结果存储、邮件通知、excel下载等功能。
 
-*   [apache/incubator-seata](https://github.com/apache/incubator-seata) ⭐: 25248 ⌨️: Java `at` `consistency` `distributed-transaction` `microservice` `saga` `tcc` `xa`
+*   [apache/incubator-seata](https://github.com/apache/incubator-seata) ⭐: 25251 ⌨️: Java `at` `consistency` `distributed-transaction` `microservice` `saga` `tcc` `xa`
     :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 
 *   [goldze/MVVMHabit](https://github.com/goldze/MVVMHabit) ⭐: 7585 ⌨️: Java `aac` `databinding` `glide` `lifecycle` `mvvm` `mvvm-library` `okhttp` `retrofit` `retrofit2` `rxjava` `rxjava2`
@@ -410,16 +410,16 @@
 *   [DTStack/chunjun](https://github.com/DTStack/chunjun) ⭐: 3982 ⌨️: Java `bigdata` `data-integration` `flink` `framework` `java`
     A data integration framework
 
-*   [junit-team/junit4](https://github.com/junit-team/junit4) ⭐: 8521 ⌨️: Java
+*   [junit-team/junit4](https://github.com/junit-team/junit4) ⭐: 8520 ⌨️: Java
     A programmer-oriented testing framework for Java.
 
-*   [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) ⭐: 12732 ⌨️: Java `airflow` `azkaban` `cloud-native` `data-pipelines` `job-scheduler` `orchestration` `powerful-data-pipelines` `task-scheduler` `workflow` `workflow-orchestration` `workflow-schedule`
+*   [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) ⭐: 12734 ⌨️: Java `airflow` `azkaban` `cloud-native` `data-pipelines` `job-scheduler` `orchestration` `powerful-data-pipelines` `task-scheduler` `workflow` `workflow-orchestration` `workflow-schedule`
     Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 
 *   [gavenwangcn/vole](https://github.com/gavenwangcn/vole) ⭐: 828 ⌨️: Java `java` `micro-service` `springcloud`
     SpringCloud Micro service business framework , SpringCloud 微服务商业脚手架
 
-*   [Netflix/zuul](https://github.com/Netflix/zuul) ⭐: 13455 ⌨️: Java
+*   [Netflix/zuul](https://github.com/Netflix/zuul) ⭐: 13458 ⌨️: Java
     Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 *   [uavorg/uavstack](https://github.com/uavorg/uavstack) ⭐: 692 ⌨️: Java `apm` `distributed-tracing` `invokechain` `log` `microservice` `monitor` `service-discovery` `service-governance` `topology-visualiztion` `uav`
@@ -428,7 +428,7 @@
 *   [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) ⭐: 20128 ⌨️: Java `16k` `android` `exoplayer` `ffmpeg` `gsy` `ijkplayer` `player` `ssl` `video` `videocache`
     视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
 
-*   [dianping/cat](https://github.com/dianping/cat) ⭐: 18649 ⌨️: Java `apm` `distributed` `java` `metrics` `monitoring` `realtime` `tracing`
+*   [dianping/cat](https://github.com/dianping/cat) ⭐: 18650 ⌨️: Java `apm` `distributed` `java` `metrics` `monitoring` `realtime` `tracing`
     CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 
 *   [siaorg/sia-task](https://github.com/siaorg/sia-task) ⭐: 1817 ⌨️: Java
@@ -446,7 +446,7 @@
 *   [code4wt/RateLimiter](https://github.com/code4wt/RateLimiter) ⭐: 23 ⌨️: Java `leaky-bucket` `rate-limiter` `token-bucket`
     简单限流算法实现
 
-*   [skylot/jadx](https://github.com/skylot/jadx) ⭐: 41128 ⌨️: Java `android` `decompiler` `dex` `java`
+*   [skylot/jadx](https://github.com/skylot/jadx) ⭐: 41138 ⌨️: Java `android` `decompiler` `dex` `java`
     Dex to Java decompiler
 
 *   [ddd-by-examples/library](https://github.com/ddd-by-examples/library) ⭐: 4713 ⌨️: Java `aggregate` `aggregate-root` `archunit` `c4` `crud` `ddd` `ddd-architecture` `domain-driven-design` `event-storming` `events` `functions` `hexagonal-architecture` `ports-and-adapters` `spring` `vavr`
@@ -470,19 +470,19 @@
 *   [JessYanCoding/AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) ⭐: 13467 ⌨️: Java `adapterview` `android` `arms` `density` `mvparms` `screenadapter`
     🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
 
-*   [Netflix/conductor](https://github.com/Netflix/conductor) ⭐: 12824 ⌨️: Java `distributed-systems` `grpc` `java` `javascript` `microservice-orchestration` `orchestration-engine` `orchestrator` `reactjs` `spring-boot` `workflow-automation` `workflow-engine` `workflow-management` `workflows`
+*   [Netflix/conductor](https://github.com/Netflix/conductor) ⭐: 12825 ⌨️: Java `distributed-systems` `grpc` `java` `javascript` `microservice-orchestration` `orchestration-engine` `orchestrator` `reactjs` `spring-boot` `workflow-automation` `workflow-engine` `workflow-management` `workflows`
     Conductor is a microservices orchestration engine.
 
 *   [dragonwell-project/dragonwell8](https://github.com/dragonwell-project/dragonwell8) ⭐: 4195 ⌨️: Java `dragonwell8` `java` `java8` `jdk` `lts` `openjdk`
     Alibaba Dragonwell8 JDK
 
-*   [sonatype/nexus-public](https://github.com/sonatype/nexus-public) ⭐: 1919 ⌨️: Java `repository` `repository-management`
+*   [sonatype/nexus-public](https://github.com/sonatype/nexus-public) ⭐: 1920 ⌨️: Java `repository` `repository-management`
     Sonatype Nexus Repository Open-source codebase mirror
 
 *   [Firedamp/Rudeness](https://github.com/Firedamp/Rudeness) ⭐: 731 ⌨️: Java
     一种粗暴快速的Android全屏幕适配方案
 
-*   [flowable/flowable-engine](https://github.com/flowable/flowable-engine) ⭐: 7852 ⌨️: Java `bpmn` `java` `workflow` `workflow-engine`
+*   [flowable/flowable-engine](https://github.com/flowable/flowable-engine) ⭐: 7853 ⌨️: Java `bpmn` `java` `workflow` `workflow-engine`
     A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 
 *   [wemakebug/FileUpload.Java](https://github.com/wemakebug/FileUpload.Java) ⭐: 220 ⌨️: Java
@@ -511,7 +511,7 @@
 *   [multilang-depends/depends](https://github.com/multilang-depends/depends) ⭐: 191 ⌨️: Java
     Depends is a fast, comprehensive code dependency analysis tool
 
-*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐: 13391 ⌨️: Java `agent` `apm` `distributed-tracing` `monitoring` `performance` `tracing`
+*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) ⭐: 13393 ⌨️: Java `agent` `apm` `distributed-tracing` `monitoring` `performance` `tracing`
     APM, (Application Performance Management) tool for large-scale distributed systems.
 
 *   [apache/shardingsphere](https://github.com/apache/shardingsphere) ⭐: 19826 ⌨️: Java `bigdata` `database` `database-cluster` `database-plus` `dba` `distributed-database` `distributed-sql-database` `distributed-transactions` `encrypt` `hacktoberfest` `mysql` `oltp` `postgresql` `rdbms` `shard` `sql`
@@ -526,13 +526,13 @@
 *   [hanschencoder/Pretty-Zhihu](https://github.com/hanschencoder/Pretty-Zhihu) ⭐: 106 ⌨️: Java
     知乎上的看图神器，你懂的
 
-*   [alibaba/druid](https://github.com/alibaba/druid) ⭐: 27916 ⌨️: Java
+*   [alibaba/druid](https://github.com/alibaba/druid) ⭐: 27920 ⌨️: Java
     阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
 
 *   [heyingcai/cetty](https://github.com/heyingcai/cetty) ⭐: 36 ⌨️: Java `crawler` `event-dispatcher` `gather` `spider`
     基于事件分发的爬虫框架
 
-*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐: 89514 ⌨️: Java `awesome-list` `design-patterns` `hacktoberfest` `java` `principles` `snippets` `snippets-collection` `snippets-library`
+*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐: 89525 ⌨️: Java `awesome-list` `design-patterns` `hacktoberfest` `java` `principles` `snippets` `snippets-collection` `snippets-library`
     Design patterns implemented in Java
 
 *   [danfickle/openhtmltopdf](https://github.com/danfickle/openhtmltopdf) ⭐: 1913 ⌨️: Java `accessibility` `css` `html` `java` `pdf` `pdf-generation` `pdfbox` `svg`
@@ -541,7 +541,7 @@
 *   [colinNaive/VideoApplication](https://github.com/colinNaive/VideoApplication) ⭐: 15 ⌨️: Java
     Android短视频App 视频轮播VideoView TextureView MediaPlayer
 
-*   [google/guice](https://github.com/google/guice) ⭐: 12481 ⌨️: Java
+*   [google/guice](https://github.com/google/guice) ⭐: 12482 ⌨️: Java
     Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.
 
 *   [ClouGence/hasor](https://github.com/ClouGence/hasor) ⭐: 983 ⌨️: Java `aop` `dataql` `db` `hasor` `ioc` `java` `jdbc` `mvc` `restful` `rpc` `tconsole` `web`
@@ -568,16 +568,16 @@
 *   [didi/DoKit](https://github.com/didi/DoKit) ⭐: 20100 ⌨️: Java `android` `ios` `miniapp` `mockgps` `monitoring` `performance` `tools`
     一款面向泛前端产品研发全生命周期的效率平台。
 
-*   [macrozheng/mall](https://github.com/macrozheng/mall) ⭐: 77468 ⌨️: Java `docker` `elasticsearch` `elk` `java` `mongodb` `mybatis` `mysql` `rabbitmq` `redis` `spring` `spring-boot` `spring-cloud` `spring-security` `springboot` `springcloud` `swagger-ui`
+*   [macrozheng/mall](https://github.com/macrozheng/mall) ⭐: 77481 ⌨️: Java `docker` `elasticsearch` `elk` `java` `mongodb` `mybatis` `mysql` `rabbitmq` `redis` `spring` `spring-boot` `spring-cloud` `spring-security` `springboot` `springcloud` `swagger-ui`
     mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 
-*   [rememberber/WePush](https://github.com/rememberber/WePush) ⭐: 4209 ⌨️: Java `gui` `java` `mail` `message` `push` `send` `sender` `sms` `swing` `wechat` `weixin`
+*   [rememberber/WePush](https://github.com/rememberber/WePush) ⭐: 4210 ⌨️: Java `gui` `java` `mail` `message` `push` `send` `sender` `sms` `swing` `wechat` `weixin`
     专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 
 *   [firesunCN/WechatEnhancement](https://github.com/firesunCN/WechatEnhancement) ⭐: 1134 ⌨️: Java
     仅供学习交流，禁止用于其他用途，请及时删除，禁止任何公司或个人发布与传播，不接受任何捐赠
 
-*   [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) ⭐: 27444 ⌨️: Java `cron` `distributed` `glue` `java` `job` `quartz` `restful` `schedule` `scheduler` `task` `xxl-job`
+*   [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) ⭐: 27445 ⌨️: Java `cron` `distributed` `glue` `java` `job` `quartz` `restful` `schedule` `scheduler` `task` `xxl-job`
     A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 
 *   [b3log/xiaov](https://github.com/b3log/xiaov) ⭐: 1444 ⌨️: Java `bot` `qq` `smartqq` `webqq`
@@ -595,7 +595,7 @@
 *   [paascloud/paascloud-master](https://github.com/paascloud/paascloud-master) ⭐: 9839 ⌨️: Java `oauth2` `rocketmq` `spring-cloud` `springcloud` `vuejs2`
     spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
 
-*   [oracle/graal](https://github.com/oracle/graal) ⭐: 20275 ⌨️: Java `aot` `compiler` `graalvm` `java`
+*   [oracle/graal](https://github.com/oracle/graal) ⭐: 20277 ⌨️: Java `aot` `compiler` `graalvm` `java`
     GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 
 *   [dadiyang/java-stomp](https://github.com/dadiyang/java-stomp) ⭐: 20 ⌨️: Java `java` `sockjs` `springboot` `stomp` `websocket`
@@ -625,7 +625,7 @@
 *   [wyh-spring-ecosystem-student/spring-boot-student](https://github.com/wyh-spring-ecosystem-student/spring-boot-student) ⭐: 999 ⌨️: Java
     spring-boot-student
 
-*   [alibaba/nacos](https://github.com/alibaba/nacos) ⭐: 30102 ⌨️: Java `alibaba` `config` `configuration-management` `distributed-configuration` `dns` `dubbo` `istio` `kubernetes` `microservices` `nacos` `service-discovery` `service-mesh` `spring-cloud`
+*   [alibaba/nacos](https://github.com/alibaba/nacos) ⭐: 30105 ⌨️: Java `alibaba` `config` `configuration-management` `distributed-configuration` `dns` `dubbo` `istio` `kubernetes` `microservices` `nacos` `service-discovery` `service-mesh` `spring-cloud`
     an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 *   [SoftwareKing/halo-docs](https://github.com/SoftwareKing/halo-docs) ⭐: 26 ⌨️: Java
@@ -640,7 +640,7 @@
 *   [didi/tinyid](https://github.com/didi/tinyid) ⭐: 2279 ⌨️: Java
     ID Generator id生成器 分布式id生成系统，简单易用、高性能、高可用的id生成系统
 
-*   [ben-manes/caffeine](https://github.com/ben-manes/caffeine) ⭐: 15760 ⌨️: Java
+*   [ben-manes/caffeine](https://github.com/ben-manes/caffeine) ⭐: 15762 ⌨️: Java
     A high performance caching library for Java
 
 *   [yahoo/storm-yarn](https://github.com/yahoo/storm-yarn) ⭐: 417 ⌨️: Java
@@ -658,22 +658,22 @@
 *   [Swagger2Markup/swagger2markup](https://github.com/Swagger2Markup/swagger2markup) ⭐: 2495 ⌨️: Java `api` `asciidoc` `documentation` `markdown` `swagger`
     A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentation.
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) ⭐: 75779 ⌨️: Java `advanced-java` `distributed-search-engine` `distributed-systems` `doocs` `dubbo` `elasticsearch` `eureka` `feign` `high-availability` `high-concurrency` `hystrix` `java` `message-queue` `microservices-architecture` `redis` `ribbon` `rpc` `spring-cloud` `springcloud-config` `zookeeper`
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) ⭐: 75780 ⌨️: Java `advanced-java` `distributed-search-engine` `distributed-systems` `doocs` `dubbo` `elasticsearch` `eureka` `feign` `high-availability` `high-concurrency` `hystrix` `java` `message-queue` `microservices-architecture` `redis` `ribbon` `rpc` `spring-cloud` `springcloud-config` `zookeeper`
     😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) ⭐: 12190 ⌨️: Java `mybatis` `mybatis-plugin`
+*   [pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) ⭐: 12191 ⌨️: Java `mybatis` `mybatis-plugin`
     Mybatis通用分页插件
 
-*   [apache/dubbo](https://github.com/apache/dubbo) ⭐: 40410 ⌨️: Java `distributed-systems` `dubbo` `framework` `grpc` `http` `java` `microservices` `restful` `rpc` `service-mesh` `web`
+*   [apache/dubbo](https://github.com/apache/dubbo) ⭐: 40411 ⌨️: Java `distributed-systems` `dubbo` `framework` `grpc` `http` `java` `microservices` `restful` `rpc` `service-mesh` `web`
     The java implementation of Apache Dubbo. An RPC and microservice framework.
 
-*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) ⭐: 56315 ⌨️: Java `framework` `spring` `spring-framework`
+*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) ⭐: 56327 ⌨️: Java `framework` `spring` `spring-framework`
     Spring Framework
 
 *   [didi/DDMQ](https://github.com/didi/DDMQ) ⭐: 1301 ⌨️: Java
     DDMQ is a distributed messaging product with low latency, high throughput and high availability.
 
-*   [prometheus/client\_java](https://github.com/prometheus/client_java) ⭐: 2170 ⌨️: Java `instrumentation` `java` `metrics` `prometheus`
+*   [prometheus/client\_java](https://github.com/prometheus/client_java) ⭐: 2173 ⌨️: Java `instrumentation` `java` `metrics` `prometheus`
     Prometheus instrumentation library for JVM applications
 
 *   [kongzhidea/thrift](https://github.com/kongzhidea/thrift) ⭐: 92 ⌨️: Java
@@ -732,19 +732,19 @@
 *   [oblac/jodd](https://github.com/oblac/jodd) ⭐: 4063 ⌨️: Java `aop` `database` `html-parser` `http-client` `ioc` `java` `java8` `jodd` `jquery` `json-parser` `mail` `micro-framework` `utility-library`
     Jodd! Lightweight. Java. Zero dependencies. Use what you like.
 
-*   [shuzheng/zheng](https://github.com/shuzheng/zheng) ⭐: 16670 ⌨️: Java `activemq` `alioss` `druid` `dubbo` `ehcache` `fastdfs` `microservices` `mybatis` `mybatis-generator` `quartz` `redis` `sequence` `shiro` `solr` `spring` `spring-session` `springmvc` `swagger2` `tbschedule` `zookeeper`
+*   [shuzheng/zheng](https://github.com/shuzheng/zheng) ⭐: 16671 ⌨️: Java `activemq` `alioss` `druid` `dubbo` `ehcache` `fastdfs` `microservices` `mybatis` `mybatis-generator` `quartz` `redis` `sequence` `shiro` `solr` `spring` `spring-session` `springmvc` `swagger2` `tbschedule` `zookeeper`
     基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
 
-*   [alibaba/easyexcel](https://github.com/alibaba/easyexcel) ⭐: 32088 ⌨️: Java `excel` `java` `jxl` `oom` `poi` `xls` `xlsx`
+*   [alibaba/easyexcel](https://github.com/alibaba/easyexcel) ⭐: 32089 ⌨️: Java `excel` `java` `jxl` `oom` `poi` `xls` `xlsx`
     快速、简洁、解决大文件内存溢出的java处理Excel工具
 
 *   [TakWolf-Deprecated/CNode-Material-Design](https://github.com/TakWolf-Deprecated/CNode-Material-Design) ⭐: 1342 ⌨️: Java `android` `cnode` `material`
     CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。
 
-*   [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) ⭐: 27848 ⌨️: Java `alibaba` `alibaba-middleware` `alibaba-oss` `aliyun` `circuit-breaker` `cloud-native` `distributed-configuration` `distributed-messaging` `distributed-transaction` `dubbo` `java` `microservices` `nacos` `rocketmq` `service-discovery` `service-registry` `spring` `spring-cloud` `spring-cloud-alibaba` `spring-cloud-core`
+*   [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) ⭐: 27849 ⌨️: Java `alibaba` `alibaba-middleware` `alibaba-oss` `aliyun` `circuit-breaker` `cloud-native` `distributed-configuration` `distributed-messaging` `distributed-transaction` `dubbo` `java` `microservices` `nacos` `rocketmq` `service-discovery` `service-registry` `spring` `spring-cloud` `spring-cloud-alibaba` `spring-cloud-core`
     Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 
-*   [alibaba/Sentinel](https://github.com/alibaba/Sentinel) ⭐: 22337 ⌨️: Java `alibaba` `circuit-breaker` `cloud-native` `java` `microservice` `microservices` `rate-limiting` `reliability` `resiliency`
+*   [alibaba/Sentinel](https://github.com/alibaba/Sentinel) ⭐: 22336 ⌨️: Java `alibaba` `circuit-breaker` `cloud-native` `java` `microservice` `microservices` `rate-limiting` `reliability` `resiliency`
     A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 
 *   [zas023/CocoBill](https://github.com/zas023/CocoBill) ⭐: 242 ⌨️: Java
@@ -753,7 +753,7 @@
 *   [vvsuperman/coolmq](https://github.com/vvsuperman/coolmq) ⭐: 656 ⌨️: Java
     消息最终一致性方案，基于rabbitmq的分布式事务解决方案
 
-*   [jmrozanec/cron-utils](https://github.com/jmrozanec/cron-utils) ⭐: 1146 ⌨️: Java `cron` `cron-definitions` `cron-expression` `cron-libraries` `cron-utils` `cron4j` `crontab` `hacktoberfest` `java` `quartz`
+*   [jmrozanec/cron-utils](https://github.com/jmrozanec/cron-utils) ⭐: 1148 ⌨️: Java `cron` `cron-definitions` `cron-expression` `cron-libraries` `cron-utils` `cron4j` `crontab` `hacktoberfest` `java` `quartz`
     Cron utils for parsing, validations and human readable descriptions as well as date/time interoperability.
 
 *   [alibaba/taokeeper](https://github.com/alibaba/taokeeper) ⭐: 1051 ⌨️: Java
@@ -774,7 +774,7 @@
 *   [b3log/symphony](https://github.com/b3log/symphony) ⭐: 12830 ⌨️: Java `bbs` `community` `discussion` `forum` `java` `markdown` `sns` `sym` `symphony` `websocket`
     仓库已经迁移到 https://github.com/88250/symphony
 
-*   [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) ⭐: 8122 ⌨️: Java `cron` `database` `elasticjob` `job` `job-management` `middleware` `quartz` `scheduled-jobs` `shard`
+*   [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) ⭐: 8123 ⌨️: Java `cron` `database` `elasticjob` `job` `job-management` `middleware` `quartz` `scheduled-jobs` `shard`
     Distributed scheduled job
 
 *   [jknack/handlebars.java](https://github.com/jknack/handlebars.java) ⭐: 1458 ⌨️: Java `handlebars` `template-engine` `templates`
@@ -786,7 +786,7 @@
 *   [qiujiayu/AutoLoadCache](https://github.com/qiujiayu/AutoLoadCache) ⭐: 2087 ⌨️: Java `asynchronous-refresh-cache` `autoload-cache` `java` `redis` `spring-cache`
     AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用。
 
-*   [alibaba/arthas](https://github.com/alibaba/arthas) ⭐: 35463 ⌨️: Java `agent` `alibaba` `arthas` `classloader` `diagnosis` `java` `jvm` `trace` `trouble-shooting`
+*   [alibaba/arthas](https://github.com/alibaba/arthas) ⭐: 35464 ⌨️: Java `agent` `alibaba` `arthas` `classloader` `diagnosis` `java` `jvm` `trace` `trouble-shooting`
     Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 
 *   [apache/bookkeeper](https://github.com/apache/bookkeeper) ⭐: 1897 ⌨️: Java `apache` `big-data` `bookkeeper` `distributed-log` `distributed-systems` `wal`
@@ -795,7 +795,7 @@
 *   [ndxt/centit-framework](https://github.com/ndxt/centit-framework) ⭐: 24 ⌨️: Java
     基于spring mvc的内部开发框架.         包括了对 spring mvc, spring security, spring session 等等开源框架的整合；         同时，设计了一套基础用户、组织机构和功能权限、数据权限体系，作为公司内部研发的基础平台。
 
-*   [tink-crypto/tink](https://github.com/tink-crypto/tink) ⭐: 13479 ⌨️: Java `cpp` `crypto` `cryptography` `go` `java` `javascript` `objc` `security`
+*   [tink-crypto/tink](https://github.com/tink-crypto/tink) ⭐: 13481 ⌨️: Java `cpp` `crypto` `cryptography` `go` `java` `javascript` `objc` `security`
     Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 
 *   [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) ⭐: 6637 ⌨️: Java `rabbitmq` `tutorials`
@@ -842,7 +842,7 @@
 
 *   [majinkai/skye](https://github.com/majinkai/skye) ⭐: 31 ⌨️: Java
 
-*   [alibaba/canal](https://github.com/alibaba/canal) ⭐: 28386 ⌨️: Java
+*   [alibaba/canal](https://github.com/alibaba/canal) ⭐: 28390 ⌨️: Java
     阿里巴巴 MySQL binlog 增量订阅&消费组件
 
 *   [javaee/cargotracker](https://github.com/javaee/cargotracker) ⭐: 247 ⌨️: Java
@@ -866,7 +866,7 @@
 *   [pulllock/spring-boot-monitoring](https://github.com/pulllock/spring-boot-monitoring) ⭐: 20 ⌨️: Java
     Spring Boot监控
 
-*   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) ⭐: 23043 ⌨️: Java `cicd` `continuous-delivery` `continuous-deployment` `continuous-integration` `devops` `groovy` `hacktoberfest` `java` `jenkins` `pipelines-as-code`
+*   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) ⭐: 23049 ⌨️: Java `cicd` `continuous-delivery` `continuous-deployment` `continuous-integration` `devops` `groovy` `hacktoberfest` `java` `jenkins` `pipelines-as-code`
     Jenkins automation server
 
 *   [felton321/xxl-job-admin-spring-boot](https://github.com/felton321/xxl-job-admin-spring-boot) ⭐: 9 ⌨️: Java `microservice` `spring-boot` `xxl-job` `xxl-job-admin`
@@ -884,7 +884,7 @@
 *   [flyway/flyway](https://github.com/flyway/flyway) ⭐: 8142 ⌨️: Java `aurora` `continuous-delivery` `continuous-deployment` `database` `database-administration` `database-deployment` `database-management` `database-migrations` `db2` `devops` `flyway` `java` `java-library` `mariadb` `mysql` `postgresql` `redgate` `sql` `sqlserver`
     Flyway by Redgate • Database Migrations Made Easy.
 
-*   [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) ⭐: 3605 ⌨️: Java
+*   [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) ⭐: 3611 ⌨️: Java
     Distributed lock for your scheduled tasks
 
 *   [Nepxion/Discovery](https://github.com/Nepxion/Discovery) ⭐: 5609 ⌨️: Java `apollo` `blue-green-deployment` `cloud-native` `consul` `etcd` `eureka` `gray-release` `hystrix` `jaeger` `nacos` `opentelemetry` `opentracing` `redis` `sentinel` `skywalking` `spring-cloud` `spring-cloud-alibaba` `spring-cloud-gateway` `zookeeper` `zuul`
@@ -910,13 +910,13 @@
 *   [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy) ⭐: 4021 ⌨️: Java `diagnosis` `greys` `jvmti` `troubleshooting`
     Java诊断工具
 
-*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ⭐: 74705 ⌨️: Java `framework` `java` `spring` `spring-boot`
+*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ⭐: 74713 ⌨️: Java `framework` `java` `spring` `spring-boot`
     Spring Boot
 
-*   [Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava) ⭐: 29748 ⌨️: Java `cp` `hacktoberfest` `java` `miniapp` `miniprogram` `mp` `open` `sdk` `weapp` `wechat` `wechat-sdk` `weixin` `weixin-sdk` `wxjava` `wxpay`
+*   [Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava) ⭐: 29749 ⌨️: Java `cp` `hacktoberfest` `java` `miniapp` `miniprogram` `mp` `open` `sdk` `weapp` `wechat` `wechat-sdk` `weixin` `weixin-sdk` `wxjava` `wxpay`
     微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
 
-*   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) ⭐: 69692 ⌨️: Java `elasticsearch` `java` `search-engine`
+*   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) ⭐: 69704 ⌨️: Java `elasticsearch` `java` `search-engine`
     Free and Open Source, Distributed, RESTful Search Engine
 
 *   [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) ⭐: 17850 ⌨️: Java `consul` `eureka` `feign` `finchley` `gateway` `hystrix` `hystrix-dashboard` `hystrix-turbine` `ribbon` `sleuth` `spring` `spring-boot` `spring-cloud` `springbootadmin` `zuul`
@@ -952,7 +952,7 @@
 *   [cjbi/admin3](https://github.com/cjbi/admin3) ⭐: 1443 ⌨️: Java `java-17` `sprinboot` `springboot3` `typescript` `vue3`
     一个轻巧的后台管理框架，项目后端基于Java21、SpringBoot3.2，前端基于TypeScript、Vite3、Vue3、Element Plus，只提供登录会话、用户管理、角色管理、权限资源管理、事件日志、对象存储等基础功能的最佳实践方案，不做过多的封装，适合二次定制开发、接私活、源码学习等场景
 
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) ⭐: 146173 ⌨️: Java `algorithms` `interview` `java` `jvm` `mysql` `redis` `spring` `system` `system-design` `zookeeper`
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) ⭐: 146181 ⌨️: Java `algorithms` `interview` `java` `jvm` `mysql` `redis` `spring` `system` `system-design` `zookeeper`
     「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 
 *   [JThink/SkyEye](https://github.com/JThink/SkyEye) ⭐: 866 ⌨️: Java `apm` `capacity-planning` `deployment-assistant` `dubbo` `dubbox` `log-collect` `log-indexer` `log-visualization` `log4j` `log4j-kafka-appender` `log4j2` `log4j2-kafka-appender` `logback` `logback-kafka-appender` `rpc-trace` `skyeye` `spring-cloud` `system-alarm` `system-monitor` `tracer`
@@ -967,7 +967,7 @@
 *   [alibaba/DataX](https://github.com/alibaba/DataX) ⭐: 15827 ⌨️: Java
     DataX是阿里云DataWorks数据集成的开源版本。
 
-*   [halo-dev/halo](https://github.com/halo-dev/halo) ⭐: 33428 ⌨️: Java `blog` `blog-engine` `cms` `content-management-system` `halo` `halocms`
+*   [halo-dev/halo](https://github.com/halo-dev/halo) ⭐: 33438 ⌨️: Java `blog` `blog-engine` `cms` `content-management-system` `halo` `halocms`
     强大易用的开源建站工具。
 
 *   [NianguoWang/ZhihuReader-master](https://github.com/NianguoWang/ZhihuReader-master) ⭐: 37 ⌨️: Java
@@ -993,7 +993,7 @@
 *   [LuckyZXL2016/e3mall](https://github.com/LuckyZXL2016/e3mall) ⭐: 279 ⌨️: Java `java` `javascript` `linux` `solr` `ssm-maven`
     宜立方商城，完整代码 + 资源，java + spring + springmvc + mybatis 实现
 
-*   [wxiaoqi/Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) ⭐: 6357 ⌨️: Java `jwt` `spring-boot` `spring-cloud` `spring-cloud-alibaba` `spring-cloud-gateway` `spring-cloud-loadbalancer`
+*   [wxiaoqi/Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) ⭐: 6358 ⌨️: Java `jwt` `spring-boot` `spring-cloud` `spring-cloud-alibaba` `spring-cloud-gateway` `spring-cloud-loadbalancer`
     🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新
 
 *   [prontera/spring-cloud-rest-tcc](https://github.com/prontera/spring-cloud-rest-tcc) ⭐: 2580 ⌨️: Java `c4-diagram` `c4model` `distributed-transaction` `microservice` `spring-boot` `spring-cloud` `spring-cloud-netflix` `tcc` `try-confirm-cancel`
@@ -1011,7 +1011,7 @@
 *   [pig4cloud/pig](https://github.com/pig4cloud/pig) ⭐: 708 ⌨️: Java
     基于Spring Cloud、oAuth2.0开发基于Vue前后分离的开发平台，支持账号、短信、SSO等多种登录，提供配套视频开发教程
 
-*   [zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) ⭐: 6666 ⌨️: Java
+*   [zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) ⭐: 6667 ⌨️: Java
     mybatis-generator界面工具，让你生成代码更简单更快捷
 
 *   [liuyueyi/quick-media](https://github.com/liuyueyi/quick-media) ⭐: 878 ⌨️: Java `audio-plugin` `awt` `batik` `emotion` `ffmpeg` `flexmark` `gif` `html-images` `image-magick` `java` `markdown-html` `phantomjs` `png2svg` `qrcode` `qrcode-plugin` `spring-boot` `svg` `svg2png` `zxing` `zxing-qrcode`
@@ -1059,10 +1059,10 @@
 *   [starcwang/canal\_mysql\_elasticsearch\_sync](https://github.com/starcwang/canal_mysql_elasticsearch_sync) ⭐: 496 ⌨️: Java `binlog` `canal` `elasticsearch` `mysql` `synchronization`
     基于canal的mysql和elasticsearch实时同步方案，支持增量同步和全量同步
 
-*   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) ⭐: 17151 ⌨️: Java `baas` `clickhouse` `crud` `databricks` `elasticsearch` `hadoop` `hive` `influxdb` `low-code` `lowcode` `milvus` `nocode` `oracle` `postgresql` `postgresql-database` `serverless` `snowflake` `sqlserver` `tdengine` `tidb`
+*   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) ⭐: 17153 ⌨️: Java `baas` `clickhouse` `crud` `databricks` `elasticsearch` `hadoop` `hive` `influxdb` `low-code` `lowcode` `milvus` `nocode` `oracle` `postgresql` `postgresql-database` `serverless` `snowflake` `sqlserver` `tdengine` `tidb`
     🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
 
-*   [apache/skywalking](https://github.com/apache/skywalking) ⭐: 23748 ⌨️: Java `apm` `dapper` `distributed-tracing` `ebpf` `logging` `metrics` `observability` `open-telemetry` `prometheus` `service-mesh` `skywalking` `telegraf` `web-performance` `zabbix`
+*   [apache/skywalking](https://github.com/apache/skywalking) ⭐: 23750 ⌨️: Java `apm` `dapper` `distributed-tracing` `ebpf` `logging` `metrics` `observability` `open-telemetry` `prometheus` `service-mesh` `skywalking` `telegraf` `web-performance` `zabbix`
     APM, Application Performance Monitoring System
 
 *   [xwjie/PLMCodeTemplate](https://github.com/xwjie/PLMCodeTemplate) ⭐: 1927 ⌨️: Java `aop` `log4j-mdc` `spring` `threadlocal`
@@ -1074,18 +1074,18 @@
 *   [dromara/raincat](https://github.com/dromara/raincat) ⭐: 1909 ⌨️: Java `dubbo` `jdk8` `netty` `soa` `spi` `spring` `spring-cloud` `tcc` `transaction`
     强一致分布式事务框架
 
-*   [liuyangming/ByteTCC](https://github.com/liuyangming/ByteTCC) ⭐: 2895 ⌨️: Java `distributed-transaction` `dubbo` `jta` `spring-cloud` `tcc` `transaction`
+*   [liuyangming/ByteTCC](https://github.com/liuyangming/ByteTCC) ⭐: 2896 ⌨️: Java `distributed-transaction` `dubbo` `jta` `spring-cloud` `tcc` `transaction`
     ByteTCC is a distributed transaction manager based on the TCC(Try/Confirm/Cancel) mechanism. It’s compatible with the JTA specification. User guide: https://github.com/liuyangming/ByteTCC/wiki
 
 *   [liuyangming/ByteJTA](https://github.com/liuyangming/ByteJTA) ⭐: 213 ⌨️: Java `distributed-transactions` `jta` `spring-cloud` `transaction` `transaction-manager` `two-phase-commit` `xa`
     ByteJTA is a distributed transaction manager based on the XA/2PC mechanism. It’s compatible with the JTA specification. User guide: https://github.com/liuyangming/ByteJTA/wiki
 
-*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) ⭐: 29083 ⌨️: Java `config-management` `configuration-management` `distributed-configuration` `microservices` `spring-boot` `spring-cloud`
+*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) ⭐: 29084 ⌨️: Java `config-management` `configuration-management` `distributed-configuration` `microservices` `spring-boot` `spring-cloud`
     Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 
 ## Vue
 
-*   [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) ⭐: 1213 ⌨️: Vue `android` `audiobooks` `audiobookshelf` `ios`
+*   [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) ⭐: 1215 ⌨️: Vue `android` `audiobooks` `audiobookshelf` `ios`
     Mobile application for Audiobookshelf
 
 *   [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) ⭐: 1253 ⌨️: Vue `client` `hacktoberfest` `jellyfin` `vite` `vue` `vuejs`
@@ -1094,7 +1094,7 @@
 *   [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) ⭐: 1360 ⌨️: Vue `arco-design` `arco-design-pro` `pro` `vue` `vuejs` `vuejs3`
     An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
 
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) ⭐: 21602 ⌨️: Vue `converter` `developer-productivity` `developer-tools` `frontend` `javascript` `productivity` `tool` `tools` `typescript` `vuejs` `website`
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) ⭐: 21631 ⌨️: Vue `converter` `developer-productivity` `developer-tools` `frontend` `javascript` `productivity` `tool` `tools` `typescript` `vuejs` `website`
     Collection of handy online tools for developers, with great UX.
 
 *   [SXX19950910/manifest-design](https://github.com/SXX19950910/manifest-design) ⭐: 189 ⌨️: Vue `canvas` `design-system` `draggable` `javascript` `manifest` `plugin` `print` `templates` `vue`
@@ -1106,7 +1106,7 @@
 *   [pocketdigi/kong-admin-ui](https://github.com/pocketdigi/kong-admin-ui) ⭐: 332 ⌨️: Vue
     Kong admin UI
 
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) ⭐: 31339 ⌨️: Vue
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) ⭐: 31336 ⌨️: Vue
     用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
 *   [etcd-manage/etcd-manage-ui](https://github.com/etcd-manage/etcd-manage-ui) ⭐: 82 ⌨️: Vue `etcd` `etcd-manage` `etcdui` `etcdv2` `etcdv3`
@@ -1121,10 +1121,10 @@
 *   [wxjaa/ddvue](https://github.com/wxjaa/ddvue) ⭐: 225 ⌨️: Vue
     模仿钉钉后台审批流程设计器
 
-*   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) ⭐: 5960 ⌨️: Vue `office` `office-powerpoint` `online-powerpoint` `online-ppt` `powerpoint` `ppt` `pptx` `presentation` `slide` `typescript` `vue`
+*   [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) ⭐: 5959 ⌨️: Vue `office` `office-powerpoint` `online-powerpoint` `online-ppt` `powerpoint` `ppt` `pptx` `presentation` `slide` `typescript` `vue`
     An online presentation application that replicates most of the commonly used features of Microsoft Office PowerPoint, allowing for the editing and presentation of PPT online. It also supports the export of PPT files.
 
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) ⭐: 29149 ⌨️: Vue `electron` `javascript` `linux` `mac` `macos` `music` `music-player` `netease-music` `player` `progressive-web-app` `pwa` `pwa-apps` `vue` `vue-cli` `vue-router` `vuex` `web-music-player` `windows`
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) ⭐: 29153 ⌨️: Vue `electron` `javascript` `linux` `mac` `macos` `music` `music-player` `netease-music` `player` `progressive-web-app` `pwa` `pwa-apps` `vue` `vue-cli` `vue-router` `vuex` `web-music-player` `windows`
     高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 *   [shiguanghuxian/etcd-manage](https://github.com/shiguanghuxian/etcd-manage) ⭐: 243 ⌨️: Vue `docker` `etcd-manage` `etcdui` `etcdv3` `go`
@@ -1175,13 +1175,13 @@
 *   [BeiMeng/vue-ant-abpzero](https://github.com/BeiMeng/vue-ant-abpzero) ⭐: 16 ⌨️: Vue
     基于ant-design-pro-vue 的 abpZero 前端框架
 
-*   [crmeb/CRMEB](https://github.com/crmeb/CRMEB) ⭐: 5277 ⌨️: Vue `b2c` `form-create` `ivewui` `o2o` `php` `shop` `thinkphp` `vue` `wechat` `wechat-mini-program`
+*   [crmeb/CRMEB](https://github.com/crmeb/CRMEB) ⭐: 5279 ⌨️: Vue `b2c` `form-create` `ivewui` `o2o` `php` `shop` `thinkphp` `vue` `wechat` `wechat-mini-program`
     🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 
 *   [cc-worker/Vue-FlowChart](https://github.com/cc-worker/Vue-FlowChart) ⭐: 53 ⌨️: Vue `elementui` `flowchart` `gojs` `vue` `webpack`
     Vue + ElementUI + Webpack 集成GoJS的流程图插件，基本实现了流程图的增、删、改，及节点复杂关联
 
-*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) ⭐: 12185 ⌨️: Vue `css` `mp-weixin` `scss` `uniapp` `vue` `vue2`
+*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) ⭐: 12186 ⌨️: Vue `css` `mp-weixin` `scss` `uniapp` `vue` `vue2`
     鲜亮的高饱和色彩，专注视觉的小程序组件库
 
 *   [levy9527/nuxt-element-dashboard](https://github.com/levy9527/nuxt-element-dashboard) ⭐: 45 ⌨️: Vue `admin-dashboard` `element-ui` `nuxtjs` `vue`
@@ -1208,7 +1208,7 @@
 *   [wjkang/d2-admin-pm](https://github.com/wjkang/d2-admin-pm) ⭐: 416 ⌨️: Vue `admin-template` `axios` `d2-admin` `element` `element-ui` `rbac` `vue-admin` `vue2` `vuecli3`
     基于 d2-admin的RBAC权限管理解决方案
 
-*   [ElemeFE/element](https://github.com/ElemeFE/element) ⭐: 54108 ⌨️: Vue `components` `element-ui` `javascript` `ui-kit` `vue` `vue-components` `vuejs`
+*   [ElemeFE/element](https://github.com/ElemeFE/element) ⭐: 54106 ⌨️: Vue `components` `element-ui` `javascript` `ui-kit` `vue` `vue-components` `vuejs`
     A Vue.js 2.0 UI Toolkit for Web
 
 *   [xusenlin/vue-element-ui-admin](https://github.com/xusenlin/vue-element-ui-admin) ⭐: 478 ⌨️: Vue
@@ -1274,7 +1274,7 @@
 *   [goweiwen/vue-swing](https://github.com/goweiwen/vue-swing) ⭐: 202 ⌨️: Vue `swing` `swipe` `vue` `vuejs`
     Vue.js wrapper for Swing
 
-*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⭐: 9422 ⌨️: Vue `scroller` `virtual-scroller` `vuejs` `vuejs-components` `vuejs2`
+*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⭐: 9423 ⌨️: Vue `scroller` `virtual-scroller` `vuejs` `vuejs-components` `vuejs2`
     ⚡️ Blazing fast scrolling for any amount of data
 
 *   [LeCoupa/vuedarkmode](https://github.com/LeCoupa/vuedarkmode) ⭐: 1091 ⌨️: Vue `bootstrap` `components` `darkmode` `design-system` `nuxtjs` `vuejs`
@@ -1286,7 +1286,7 @@
 *   [thinkgem/jeesite](https://github.com/thinkgem/jeesite) ⭐: 7994 ⌨️: Vue
     Java rapid development platform, based (Spring Boot, Spring MVC, Apache Shiro, MyBatis, Beetl, Bootstrap, AdminLTE), online code generation, including modules:  Organization, role users, menu and button authorization, data permissions, system parameters, content management, workflow, etc.  Loose coupling design is adopted; one key skin switch;  account security Settings, password policies;  Online scheduled task configuration;  Support cluster, support SAAS;  Support for multiple data sources
 
-*   [EthVM/EthVM](https://github.com/EthVM/EthVM) ⭐: 630 ⌨️: Vue `blockchain` `eth` `ethereum` `ethvm` `explorer` `vue`
+*   [EthVM/EthVM](https://github.com/EthVM/EthVM) ⭐: 631 ⌨️: Vue `blockchain` `eth` `ethereum` `ethvm` `explorer` `vue`
     :zap:EthVM: Open Source Processing Engine and Block Explorer for Ethereum :zap:
 
 *   [qidaizhe11/element-pro](https://github.com/qidaizhe11/element-pro) ⭐: 274 ⌨️: Vue `antd-pro` `element-ui-pro` `vue`
@@ -1301,7 +1301,7 @@
 *   [alaboshu/alaweb](https://github.com/alaboshu/alaweb) ⭐: 859 ⌨️: Vue `mpvue` `vue-native` `weapp` `wechat-app` `wechat-mini-program` `weex` `weui` `wxapp` `wxss`
     一套 Vue 代码，多端可用(H5、小程序、苹果App、安卓App、头条等）。系统含150+页面，200+组件(5端通用)，30+元件(每个终端独立完成)
 
-*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) ⭐: 20133 ⌨️: Vue `ant` `ant-design` `antd` `antd-vue` `css` `enterprise` `frontend` `react` `ui` `ui-design` `vue` `vue-antd` `vue-antd-ui` `vue3` `vuecomponent`
+*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) ⭐: 20134 ⌨️: Vue `ant` `ant-design` `antd` `antd-vue` `css` `enterprise` `frontend` `react` `ui` `ui-design` `vue` `vue-antd` `vue-antd-ui` `vue3` `vuecomponent`
     🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 
 *   [huanent/vue-table-ex](https://github.com/huanent/vue-table-ex) ⭐: 4 ⌨️: Vue `table` `vue`
@@ -1351,7 +1351,7 @@
 *   [framework7io/framework7-template-vue-webpack](https://github.com/framework7io/framework7-template-vue-webpack) ⭐: 384 ⌨️: Vue `android` `app` `framework7` `ios` `material` `mobile` `template` `vue` `vuejs` `webpack`
     Deprecated! Framework7 Vue Webpack starter app template with hot-reload & css extraction
 
-*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐: 40946 ⌨️: Vue `es2015` `flex` `sass` `vue` `vue-router` `vuex` `webpack`
+*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐: 40947 ⌨️: Vue `es2015` `flex` `sass` `vue` `vue-router` `vuex` `webpack`
     Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 
 *   [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) ⭐: 6622 ⌨️: Vue
@@ -1366,51 +1366,51 @@
 *   [ElderJames/aspnetcore-vuetify-universal](https://github.com/ElderJames/aspnetcore-vuetify-universal) ⭐: 23 ⌨️: Vue
     Hosting vuetify docs project with aspnetcore, which support server-side-prerendering（ssr）
 
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) ⭐: 87666 ⌨️: Vue `admin` `admin-dashboard` `admin-template` `axios` `dashboard` `desktop` `element` `element-ui` `i18n` `management-system` `mock` `tinymce` `vue` `vue-admin` `vue-cli` `vuex` `webpack` `webpack4` `xlsx`
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) ⭐: 87670 ⌨️: Vue `admin` `admin-dashboard` `admin-template` `axios` `dashboard` `desktop` `element` `element-ui` `i18n` `management-system` `mock` `tinymce` `vue` `vue-admin` `vue-cli` `vuex` `webpack` `webpack4` `xlsx`
     :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 *   [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) ⭐: 1795 ⌨️: Vue
     Creative Tim Paper Dashboard made for Vue
 
-*   [iview/iview-admin](https://github.com/iview/iview-admin) ⭐: 16477 ⌨️: Vue `admin` `admin-template` `axios` `iview` `vue` `vue-admin` `vue-cli` `vuex` `webpack2`
+*   [iview/iview-admin](https://github.com/iview/iview-admin) ⭐: 16476 ⌨️: Vue `admin` `admin-template` `axios` `iview` `vue` `vue-admin` `vue-cli` `vuex` `webpack2`
     Vue 2.0 admin management system template based on iView
 
 ## JavaScript
 
-*   [findyourmagic/dber](https://github.com/findyourmagic/dber) ⭐: 645 ⌨️: JavaScript `database` `dbml` `graph` `nextjs` `svg`
+*   [findyourmagic/dber](https://github.com/findyourmagic/dber) ⭐: 646 ⌨️: JavaScript `database` `dbml` `graph` `nextjs` `svg`
     Database design tool based on entity relation diagram
 
-*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ⭐: 5551 ⌨️: JavaScript `furry` `liteloaderqqnt` `qqnt`
+*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ⭐: 5567 ⌨️: JavaScript `furry` `liteloaderqqnt` `qqnt`
     QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 
-*   [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) ⭐: 474 ⌨️: JavaScript
+*   [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) ⭐: 475 ⌨️: JavaScript
     LiteLoaderQQNT 插件 - QQNT 简易防撤回
 
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) ⭐: 34646 ⌨️: JavaScript `batch-processing` `batch-script` `code-free` `crawler` `data-collection` `frontend` `gui` `html` `input-parameters` `layman` `parameters` `robotics` `rpa` `scraper` `spider` `visual` `visualization` `visualprogramming` `web` `www`
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) ⭐: 34657 ⌨️: JavaScript `batch-processing` `batch-script` `code-free` `crawler` `data-collection` `frontend` `gui` `html` `input-parameters` `layman` `parameters` `robotics` `rpa` `scraper` `spider` `visual` `visualization` `visualprogramming` `web` `www`
     A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
-*   [lowlighter/metrics](https://github.com/lowlighter/metrics) ⭐: 13531 ⌨️: JavaScript `automated` `automation` `github` `github-action` `github-api` `github-metrics` `github-profile` `javascript` `metrics` `profile` `profile-card` `profile-readme` `readme` `readme-generator` `readme-profile` `svg-image`
+*   [lowlighter/metrics](https://github.com/lowlighter/metrics) ⭐: 13535 ⌨️: JavaScript `automated` `automation` `github` `github-action` `github-api` `github-metrics` `github-profile` `javascript` `metrics` `profile` `profile-card` `profile-readme` `readme` `readme-generator` `readme-profile` `svg-image`
     📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) ⭐: 82 ⌨️: JavaScript `actions` `awesome` `awesome-list` `awesome-lists` `github` `github-actions` `starred` `starred-repositories` `typescript`
     😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
-*   [badges/shields](https://github.com/badges/shields) ⭐: 23522 ⌨️: JavaScript `badge` `badge-maker` `github` `metadata` `status` `svg`
+*   [badges/shields](https://github.com/badges/shields) ⭐: 23536 ⌨️: JavaScript `badge` `badge-maker` `github` `metadata` `status` `svg`
     Concise, consistent, and legible badges in SVG and raster format
 
 *   [wenda-LLM/wenda](https://github.com/wenda-LLM/wenda) ⭐: 6237 ⌨️: JavaScript `chatglm-6b` `chatrwkv` `rwkv`
     闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题
 
-*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐: 9962 ⌨️: JavaScript `font` `typeface`
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐: 9971 ⌨️: JavaScript `font` `typeface`
     Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 
-*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) ⭐: 17590 ⌨️: JavaScript
+*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) ⭐: 17605 ⌨️: JavaScript
     分流规则、重写写规则及脚本。
 
 *   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) ⭐: 33994 ⌨️: JavaScript `clipboard` `javascript`
     :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 
-*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) ⭐: 20373 ⌨️: JavaScript `chinese` `clash` `clash-chinese` `shadowsocks` `windows` `zh-cn`
+*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) ⭐: 20383 ⌨️: JavaScript `chinese` `clash` `clash-chinese` `shadowsocks` `windows` `zh-cn`
     clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 
 *   [leobeckp/konga](https://github.com/leobeckp/konga) ⭐: 33 ⌨️: JavaScript
@@ -1419,7 +1419,7 @@
 *   [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) ⭐: 3267 ⌨️: JavaScript
     Generate the API Client for Fetch or Axios from an OpenAPI Specification
 
-*   [2881099/FreeScheduler](https://github.com/2881099/FreeScheduler) ⭐: 302 ⌨️: JavaScript `fluentscheduler` `freescheduler` `hashedwheeltimer` `quartz`
+*   [2881099/FreeScheduler](https://github.com/2881099/FreeScheduler) ⭐: 303 ⌨️: JavaScript `fluentscheduler` `freescheduler` `hashedwheeltimer` `quartz`
     轻量化定时任务调度，支持集群、临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。
 
 *   [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators) ⭐: 992 ⌨️: JavaScript `code-generators` `converter` `postman` `postman-collection`
@@ -1437,19 +1437,19 @@
 *   [listen1/listen1\_mobile](https://github.com/listen1/listen1_mobile) ⭐: 2783 ⌨️: JavaScript `music-player` `react-native`
     one for all free music in china (iOS, Android)
 
-*   [listen1/listen1\_desktop](https://github.com/listen1/listen1_desktop) ⭐: 9963 ⌨️: JavaScript `desktop-app` `music-player`
+*   [listen1/listen1\_desktop](https://github.com/listen1/listen1_desktop) ⭐: 9964 ⌨️: JavaScript `desktop-app` `music-player`
     one for all free music in china (Windows, Mac, Linux desktop)
 
-*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) ⭐: 11419 ⌨️: JavaScript `chrome-extension` `music-player`
+*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) ⭐: 11421 ⌨️: JavaScript `chrome-extension` `music-player`
     one for all free music in china (chrome extension, also works for firefox)
 
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) ⭐: 18082 ⌨️: JavaScript `book` `cb7` `cbr` `cbt` `cbz` `comic` `docx` `ebook` `epub` `fb2` `html` `markdown` `mobi` `pdf` `reader` `rtf` `txt` `xml`
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) ⭐: 18089 ⌨️: JavaScript `book` `cb7` `cbr` `cbt` `cbz` `comic` `docx` `ebook` `epub` `fb2` `html` `markdown` `mobi` `pdf` `reader` `rtf` `txt` `xml`
     A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 
-*   [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) ⭐: 15897 ⌨️: JavaScript `canvas` `chart` `conditional-formatting` `data-table` `excel` `formula` `google-sheets` `google-spreadsheet` `javascript` `office` `pivot-tables` `sparkline` `spreadsheet` `web-based` `xlsx`
+*   [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) ⭐: 15898 ⌨️: JavaScript `canvas` `chart` `conditional-formatting` `data-table` `excel` `formula` `google-sheets` `google-spreadsheet` `javascript` `office` `pivot-tables` `sparkline` `spreadsheet` `web-based` `xlsx`
     Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 
-*   [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) ⭐: 3385 ⌨️: JavaScript `cdn` `chrome` `chrome-extension` `google` `javascript`
+*   [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) ⭐: 3386 ⌨️: JavaScript `cdn` `chrome` `chrome-extension` `google` `javascript`
     ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。
 
 *   [lmenezes/cerebro](https://github.com/lmenezes/cerebro) ⭐: 5519 ⌨️: JavaScript `admin` `elasticsearch`
@@ -1469,10 +1469,10 @@
 *   [myliuxia/kr-print-designer](https://github.com/myliuxia/kr-print-designer) ⭐: 287 ⌨️: JavaScript
     一个基于Vue、ElementUi、Lodop的打印模板设计器。实现打印模板的设计、预览和打印功能。
 
-*   [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring) ⭐: 9212 ⌨️: JavaScript `antd` `drag-and-drop` `h5` `h5-builder` `h5-dooring` `h5-editor` `javascript` `low-code` `low-code-framework` `low-code-platform` `lowcode` `miniprogram` `page-builder` `page-factory` `react` `react-dnd` `react-router` `site-generator` `typescript` `visual-design`
+*   [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring) ⭐: 9220 ⌨️: JavaScript `antd` `drag-and-drop` `h5` `h5-builder` `h5-dooring` `h5-editor` `javascript` `low-code` `low-code-framework` `low-code-platform` `lowcode` `miniprogram` `page-builder` `page-factory` `react` `react-dnd` `react-router` `site-generator` `typescript` `visual-design`
     H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
 
-*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) ⭐: 8355 ⌨️: JavaScript `appbaseio` `chrome-extension` `database` `database-gui` `dejavu` `elasticsearch` `elasticsearch-gui` `elasticsearch-plugin` `nosql` `opensearch` `opensearch-plugins` `react` `reactjs` `realtime-updates`
+*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) ⭐: 8356 ⌨️: JavaScript `appbaseio` `chrome-extension` `database` `database-gui` `dejavu` `elasticsearch` `elasticsearch-gui` `elasticsearch-plugin` `nosql` `opensearch` `opensearch-plugins` `react` `reactjs` `realtime-updates`
     A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 
 *   [getprimate/primate](https://github.com/getprimate/primate) ⭐: 575 ⌨️: JavaScript `admin` `dashboard` `electron` `kong` `kongdash` `primate`
@@ -1481,22 +1481,22 @@
 *   [gopeak/masterlab](https://github.com/gopeak/masterlab) ⭐: 1228 ⌨️: JavaScript `agile` `kanban` `php7` `project-management` `scrum`
     简单高效、基于敏捷开发的项目管理工具
 
-*   [olado/doT](https://github.com/olado/doT) ⭐: 5007 ⌨️: JavaScript
+*   [olado/doT](https://github.com/olado/doT) ⭐: 5008 ⌨️: JavaScript
     The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 
 *   [PGBI/kong-dashboard](https://github.com/PGBI/kong-dashboard) ⭐: 2174 ⌨️: JavaScript `kong` `kong-dashboard` `kong-gateway`
     Dashboard for managing Kong gateway
 
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) ⭐: 45116 ⌨️: JavaScript `aria2` `bittorrent` `bt` `download` `download-manager` `electron` `linux` `mac` `macos` `magnet` `motrix` `torrent` `windows`
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) ⭐: 45122 ⌨️: JavaScript `aria2` `bittorrent` `bt` `download` `download-manager` `electron` `linux` `mac` `macos` `magnet` `motrix` `torrent` `windows`
     A full-featured download manager.
 
-*   [Kenshin/simpread](https://github.com/Kenshin/simpread) ⭐: 8057 ⌨️: JavaScript `chrome` `chrome-extension` `crx` `firefox` `firefox-addon` `firefox-extension` `react` `readability` `reader` `reading-list`
+*   [Kenshin/simpread](https://github.com/Kenshin/simpread) ⭐: 8060 ⌨️: JavaScript `chrome` `chrome-extension` `crx` `firefox` `firefox-addon` `firefox-extension` `react` `readability` `reader` `reading-list`
     简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 
 *   [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert) ⭐: 2812 ⌨️: JavaScript `alert` `alertmanager` `aliyun` `aliyunsdk` `dingding` `dingtalk` `feishu` `grafana` `graylog` `kubernetes` `monitor` `phone` `phonecall` `phonemessage` `prometheus` `prometheus-alert` `prometheus-alertmanager-webhook` `weixin` `weixinsdk` `zabbix`
     Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等
 
-*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) ⭐: 50042 ⌨️: JavaScript `diagram-editor` `electron-app` `graphics` `javascript-applications`
+*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) ⭐: 50052 ⌨️: JavaScript `diagram-editor` `electron-app` `graphics` `javascript-applications`
     Official electron build of draw.io
 
 *   [tumobi/nideshop](https://github.com/tumobi/nideshop) ⭐: 5555 ⌨️: JavaScript `api` `b2c` `min-program` `mysql` `nideshop` `nodejs` `shopping` `thinkjs` `weapp` `wechat-app`
@@ -1511,16 +1511,16 @@
 *   [TevinLi/amWiki](https://github.com/TevinLi/amWiki) ⭐: 981 ⌨️: JavaScript `amwiki` `api-doc-test` `atom-amwiki` `documenter` `markdown` `wiki`
     amWiki 是一款由 JS 开发、依赖 Atom 或 Nodejs-Npm 的 Markdown 轻量级前端化开源文库系统
 
-*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) ⭐: 2938 ⌨️: JavaScript `django` `document-management` `knowledge-management` `markdown` `notes-app` `python` `wiki`
+*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) ⭐: 2937 ⌨️: JavaScript `django` `document-management` `knowledge-management` `markdown` `notes-app` `python` `wiki`
     mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
 
 *   [chfree/think-swagger-ui-vuele](https://github.com/chfree/think-swagger-ui-vuele) ⭐: 233 ⌨️: JavaScript
     swagger ui vuele
 
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) ⭐: 22265 ⌨️: JavaScript `nginx` `nginx-proxy`
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) ⭐: 22272 ⌨️: JavaScript `nginx` `nginx-proxy`
     Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
-*   [ygs-code/vue](https://github.com/ygs-code/vue) ⭐: 6791 ⌨️: JavaScript
+*   [ygs-code/vue](https://github.com/ygs-code/vue) ⭐: 6790 ⌨️: JavaScript
     vue源码逐行注释分析+40多m的vue源码程序流程图思维导图(vue source code line by line annotation analysis +40 + m vue source code process flow chart mind map)
 
 *   [wozhishilaonanhai/dragUI](https://github.com/wozhishilaonanhai/dragUI) ⭐: 633 ⌨️: JavaScript
@@ -1547,7 +1547,7 @@
 *   [hechenqingyuan/yun\_gitwms](https://github.com/hechenqingyuan/yun_gitwms) ⭐: 198 ⌨️: JavaScript
     吉特仓储管理系统多企业，多仓库版本
 
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐: 84816 ⌨️: JavaScript `iptv` `m3u` `playlist` `streams` `tv`
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐: 84839 ⌨️: JavaScript `iptv` `m3u` `playlist` `streams` `tv`
     Collection of publicly available IPTV channels from all over the world
 
 *   [afonsof/jenkins-material-theme](https://github.com/afonsof/jenkins-material-theme) ⭐: 1725 ⌨️: JavaScript
@@ -1556,13 +1556,13 @@
 *   [luoxue-victor/workflow](https://github.com/luoxue-victor/workflow) ⭐: 1957 ⌨️: JavaScript `chain` `cli` `fe-workflow` `lerna` `loader` `mocks` `rollup` `rollup-box` `star` `tslint` `vite` `webpack` `webpack-box` `workflow`
     一个工作流平台
 
-*   [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) ⭐: 8714 ⌨️: JavaScript `evil` `huawei`
+*   [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) ⭐: 8715 ⌨️: JavaScript `evil` `huawei`
     Evil Huawei - 华为作过的恶
 
 *   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) ⭐: 5028 ⌨️: JavaScript `burying-point` `front-end-monitor` `frontend-monitoring` `js-monitor` `monitoring` `monitoring-tool` `web-monitor`
     webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 
-*   [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) ⭐: 22259 ⌨️: JavaScript `docker` `k8s` `kubernetes` `kubernetes-kuboard`
+*   [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) ⭐: 22262 ⌨️: JavaScript `docker` `k8s` `kubernetes` `kubernetes-kuboard`
     Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 
 *   [noahziheng/ssr-helper](https://github.com/noahziheng/ssr-helper) ⭐: 218 ⌨️: JavaScript `cli` `shadowsocksr`
@@ -1571,16 +1571,16 @@
 *   [futuweb/cossync](https://github.com/futuweb/cossync) ⭐: 25 ⌨️: JavaScript `cli` `cos` `qcloud` `storage` `sync`
     腾讯云COS同步（批量上传）工具
 
-*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐: 30332 ⌨️: JavaScript `redis` `redis-client` `redis-cluster` `redis-desktop-manager` `redis-gui`
+*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐: 30337 ⌨️: JavaScript `redis` `redis-client` `redis-cluster` `redis-desktop-manager` `redis-gui`
     🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
 
-*   [Nickersoft/push.js](https://github.com/Nickersoft/push.js) ⭐: 8766 ⌨️: JavaScript `javascript` `javascript-library` `notification-api` `notifications` `push` `push-notifications`
+*   [Nickersoft/push.js](https://github.com/Nickersoft/push.js) ⭐: 8767 ⌨️: JavaScript `javascript` `javascript-library` `notification-api` `notifications` `push` `push-notifications`
     The world's most versatile desktop notifications framework :earth\_americas:
 
-*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) ⭐: 11046 ⌨️: JavaScript `cockpit` `javascript` `linux-servers`
+*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) ⭐: 11051 ⌨️: JavaScript `cockpit` `javascript` `linux-servers`
     Cockpit is a web-based graphical interface for servers.
 
-*   [gxtrobot/bustag](https://github.com/gxtrobot/bustag) ⭐: 3853 ⌨️: JavaScript
+*   [gxtrobot/bustag](https://github.com/gxtrobot/bustag) ⭐: 3852 ⌨️: JavaScript
     a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
 
 *   [jinshubao/vue-swagger-ui](https://github.com/jinshubao/vue-swagger-ui) ⭐: 11 ⌨️: JavaScript
@@ -1595,7 +1595,7 @@
 *   [blaine-liu/antd-swagger-ui](https://github.com/blaine-liu/antd-swagger-ui) ⭐: 18 ⌨️: JavaScript `antd` `swagger-ui` `umi`
     基于react、umi、ant design 构建的 swagger ui
 
-*   [commenthol/date-holidays](https://github.com/commenthol/date-holidays) ⭐: 916 ⌨️: JavaScript `countries` `holiday-api` `holidays` `holidays-ical` `javascript` `region` `world`
+*   [commenthol/date-holidays](https://github.com/commenthol/date-holidays) ⭐: 918 ⌨️: JavaScript `countries` `holiday-api` `holidays` `holidays-ical` `javascript` `region` `world`
     worldwide holidays
 
 *   [ecomfe/veui](https://github.com/ecomfe/veui) ⭐: 1059 ⌨️: JavaScript
@@ -1613,7 +1613,7 @@
 *   [idalin/calibre-web](https://github.com/idalin/calibre-web) ⭐: 43 ⌨️: JavaScript
     :books: Web app for browsing, reading and downloading eBooks using a Calibre database
 
-*   [talebook/talebook](https://github.com/talebook/talebook) ⭐: 3478 ⌨️: JavaScript
+*   [talebook/talebook](https://github.com/talebook/talebook) ⭐: 3483 ⌨️: JavaScript
     A simple books website. 一个简单的在线版个人书库。
 
 *   [xiandanin/magnetW](https://github.com/xiandanin/magnetW) ⭐: 11628 ⌨️: JavaScript `electron` `electron-vue` `vue`
@@ -1625,16 +1625,16 @@
 *   [ygcaicn/wx\_e2e](https://github.com/ygcaicn/wx_e2e) ⭐: 21 ⌨️: JavaScript
     一个轻量级的，基于web微信的端到端加密通信，给你足够的隐私！
 
-*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) ⭐: 17402 ⌨️: JavaScript `netease-cloud-music` `proxy-server` `unblocker`
+*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) ⭐: 17401 ⌨️: JavaScript `netease-cloud-music` `proxy-server` `unblocker`
     Revive unavailable songs for Netease Cloud Music
 
 *   [liguobao/HouseSearch](https://github.com/liguobao/HouseSearch) ⭐: 1342 ⌨️: JavaScript
     地图搜租房【微信公众号、小程序：人生删除指南】
 
-*   [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) ⭐: 19477 ⌨️: JavaScript
+*   [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) ⭐: 19476 ⌨️: JavaScript
     ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 
-*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) ⭐: 8759 ⌨️: JavaScript `javascript-plugin` `live2d`
+*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) ⭐: 8762 ⌨️: JavaScript `javascript-plugin` `live2d`
     把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
 *   [synacor/preact-i18n](https://github.com/synacor/preact-i18n) ⭐: 205 ⌨️: JavaScript
@@ -1652,7 +1652,7 @@
 *   [exceptionless/Exceptionless.UI](https://github.com/exceptionless/Exceptionless.UI) ⭐: 100 ⌨️: JavaScript `angular` `exceptionless` `grunt` `html` `javascript` `spa`
     Exceptionless web user interface
 
-*   [PrismJS/prism](https://github.com/PrismJS/prism) ⭐: 12256 ⌨️: JavaScript
+*   [PrismJS/prism](https://github.com/PrismJS/prism) ⭐: 12259 ⌨️: JavaScript
     Lightweight, robust, elegant syntax highlighting.
 
 *   [flyzlf/taokezhushou](https://github.com/flyzlf/taokezhushou) ⭐: 7 ⌨️: JavaScript
@@ -1667,7 +1667,7 @@
 *   [wangmaosheng/MsSystem-BPM-ServiceAndWebApps](https://github.com/wangmaosheng/MsSystem-BPM-ServiceAndWebApps) ⭐: 373 ⌨️: JavaScript
     .net core 微服务 权限系统+工作流系统
 
-*   [typicode/json-server](https://github.com/typicode/json-server) ⭐: 72657 ⌨️: JavaScript
+*   [typicode/json-server](https://github.com/typicode/json-server) ⭐: 72659 ⌨️: JavaScript
     Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 *   [leochen-g/vue-project](https://github.com/leochen-g/vue-project) ⭐: 8 ⌨️: JavaScript
@@ -1691,16 +1691,16 @@
 *   [backyourstack/backyourstack](https://github.com/backyourstack/backyourstack) ⭐: 189 ⌨️: JavaScript
     BackYourStack analyzes repositories to recommend Open Source projects to support.
 
-*   [cookpete/react-player](https://github.com/cookpete/react-player) ⭐: 9288 ⌨️: JavaScript `audio` `dailymotion` `dash` `facebook` `hls` `media` `player` `react` `soundcloud` `streamable` `twitch` `video` `vimeo` `wistia` `youtube`
+*   [cookpete/react-player](https://github.com/cookpete/react-player) ⭐: 9289 ⌨️: JavaScript `audio` `dailymotion` `dash` `facebook` `hls` `media` `player` `react` `soundcloud` `streamable` `twitch` `video` `vimeo` `wistia` `youtube`
     A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 
 *   [klaascuvelier/alfred-mdn](https://github.com/klaascuvelier/alfred-mdn) ⭐: 114 ⌨️: JavaScript
     Alfred workflow for MDN search
 
-*   [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) ⭐: 11157 ⌨️: JavaScript `component` `hooks-tracking` `performance` `pure` `purecomponent` `react` `react-native` `render` `tool` `update`
+*   [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) ⭐: 11160 ⌨️: JavaScript `component` `hooks-tracking` `performance` `pure` `purecomponent` `react` `react-native` `render` `tool` `update`
     why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 
-*   [signavio/react-mentions](https://github.com/signavio/react-mentions) ⭐: 2447 ⌨️: JavaScript `inline-styles` `mentions` `react` `tags`
+*   [signavio/react-mentions](https://github.com/signavio/react-mentions) ⭐: 2448 ⌨️: JavaScript `inline-styles` `mentions` `react` `tags`
     @mention people in a textarea
 
 *   [LittlehorseXie/nw-printer](https://github.com/LittlehorseXie/nw-printer) ⭐: 52 ⌨️: JavaScript
@@ -1712,7 +1712,7 @@
 *   [jaywcjlove/react-native-doc](https://github.com/jaywcjlove/react-native-doc) ⭐: 11 ⌨️: JavaScript `document` `react-native` `reactjs`
     这里是本地离线预览 React Native 文档的方法，解决因官网 CDN 资源导致无法打开官方文档网站。
 
-*   [ladjs/superagent](https://github.com/ladjs/superagent) ⭐: 16582 ⌨️: JavaScript
+*   [ladjs/superagent](https://github.com/ladjs/superagent) ⭐: 16581 ⌨️: JavaScript
     Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
 *   [gxvv/create-react-browser-extension](https://github.com/gxvv/create-react-browser-extension) ⭐: 19 ⌨️: JavaScript `chrome` `chrome-extension` `create-react-app` `firefox` `firefox-extension` `react` `typescript` `webextension`
@@ -1721,7 +1721,7 @@
 *   [webpack-contrib/css-loader](https://github.com/webpack-contrib/css-loader) ⭐: 4302 ⌨️: JavaScript `css` `loader` `webpack` `webpack-loader`
     CSS Loader
 
-*   [prettier/prettier](https://github.com/prettier/prettier) ⭐: 49186 ⌨️: JavaScript `angular` `ast` `css` `flow` `formatter` `graphql` `html` `javascript` `json` `jsx` `less` `markdown` `prettier` `printer` `scss` `typescript` `vue` `yaml`
+*   [prettier/prettier](https://github.com/prettier/prettier) ⭐: 49182 ⌨️: JavaScript `angular` `ast` `css` `flow` `formatter` `graphql` `html` `javascript` `json` `jsx` `less` `markdown` `prettier` `printer` `scss` `typescript` `vue` `yaml`
     Prettier is an opinionated code formatter.
 
 *   [waylau/jekyll-bootstrap-blog](https://github.com/waylau/jekyll-bootstrap-blog) ⭐: 35 ⌨️: JavaScript `blog` `bootstrap3` `font-awesome` `javascript` `jekyll` `jekyll-bootstrap-blog` `jquery`
@@ -1754,10 +1754,10 @@
 *   [fdstar/TaobaoAuthorization](https://github.com/fdstar/TaobaoAuthorization) ⭐: 13 ⌨️: JavaScript
     淘宝应用统一获取授权Code，建议用于判断应用内业务唯一的AuthState在传递时，除了业务ID外，同时传递环境标志
 
-*   [entropic-dev/entropic](https://github.com/entropic-dev/entropic) ⭐: 5291 ⌨️: JavaScript
+*   [entropic-dev/entropic](https://github.com/entropic-dev/entropic) ⭐: 5290 ⌨️: JavaScript
     🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
 
-*   [codemirror/codemirror5](https://github.com/codemirror/codemirror5) ⭐: 26778 ⌨️: JavaScript
+*   [codemirror/codemirror5](https://github.com/codemirror/codemirror5) ⭐: 26780 ⌨️: JavaScript
     In-browser code editor (version 5, legacy)
 
 *   [airbnb/lottie-web](https://github.com/airbnb/lottie-web) ⭐: 30415 ⌨️: JavaScript
@@ -1772,7 +1772,7 @@
 *   [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) ⭐: 9313 ⌨️: JavaScript
     Web rendering surface for Node applications
 
-*   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) ⭐: 18047 ⌨️: JavaScript `commonmark` `javascript` `markdown`
+*   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) ⭐: 18053 ⌨️: JavaScript `commonmark` `javascript` `markdown`
     Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 
 *   [sunoj/teaclub](https://github.com/sunoj/teaclub) ⭐: 131 ⌨️: JavaScript
@@ -1784,7 +1784,7 @@
 *   [hpcplus2/chrome-extension-image-review](https://github.com/hpcplus2/chrome-extension-image-review) ⭐: 5 ⌨️: JavaScript
     图片审查小工具
 
-*   [jgraph/drawio](https://github.com/jgraph/drawio) ⭐: 40852 ⌨️: JavaScript `diagram` `javascript` `whiteboard`
+*   [jgraph/drawio](https://github.com/jgraph/drawio) ⭐: 40864 ⌨️: JavaScript `diagram` `javascript` `whiteboard`
     draw.io is a JavaScript, client-side editor for general diagramming.
 
 *   [cq-panda/Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI) ⭐: 700 ⌨️: JavaScript `csharp` `dotnetcore` `iview` `quartz`
@@ -1802,16 +1802,16 @@
 *   [GoogleChromeLabs/progressive-rendering-frameworks-samples](https://github.com/GoogleChromeLabs/progressive-rendering-frameworks-samples) ⭐: 410 ⌨️: JavaScript
     Samples and demos from the Progressive Rendering I/O talk
 
-*   [vercel/pkg](https://github.com/vercel/pkg) ⭐: 24303 ⌨️: JavaScript `binaries` `cli` `compiler` `nodejs`
+*   [vercel/pkg](https://github.com/vercel/pkg) ⭐: 24301 ⌨️: JavaScript `binaries` `cli` `compiler` `nodejs`
     Package your Node.js project into an executable
 
 *   [b3log/wide](https://github.com/b3log/wide) ⭐: 4131 ⌨️: JavaScript `golang` `ide` `web`
     🌈 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang。
 
-*   [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) ⭐: 40574 ⌨️: JavaScript `desktop` `edex-ui` `electron` `linux` `macos` `nodejs` `science-fiction` `shell` `terminal` `touchscreen` `tron` `unixporn` `windows`
+*   [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) ⭐: 40580 ⌨️: JavaScript `desktop` `edex-ui` `electron` `linux` `macos` `nodejs` `science-fiction` `shell` `terminal` `touchscreen` `tron` `unixporn` `windows`
     A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 
-*   [ovity/octotree](https://github.com/ovity/octotree) ⭐: 22806 ⌨️: JavaScript `browser-extension` `chrome` `code-files` `code-review` `edge` `firefox` `github` `opera` `pull-request-review` `safari`
+*   [ovity/octotree](https://github.com/ovity/octotree) ⭐: 22807 ⌨️: JavaScript `browser-extension` `chrome` `code-files` `code-review` `edge` `firefox` `github` `opera` `pull-request-review` `safari`
     GitHub on steroids
 
 *   [Nicksapp/ohmo-vue](https://github.com/Nicksapp/ohmo-vue) ⭐: 93 ⌨️: JavaScript `leancloud` `vue` `vue-leancloud-web` `vue-router` `vuex`
@@ -1856,10 +1856,10 @@
 *   [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) ⭐: 19487 ⌨️: JavaScript
     The Reactive Extensions for JavaScript
 
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) ⭐: 40016 ⌨️: JavaScript `browser` `editor` `monaco-editor` `typescript` `vscode`
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) ⭐: 40021 ⌨️: JavaScript `browser` `editor` `monaco-editor` `typescript` `vscode`
     A browser based code editor
 
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐: 75424 ⌨️: JavaScript `apple` `awesome` `awesome-list` `awesome-lists` `list` `mac` `mac-osx` `macos` `macosx` `software`
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐: 75446 ⌨️: JavaScript `apple` `awesome` `awesome-list` `awesome-lists` `list` `mac` `mac-osx` `macos` `macosx` `software`
      Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 *   [guanguans/notes](https://github.com/guanguans/notes) ⭐: 2127 ⌨️: JavaScript `chrome` `chrome-extension` `ios` `macos` `minttyrc` `phpstorm` `sublime`
@@ -1889,10 +1889,10 @@
 *   [akinix/AbpvNextTemplate-MvcModule](https://github.com/akinix/AbpvNextTemplate-MvcModule) ⭐: 12 ⌨️: JavaScript
     Using Cookiecutter to create Abp vNext projects is faster,  and supports updates if the templates has been modified. project should be created offline when the template has already been cloned.
 
-*   [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) ⭐: 51098 ⌨️: JavaScript `button` `css-framework` `dropdown` `flexbox` `popup` `semantic` `sidebar` `tooltip` `ui` `ui-components`
+*   [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) ⭐: 51097 ⌨️: JavaScript `button` `css-framework` `dropdown` `flexbox` `popup` `semantic` `sidebar` `tooltip` `ui` `ui-components`
     Semantic is a UI component framework based around useful principles from natural language.
 
-*   [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) ⭐: 9637 ⌨️: JavaScript `admin` `antd` `dashboard` `mock` `react`
+*   [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) ⭐: 9638 ⌨️: JavaScript `admin` `antd` `dashboard` `mock` `react`
     An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS
 
 *   [peer-base/peer-pad](https://github.com/peer-base/peer-pad) ⭐: 678 ⌨️: JavaScript `capabilities` `crdt` `ipfs` `p2p` `peer-star`
@@ -1911,7 +1911,7 @@
 *   [zjhch123/Emiya](https://github.com/zjhch123/Emiya) ⭐: 8 ⌨️: JavaScript `javascript` `javascript-tools` `webpack`
     Create JS application without any extra configuration. 精简, 小巧的JS项目脚手架。
 
-*   [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) ⭐: 9027 ⌨️: JavaScript `frontend` `fuzz-testing` `test`
+*   [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) ⭐: 9028 ⌨️: JavaScript `frontend` `fuzz-testing` `test`
     Monkey testing library for web apps and Node.js
 
 *   [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) ⭐: 3821 ⌨️: JavaScript `jquery` `parallax` `tilt`
@@ -1932,16 +1932,16 @@
 *   [fex-team/webuploader](https://github.com/fex-team/webuploader) ⭐: 7707 ⌨️: JavaScript
     It's a new file uploader solution!
 
-*   [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) ⭐: 5616 ⌨️: JavaScript `cdn` `cdn-providers` `distribution` `esm` `esmodules` `http` `infrastructure` `javascript` `jsdelivr` `npm` `npm-cdn` `traffic`
+*   [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) ⭐: 5618 ⌨️: JavaScript `cdn` `cdn-providers` `distribution` `esm` `esmodules` `http` `infrastructure` `javascript` `jsdelivr` `npm` `npm-cdn` `traffic`
     A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 
-*   [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) ⭐: 4880 ⌨️: JavaScript `documentation` `learn` `typescript` `typescript-handbook`
+*   [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) ⭐: 4881 ⌨️: JavaScript `documentation` `learn` `typescript` `typescript-handbook`
     Deprecated, please use the TypeScript-Website repo instead
 
 *   [phodal/new-project-checklist](https://github.com/phodal/new-project-checklist) ⭐: 350 ⌨️: JavaScript
     🥳🥳🥳🥳 a checklist & tool for new project setup for developer. 新项目检查清单及其工具。
 
-*   [xiyangxixian/soar-web](https://github.com/xiyangxixian/soar-web) ⭐: 450 ⌨️: JavaScript
+*   [xiyangxixian/soar-web](https://github.com/xiyangxixian/soar-web) ⭐: 451 ⌨️: JavaScript
     A web UI with soar
 
 *   [g-harel/sekstant](https://github.com/g-harel/sekstant) ⭐: 52 ⌨️: JavaScript `graphiql` `graphql` `kubernetes`
@@ -1956,7 +1956,7 @@
 *   [wendal/shortit](https://github.com/wendal/shortit) ⭐: 66 ⌨️: JavaScript
     超简单的短地址服务
 
-*   [openspug/spug](https://github.com/openspug/spug) ⭐: 10181 ⌨️: JavaScript `alert` `ci` `cicd` `cmdb` `deploy` `devops` `django-ops` `jenkins` `monitor` `operations` `ops` `ops-admin` `ops-tools` `opsadmin` `spug` `task` `webconsole` `webshell` `webssh`
+*   [openspug/spug](https://github.com/openspug/spug) ⭐: 10182 ⌨️: JavaScript `alert` `ci` `cicd` `cmdb` `deploy` `devops` `django-ops` `jenkins` `monitor` `operations` `ops` `ops-admin` `ops-tools` `opsadmin` `spug` `task` `webconsole` `webshell` `webssh`
     开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 
 *   [speakeasyjs/speakeasy](https://github.com/speakeasyjs/speakeasy) ⭐: 2697 ⌨️: JavaScript `hotp` `javascript` `mfa` `multi-factor` `node` `node-js` `nodejs` `totp` `two-factor` `two-factor-authentication`
@@ -1977,7 +1977,7 @@
 *   [FranckFreiburger/http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) ⭐: 1483 ⌨️: JavaScript `http` `http-vue-loader` `loader` `promise` `vue` `vue-files` `vue-loader` `vuejs2`
     load .vue files from your html/js
 
-*   [xaboy/form-create](https://github.com/xaboy/form-create) ⭐: 6026 ⌨️: JavaScript `ant-design-vue` `arco-design` `element-plus` `element-ui` `form` `form-designer` `lowcode` `naive-ui` `vant` `vue`
+*   [xaboy/form-create](https://github.com/xaboy/form-create) ⭐: 6029 ⌨️: JavaScript `ant-design-vue` `arco-design` `element-plus` `element-ui` `form` `form-designer` `lowcode` `naive-ui` `vant` `vue`
     :fire::fire::fire: 强大的低代码动态表单组件，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 
 *   [zhaoyb/ImageServices](https://github.com/zhaoyb/ImageServices) ⭐: 7 ⌨️: JavaScript
@@ -2049,7 +2049,7 @@
 *   [wetools/wept](https://github.com/wetools/wept) ⭐: 2956 ⌨️: JavaScript `miniapp` `wechat` `wxapp`
     微信小程序多端实时运行工具
 
-*   [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) ⭐: 10405 ⌨️: JavaScript `dashboard` `linux` `linux-dash` `monitoring` `server` `ui` `web`
+*   [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) ⭐: 10406 ⌨️: JavaScript `dashboard` `linux` `linux-dash` `monitoring` `server` `ui` `web`
     A beautiful web dashboard for Linux
 
 *   [AlloyTeam/PhyTouch](https://github.com/AlloyTeam/PhyTouch) ⭐: 2967 ⌨️: JavaScript `css3transform` `motion` `scroll` `scrolling` `touch` `transform` `transformations` `transformjs`
@@ -2064,10 +2064,10 @@
 *   [youzan/vant-weapp](https://github.com/youzan/vant-weapp) ⭐: 17698 ⌨️: JavaScript `miniprogram` `ui` `vant` `weapp` `weixin`
     轻量、可靠的小程序 UI 组件库
 
-*   [typicode/lowdb](https://github.com/typicode/lowdb) ⭐: 21393 ⌨️: JavaScript `database` `electron` `embeddable` `embedded-database` `javascript` `json` `localstorage` `lodash` `nodejs` `storage`
+*   [typicode/lowdb](https://github.com/typicode/lowdb) ⭐: 21392 ⌨️: JavaScript `database` `electron` `embeddable` `embedded-database` `javascript` `json` `localstorage` `lodash` `nodejs` `storage`
     Simple and fast JSON database
 
-*   [willnewii/qiniuClient](https://github.com/willnewii/qiniuClient) ⭐: 1809 ⌨️: JavaScript `electron` `iview` `vue`
+*   [willnewii/qiniuClient](https://github.com/willnewii/qiniuClient) ⭐: 1808 ⌨️: JavaScript `electron` `iview` `vue`
     云存储管理客户端。支持七牛云、腾讯云、青云、阿里云、又拍云、亚马逊S3、京东云，仿文件夹管理、图片预览、拖拽上传、文件夹上传、同步、批量导出URL等功能
 
 *   [LCTT/WeApp-Password](https://github.com/LCTT/WeApp-Password) ⭐: 126 ⌨️: JavaScript
@@ -2103,16 +2103,16 @@
 *   [alsey/wxbarcode](https://github.com/alsey/wxbarcode) ⭐: 486 ⌨️: JavaScript `barcode-generator` `qrcode-generator` `wechat-app`
     微信小程序条码、二维码生成模块
 
-*   [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) ⭐: 16633 ⌨️: JavaScript `email` `email-sender` `nodemailer` `rfc822`
+*   [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) ⭐: 16636 ⌨️: JavaScript `email` `email-sender` `nodemailer` `rfc822`
     ✉️ Send e-mails with Node.JS – easy as cake!
 
-*   [graphql/dataloader](https://github.com/graphql/dataloader) ⭐: 12852 ⌨️: JavaScript `batch` `dataloader` `graphql` `nodejs`
+*   [graphql/dataloader](https://github.com/graphql/dataloader) ⭐: 12854 ⌨️: JavaScript `batch` `dataloader` `graphql` `nodejs`
     DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
 
-*   [ascoders/weekly](https://github.com/ascoders/weekly) ⭐: 28464 ⌨️: JavaScript `awesome` `frontend` `weekly`
+*   [ascoders/weekly](https://github.com/ascoders/weekly) ⭐: 28465 ⌨️: JavaScript `awesome` `frontend` `weekly`
     前端精读周刊。帮你理解最前沿、实用的技术。
 
-*   [iamkun/dayjs](https://github.com/iamkun/dayjs) ⭐: 46762 ⌨️: JavaScript `date` `date-formatting` `datetime` `dayjs` `moment` `time`
+*   [iamkun/dayjs](https://github.com/iamkun/dayjs) ⭐: 46764 ⌨️: JavaScript `date` `date-formatting` `datetime` `dayjs` `moment` `time`
     ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 
 *   [zhengguorong/xbossdebug-wechat](https://github.com/zhengguorong/xbossdebug-wechat) ⭐: 263 ⌨️: JavaScript
@@ -2142,7 +2142,7 @@
 *   [e1399579/autojs](https://github.com/e1399579/autojs) ⭐: 1033 ⌨️: JavaScript `autojs`
     Auto.js脚本：支付宝签到、京东签到
 
-*   [ljianshu/Blog](https://github.com/ljianshu/Blog) ⭐: 7890 ⌨️: JavaScript `ajax` `css` `javascript` `vue`
+*   [ljianshu/Blog](https://github.com/ljianshu/Blog) ⭐: 7889 ⌨️: JavaScript `ajax` `css` `javascript` `vue`
     关注基础知识，打造优质前端博客，公众号\[前端工匠]的作者
 
 *   [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ⭐: 1194 ⌨️: JavaScript `api` `axios` `backend` `hacktoberfest` `interceptor` `nuxt` `nuxt-module` `proxy` `request` `ssr` `token`
@@ -2157,10 +2157,10 @@
 *   [Crunch09/find-reviewers](https://github.com/Crunch09/find-reviewers) ⭐: 8 ⌨️: JavaScript `find-reviewers` `probot` `probot-app` `review-tools`
     Probot app to assign random reviewers!
 
-*   [axios/axios](https://github.com/axios/axios) ⭐: 105334 ⌨️: JavaScript `hacktoberfest` `http-client` `javascript` `nodejs` `promise`
+*   [axios/axios](https://github.com/axios/axios) ⭐: 105342 ⌨️: JavaScript `hacktoberfest` `http-client` `javascript` `nodejs` `promise`
     Promise based HTTP client for the browser and node.js
 
-*   [RickStrahl/AlbumViewerVNext](https://github.com/RickStrahl/AlbumViewerVNext) ⭐: 505 ⌨️: JavaScript `angular` `asp-net-core`
+*   [RickStrahl/AlbumViewerVNext](https://github.com/RickStrahl/AlbumViewerVNext) ⭐: 504 ⌨️: JavaScript `angular` `asp-net-core`
     West Wind Album Viewer ASP.NET Core and Angular Sample
 
 *   [52ABP/YoYoCms.AbpProjectTemplate](https://github.com/52ABP/YoYoCms.AbpProjectTemplate) ⭐: 219 ⌨️: JavaScript `admin-dashboard` `admindashboard` `aspnetboilerplate` `domain-driven-design` `vue-router` `vuex` `yoyocms`
@@ -2178,7 +2178,7 @@
 *   [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) ⭐: 7661 ⌨️: JavaScript
     :thumbsup: Vue.js 源码分析
 
-*   [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) ⭐: 14509 ⌨️: JavaScript `a11y` `accessibility` `accessible` `bootstrap` `bootstrapvue` `component-library` `components` `icons` `nuxt` `nuxtjs` `vue` `wai-aria`
+*   [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) ⭐: 14511 ⌨️: JavaScript `a11y` `accessibility` `accessible` `bootstrap` `bootstrapvue` `component-library` `components` `icons` `nuxt` `nuxtjs` `vue` `wai-aria`
     BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 
 *   [icindy/wxParse](https://github.com/icindy/wxParse) ⭐: 7743 ⌨️: JavaScript `html` `markdown` `weapp` `weixin` `wxparse-html-markdown`
@@ -2193,19 +2193,19 @@
 *   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐: 22178 ⌨️: JavaScript `chinese-programmers` `documentation` `pronunciation` `spelling`
     中国程序员容易发音错误的单词
 
-*   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) ⭐: 4749 ⌨️: JavaScript `commonmark` `lint` `markdown` `nodejs`
+*   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) ⭐: 4751 ⌨️: JavaScript `commonmark` `lint` `markdown` `nodejs`
     A Node.js style checker and lint tool for Markdown/CommonMark files.
 
 *   [raychenfj/vue-uweb](https://github.com/raychenfj/vue-uweb) ⭐: 169 ⌨️: JavaScript `statistics` `vue-plugin` `vuejs`
     vue 友盟统计埋点插件
 
-*   [juliangarnier/anime](https://github.com/juliangarnier/anime) ⭐: 49675 ⌨️: JavaScript `animation` `anime` `canvas` `css` `javascript` `javascript-library` `svg`
+*   [juliangarnier/anime](https://github.com/juliangarnier/anime) ⭐: 49676 ⌨️: JavaScript `animation` `anime` `canvas` `css` `javascript` `javascript-library` `svg`
     JavaScript animation engine
 
 *   [raphaelli/WorkUtils](https://github.com/raphaelli/WorkUtils) ⭐: 2 ⌨️: JavaScript `asp-net` `aspnet-mvc` `dotnet` `layui`
     WorkUtils - Some helpful scripts and plugins for Development work.
 
-*   [vuejs/vue-router](https://github.com/vuejs/vue-router) ⭐: 18990 ⌨️: JavaScript `javascript` `router` `vue`
+*   [vuejs/vue-router](https://github.com/vuejs/vue-router) ⭐: 18991 ⌨️: JavaScript `javascript` `router` `vue`
     🚦 The official router for Vue 2
 
 *   [jjonline/calendar.js](https://github.com/jjonline/calendar.js) ⭐: 971 ⌨️: JavaScript
@@ -2241,7 +2241,7 @@
 *   [duotify/todomvc-vanilla-es6-parcel](https://github.com/duotify/todomvc-vanilla-es6-parcel) ⭐: 2 ⌨️: JavaScript
     A TodoMVC that use VanillaJS (ES6) and Parcel bundler
 
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) ⭐: 48137 ⌨️: JavaScript
+*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) ⭐: 48147 ⌨️: JavaScript
     PDF Reader in JavaScript
 
 *   [Num142857/micro-auto-config](https://github.com/Num142857/micro-auto-config) ⭐: 6 ⌨️: JavaScript `wei-qian-duan`
@@ -2265,7 +2265,7 @@
 *   [xiadd/zhuishushenqi](https://github.com/xiadd/zhuishushenqi) ⭐: 535 ⌨️: JavaScript `babel` `demo` `koa2` `nodejs` `zhuishushenqi`
     追书神器 接口分析包装
 
-*   [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ⭐: 2507 ⌨️: JavaScript `kubernetes` `kubernetes-monitoring` `prometheus`
+*   [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ⭐: 2508 ⌨️: JavaScript `kubernetes` `kubernetes-monitoring` `prometheus`
     Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 
 *   [lin-hun/jane](https://github.com/lin-hun/jane) ⭐: 4 ⌨️: JavaScript
@@ -2277,7 +2277,7 @@
 *   [jianxuanbing/swagger-ui](https://github.com/jianxuanbing/swagger-ui) ⭐: 5 ⌨️: JavaScript
     SwaggerUI 自用修改
 
-*   [YMFE/yapi](https://github.com/YMFE/yapi) ⭐: 27339 ⌨️: JavaScript `api` `api-management` `api-manager` `api-test`
+*   [YMFE/yapi](https://github.com/YMFE/yapi) ⭐: 27340 ⌨️: JavaScript `api` `api-management` `api-manager` `api-test`
     YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 
 *   [bailicangdu/react-pxq](https://github.com/bailicangdu/react-pxq) ⭐: 7515 ⌨️: JavaScript `react`
@@ -2286,7 +2286,7 @@
 *   [geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) ⭐: 3442 ⌨️: JavaScript
     MarkDown在线简历工具，可在线预览、编辑和生成PDF。\[此项目已不再维护，建议使用 cv.ftqq.com 替代 ]
 
-*   [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) ⭐: 28935 ⌨️: JavaScript
+*   [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) ⭐: 28938 ⌨️: JavaScript
     A lightweight JavaScript library for creating particles
 
 *   [codedart2018/vueWechatPlateform](https://github.com/codedart2018/vueWechatPlateform) ⭐: 185 ⌨️: JavaScript `admin` `iview` `manage` `php` `vue` `vue-router` `vueadmin`
@@ -2346,7 +2346,7 @@
 *   [ankurk91/vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) ⭐: 281 ⌨️: JavaScript `cleave` `formatting` `input-mask` `masking` `vue`
     Vue.js component for Cleave.js input mask library :keyboard:
 
-*   [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ⭐: 7375 ⌨️: JavaScript `editor` `editor-plugin` `quil` `quill` `quill-editor` `quill-vue` `quilljs` `text-editor` `vue` `vue-component` `vue-components` `vue-directive` `vue-plugin` `vue-quill-editor` `vue-resource` `vue2` `vuejs` `vuejs2` `web-editor`
+*   [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ⭐: 7377 ⌨️: JavaScript `editor` `editor-plugin` `quil` `quill` `quill-editor` `quill-vue` `quilljs` `text-editor` `vue` `vue-component` `vue-components` `vue-directive` `vue-plugin` `vue-quill-editor` `vue-resource` `vue2` `vuejs` `vuejs2` `web-editor`
     @quilljs editor component for @vuejs(2)
 
 *   [vouill/vue-slideout](https://github.com/vouill/vue-slideout) ⭐: 156 ⌨️: JavaScript
@@ -2381,7 +2381,7 @@
 *   [sobpilot/vuespa](https://github.com/sobpilot/vuespa) ⭐: 72 ⌨️: JavaScript
     A SPA Vuejs Application with Vuejs Router without WebPack or Node.
 
-*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) ⭐: 8276 ⌨️: JavaScript
+*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) ⭐: 8277 ⌨️: JavaScript
     《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 
 *   [huyinghuan/lottery](https://github.com/huyinghuan/lottery) ⭐: 134 ⌨️: JavaScript
@@ -2399,7 +2399,7 @@
 *   [dcloudio/uni-migration](https://github.com/dcloudio/uni-migration) ⭐: 142 ⌨️: JavaScript `quickapp` `weixin-xiaochengxu`
     统一转换器，可实现将小程序项目转换为快应用项目
 
-*   [winstonjs/winston](https://github.com/winstonjs/winston) ⭐: 22697 ⌨️: JavaScript
+*   [winstonjs/winston](https://github.com/winstonjs/winston) ⭐: 22701 ⌨️: JavaScript
     A logger for just about everything.
 
 *   [ethereum/remix](https://github.com/ethereum/remix) ⭐: 1177 ⌨️: JavaScript `blockchain` `ethereum` `evm` `remix` `remix-ide` `smart-contracts` `solidity`
@@ -2408,13 +2408,13 @@
 *   [yuri2peter/win10-ui](https://github.com/yuri2peter/win10-ui) ⭐: 1205 ⌨️: JavaScript
     Win10风格的UI框架。Windows10 style UI framework.
 
-*   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) ⭐: 39964 ⌨️: JavaScript `android` `cross-platform` `crossplatform` `hbuilderx` `ios` `javascript` `miniprogram` `uni` `uni-app` `uniapp` `vue` `vue3`
+*   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) ⭐: 39963 ⌨️: JavaScript `android` `cross-platform` `crossplatform` `hbuilderx` `ios` `javascript` `miniprogram` `uni` `uni-app` `uniapp` `vue` `vue3`
     A cross-platform framework using Vue.js
 
 *   [SenparcCoreFramework/SCF](https://github.com/SenparcCoreFramework/SCF) ⭐: 261 ⌨️: JavaScript `dotnet` `dotnetcore` `framework` `scf` `system`
     SenparcCoreFramework Template Project
 
-*   [greymass/anchor](https://github.com/greymass/anchor) ⭐: 569 ⌨️: JavaScript `authenticator` `eos` `eosio` `eosio-signing-request` `wallet`
+*   [greymass/anchor](https://github.com/greymass/anchor) ⭐: 568 ⌨️: JavaScript `authenticator` `eos` `eosio` `eosio-signing-request` `wallet`
     EOSIO Desktop Wallet and Authenticator
 
 *   [GavinZhuLei/vue-mobile](https://github.com/GavinZhuLei/vue-mobile) ⭐: 37 ⌨️: JavaScript
@@ -2432,7 +2432,7 @@
 *   [cuo9958/node-config](https://github.com/cuo9958/node-config) ⭐: 57 ⌨️: JavaScript `config` `nodejs` `tcp` `website`
     nodejs的配置中心
 
-*   [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐: 24805 ⌨️: JavaScript `ethereum` `evm` `security` `smart-contracts` `solidity`
+*   [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐: 24807 ⌨️: JavaScript `ethereum` `evm` `security` `smart-contracts` `solidity`
     OpenZeppelin Contracts is a library for secure smart contract development.
 
 *   [Ebookcoin/ebookcoin](https://github.com/Ebookcoin/ebookcoin) ⭐: 797 ⌨️: JavaScript `bitcoin` `blockchain` `cryptocurrency` `ebook` `ebookcoin` `nodejs` `p2p`
@@ -2450,13 +2450,13 @@
 *   [AlloyTeam/tslint-config-alloy](https://github.com/AlloyTeam/tslint-config-alloy) ⭐: 205 ⌨️: JavaScript
     AlloyTeam TSLint 规则
 
-*   [Tencent/westore](https://github.com/Tencent/westore) ⭐: 4244 ⌨️: JavaScript `diff` `json-diff` `miniprogram` `model` `mp` `mvc` `mvp` `mvvm` `setdata` `setstate` `state` `state-management` `store` `update` `weapp` `web` `westore`
+*   [Tencent/westore](https://github.com/Tencent/westore) ⭐: 4243 ⌨️: JavaScript `diff` `json-diff` `miniprogram` `model` `mp` `mvc` `mvp` `mvvm` `setdata` `setstate` `state` `state-management` `store` `update` `weapp` `web` `westore`
     小程序项目分层架构
 
-*   [nock/nock](https://github.com/nock/nock) ⭐: 12696 ⌨️: JavaScript `http` `javascript` `mock` `nock` `node`
+*   [nock/nock](https://github.com/nock/nock) ⭐: 12697 ⌨️: JavaScript `http` `javascript` `mock` `nock` `node`
     HTTP server mocking and expectations library for Node.js
 
-*   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) ⭐: 54344 ⌨️: JavaScript
+*   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) ⭐: 54348 ⌨️: JavaScript
     深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 
 *   [michaelliao/cryptocurrency](https://github.com/michaelliao/cryptocurrency) ⭐: 848 ⌨️: JavaScript `bitcoin`
@@ -2480,7 +2480,7 @@
 *   [xiongwilee/SkuSpider](https://github.com/xiongwilee/SkuSpider) ⭐: 120 ⌨️: JavaScript
     基于puppeteer的电商商品数据爬虫工具
 
-*   [doramart/DoraCMS](https://github.com/doramart/DoraCMS) ⭐: 3464 ⌨️: JavaScript `cms` `doracms` `eggjs` `element-ui` `mit-license` `mongodb` `nodejs` `ssr` `vue` `vuejs`
+*   [doramart/DoraCMS](https://github.com/doramart/DoraCMS) ⭐: 3465 ⌨️: JavaScript `cms` `doracms` `eggjs` `element-ui` `mit-license` `mongodb` `nodejs` `ssr` `vue` `vuejs`
     DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
 
 *   [xiaolin3303/wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐: 4917 ⌨️: JavaScript `canvas` `charts` `mini-program` `wechat`
@@ -2501,7 +2501,7 @@
 *   [BestHYC/VueAuthorize](https://github.com/BestHYC/VueAuthorize) ⭐: 2 ⌨️: JavaScript
     根据前端Vue框架,实现菜单权限及按钮权限的配置功能.把本地数据上传至服务器端,然后从服务器端获得权限
 
-*   [yarnpkg/yarn](https://github.com/yarnpkg/yarn) ⭐: 41404 ⌨️: JavaScript `javascript` `npm` `package-manager` `yarn`
+*   [yarnpkg/yarn](https://github.com/yarnpkg/yarn) ⭐: 41405 ⌨️: JavaScript `javascript` `npm` `package-manager` `yarn`
     The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 
 *   [wuchangming/web-storage-cache](https://github.com/wuchangming/web-storage-cache) ⭐: 655 ⌨️: JavaScript `expiration` `localstorage` `sessionstorage`
@@ -2537,7 +2537,7 @@
 *   [ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) ⭐: 7067 ⌨️: JavaScript `chart` `echarts` `visualization` `weixin`
     基于 Apache ECharts 的微信小程序图表库
 
-*   [adam-p/markdown-here](https://github.com/adam-p/markdown-here) ⭐: 59640 ⌨️: JavaScript
+*   [adam-p/markdown-here](https://github.com/adam-p/markdown-here) ⭐: 59641 ⌨️: JavaScript
     Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
 *   [cskefu/cskefu](https://github.com/cskefu/cskefu) ⭐: 2699 ⌨️: JavaScript `chatbot` `contact-center` `customer-support` `java` `multi-channel` `omni-channel` `osgi` `springboot`
@@ -2561,7 +2561,7 @@
 *   [xcatliu/awesome-json2json](https://github.com/xcatliu/awesome-json2json) ⭐: 67 ⌨️: JavaScript
     An awesome json to json data mapper
 
-*   [hotoo/pinyin](https://github.com/hotoo/pinyin) ⭐: 7472 ⌨️: JavaScript `chinese` `hanzi` `pinyin` `zhongwen`
+*   [hotoo/pinyin](https://github.com/hotoo/pinyin) ⭐: 7473 ⌨️: JavaScript `chinese` `hanzi` `pinyin` `zhongwen`
     :cn: 汉字拼音 ➜ hàn zì pīn yīn
 
 *   [reactjs/react-tutorial](https://github.com/reactjs/react-tutorial) ⭐: 3290 ⌨️: JavaScript
@@ -2576,7 +2576,7 @@
 *   [nashaofu/dingtalk](https://github.com/nashaofu/dingtalk) ⭐: 2836 ⌨️: JavaScript `dingtalk` `electron` `linux` `macos` `windows`
     钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
 
-*   [codemirror/dev](https://github.com/codemirror/dev) ⭐: 5752 ⌨️: JavaScript
+*   [codemirror/dev](https://github.com/codemirror/dev) ⭐: 5755 ⌨️: JavaScript
     Development repository for the CodeMirror editor project
 
 *   [easy-team/easywebpack-cli](https://github.com/easy-team/easywebpack-cli) ⭐: 122 ⌨️: JavaScript `cli` `easywebpack-cli` `easywebpack-server` `react` `react-boilerplate` `react-ssr` `server-side-react` `server-side-rendering` `server-side-vue` `vue` `vue-boilerplate` `vue-ssr` `webpack` `webpack-cli` `weex` `weex-building` `weex-native` `weex-vue` `weex-web`
@@ -2651,7 +2651,7 @@
 *   [hailang2ll/DMSFrame](https://github.com/hailang2ll/DMSFrame) ⭐: 6 ⌨️: JavaScript
     自研的一种ORM框架，DMS框架是采用LINQ的写法的一种数据库访问框架，此框架到目前为止运用的8年，都在各大的项目、各大公司运用过，非常的稳定；写法也是非常简单，只要SQL支持的DMS基本都支持，同时支持分库分表操作，支持mysql与mssql数据库，目前只支持.netfx
 
-*   [amfe/lib-flexible](https://github.com/amfe/lib-flexible) ⭐: 12518 ⌨️: JavaScript
+*   [amfe/lib-flexible](https://github.com/amfe/lib-flexible) ⭐: 12516 ⌨️: JavaScript
     可伸缩布局方案
 
 *   [spatie/form-backend-validation](https://github.com/spatie/form-backend-validation) ⭐: 794 ⌨️: JavaScript `form` `javascript` `validation` `vue`
@@ -2708,7 +2708,7 @@
 *   [trufflesuite/ganache-cli-archive](https://github.com/trufflesuite/ganache-cli-archive) ⭐: 3360 ⌨️: JavaScript
     Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache for current development.
 
-*   [framework7io/framework7](https://github.com/framework7io/framework7) ⭐: 18075 ⌨️: JavaScript `android` `components` `cordova` `framework` `ios` `library` `material` `material-design` `mobile` `phonegap` `touch`
+*   [framework7io/framework7](https://github.com/framework7io/framework7) ⭐: 18077 ⌨️: JavaScript `android` `components` `cordova` `framework` `ios` `library` `material` `material-design` `mobile` `phonegap` `touch`
     Full featured HTML framework for building iOS & Android apps
 
 *   [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect) ⭐: 6686 ⌨️: JavaScript `component` `dropdown` `javascript` `select` `vue`
@@ -2741,7 +2741,7 @@
 *   [xuexb/github-bot](https://github.com/xuexb/github-bot) ⭐: 504 ⌨️: JavaScript `bot` `github` `issues` `pr` `pull-requests` `release-notes` `robot`
     GitHub 自动处理 issue、PR、releases 机器人
 
-*   [otale/tale](https://github.com/otale/tale) ⭐: 4865 ⌨️: JavaScript `blade` `blog` `java-blog` `java8` `sqlite3` `tale`
+*   [otale/tale](https://github.com/otale/tale) ⭐: 4866 ⌨️: JavaScript `blade` `blog` `java-blog` `java8` `sqlite3` `tale`
     🦄 Best beautiful java blog, worth a try
 
 *   [tolerance-go/weappx](https://github.com/tolerance-go/weappx) ⭐: 144 ⌨️: JavaScript `immer` `redux` `redux-actions` `weapp` `wepy`
@@ -2759,7 +2759,7 @@
 *   [gxvv/ex-baiduyunpan](https://github.com/gxvv/ex-baiduyunpan) ⭐: 1938 ⌨️: JavaScript
     百度云盘、百度云盘企业版解除大文件限制，批量复制链接
 
-*   [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp) ⭐: 5007 ⌨️: JavaScript `bem-css` `mini-program` `miniprogram` `ui-design` `weapp` `weapp-demo` `wechat-weapp` `weixin` `wux` `wux-weapp` `wuxui` `wx-component` `wxapp`
+*   [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp) ⭐: 5008 ⌨️: JavaScript `bem-css` `mini-program` `miniprogram` `ui-design` `weapp` `weapp-demo` `wechat-weapp` `weixin` `wux` `wux-weapp` `wuxui` `wx-component` `wxapp`
     :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 
 *   [notadd/neditor](https://github.com/notadd/neditor) ⭐: 1907 ⌨️: JavaScript `editor` `neditor` `notadd` `ueditor`
@@ -2768,7 +2768,7 @@
 *   [cyq1162/Aries](https://github.com/cyq1162/Aries) ⭐: 500 ⌨️: JavaScript
     .NET Develop Framework（适合场景：业务系统、信息系统、管理系统、ERP，含工作流，支持.NET Core）
 
-*   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) ⭐: 29747 ⌨️: JavaScript
+*   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) ⭐: 29748 ⌨️: JavaScript
     🛠️ webpack-based tooling for Vue.js Development
 
 *   [DOClever/DOClever](https://github.com/DOClever/DOClever) ⭐: 2908 ⌨️: JavaScript `api` `element` `element-ui` `express` `javascript` `mongodb` `nodejs` `vue` `web` `webpack`
@@ -2801,10 +2801,10 @@
 *   [nilproject/NiL.JS](https://github.com/nilproject/NiL.JS) ⭐: 331 ⌨️: JavaScript `dotnet` `engine` `javascript` `js` `nil` `nuget` `parsing` `script`
     JavaScript engine for .NET written in C#.
 
-*   [statsd/statsd](https://github.com/statsd/statsd) ⭐: 17626 ⌨️: JavaScript `graphite` `javascript` `metrics` `nodejs` `statsd`
+*   [statsd/statsd](https://github.com/statsd/statsd) ⭐: 17627 ⌨️: JavaScript `graphite` `javascript` `metrics` `nodejs` `statsd`
     Daemon for easy but powerful stats aggregation
 
-*   [RisingStack/react-easy-state](https://github.com/RisingStack/react-easy-state) ⭐: 2561 ⌨️: JavaScript `es6-proxies` `javascript` `react` `react-state` `reactive-programming` `reactjs` `state` `state-management`
+*   [RisingStack/react-easy-state](https://github.com/RisingStack/react-easy-state) ⭐: 2560 ⌨️: JavaScript `es6-proxies` `javascript` `react` `react-state` `reactive-programming` `reactjs` `state` `state-management`
     Simple React state management. Made with ❤️ and ES6 Proxies.
 
 *   [Edditoria/markdown-plus-plus](https://github.com/Edditoria/markdown-plus-plus) ⭐: 1491 ⌨️: JavaScript `hacktoberfest` `markdown` `notepad-plus-plus` `notepadplusplus` `syntax-highlighting` `udl`
@@ -2816,10 +2816,10 @@
 *   [paed01/bpmn-engine](https://github.com/paed01/bpmn-engine) ⭐: 884 ⌨️: JavaScript `bpmn` `bpmn-engine` `javascript` `nodejs` `open-source` `workflow`
     BPMN 2.0 execution engine. Open source javascript workflow engine.
 
-*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ⭐: 73545 ⌨️: JavaScript `css` `font` `fontawesome` `icons` `svg-icons` `svg-sprites` `webfont`
+*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ⭐: 73549 ⌨️: JavaScript `css` `font` `fontawesome` `icons` `svg-icons` `svg-sprites` `webfont`
     The iconic SVG, font, and CSS toolkit
 
-*   [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) ⭐: 19505 ⌨️: JavaScript
+*   [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) ⭐: 19507 ⌨️: JavaScript
     微信小程序商城，微信小程序微店
 
 *   [RIPm/dbDesigner](https://github.com/RIPm/dbDesigner) ⭐: 4 ⌨️: JavaScript
@@ -2867,7 +2867,7 @@
 *   [airyland/china-area-data](https://github.com/airyland/china-area-data) ⭐: 1893 ⌨️: JavaScript
     中国省市区数据
 
-*   [nuysoft/Mock](https://github.com/nuysoft/Mock) ⭐: 19503 ⌨️: JavaScript
+*   [nuysoft/Mock](https://github.com/nuysoft/Mock) ⭐: 19504 ⌨️: JavaScript
     A simulation data generator
 
 *   [JacksonTian/fks](https://github.com/JacksonTian/fks) ⭐: 17918 ⌨️: JavaScript
@@ -2925,7 +2925,7 @@
 *   [skyvow/m-mall](https://github.com/skyvow/m-mall) ⭐: 1546 ⌨️: JavaScript `promise-api` `promise-wx` `wxapp` `wxss`
     :dog: 微信小程序-小商城前台（基于 WeUI.wxss、ES6 前端技术开发...）
 
-*   [layui/layui](https://github.com/layui/layui) ⭐: 29516 ⌨️: JavaScript `component-library` `css` `html` `javascript` `layui` `ui-kit` `ui-library`
+*   [layui/layui](https://github.com/layui/layui) ⭐: 29515 ⌨️: JavaScript `component-library` `css` `html` `javascript` `layui` `ui-kit` `ui-library`
     一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 
 *   [horsecms/layuiCMS](https://github.com/horsecms/layuiCMS) ⭐: 680 ⌨️: JavaScript
@@ -2949,7 +2949,7 @@
 *   [microsoft/TypeScript-Vue-Starter](https://github.com/microsoft/TypeScript-Vue-Starter) ⭐: 4447 ⌨️: JavaScript
     A starter template for TypeScript and Vue with a detailed README describing how to use the two together.
 
-*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) ⭐: 121357 ⌨️: JavaScript `astro` `awesome-list` `css` `education` `es6-javascript` `git` `github-actions` `html` `javascript` `learn-to-code` `learning-resources` `netlify` `nodejs` `programming` `python` `reactjs` `snippets` `snippets-collection` `website-infrastructure`
+*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) ⭐: 121367 ⌨️: JavaScript `astro` `awesome-list` `css` `education` `es6-javascript` `git` `github-actions` `html` `javascript` `learn-to-code` `learning-resources` `netlify` `nodejs` `programming` `python` `reactjs` `snippets` `snippets-collection` `website-infrastructure`
     Short code snippets for all your development needs
 
 *   [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) ⭐: 18394 ⌨️: JavaScript
@@ -2970,7 +2970,7 @@
 *   [we-plugin/wepy-com-swiper](https://github.com/we-plugin/wepy-com-swiper) ⭐: 77 ⌨️: JavaScript
     :sparkles: 微信小程序触摸内容滑动解决方案，适用于wepy框架
 
-*   [Tencent/wepy](https://github.com/Tencent/wepy) ⭐: 22506 ⌨️: JavaScript `weapp` `wepy`
+*   [Tencent/wepy](https://github.com/Tencent/wepy) ⭐: 22507 ⌨️: JavaScript `weapp` `wepy`
     小程序组件化开发框架
 
 *   [dunitian/LoTCodeBase](https://github.com/dunitian/LoTCodeBase) ⭐: 65 ⌨️: JavaScript
@@ -2979,10 +2979,10 @@
 *   [eshengsky/lajax](https://github.com/eshengsky/lajax) ⭐: 200 ⌨️: JavaScript `ajax` `log` `logger`
     🚀 lajax - 前端日志解决方案。
 
-*   [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) ⭐: 43401 ⌨️: JavaScript `assets` `build-tool` `commonjs` `compiler` `css` `es6` `html` `javascript` `module-bundler` `modules` `web`
+*   [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) ⭐: 43405 ⌨️: JavaScript `assets` `build-tool` `commonjs` `compiler` `css` `es6` `html` `javascript` `module-bundler` `modules` `web`
     The zero configuration build tool for the web. 📦🚀
 
-*   [airbnb/javascript](https://github.com/airbnb/javascript) ⭐: 144774 ⌨️: JavaScript `arrow-functions` `es2015` `es2016` `es2017` `es2018` `es6` `eslint` `javascript` `linting` `naming-conventions` `style-guide` `style-linter` `styleguide` `tc39`
+*   [airbnb/javascript](https://github.com/airbnb/javascript) ⭐: 144789 ⌨️: JavaScript `arrow-functions` `es2015` `es2016` `es2017` `es2018` `es6` `eslint` `javascript` `linting` `naming-conventions` `style-guide` `style-linter` `styleguide` `tc39`
     JavaScript Style Guide
 
 *   [r0r1/vuejs-AdminLTE](https://github.com/r0r1/vuejs-AdminLTE) ⭐: 308 ⌨️: JavaScript `admin-dashboard` `admin-template` `adminlte` `vuejs` `vuejs-adminlte`
@@ -3005,7 +3005,7 @@
 
 *   [sosoapi/swagger-ui-ext](https://github.com/sosoapi/swagger-ui-ext) ⭐: 33 ⌨️: JavaScript
 
-*   [siteserver/cms](https://github.com/siteserver/cms) ⭐: 3683 ⌨️: JavaScript `c-sharp` `cms` `content-management-system` `dot-net` `siteserver` `siteserver-cms` `ss-cms` `sscms`
+*   [siteserver/cms](https://github.com/siteserver/cms) ⭐: 3684 ⌨️: JavaScript `c-sharp` `cms` `content-management-system` `dot-net` `siteserver` `siteserver-cms` `ss-cms` `sscms`
     SS CMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。
 
 *   [hechenqingyuan/gitwms](https://github.com/hechenqingyuan/gitwms) ⭐: 1002 ⌨️: JavaScript
@@ -3056,7 +3056,7 @@
 *   [ElemeFE/v-charts](https://github.com/ElemeFE/v-charts) ⭐: 6800 ⌨️: JavaScript `echarts` `vue`
     基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 
-*   [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) ⭐: 26387 ⌨️: JavaScript `hacktoberfest` `oas` `open-source` `openapi` `openapi-specification` `openapi3` `openapi31` `rest` `rest-api` `swagger` `swagger-api` `swagger-js` `swagger-oss` `swagger-ui`
+*   [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) ⭐: 26389 ⌨️: JavaScript `hacktoberfest` `oas` `open-source` `openapi` `openapi-specification` `openapi3` `openapi31` `rest` `rest-api` `swagger` `swagger-api` `swagger-js` `swagger-oss` `swagger-ui`
     Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 
 *   [GEngine-JP/GEngineProtocol](https://github.com/GEngine-JP/GEngineProtocol) ⭐: 11 ⌨️: JavaScript `csharp` `java` `protobuf` `protocol`
@@ -3067,16 +3067,16 @@
 *   [pyenv-win/pyenv-win-venv](https://github.com/pyenv-win/pyenv-win-venv) ⭐: 85 ⌨️: PowerShell
     A CLI to manage virtual envs with pyenv-win
 
-*   [FelixSelter/JEnv-for-Windows](https://github.com/FelixSelter/JEnv-for-Windows) ⭐: 648 ⌨️: PowerShell
+*   [FelixSelter/JEnv-for-Windows](https://github.com/FelixSelter/JEnv-for-Windows) ⭐: 650 ⌨️: PowerShell
     Change your current Java version with one line
 
 *   [jenkinsci/docker-inbound-agent](https://github.com/jenkinsci/docker-inbound-agent) ⭐: 475 ⌨️: PowerShell `agent` `docker` `docker-image` `hacktoberfest` `jenkins` `jnlp` `remoting`
     \[Deprecated & ingrated in docker-agent] Docker image for a Jenkins agent which can connect to Jenkins using TCP or Websocket protocols
 
-*   [k8gege/Ladon](https://github.com/k8gege/Ladon) ⭐: 4824 ⌨️: PowerShell `brute-force` `exp` `exploit` `getshell` `hack` `hacking` `ipscanner` `ladon` `netscan` `password` `pentest` `poc` `portscan` `scanner` `security` `security-scanner` `security-tools` `tools`
+*   [k8gege/Ladon](https://github.com/k8gege/Ladon) ⭐: 4825 ⌨️: PowerShell `brute-force` `exp` `exploit` `getshell` `hack` `hacking` `ipscanner` `ladon` `netscan` `password` `pentest` `poc` `portscan` `scanner` `security` `security-scanner` `security-tools` `tools`
     Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。Ladon 12.2内置262个功能,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等信息，高危漏洞检测16个含MS17010、Zimbra、Exchange
 
-*   [jenkinsci/docker](https://github.com/jenkinsci/docker) ⭐: 6645 ⌨️: PowerShell `docker` `hacktoberfest` `jenkins`
+*   [jenkinsci/docker](https://github.com/jenkinsci/docker) ⭐: 6650 ⌨️: PowerShell `docker` `hacktoberfest` `jenkins`
     Docker official jenkins repo
 
 *   [richardschoen/RSPowerShellSamples](https://github.com/richardschoen/RSPowerShellSamples) ⭐: 4 ⌨️: PowerShell
@@ -3088,7 +3088,7 @@
 *   [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) ⭐: 4953 ⌨️: PowerShell `china` `docker` `helm` `istio` `k8s` `kubernetes` `mac` `windows`
     为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 
-*   [dotnet/core](https://github.com/dotnet/core) ⭐: 20895 ⌨️: PowerShell `dotnet` `dotnet-core`
+*   [dotnet/core](https://github.com/dotnet/core) ⭐: 20896 ⌨️: PowerShell `dotnet` `dotnet-core`
     .NET news, announcements, release notes, and more!
 
 *   [MicrosoftDocs/sql-docs](https://github.com/MicrosoftDocs/sql-docs) ⭐: 1132 ⌨️: PowerShell `ms-x-content` `skilling`
@@ -3108,16 +3108,16 @@
 
 ## TypeScript
 
-*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) ⭐: 9785 ⌨️: TypeScript `admin` `admin-template` `elegant` `naive-ui` `naive-ui-admin` `pinia` `typescript` `unocss` `vite5` `vue` `vue-admin` `vue3`
+*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) ⭐: 9786 ⌨️: TypeScript `admin` `admin-template` `elegant` `naive-ui` `naive-ui-admin` `pinia` `typescript` `unocss` `vite5` `vue` `vue-admin` `vue3`
     A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
-*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) ⭐: 4669 ⌨️: TypeScript `mysql` `nestjs` `rss` `rsshub` `sqlite` `trpc` `wechat` `wechat-rss` `weread`
+*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) ⭐: 4676 ⌨️: TypeScript `mysql` `nestjs` `rss` `rsshub` `sqlite` `trpc` `wechat` `wechat-rss` `weread`
     🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 
-*   [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐: 15977 ⌨️: TypeScript `crm` `crm-system` `customer` `good-first-issue` `graphql` `hacktoberfest` `hacktoberfest2024` `javacript` `marketing` `monorepo` `nestjs` `open-source` `postgresql` `react` `reactjs` `sales` `typescript` `web`
+*   [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐: 15994 ⌨️: TypeScript `crm` `crm-system` `customer` `good-first-issue` `graphql` `hacktoberfest` `hacktoberfest2024` `javacript` `marketing` `monorepo` `nestjs` `open-source` `postgresql` `react` `reactjs` `sales` `typescript` `web`
     Building a modern alternative to Salesforce, powered by the community.
 
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐: 34109 ⌨️: TypeScript `clash` `clash-meta` `clash-verge` `linux` `mac` `mihomo` `tauri-app` `windows`
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐: 34168 ⌨️: TypeScript `clash` `clash-meta` `clash-verge` `linux` `mac` `mihomo` `tauri-app` `windows`
     Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 
 *   [RedJue/git-commit-plugin](https://github.com/RedJue/git-commit-plugin) ⭐: 189 ⌨️: TypeScript `commit` `git` `hacktoberfest` `specification` `vscode-extension`
@@ -3129,19 +3129,19 @@
 *   [Nikaple/assets-retry](https://github.com/Nikaple/assets-retry) ⭐: 301 ⌨️: TypeScript `assets-ensure` `assets-retry` `cdn-ensure` `cdn-failover` `cdn-retry` `css-retry` `ensure-bundle` `fallback` `js-ensure` `js-failover` `js-retry`
     :repeat: Non-intrusive assets retry implementation. 无侵入式的静态资源自动重试
 
-*   [apache/superset](https://github.com/apache/superset) ⭐: 62030 ⌨️: TypeScript `analytics` `apache` `apache-superset` `asf` `bi` `business-analytics` `business-intelligence` `data-analysis` `data-analytics` `data-engineering` `data-science` `data-visualization` `data-viz` `flask` `python` `react` `sql-editor` `superset`
+*   [apache/superset](https://github.com/apache/superset) ⭐: 62040 ⌨️: TypeScript `analytics` `apache` `apache-superset` `asf` `bi` `business-analytics` `business-intelligence` `data-analysis` `data-analytics` `data-engineering` `data-science` `data-visualization` `data-viz` `flask` `python` `react` `sql-editor` `superset`
     Apache Superset is a Data Visualization and Data Exploration Platform
 
-*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) ⭐: 31441 ⌨️: TypeScript `chatbot` `chatchat` `chatglm` `chatgpt` `embedding` `faiss` `fastchat` `gpt` `knowledge-base` `langchain` `langchain-chatglm` `llama` `llm` `milvus` `ollama` `qwen` `rag` `retrieval-augmented-generation` `streamlit` `xinference`
+*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) ⭐: 31440 ⌨️: TypeScript `chatbot` `chatchat` `chatglm` `chatgpt` `embedding` `faiss` `fastchat` `gpt` `knowledge-base` `langchain` `langchain-chatglm` `llama` `llm` `milvus` `ollama` `qwen` `rag` `retrieval-augmented-generation` `streamlit` `xinference`
     Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
 
-*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) ⭐: 21156 ⌨️: TypeScript `clash` `cross-platform` `react` `rust` `tauri`
+*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) ⭐: 21160 ⌨️: TypeScript `clash` `cross-platform` `react` `rust` `tauri`
     A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 
-*   [ikaros-dev/ikaros](https://github.com/ikaros-dev/ikaros) ⭐: 565 ⌨️: TypeScript `acgmn` `acgn` `bangumi` `cms` `ikaros` `java` `music`
+*   [ikaros-dev/ikaros](https://github.com/ikaros-dev/ikaros) ⭐: 566 ⌨️: TypeScript `acgmn` `acgn` `bangumi` `cms` `ikaros` `java` `music`
     Dedicated to ACGMN's Content Management System (CMS). | 专注于ACGMN的内容管理系统(CMS)。
 
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐: 64128 ⌨️: TypeScript `api` `api-client` `api-rest` `api-testing` `developer-tools` `graphql` `hacktoberfest` `http` `http-client` `pwa` `rest` `rest-api` `spa` `testing` `testing-tools` `tools` `vue` `vuejs` `websocket`
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐: 64147 ⌨️: TypeScript `api` `api-client` `api-rest` `api-testing` `developer-tools` `graphql` `hacktoberfest` `http` `http-client` `pwa` `rest` `rest-api` `spa` `testing` `testing-tools` `tools` `vue` `vuejs` `websocket`
     Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 *   [vastxie/Happy-ChatGPT](https://github.com/vastxie/Happy-ChatGPT) ⭐: 826 ⌨️: TypeScript
@@ -3150,13 +3150,13 @@
 *   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) ⭐: 7864 ⌨️: TypeScript `cross-platform` `desktop-app` `electron` `javascript` `macos` `toolkit` `utools` `windows`
     🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 
-*   [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) ⭐: 3118 ⌨️: TypeScript `computer-vision` `deep-learning` `detection` `image-annotation` `labeling-photos` `labeling-tool` `landmark-detection` `object-detection` `pascal-voc` `posenet-model` `ssd-model` `tagging`
+*   [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) ⭐: 3123 ⌨️: TypeScript `computer-vision` `deep-learning` `detection` `image-annotation` `labeling-photos` `labeling-tool` `landmark-detection` `object-detection` `pascal-voc` `posenet-model` `ssd-model` `tagging`
     Free to use online tool for labelling photos. https://makesense.ai
 
-*   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) ⭐: 29705 ⌨️: TypeScript `browser` `editor` `framework` `javascript` `react` `rich-text` `slate` `text-editor`
+*   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) ⭐: 29708 ⌨️: TypeScript `browser` `editor` `framework` `javascript` `react` `rich-text` `slate` `text-editor`
     A completely customizable framework for building rich text editors. (Currently in beta.)
 
-*   [jeffvli/sonixd](https://github.com/jeffvli/sonixd) ⭐: 1848 ⌨️: TypeScript `airsonic` `jellyfin` `music-player` `navidrome` `self-hosted` `subsonic` `subsonic-client`
+*   [jeffvli/sonixd](https://github.com/jeffvli/sonixd) ⭐: 1849 ⌨️: TypeScript `airsonic` `jellyfin` `music-player` `navidrome` `self-hosted` `subsonic` `subsonic-client`
     A full-featured Subsonic/Jellyfin compatible desktop music player
 
 *   [ligreman/king](https://github.com/ligreman/king) ⭐: 151 ⌨️: TypeScript `kong` `kong-api-gateway` `ui`
@@ -3168,7 +3168,7 @@
 *   [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) ⭐: 2952 ⌨️: TypeScript `fund` `leek-fund` `stock` `typescript` `vscode`
     :chart\_with\_upwards\_trend:  韭菜盒子——VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件 🐥
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) ⭐: 35340 ⌨️: TypeScript `board` `canvas` `diagram` `drawing` `infinite` `react` `sketch` `svg` `whiteboard`
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) ⭐: 35346 ⌨️: TypeScript `board` `canvas` `diagram` `drawing` `infinite` `react` `sketch` `svg` `whiteboard`
     SDK for creating whiteboards and canvas experiences on the web.
 
 *   [util-core/util-angular](https://github.com/util-core/util-angular) ⭐: 5 ⌨️: TypeScript
@@ -3186,25 +3186,25 @@
 *   [maximegris/angular-electron](https://github.com/maximegris/angular-electron) ⭐: 5649 ⌨️: TypeScript `angular` `angular-routing` `desktop-app` `electron` `hot-reload` `native-libraries` `sass` `typescript` `webpack`
     Ultra-fast bootstrapping with Angular and Electron :speedboat:
 
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) ⭐: 18820 ⌨️: TypeScript `anki` `chatgpt` `electron` `evernote` `knowledge-base` `local-first` `markdown` `note-taking` `notebook` `notes-app` `notion` `obsidian` `ocr` `openai` `pdf` `pkm` `s3` `self-hosted` `webdav`
+*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) ⭐: 18867 ⌨️: TypeScript `anki` `chatgpt` `electron` `evernote` `knowledge-base` `local-first` `markdown` `note-taking` `notebook` `notes-app` `notion` `obsidian` `ocr` `openai` `pdf` `pkm` `s3` `self-hosted` `webdav`
     A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
-*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) ⭐: 3601 ⌨️: TypeScript `android` `android-app` `bangumi` `design` `expo` `ios` `ios-app` `mobx` `moe` `react` `react-native`
+*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) ⭐: 3607 ⌨️: TypeScript `android` `android-app` `bangumi` `design` `expo` `ios` `ios-app` `mobx` `moe` `react` `react-native`
     :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
 
 *   [xjq7/emoj-mini](https://github.com/xjq7/emoj-mini) ⭐: 10 ⌨️: TypeScript `emoji` `javascript` `miniprogram` `scss` `taro` `typescript`
     小夏的表情包：基于Taro3、Typescript开发的 一款 表情包 微信小程序
 
-*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) ⭐: 7526 ⌨️: TypeScript `electron` `linux` `macos` `react` `rss` `rss-reader` `typescript` `windows`
+*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) ⭐: 7532 ⌨️: TypeScript `electron` `linux` `macos` `react` `rss` `rss-reader` `typescript` `windows`
     Modern desktop RSS reader built with Electron, React, and Fluent UI
 
-*   [cars10/elasticvue](https://github.com/cars10/elasticvue) ⭐: 1788 ⌨️: TypeScript `elasticsearch` `elasticsearch-browser` `elasticsearch-frontend` `elasticsearch-gui`
+*   [cars10/elasticvue](https://github.com/cars10/elasticvue) ⭐: 1789 ⌨️: TypeScript `elasticsearch` `elasticsearch-browser` `elasticsearch-frontend` `elasticsearch-gui`
     Elasticsearch gui for the browser
 
 *   [fast-crud/fast-crud](https://github.com/fast-crud/fast-crud) ⭐: 891 ⌨️: TypeScript `admin` `admin-template` `ant-design` `antdv` `crud` `d2-crud-plus` `element-plus` `fs-admin` `native-ui` `super-table` `vite` `vue` `vue3`
     面向配置的crud框架，开发crud 快如闪电，超级表格；Options-oriented crud framework,  develop crud as fast as lightning；based on vue3；super table
 
-*   [certd/certd](https://github.com/certd/certd) ⭐: 1471 ⌨️: TypeScript `acme` `auto` `automation` `cert` `certbot` `letencrypt` `ssl` `ssl-certificate`
+*   [certd/certd](https://github.com/certd/certd) ⭐: 1476 ⌨️: TypeScript `acme` `auto` `automation` `cert` `certbot` `letencrypt` `ssl` `ssl-certificate`
     免费通配符泛域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 
 *   [mrahhal/mr-scroll](https://github.com/mrahhal/mr-scroll) ⭐: 16 ⌨️: TypeScript
@@ -3222,13 +3222,13 @@
 *   [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) ⭐: 3106 ⌨️: TypeScript `editor` `element-ui` `low-code` `lowcode` `site-generator` `sparrow` `sparrow-js` `sparrowjs` `vue` `vue-admin` `vue-builder`
     🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
 
-*   [x-extends/vxe-table](https://github.com/x-extends/vxe-table) ⭐: 7540 ⌨️: TypeScript `cell` `checkbox` `editable` `form` `grid` `input` `modal` `pager` `radio` `select` `switch` `table` `toolbar` `vue` `vue-table` `vxe-grid` `vxe-table` `vxe-ui`
+*   [x-extends/vxe-table](https://github.com/x-extends/vxe-table) ⭐: 7541 ⌨️: TypeScript `cell` `checkbox` `editable` `form` `grid` `input` `modal` `pager` `radio` `select` `switch` `table` `toolbar` `vue` `vue-table` `vxe-grid` `vxe-table` `vxe-ui`
     Vxe table 的表格组件
 
-*   [vuejs/language-tools](https://github.com/vuejs/language-tools) ⭐: 5787 ⌨️: TypeScript
+*   [vuejs/language-tools](https://github.com/vuejs/language-tools) ⭐: 5789 ⌨️: TypeScript
     ⚡ High-performance Vue language tooling based-on Volar.js
 
-*   [ant-design/ant-design](https://github.com/ant-design/ant-design) ⭐: 92008 ⌨️: TypeScript `ant-design` `antd` `design-systems` `react` `typescript` `ui-kit` `ui-library`
+*   [ant-design/ant-design](https://github.com/ant-design/ant-design) ⭐: 92011 ⌨️: TypeScript `ant-design` `antd` `design-systems` `react` `typescript` `ui-kit` `ui-library`
     An enterprise-class UI design language and React UI library
 
 *   [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) ⭐: 4237 ⌨️: TypeScript `golang` `gqlgen` `graphql` `kanban-board` `project-management` `react` `typescript`
@@ -3240,16 +3240,16 @@
 *   [baidu/amis](https://github.com/baidu/amis) ⭐: 17180 ⌨️: TypeScript `admin` `frontend` `frontend-framework` `json` `low-code` `low-code-development-platform` `lowcode` `no-code`
     前端低代码框架，通过 JSON 配置就能生成各种页面。
 
-*   [umijs/qiankun](https://github.com/umijs/qiankun) ⭐: 15762 ⌨️: TypeScript `framework` `javascript` `micro-frontend` `micro-frontends` `microfrontend` `microfrontends` `microservices`
+*   [umijs/qiankun](https://github.com/umijs/qiankun) ⭐: 15763 ⌨️: TypeScript `framework` `javascript` `micro-frontend` `micro-frontends` `microfrontend` `microfrontends` `microservices`
     📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 
-*   [ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly) ⭐: 2791 ⌨️: TypeScript `angular` `bootstrap` `dynamic-forms` `formly` `forms` `ionic` `json-forms` `json-schema` `kendo-ui` `material` `nativescript` `ng-zorro` `ng-zorro-antd` `primeng` `schematics`
+*   [ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly) ⭐: 2792 ⌨️: TypeScript `angular` `bootstrap` `dynamic-forms` `formly` `forms` `ionic` `json-forms` `json-schema` `kendo-ui` `material` `nativescript` `ng-zorro` `ng-zorro-antd` `primeng` `schematics`
     📝 JSON powered / Dynamic forms for Angular
 
 *   [brick-design/brick-design](https://github.com/brick-design/brick-design) ⭐: 5085 ⌨️: TypeScript `drag-and-drop` `h5-editor` `html-builder` `low-code` `lowcode` `no-code` `nocode` `page-builder` `page-editor` `react` `site-builder` `site-generator` `typescript` `web-builder` `web-design` `web-editor`
     低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 
-*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) ⭐: 9091 ⌨️: TypeScript `diagram` `drawio` `hacktoberfest` `vscode-extension`
+*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) ⭐: 9092 ⌨️: TypeScript `diagram` `drawio` `hacktoberfest` `vscode-extension`
     This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 
 *   [worktile/ngx-planet](https://github.com/worktile/ngx-planet) ⭐: 538 ⌨️: TypeScript `angular` `micro` `microfront` `microfrontends` `microfrontends-demo` `ngx-planet` `portal`
@@ -3264,22 +3264,22 @@
 *   [lusess123/web-pdm](https://github.com/lusess123/web-pdm) ⭐: 215 ⌨️: TypeScript `g6-er-powerdesigner` `mobx` `mobx-state-tree` `pdm` `web-pdm`
     An ER graph tool made with G6, the ultimate goal is to make an online  PowerDesigner
 
-*   [umijs/umi](https://github.com/umijs/umi) ⭐: 15314 ⌨️: TypeScript `react` `react-framework` `umi` `umijs`
+*   [umijs/umi](https://github.com/umijs/umi) ⭐: 15315 ⌨️: TypeScript `react` `react-framework` `umi` `umijs`
     A framework in react community ✨
 
-*   [alibaba/GGEditor](https://github.com/alibaba/GGEditor) ⭐: 3413 ⌨️: TypeScript `editor` `graphics` `mind` `react` `tree`
+*   [alibaba/GGEditor](https://github.com/alibaba/GGEditor) ⭐: 3414 ⌨️: TypeScript `editor` `graphics` `mind` `react` `tree`
     A visual graph editor based on G6 and React
 
-*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) ⭐: 39768 ⌨️: TypeScript `electron` `javascript` `music-player` `vue`
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) ⭐: 39777 ⌨️: TypeScript `electron` `javascript` `music-player` `vue`
     一个基于 electron 的音乐软件
 
-*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) ⭐: 19584 ⌨️: TypeScript `classical-chinese` `esoteric-language` `programming-language` `wenyan-lang`
+*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) ⭐: 19585 ⌨️: TypeScript `classical-chinese` `esoteric-language` `programming-language` `wenyan-lang`
     文言文編程語言 A programming language for the ancient Chinese.
 
-*   [heluxjs/helux](https://github.com/heluxjs/helux) ⭐: 1328 ⌨️: TypeScript `atom` `better-redux` `better-than-recoil` `concent` `dependency-collection` `fine-grained-responsive-updates` `helux` `high-performance` `immutable` `mutable` `proxy` `react` `reactive` `replace-recoil` `signal` `state` `state-management`
+*   [heluxjs/helux](https://github.com/heluxjs/helux) ⭐: 1329 ⌨️: TypeScript `atom` `better-redux` `better-than-recoil` `concent` `dependency-collection` `fine-grained-responsive-updates` `helux` `high-performance` `immutable` `mutable` `proxy` `react` `reactive` `replace-recoil` `signal` `state` `state-management`
     A  reactive atomic state engine for React like.
 
-*   [alibaba/x-render](https://github.com/alibaba/x-render) ⭐: 7004 ⌨️: TypeScript `ant` `ant-design` `chart` `form` `formrender` `javascript` `json-schema` `list` `react` `table` `typescript` `webpack` `widget`
+*   [alibaba/x-render](https://github.com/alibaba/x-render) ⭐: 7006 ⌨️: TypeScript `ant` `ant-design` `chart` `form` `formrender` `javascript` `json-schema` `list` `react` `table` `typescript` `webpack` `widget`
     🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 
 *   [damienbod/AspNet6IdentityServer4AngularOidcFlows](https://github.com/damienbod/AspNet6IdentityServer4AngularOidcFlows) ⭐: 726 ⌨️: TypeScript `angular` `aspnet-core` `aspnetcore` `authentication` `authorization` `identity` `identityserver4` `oauth2` `oidc` `openid` `security` `sqlite` `typescript`
@@ -3303,31 +3303,31 @@
 *   [lezer-parser/lr](https://github.com/lezer-parser/lr) ⭐: 614 ⌨️: TypeScript
     Incremental parsing system
 
-*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) ⭐: 6035 ⌨️: TypeScript `chrome-extension` `notion` `onenote` `readability` `web-clipper` `yuque`
+*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) ⭐: 6036 ⌨️: TypeScript `chrome-extension` `notion` `onenote` `readability` `web-clipper` `yuque`
     For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 
 *   [nonoroazoro/typescript-react-boilerplate](https://github.com/nonoroazoro/typescript-react-boilerplate) ⭐: 16 ⌨️: TypeScript `react` `react-hooks` `typescript` `typescript-eslint`
     :ghost: Minimal example for React with TypeScript.
 
-*   [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) ⭐: 4215 ⌨️: TypeScript `desktop-app` `inaotu` `mind` `mindmap` `naotu`
+*   [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) ⭐: 4214 ⌨️: TypeScript `desktop-app` `inaotu` `mind` `mindmap` `naotu`
     桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
 
 *   [angular-eslint/angular-eslint](https://github.com/angular-eslint/angular-eslint) ⭐: 1625 ⌨️: TypeScript `angular` `eslint` `typescript`
     :sparkles: Monorepo for all the tooling related to using ESLint with Angular
 
-*   [microsoft/botframework-solutions](https://github.com/microsoft/botframework-solutions) ⭐: 1052 ⌨️: TypeScript `assistant` `azure-bot-service` `bot` `bot-framework` `conversation` `conversation-experiences` `conversational-agents` `conversational-ai` `conversational-bots` `conversational-interfaces` `conversational-ui` `microsoft` `skills` `va` `virtual` `virtual-assistant` `virtualassistant`
+*   [microsoft/botframework-solutions](https://github.com/microsoft/botframework-solutions) ⭐: 1053 ⌨️: TypeScript `assistant` `azure-bot-service` `bot` `bot-framework` `conversation` `conversation-experiences` `conversational-agents` `conversational-ai` `conversational-bots` `conversational-interfaces` `conversational-ui` `microsoft` `skills` `va` `virtual` `virtual-assistant` `virtualassistant`
     Welcome to the Bot Framework Solutions repository which is the home for a set of templates and solutions to help build advanced conversational experiences using Azure Bot Service and Bot Framework. Microsoft Bot Framework is a comprehensive framework for building enterprise-grade conversational AI experiences.
 
 *   [magenta/magenta-js](https://github.com/magenta/magenta-js) ⭐: 1974 ⌨️: TypeScript
     Magenta.js: Music and Art Generation with Machine Learning in the browser
 
-*   [ng-matero/ng-matero](https://github.com/ng-matero/ng-matero) ⭐: 1285 ⌨️: TypeScript `admin-dashboard` `admin-template` `angular` `angular-material` `material-design` `material-extensions` `ng-admin` `ng-matero` `ngx-admin` `responsive` `schematics`
+*   [ng-matero/ng-matero](https://github.com/ng-matero/ng-matero) ⭐: 1286 ⌨️: TypeScript `admin-dashboard` `admin-template` `angular` `angular-material` `material-design` `material-extensions` `ng-admin` `ng-matero` `ngx-admin` `responsive` `schematics`
     Angular Material admin template.
 
 *   [wx-chevalier/react-examples](https://github.com/wx-chevalier/react-examples) ⭐: 39 ⌨️: TypeScript `wx-code` `wx-fe` `wx-fe-kits`
     Micro-Frontend boilerplate with React & TypeScript & Webpack, for complicated cooperative applications. | 微前端项目模板
 
-*   [remaxjs/remax](https://github.com/remaxjs/remax) ⭐: 4568 ⌨️: TypeScript `alipay-mini-program` `mini-program` `miniprogram` `react` `reactjs` `toutiao-miniprogram` `wechat-mini-program`
+*   [remaxjs/remax](https://github.com/remaxjs/remax) ⭐: 4569 ⌨️: TypeScript `alipay-mini-program` `mini-program` `miniprogram` `react` `reactjs` `toutiao-miniprogram` `wechat-mini-program`
     使用真正的 React 构建跨平台小程序
 
 *   [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) ⭐: 1597 ⌨️: TypeScript `babel` `boilerplate` `nextjs` `nextjs-template` `react` `redux` `sass` `starter` `storybook` `typescript`
@@ -3354,7 +3354,7 @@
 *   [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) ⭐: 8403 ⌨️: TypeScript `android` `chromeos` `cordova` `electron` `ios` `linux` `macos` `outline` `outline-vpn` `shadowsocks` `windows`
     Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 
-*   [zefoy/ngx-color-picker](https://github.com/zefoy/ngx-color-picker) ⭐: 451 ⌨️: TypeScript
+*   [zefoy/ngx-color-picker](https://github.com/zefoy/ngx-color-picker) ⭐: 452 ⌨️: TypeScript
     Color picker widget for the Angular (version 2 and newer)
 
 *   [waitaction/websql-orm](https://github.com/waitaction/websql-orm) ⭐: 46 ⌨️: TypeScript `angular` `cordova` `cordova-plugin` `ionic` `sqlite` `typescript` `websql` `websql-orm`
@@ -3375,7 +3375,7 @@
 *   [prismake/typegql](https://github.com/prismake/typegql) ⭐: 423 ⌨️: TypeScript `api` `decorators` `graphql` `graphql-api` `graphql-js` `graphql-schema` `graphql-server` `graphql-tools` `schema` `typeorm` `typescript`
     Create GraphQL schema with TypeScript classes.
 
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) ⭐: 23533 ⌨️: TypeScript `electron` `hosts` `hostseditor` `hostsfile` `switch-hosts` `switchhosts`
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) ⭐: 23535 ⌨️: TypeScript `electron` `hosts` `hostseditor` `hostsfile` `switch-hosts` `switchhosts`
     Switch hosts quickly!
 
 *   [any86/any-rule](https://github.com/any86/any-rule) ⭐: 8518 ⌨️: TypeScript `awsome` `express` `regex` `regexp` `zheng-ze`
@@ -3390,7 +3390,7 @@
 *   [zhangyuang/egg-react-ssr](https://github.com/zhangyuang/egg-react-ssr) ⭐: 1907 ⌨️: TypeScript `csr` `eggjs` `getinitialprops` `isomorphic` `nextjs` `react` `ssr` `typescript`
     最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
 
-*   [elastic/kibana](https://github.com/elastic/kibana) ⭐: 19758 ⌨️: TypeScript `dashboards` `elasticsearch` `hacktoberfest` `kibana` `metrics` `observability` `visualizations`
+*   [elastic/kibana](https://github.com/elastic/kibana) ⭐: 19757 ⌨️: TypeScript `dashboards` `elasticsearch` `hacktoberfest` `kibana` `metrics` `observability` `visualizations`
     Your window into the Elastic Stack
 
 *   [mgechev/ngast](https://github.com/mgechev/ngast) ⭐: 169 ⌨️: TypeScript `angular` `ast` `codelyzer` `static-analysis` `typescript`
@@ -3402,7 +3402,7 @@
 *   [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) ⭐: 16565 ⌨️: TypeScript `age-estimation` `emotion-recognition` `face-detection` `face-landmarks` `face-recognition` `gender-recognition` `javascript` `js` `nodejs` `tensorflow` `tensorflowjs` `tfjs`
     JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 
-*   [dotnet/try](https://github.com/dotnet/try) ⭐: 2885 ⌨️: TypeScript `blazor` `csharp` `documentation` `dotnet` `interactive-programming` `interactive-tutorial`
+*   [dotnet/try](https://github.com/dotnet/try) ⭐: 2884 ⌨️: TypeScript `blazor` `csharp` `documentation` `dotnet` `interactive-programming` `interactive-tutorial`
     Try .NET provides developers and content authors with tools to create interactive experiences.
 
 *   [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) ⭐: 795 ⌨️: TypeScript `cryptography` `encryption` `end-to-end` `javascript` `privacy` `sdk` `security` `tanker`
@@ -3414,7 +3414,7 @@
 *   [doggy8088/ng-validators](https://github.com/doggy8088/ng-validators) ⭐: 3 ⌨️: TypeScript
     提供 Angular 7+ 專案使用進行表單欄位驗證
 
-*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) ⭐: 24527 ⌨️: TypeScript
+*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) ⭐: 24534 ⌨️: TypeScript
     人人都能用英语
 
 *   [ever-co/ever-demand](https://github.com/ever-co/ever-demand) ⭐: 1730 ⌨️: TypeScript `angular` `commerce` `commerce-platform` `e-commerce` `ecommerce` `ecommerce-platform` `framework` `graphql` `headless` `ionic` `javascript` `marketplace` `multivendor` `nodejs` `on-demand` `platform` `shop` `shopping-website` `storefront` `typescript`
@@ -3423,28 +3423,28 @@
 *   [phodal-archive/test-vscode-chrome-webview](https://github.com/phodal-archive/test-vscode-chrome-webview) ⭐: 3 ⌨️: TypeScript
     A PoC for Visual Studio Code autocomplete plugin.
 
-*   [kiali/kiali](https://github.com/kiali/kiali) ⭐: 3376 ⌨️: TypeScript `istio` `management` `observability` `openshift` `service-mesh`
+*   [kiali/kiali](https://github.com/kiali/kiali) ⭐: 3378 ⌨️: TypeScript `istio` `management` `observability` `openshift` `service-mesh`
     Kiali project, observability for the Istio service mesh
 
-*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐: 402811 ⌨️: TypeScript `careers` `certification` `community` `curriculum` `d3` `education` `freecodecamp` `hacktoberfest` `javascript` `learn-to-code` `math` `nodejs` `nonprofits` `programming` `react` `teachers`
+*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐: 402904 ⌨️: TypeScript `careers` `certification` `community` `curriculum` `d3` `education` `freecodecamp` `hacktoberfest` `javascript` `learn-to-code` `math` `nodejs` `nonprofits` `programming` `react` `teachers`
     freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
-*   [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) ⭐: 2990 ⌨️: TypeScript `homeautomation` `mqtt` `mqtt-client` `mqtt-explorer` `mqtt-smarthome` `mqtt-tool`
+*   [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) ⭐: 2993 ⌨️: TypeScript `homeautomation` `mqtt` `mqtt-client` `mqtt-explorer` `mqtt-smarthome` `mqtt-tool`
     An all-round MQTT client that provides a structured topic overview
 
-*   [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) ⭐: 13431 ⌨️: TypeScript `javascript` `music` `samples` `scheduling` `synthesis` `tone` `web-audio`
+*   [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) ⭐: 13435 ⌨️: TypeScript `javascript` `music` `samples` `scheduling` `synthesis` `tone` `web-audio`
     A Web Audio framework for making interactive music in the browser.
 
 *   [vue-typed/vue-typed](https://github.com/vue-typed/vue-typed) ⭐: 103 ⌨️: TypeScript `typescript` `vue`
     Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
 
-*   [node-opcua/node-opcua](https://github.com/node-opcua/node-opcua) ⭐: 1475 ⌨️: TypeScript `cryptography` `cybersecurity` `energy` `iec-62541` `iiot` `industrial-automation` `industry-4` `instrumentation` `iot-platform` `javascript` `m2m` `manufacturing` `node-opcua` `nodejs` `opc-ua` `opcua` `transport` `typescript`
+*   [node-opcua/node-opcua](https://github.com/node-opcua/node-opcua) ⭐: 1474 ⌨️: TypeScript `cryptography` `cybersecurity` `energy` `iec-62541` `iiot` `industrial-automation` `industry-4` `instrumentation` `iot-platform` `javascript` `m2m` `manufacturing` `node-opcua` `nodejs` `opc-ua` `opcua` `transport` `typescript`
     Unlocking the Full Potential of OPC UA with Typescript and NodeJS - http://node-opcua.github.io/
 
 *   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) ⭐: 16312 ⌨️: TypeScript `docker` `helm` `helm-charts` `javascript` `kubernetes` `nodejs` `npm` `pnpm` `private-npm` `registry` `registry-proxy` `sponsor` `verdaccio` `yarn`
     📦🔐 A lightweight Node.js private proxy registry
 
-*   [star-history/star-history](https://github.com/star-history/star-history) ⭐: 6420 ⌨️: TypeScript `github` `github-star` `github-star-history` `graph` `history` `star` `star-history`
+*   [star-history/star-history](https://github.com/star-history/star-history) ⭐: 6426 ⌨️: TypeScript `github` `github-star` `github-star-history` `graph` `history` `star` `star-history`
     The missing star history graph of GitHub repos - https://star-history.com
 
 *   [microsoft/BotFramework-Emulator](https://github.com/microsoft/BotFramework-Emulator) ⭐: 1806 ⌨️: TypeScript `bot` `bot-builder` `bot-framework-emulator` `electron` `microsoft-bot-framework` `react` `redux` `sdk` `typescript`
@@ -3456,31 +3456,31 @@
 *   [JiarongGu/css-type-loader](https://github.com/JiarongGu/css-type-loader) ⭐: 7 ⌨️: TypeScript `css-modules` `loader` `typescript` `webpack`
     type loader for css-module and typescript
 
-*   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) ⭐: 16711 ⌨️: TypeScript `commit` `conventions` `git` `lint`
+*   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) ⭐: 16712 ⌨️: TypeScript `commit` `conventions` `git` `lint`
     📓 Lint commit messages
 
 *   [edp963/davinci](https://github.com/edp963/davinci) ⭐: 4895 ⌨️: TypeScript `dashboard` `data-visualization` `davinci` `display` `react` `typescript`
     Davinci is a DVsaaS (Data Visualization as a Service) Platform
 
-*   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) ⭐: 19921 ⌨️: TypeScript `cloud-ide` `editor` `electron` `ide` `language-server-protocol` `typescript`
+*   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) ⭐: 19926 ⌨️: TypeScript `cloud-ide` `editor` `electron` `ide` `language-server-protocol` `typescript`
     Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 *   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐: 10611 ⌨️: TypeScript
     Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
-*   [garden-io/garden](https://github.com/garden-io/garden) ⭐: 3334 ⌨️: TypeScript `containers` `developer-tools` `kubernetes` `testing` `testing-tools`
+*   [garden-io/garden](https://github.com/garden-io/garden) ⭐: 3335 ⌨️: TypeScript `containers` `developer-tools` `kubernetes` `testing` `testing-tools`
     Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching
 
 *   [viserjs/viser](https://github.com/viserjs/viser) ⭐: 1602 ⌨️: TypeScript `angularjs` `g2` `react` `visualization` `vue`
     viser is a toolkit fit for data vis engineer.    https://viserjs.gitee.io/
 
-*   [coder/code-server](https://github.com/coder/code-server) ⭐: 67835 ⌨️: TypeScript `browser-ide` `dev-tools` `development-environment` `ide` `remote-work` `vscode` `vscode-remote`
+*   [coder/code-server](https://github.com/coder/code-server) ⭐: 67847 ⌨️: TypeScript `browser-ide` `dev-tools` `development-environment` `ide` `remote-work` `vscode` `vscode-remote`
     VS Code in the browser
 
 *   [vuejs/vue-dev-server](https://github.com/vuejs/vue-dev-server) ⭐: 573 ⌨️: TypeScript
     A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 
-*   [grafana/grafana](https://github.com/grafana/grafana) ⭐: 64173 ⌨️: TypeScript `alerting` `analytics` `business-intelligence` `dashboard` `data-visualization` `elasticsearch` `go` `grafana` `hacktoberfest` `influxdb` `metrics` `monitoring` `mysql` `postgres` `prometheus`
+*   [grafana/grafana](https://github.com/grafana/grafana) ⭐: 64181 ⌨️: TypeScript `alerting` `analytics` `business-intelligence` `dashboard` `data-visualization` `elasticsearch` `go` `grafana` `hacktoberfest` `influxdb` `metrics` `monitoring` `mysql` `postgres` `prometheus`
     The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
 *   [JiarongGu/banbrick-redux-creator](https://github.com/JiarongGu/banbrick-redux-creator) ⭐: 12 ⌨️: TypeScript `react` `redux`
@@ -3506,7 +3506,7 @@
 *   [ng-alain/sts](https://github.com/ng-alain/sts) ⭐: 21 ⌨️: TypeScript `anguar` `angular-cli` `delon` `json-schema` `ng-alain` `swagger`
     Swagger to sf schema & st column in ng-alain
 
-*   [fb55/htmlparser2](https://github.com/fb55/htmlparser2) ⭐: 4417 ⌨️: TypeScript `dom` `html` `html-parser` `htmlparser2` `javascript` `parser` `xml`
+*   [fb55/htmlparser2](https://github.com/fb55/htmlparser2) ⭐: 4418 ⌨️: TypeScript `dom` `html` `html-parser` `htmlparser2` `javascript` `parser` `xml`
     The fast & forgiving HTML and XML parser
 
 *   [intoli/user-agents](https://github.com/intoli/user-agents) ⭐: 966 ⌨️: TypeScript `browser-automation` `browsers` `javascript` `navigator` `random` `randomization` `user-agent` `user-agent-spoofer` `web-scraping`
@@ -3515,7 +3515,7 @@
 *   [ankurk91/vue-web-storage](https://github.com/ankurk91/vue-web-storage) ⭐: 85 ⌨️: TypeScript `localstorage` `sessionstorage` `storage` `vue` `vue-plugin`
     Vue.js plugin for local storage and session storage (1.8 kb min+gz) :floppy\_disk:
 
-*   [kamilkisiela/apollo-angular](https://github.com/kamilkisiela/apollo-angular) ⭐: 1497 ⌨️: TypeScript `angular` `apollo-client` `apollographql` `graphql` `graphql-client` `the-guild` `typescript`
+*   [kamilkisiela/apollo-angular](https://github.com/kamilkisiela/apollo-angular) ⭐: 1498 ⌨️: TypeScript `angular` `apollo-client` `apollographql` `graphql` `graphql-client` `the-guild` `typescript`
     A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server 🎁
 
 *   [beginor/clean-code-typescript](https://github.com/beginor/clean-code-typescript) ⭐: 173 ⌨️: TypeScript
@@ -3524,10 +3524,10 @@
 *   [coderplanets/coderplanets\_web](https://github.com/coderplanets/coderplanets_web) ⭐: 336 ⌨️: TypeScript `jest` `mobx` `nextjs` `ramdajs` `react` `rxjs` `styled-components`
     maybe the most sexiest community for developers based in china,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️
 
-*   [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) ⭐: 20712 ⌨️: TypeScript `acm-icpc` `acm-icpc-handbook` `algorithms` `competitive-programming` `data-structures` `hacktoberfest` `icpc` `icpc-handbook` `icpc-training` `oi` `oi-handbook` `oi-training`
+*   [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) ⭐: 20725 ⌨️: TypeScript `acm-icpc` `acm-icpc-handbook` `algorithms` `competitive-programming` `data-structures` `hacktoberfest` `icpc` `icpc-handbook` `icpc-training` `oi` `oi-handbook` `oi-training`
     :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 
-*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) ⭐: 17433 ⌨️: TypeScript `rich-text` `rich-text-html-editor` `typescript` `wangeditor` `wysiwyg` `wysiwyg-editor`
+*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) ⭐: 17435 ⌨️: TypeScript `rich-text` `rich-text-html-editor` `typescript` `wangeditor` `wysiwyg` `wysiwyg-editor`
     wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
 
 *   [HandsomeOne/WeChatMenuManager](https://github.com/HandsomeOne/WeChatMenuManager) ⭐: 8 ⌨️: TypeScript `wechat` `weixin`
@@ -3551,13 +3551,13 @@
 *   [b3log/vditor](https://github.com/b3log/vditor) ⭐: 1709 ⌨️: TypeScript `commonmark` `editor` `flowchart` `gfm` `katex` `markdown` `multimedia` `react` `sequence-diagram` `typescript` `vditor` `vue`
     ♏ 一款浏览器端的 Markdown 编辑器。
 
-*   [nativefier/nativefier](https://github.com/nativefier/nativefier) ⭐: 34865 ⌨️: TypeScript `desktop-application` `electron` `linux` `macos` `nodejs` `windows`
+*   [nativefier/nativefier](https://github.com/nativefier/nativefier) ⭐: 34864 ⌨️: TypeScript `desktop-application` `electron` `linux` `macos` `nodejs` `windows`
     Make any web page a desktop application
 
-*   [textlint/textlint](https://github.com/textlint/textlint) ⭐: 2830 ⌨️: TypeScript `javascript` `lint` `linter` `markdown` `natural-language` `nlp` `textlint`
+*   [textlint/textlint](https://github.com/textlint/textlint) ⭐: 2831 ⌨️: TypeScript `javascript` `lint` `linter` `markdown` `natural-language` `nlp` `textlint`
     The pluggable natural language linter for text and markdown.
 
-*   [lingui/js-lingui](https://github.com/lingui/js-lingui) ⭐: 4489 ⌨️: TypeScript `hacktoberfest` `i18n` `icu` `internationalization` `intl` `javascript` `localization` `messageformat` `react` `react-components` `react-native` `translation`
+*   [lingui/js-lingui](https://github.com/lingui/js-lingui) ⭐: 4492 ⌨️: TypeScript `hacktoberfest` `i18n` `icu` `internationalization` `intl` `javascript` `localization` `messageformat` `react` `react-components` `react-native` `translation`
     🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
 
 *   [mrcrowl/vuex-typex](https://github.com/mrcrowl/vuex-typex) ⭐: 193 ⌨️: TypeScript
@@ -3569,10 +3569,10 @@
 *   [Num142857/ng-electron-netease-cloud-music](https://github.com/Num142857/ng-electron-netease-cloud-music) ⭐: 7 ⌨️: TypeScript
     Angular版本的 electron 网易云音乐客户端
 
-*   [hexojs/hexo](https://github.com/hexojs/hexo) ⭐: 39275 ⌨️: TypeScript `hexo` `javascript` `nodejs` `static-site-generator` `typescript`
+*   [hexojs/hexo](https://github.com/hexojs/hexo) ⭐: 39280 ⌨️: TypeScript `hexo` `javascript` `nodejs` `static-site-generator` `typescript`
     A fast, simple & powerful blog framework, powered by Node.js.
 
-*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) ⭐: 100420 ⌨️: TypeScript `javascript` `language` `typechecker` `typescript`
+*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) ⭐: 100427 ⌨️: TypeScript `javascript` `language` `typechecker` `typescript`
     TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 *   [thx/rap2-delos](https://github.com/thx/rap2-delos) ⭐: 7644 ⌨️: TypeScript
@@ -3584,10 +3584,10 @@
 *   [trotyl/ng-vdom](https://github.com/trotyl/ng-vdom) ⭐: 259 ⌨️: TypeScript `angular` `jsx` `react` `tsx` `vdom` `virtual-dom`
     (Developer Preview) A virtual-DOM extension for Angular, also work as React bridge.
 
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) ⭐: 54270 ⌨️: TypeScript `csr` `framework` `full-stack` `hacktoberfest` `hybrid` `node` `nuxt` `server-rendering` `ssg` `ssr` `static-site-generator` `universal` `vue`
+*   [nuxt/nuxt](https://github.com/nuxt/nuxt) ⭐: 54282 ⌨️: TypeScript `csr` `framework` `full-stack` `hacktoberfest` `hybrid` `node` `nuxt` `server-rendering` `ssg` `ssr` `static-site-generator` `universal` `vue`
     The Intuitive Vue Framework.
 
-*   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) ⭐: 25197 ⌨️: TypeScript `admin` `admin-dashboard` `admin-template` `admin-ui` `angular-dashboard-template` `angular10` `angular2` `angular9` `bootstrap4` `dashboard` `framework` `material-theme` `ng2` `ng2-admin` `ngx-admin` `responsive` `sass` `theme` `typescript` `webpack`
+*   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) ⭐: 25201 ⌨️: TypeScript `admin` `admin-dashboard` `admin-template` `admin-ui` `angular-dashboard-template` `angular10` `angular2` `angular9` `bootstrap4` `dashboard` `framework` `material-theme` `ng2` `ng2-admin` `ngx-admin` `responsive` `sass` `theme` `typescript` `webpack`
     Customizable admin dashboard template based on Angular 10+
 
 *   [dotnetclub-net/club-chaty](https://github.com/dotnetclub-net/club-chaty) ⭐: 51 ⌨️: TypeScript
@@ -3608,7 +3608,7 @@
 *   [JounQin/vue-dynamic](https://github.com/JounQin/vue-dynamic) ⭐: 43 ⌨️: TypeScript `vue-components` `vue-dynamic`
     Load stringified or normal Vue components dynamically!
 
-*   [aurelia/aurelia](https://github.com/aurelia/aurelia) ⭐: 1380 ⌨️: TypeScript `aurelia` `cordova` `cross-platform` `electron` `framework` `frontend` `html` `javascript` `javascript-framework` `mobile` `pwa` `single-page-applications` `spa` `typescript` `web` `web-framework` `web-performance`
+*   [aurelia/aurelia](https://github.com/aurelia/aurelia) ⭐: 1381 ⌨️: TypeScript `aurelia` `cordova` `cross-platform` `electron` `framework` `frontend` `html` `javascript` `javascript-framework` `mobile` `pwa` `single-page-applications` `spa` `typescript` `web` `web-framework` `web-performance`
     Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 
 *   [ethereum/remixd](https://github.com/ethereum/remixd) ⭐: 182 ⌨️: TypeScript
@@ -3643,10 +3643,10 @@
 *   [wbhob/nest-middlewares](https://github.com/wbhob/nest-middlewares) ⭐: 378 ⌨️: TypeScript
     Common, injectable middlewares for NestJS
 
-*   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐: 48315 ⌨️: TypeScript `definition` `dts` `hacktoberfest` `types` `typescript` `typescript-definitions` `typings`
+*   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐: 48316 ⌨️: TypeScript `definition` `dts` `hacktoberfest` `types` `typescript` `typescript-definitions` `typings`
     The repository for high quality TypeScript type definitions.
 
-*   [nestjs/nest](https://github.com/nestjs/nest) ⭐: 67037 ⌨️: TypeScript `framework` `hacktoberfest` `javascript` `javascript-framework` `microservices` `nest` `nestjs` `node` `nodejs` `nodejs-framework` `typescript` `typescript-framework` `websockets`
+*   [nestjs/nest](https://github.com/nestjs/nest) ⭐: 67056 ⌨️: TypeScript `framework` `hacktoberfest` `javascript` `javascript-framework` `microservices` `nest` `nestjs` `node` `nodejs` `nodejs-framework` `typescript` `typescript-framework` `websockets`
     A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
 *   [leizongmin/leizm-mysql](https://github.com/leizongmin/leizm-mysql) ⭐: 3 ⌨️: TypeScript `mysql` `nodejs` `orm` `typescript`
@@ -3664,13 +3664,13 @@
 *   [Azure/autorest](https://github.com/Azure/autorest) ⭐: 4600 ⌨️: TypeScript `azure` `code-generator` `csharp` `golang` `java` `javascript` `node` `openapi` `python` `rest-client` `swagger` `typescript`
     OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 
-*   [algolia/docsearch](https://github.com/algolia/docsearch) ⭐: 3953 ⌨️: TypeScript `algolia` `docsearch` `documentation` `javascript` `react` `search` `typescript`
+*   [algolia/docsearch](https://github.com/algolia/docsearch) ⭐: 3954 ⌨️: TypeScript `algolia` `docsearch` `documentation` `javascript` `react` `search` `typescript`
     :blue\_book: The easiest way to add search to your documentation.
 
 *   [lastares/angular6-admin](https://github.com/lastares/angular6-admin) ⭐: 15 ⌨️: TypeScript
     最新版的angular 增删改查，UI为蚂蚁金服ng-alain,ant-zorro 框架，当时公司前端人力不够，直接拉后端上了，自写过angular，后面抽时间搞了这个
 
-*   [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) ⭐: 3599 ⌨️: TypeScript `components` `jetbrains-ui` `react`
+*   [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) ⭐: 3598 ⌨️: TypeScript `components` `jetbrains-ui` `react`
     A collection of JetBrains Web UI components
 
 *   [qiu8310/minapp](https://github.com/qiu8310/minapp) ⭐: 926 ⌨️: TypeScript `api` `promises` `typescript` `vscode` `wechat` `wx-api`
@@ -3682,10 +3682,10 @@
 *   [yiminghe/async-validator](https://github.com/yiminghe/async-validator) ⭐: 8880 ⌨️: TypeScript
     validate form asynchronous
 
-*   [transloadit/uppy](https://github.com/transloadit/uppy) ⭐: 29005 ⌨️: TypeScript `dropbox` `encoding` `file-uploader` `file-uploads` `files` `hacktoberfest` `instagram` `javascript` `mit` `modular` `open-source` `pick-files` `resumable` `transloadit` `tus` `uploader` `uppy` `webbrowser`
+*   [transloadit/uppy](https://github.com/transloadit/uppy) ⭐: 29018 ⌨️: TypeScript `dropbox` `encoding` `file-uploader` `file-uploads` `files` `hacktoberfest` `instagram` `javascript` `mit` `modular` `open-source` `pick-files` `resumable` `transloadit` `tus` `uploader` `uppy` `webbrowser`
     The next open source file uploader for web browsers :dog:
 
-*   [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) ⭐: 2919 ⌨️: TypeScript `json-schema` `typescript`
+*   [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) ⭐: 2920 ⌨️: TypeScript `json-schema` `typescript`
     Compile JSON Schema to TypeScript type declarations
 
 *   [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) ⭐: 4014 ⌨️: TypeScript `gist` `github-gist` `settings-sync` `sync` `visual-studio-code` `vscode-extension` `vscode-sync`
@@ -3708,7 +3708,7 @@
 *   [argoproj/argo-ui](https://github.com/argoproj/argo-ui) ⭐: 222 ⌨️: TypeScript
     Argoproj shared React components
 
-*   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) ⭐: 10399 ⌨️: TypeScript `javascript` `tutorial` `typescript`
+*   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) ⭐: 10400 ⌨️: TypeScript `javascript` `tutorial` `typescript`
     TypeScript 入门教程
 
 *   [jaywcjlove/parcel-plugin-markdown-string](https://github.com/jaywcjlove/parcel-plugin-markdown-string) ⭐: 21 ⌨️: TypeScript `markdown` `markdown-to-html` `parcel-bundler` `parcel-plugin` `parceljs`
@@ -3740,16 +3740,16 @@
 *   [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) ⭐: 4626 ⌨️: TypeScript `angular` `angular-components` `angular2` `angular4` `datagrid` `datatable` `grid` `hacktoberfest` `table` `typescript`
     ✨  A feature-rich yet lightweight data-table crafted for Angular
 
-*   [portainer/portainer](https://github.com/portainer/portainer) ⭐: 30570 ⌨️: TypeScript `docker` `docker-compose` `docker-container` `docker-deployment` `docker-image` `docker-swarm` `docker-ui` `dockerfile` `hacktoberfest` `kubernetes` `moby` `portainer` `ui`
+*   [portainer/portainer](https://github.com/portainer/portainer) ⭐: 30582 ⌨️: TypeScript `docker` `docker-compose` `docker-container` `docker-deployment` `docker-image` `docker-swarm` `docker-ui` `dockerfile` `hacktoberfest` `kubernetes` `moby` `portainer` `ui`
     Making Docker and Kubernetes management easy.
 
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) ⭐: 23916 ⌨️: TypeScript `aliyun-oss` `electron` `electron-app` `electron-vue` `github` `imgur` `imgur-uploader` `qiniu` `smms` `tencent-cos` `upyun` `vue` `weibo`
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) ⭐: 23920 ⌨️: TypeScript `aliyun-oss` `electron` `electron-app` `electron-vue` `github` `imgur` `imgur-uploader` `qiniu` `smms` `tencent-cos` `upyun` `vue` `weibo`
     :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
-*   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) ⭐: 22247 ⌨️: TypeScript
+*   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) ⭐: 22248 ⌨️: TypeScript
     💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 
-*   [microsoft/vscode](https://github.com/microsoft/vscode) ⭐: 162981 ⌨️: TypeScript `editor` `electron` `microsoft` `typescript` `visual-studio-code`
+*   [microsoft/vscode](https://github.com/microsoft/vscode) ⭐: 163018 ⌨️: TypeScript `editor` `electron` `microsoft` `typescript` `visual-studio-code`
     Visual Studio Code
 
 *   [rafaelfgx/ChatService](https://github.com/rafaelfgx/ChatService) ⭐: 32 ⌨️: TypeScript `angular` `asp-net-core` `aspnet-core` `aspnetcore` `chat` `dot-net` `dot-net-core` `dotnet` `dotnet-core` `dotnetcore` `real-time` `realtime` `signalr`
@@ -3758,7 +3758,7 @@
 *   [ng-alain/ng-alain-.netcore](https://github.com/ng-alain/ng-alain-.netcore) ⭐: 93 ⌨️: TypeScript `angular` `netcore` `netcore2` `ng-alain`
     ng-alain 与 .net core 搭配
 
-*   [angular/components](https://github.com/angular/components) ⭐: 24318 ⌨️: TypeScript `angular` `angular-components` `material` `material-design`
+*   [angular/components](https://github.com/angular/components) ⭐: 24320 ⌨️: TypeScript `angular` `angular-components` `material` `material-design`
     Component infrastructure and Material Design components for Angular
 
 *   [JustWei-OST/Ocelot.Configurator](https://github.com/JustWei-OST/Ocelot.Configurator) ⭐: 41 ⌨️: TypeScript
@@ -3767,7 +3767,7 @@
 *   [microsoft/tsdoc](https://github.com/microsoft/tsdoc) ⭐: 4726 ⌨️: TypeScript `comments` `doc-comments` `documentation` `jsdoc` `markdown` `parser` `rushstack` `specification` `syntax` `typescript`
     A doc comment standard for TypeScript
 
-*   [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) ⭐: 30663 ⌨️: TypeScript `javascript` `rxjs`
+*   [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) ⭐: 30664 ⌨️: TypeScript `javascript` `rxjs`
     A reactive programming library for JavaScript
 
 *   [NervJS/taro](https://github.com/NervJS/taro) ⭐: 35401 ⌨️: TypeScript `javascript` `jquery` `nerv` `nervjs` `react` `react-native` `reactjs` `taro` `typescript` `vue` `vue3` `wechat` `wechat-mini-program` `weixin` `wxapp`
@@ -3782,7 +3782,7 @@
 *   [antvis/G2](https://github.com/antvis/G2) ⭐: 12094 ⌨️: TypeScript `animation` `canvas` `chart` `grammar` `graphics` `hacktoberfest` `interaction` `svg` `visualization` `webgl`
     📊 The concise and progressive visualization grammar.
 
-*   [antvis/G6](https://github.com/antvis/G6) ⭐: 11054 ⌨️: TypeScript `data-visualization` `graph` `graph-analytics` `graph-drawing` `graph-visualization` `hacktoberfest` `network` `tree` `visual-analytics` `visualization`
+*   [antvis/G6](https://github.com/antvis/G6) ⭐: 11055 ⌨️: TypeScript `data-visualization` `graph` `graph-analytics` `graph-drawing` `graph-visualization` `hacktoberfest` `network` `tree` `visual-analytics` `visualization`
     ♾ A Graph Visualization Framework in JavaScript.
 
 *   [ng-alain/delon](https://github.com/ng-alain/delon) ⭐: 676 ⌨️: TypeScript `angular` `angular-components` `angular-scaffolding` `g2` `ng-admin` `ng-alain` `ng-zorro` `scaffold` `scaffold-framework` `scaffold-template` `scaffolding`
@@ -3800,7 +3800,7 @@
 *   [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) ⭐: 24633 ⌨️: TypeScript
     ⚙️ Browser devtools extension for debugging Vue.js applications.
 
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) ⭐: 32530 ⌨️: TypeScript `bilibili` `douban` `dribbble` `instagram` `lofter` `pixiv` `rss` `rsshub` `spotify` `telegram` `tiktok` `twitter` `v2ex` `wechat` `weibo` `ximalaya` `youtube` `zhihu`
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) ⭐: 32554 ⌨️: TypeScript `bilibili` `douban` `dribbble` `instagram` `lofter` `pixiv` `rss` `rsshub` `spotify` `telegram` `tiktok` `twitter` `v2ex` `wechat` `weibo` `ximalaya` `youtube` `zhihu`
     🧡 Everything is RSSible
 
 *   [Tencent/vConsole](https://github.com/Tencent/vConsole) ⭐: 16781 ⌨️: TypeScript `console` `mobile` `wechat`
@@ -3809,10 +3809,10 @@
 *   [MisterChangRay/common-core-swagger-ui](https://github.com/MisterChangRay/common-core-swagger-ui) ⭐: 86 ⌨️: TypeScript
     基于angular5开发的自定义swagger-ui，显示更友好，更符合我们文档阅读习惯。
 
-*   [tinymce/tinymce](https://github.com/tinymce/tinymce) ⭐: 14905 ⌨️: TypeScript `contenteditable` `editor` `javascript` `rich-text-editor` `tinymce` `wysiwyg` `wysiwyg-editor` `wysiwyg-html-editor`
+*   [tinymce/tinymce](https://github.com/tinymce/tinymce) ⭐: 14907 ⌨️: TypeScript `contenteditable` `editor` `javascript` `rich-text-editor` `tinymce` `wysiwyg` `wysiwyg-editor` `wysiwyg-html-editor`
     The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 
-*   [angular/angular](https://github.com/angular/angular) ⭐: 95889 ⌨️: TypeScript `angular` `javascript` `pwa` `typescript` `web` `web-framework` `web-performance`
+*   [angular/angular](https://github.com/angular/angular) ⭐: 95900 ⌨️: TypeScript `angular` `javascript` `pwa` `typescript` `web` `web-framework` `web-performance`
     Deliver web apps with confidence 🚀
 
 *   [TrilonIO/aspnetcore-angular-universal](https://github.com/TrilonIO/aspnetcore-angular-universal) ⭐: 1458 ⌨️: TypeScript `angular` `angular2` `angular4` `angular5` `angular6` `aspnet` `aspnetcore` `dotnet-template` `hmr` `ngrx` `ssr` `trilon` `universal`
@@ -3829,7 +3829,7 @@
 *   [dwqs/vue-typescript](https://github.com/dwqs/vue-typescript) ⭐: 27 ⌨️: TypeScript `typescript2` `vue-typescript` `vuejs2` `webpack4`
     A template with webpack 4 + vuejs 2 + typescript 2 setup for projects startup
 
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) ⭐: 117533 ⌨️: TypeScript `algorithm` `algorithm-interview` `algorithm-interview-questions` `algorithms` `behavioral-interviews` `coding-interviews` `interview-practice` `interview-preparation` `interview-questions` `system-design`
+*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) ⭐: 117560 ⌨️: TypeScript `algorithm` `algorithm-interview` `algorithm-interview-questions` `algorithms` `behavioral-interviews` `coding-interviews` `interview-practice` `interview-preparation` `interview-questions` `system-design`
     💯 Curated coding interview preparation materials for busy software engineers
 
 *   [PlaceMe-SAS/single-spa-angular-cli](https://github.com/PlaceMe-SAS/single-spa-angular-cli) ⭐: 25 ⌨️: TypeScript
@@ -3855,13 +3855,13 @@
 *   [microsoft/IIS.WebManager](https://github.com/microsoft/IIS.WebManager) ⭐: 157 ⌨️: TypeScript
     Web Manager for managing IIS
 
-*   [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) ⭐: 5244 ⌨️: TypeScript `graphql` `http` `http-client` `rest` `rest-api` `rest-client` `typescript` `visual-studio-code` `vscode` `vscode-extension`
+*   [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) ⭐: 5245 ⌨️: TypeScript `graphql` `http` `http-client` `rest` `rest-api` `rest-client` `typescript` `visual-studio-code` `vscode` `vscode-extension`
     REST Client Extension for Visual Studio Code
 
-*   [youzan/vant](https://github.com/youzan/vant) ⭐: 23206 ⌨️: TypeScript `components` `mobile` `ui-kit` `ui-library` `vant` `vue` `vue3`
+*   [youzan/vant](https://github.com/youzan/vant) ⭐: 23204 ⌨️: TypeScript `components` `mobile` `ui-kit` `ui-library` `vant` `vue` `vue3`
     A lightweight, customizable Vue UI library for mobile web apps.
 
-*   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) ⭐: 36393 ⌨️: TypeScript `admin` `ant-design` `antd` `antv` `boilerplate` `dashboard` `enterprise` `react` `umi`
+*   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) ⭐: 36394 ⌨️: TypeScript `admin` `ant-design` `antd` `antv` `boilerplate` `dashboard` `enterprise` `react` `umi`
     👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 
 *   [fbchen/fire-ant](https://github.com/fbchen/fire-ant) ⭐: 42 ⌨️: TypeScript `angular4` `ant-design` `fire-ant` `webapp`
@@ -3879,7 +3879,7 @@
 *   [cipchk/ngx-weui](https://github.com/cipchk/ngx-weui) ⭐: 426 ⌨️: TypeScript `angular` `angular-components` `angular-library` `angular-weui` `angular9` `lvy` `weui` `weui2`
     WeUI for angular
 
-*   [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐: 8856 ⌨️: TypeScript `angular` `angular-components` `angular-directives` `angular-ui-components` `ant` `ant-design` `antd` `enterprise` `frontend` `ivy` `ng-zorro` `ngx` `typescript` `ui-components`
+*   [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐: 8857 ⌨️: TypeScript `angular` `angular-components` `angular-directives` `angular-ui-components` `ant` `ant-design` `antd` `enterprise` `frontend` `ivy` `ng-zorro` `ngx` `typescript` `ui-components`
     Angular UI Component Library based on Ant Design
 
 *   [brookshi/Hitchhiker](https://github.com/brookshi/Hitchhiker) ⭐: 2194 ⌨️: TypeScript `api` `collaboration` `hitchhiker` `nodejs` `restful-api` `schedule` `stress-test` `test` `test-automation` `testing-tools` `typescript`
@@ -3901,7 +3901,7 @@
 *   [xiaojia21190/ZY\_Player\_flutter](https://github.com/xiaojia21190/ZY_Player_flutter) ⭐: 78 ⌨️: Dart
     影视 漫画 小说 听书
 
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐: 56319 ⌨️: Dart `content-management` `content-services` `editor` `flutter` `flutter-app` `hacktoberfest` `low-code` `no-code` `notion` `notion-alternative` `project-management` `rust` `rust-lang` `rust-language` `team-collaboration` `wiki`
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐: 56349 ⌨️: Dart `content-management` `content-services` `editor` `flutter` `flutter-app` `hacktoberfest` `low-code` `no-code` `notion` `notion-alternative` `project-management` `rust` `rust-lang` `rust-language` `team-collaboration` `wiki`
     Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
 *   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) ⭐: 3465 ⌨️: Dart `acg` `comic` `cosplay` `flutter` `hentai` `ios` `jmcomic` `pica` `picacg` `rust`
@@ -3913,7 +3913,7 @@
 *   [simplezhli/flutter\_deer](https://github.com/simplezhli/flutter_deer) ⭐: 7934 ⌨️: Dart `amap` `android` `chart` `citypicker` `customview` `dart` `dio` `flutter` `flutter-app` `flutter-ui` `flutter-web` `flutter-widget` `ios` `popup-window` `provider` `rxdart` `sliver` `sticky-headers` `test-drive`
     🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practice project.
 
-*   [shichunlei/flutter\_app](https://github.com/shichunlei/flutter_app) ⭐: 2653 ⌨️: Dart `api` `dart` `dialog` `douban-movie` `flutter` `http` `likebutton` `meiriyiwen` `musicplayer` `nba` `picker` `q-daily` `qdaily` `shop` `slider` `stggeredgridview` `timeline` `weather` `widget` `zhuishushenqi`
+*   [shichunlei/flutter\_app](https://github.com/shichunlei/flutter_app) ⭐: 2654 ⌨️: Dart `api` `dart` `dialog` `douban-movie` `flutter` `http` `likebutton` `meiriyiwen` `musicplayer` `nba` `picker` `q-daily` `qdaily` `shop` `slider` `stggeredgridview` `timeline` `weather` `widget` `zhuishushenqi`
     🔥🔥🔥本项目包括各种基本控件使用（Text、TextField、Icon、Image、Listview、Gridview、Picker、Stepper、Dialog、Slider、Row、Appbar、Sizebox、BottomSheet、Chip、Dismissible、FlutterLogo、Check、Switch、TabBar、BottomNavigationBar、Sliver等）、豆瓣电影、tubitv、每日一文、和天气、百姓生活、随机诗词、联系人、句子迷、好奇心日报、有道精品课、高德定位、音乐播放器🎵、追书神器等板块
 
 *   [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) ⭐: 7192 ⌨️: Dart `flutter` `flutter-demo`
@@ -3922,30 +3922,30 @@
 *   [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter) ⭐: 3244 ⌨️: Dart `client` `dart` `flutter` `graphql`
     A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.
 
-*   [sass/dart-sass](https://github.com/sass/dart-sass) ⭐: 3913 ⌨️: Dart `css-preprocessor` `dart` `dart-sass` `sass`
+*   [sass/dart-sass](https://github.com/sass/dart-sass) ⭐: 3914 ⌨️: Dart `css-preprocessor` `dart` `dart-sass` `sass`
     The reference implementation of Sass, written in Dart.
 
 *   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) ⭐: 14836 ⌨️: Dart `android` `cross-platform` `dart` `dartlang` `flutter` `flutter-app` `flutter-demo` `flutter-ui` `flutter-widget` `github-app` `ios` `mobile-app`
     Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
 
-*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) ⭐: 23633 ⌨️: Dart `dart` `flutter` `flutter-demo` `flutter-doc`
+*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) ⭐: 23632 ⌨️: Dart `dart` `flutter` `flutter-demo` `flutter-doc`
     flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 
 ## PHP
 
-*   [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) ⭐: 3356 ⌨️: PHP
+*   [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) ⭐: 3357 ⌨️: PHP
     个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 
-*   [espocrm/espocrm](https://github.com/espocrm/espocrm) ⭐: 1725 ⌨️: PHP `calendar` `contacts` `crm` `crm-platform` `crm-system` `customer-portal` `customer-support` `customizable` `documents` `email-marketing` `kanban` `leads` `open-source` `php` `platform` `sales-automation` `single-page-application` `support`
+*   [espocrm/espocrm](https://github.com/espocrm/espocrm) ⭐: 1726 ⌨️: PHP `calendar` `contacts` `crm` `crm-platform` `crm-system` `customer-portal` `customer-support` `customizable` `documents` `email-marketing` `kanban` `leads` `open-source` `php` `platform` `sales-automation` `single-page-application` `support`
     EspoCRM – Open Source CRM Application
 
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) ⭐: 15829 ⌨️: PHP `accounting` `budget` `budgeting` `budgets` `cash-flow` `cashflow` `credit-card` `docker` `expenses` `finance` `finances` `financial` `linux` `money` `paycheck` `personal-finance` `php` `php7`
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) ⭐: 15844 ⌨️: PHP `accounting` `budget` `budgeting` `budgets` `cash-flow` `cashflow` `credit-card` `docker` `expenses` `finance` `finances` `financial` `linux` `money` `paycheck` `personal-finance` `php` `php7`
     Firefly III: a personal finances manager
 
 *   [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) ⭐: 1823 ⌨️: PHP `alternative-frontends` `php` `proxitok` `tiktok` `tiktok-scraper`
     Open source alternative frontend for TikTok made using PHP
 
-*   [kuaifan/dootask](https://github.com/kuaifan/dootask) ⭐: 4604 ⌨️: PHP `dootask` `project-management` `project-manager` `remote-work` `task-management-system` `task-manager` `team-chat` `to-do` `todo`
+*   [kuaifan/dootask](https://github.com/kuaifan/dootask) ⭐: 4605 ⌨️: PHP `dootask` `project-management` `project-manager` `remote-work` `task-management-system` `task-manager` `team-chat` `to-do` `todo`
     DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
 
 *   [LudySu/Synology-LrcPlugin](https://github.com/LudySu/Synology-LrcPlugin) ⭐: 597 ⌨️: PHP `ds-audio` `lyrics-plugin` `synology-audio-station` `synology-lyric`
@@ -3966,7 +3966,7 @@
 *   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) ⭐: 16927 ⌨️: PHP
     程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 
-*   [vrana/adminer](https://github.com/vrana/adminer) ⭐: 6215 ⌨️: PHP `database` `mysql` `php` `postgresql` `sqlite`
+*   [vrana/adminer](https://github.com/vrana/adminer) ⭐: 6220 ⌨️: PHP `database` `mysql` `php` `postgresql` `sqlite`
     Database management in a single PHP file
 
 *   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) ⭐: 464 ⌨️: PHP
@@ -4044,13 +4044,13 @@
 *   [walkor/workerman](https://github.com/walkor/workerman) ⭐: 11115 ⌨️: PHP `asynchronous` `event-driven` `high-performance` `php` `socket` `socket-server` `tcp` `timer` `websocket` `ws` `wss`
     An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
 
-*   [fecshop/yii2\_fecshop](https://github.com/fecshop/yii2_fecshop) ⭐: 5224 ⌨️: PHP `b2c` `cart` `ecommerce` `fecmall` `fecshop` `html5` `php` `shop` `shopping` `vue` `yii` `yii2` `yii2-fecshop`
+*   [fecshop/yii2\_fecshop](https://github.com/fecshop/yii2_fecshop) ⭐: 5225 ⌨️: PHP `b2c` `cart` `ecommerce` `fecmall` `fecshop` `html5` `php` `shop` `shopping` `vue` `yii` `yii2` `yii2-fecshop`
     yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等
 
 *   [HFO4/shudong-share](https://github.com/HFO4/shudong-share) ⭐: 531 ⌨️: PHP `php`
     树洞外链
 
-*   [craftcms/cms](https://github.com/craftcms/cms) ⭐: 3230 ⌨️: PHP `cms` `content-management` `craft3` `craft4` `craftcms` `graphql` `php` `php7` `php8` `twig` `yii2`
+*   [craftcms/cms](https://github.com/craftcms/cms) ⭐: 3235 ⌨️: PHP `cms` `content-management` `craft3` `craft4` `craftcms` `graphql` `php` `php7` `php8` `twig` `yii2`
     Build bespoke content experiences with Craft.
 
 *   [helloxz/imgurl](https://github.com/helloxz/imgurl) ⭐: 1751 ⌨️: PHP `imgurl` `markdown` `php` `xiaoz`
@@ -4062,7 +4062,7 @@
 *   [tekintian/TekinTCaptcha](https://github.com/tekintian/TekinTCaptcha) ⭐: 18 ⌨️: PHP
     腾讯验证码, 腾讯防水墙, 验证码, 滑动验证码, 智能滑动验证码PHP扩展, TekinTCaptcha - A Client library for Tencent Captcha, a service that protect websites from spam and abuse.
 
-*   [erusev/parsedown](https://github.com/erusev/parsedown) ⭐: 14754 ⌨️: PHP `markdown` `markdown-parser` `parser` `php`
+*   [erusev/parsedown](https://github.com/erusev/parsedown) ⭐: 14757 ⌨️: PHP `markdown` `markdown-parser` `parser` `php`
     Better Markdown Parser in PHP
 
 *   [linkgeek/thinkphp-api](https://github.com/linkgeek/thinkphp-api) ⭐: 2 ⌨️: PHP
@@ -4077,7 +4077,7 @@
 *   [hubwiz/eostool](https://github.com/hubwiz/eostool) ⭐: 13 ⌨️: PHP `blockchain` `eos` `eosio` `p2p` `php`
     EOS区块链PHP开发包，支持离线签名，支持离线序列化
 
-*   [matomo-org/matomo](https://github.com/matomo-org/matomo) ⭐: 19720 ⌨️: PHP `analytics` `growth` `hacktoberfest` `intranet` `log` `marketing` `matomo` `mobile` `mysql` `php` `piwik` `privacy` `security` `web-analytics` `website`
+*   [matomo-org/matomo](https://github.com/matomo-org/matomo) ⭐: 19721 ⌨️: PHP `analytics` `growth` `hacktoberfest` `intranet` `log` `marketing` `matomo` `mobile` `mysql` `php` `piwik` `privacy` `security` `web-analytics` `website`
     Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests!
 
 *   [segmentfault/HyperDown](https://github.com/segmentfault/HyperDown) ⭐: 1205 ⌨️: PHP
@@ -4115,22 +4115,22 @@
 
 ## miscellaneous
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) ⭐: 14878 ⌨️:  `api` `freeapi`
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) ⭐: 14879 ⌨️:  `api` `freeapi`
     收集免费的接口服务,做一个api的搬运工
 
-*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) ⭐: 28400 ⌨️:\
+*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) ⭐: 28405 ⌨️:\
     leaked prompts of GPTs
 
-*   [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) ⭐: 10624 ⌨️:\
+*   [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) ⭐: 10636 ⌨️:\
     :books: 极客时间电子书
 
 *   [FreezingArts/Litiaotiao-Backup-MyRule](https://github.com/FreezingArts/Litiaotiao-Backup-MyRule) ⭐: 224 ⌨️:\
     李跳跳app和自用规则备份
 
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) ⭐: 46738 ⌨️:\
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) ⭐: 46759 ⌨️:\
     科技爱好者周刊，每周五发布
 
-*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) ⭐: 3420 ⌨️:  `acl` `acl4ssr` `clash` `gfwlist`
+*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) ⭐: 3425 ⌨️:  `acl` `acl4ssr` `clash` `gfwlist`
     SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 
 *   [VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) ⭐: 3001 ⌨️:\
@@ -4139,22 +4139,22 @@
 *   [netsarang/Xshell-ColorScheme](https://github.com/netsarang/Xshell-ColorScheme) ⭐: 654 ⌨️:\
     250+ Xshell Color Schemes
 
-*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) ⭐: 8323 ⌨️:\
+*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) ⭐: 8322 ⌨️:\
     已迁移新仓库，此版本将不再维护
 
 *   [tickmao/Novel](https://github.com/tickmao/Novel) ⭐: 1311 ⌨️:  `books` `booksource` `config` `font` `ifreetime` `json` `legado` `novel` `read` `shuyuan` `source` `theme` `xiangse` `xiaoshuo`
     📚 Novle setting | 小说书源及软件整理 爱阅书香 / 阅读 / 香色闺阁
 
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) ⭐: 18618 ⌨️:  `adblock` `adguard` `anticensorship` `chinalist` `clash` `dnsmasq` `easylist` `geosite` `gfw` `gfwlist` `proxy` `routing` `shadowsocks` `ss` `ssr` `surge` `v2ray`
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) ⭐: 18629 ⌨️:  `adblock` `adguard` `anticensorship` `chinalist` `clash` `dnsmasq` `easylist` `geosite` `gfw` `gfwlist` `proxy` `routing` `shadowsocks` `ss` `ssr` `surge` `v2ray`
     🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
-*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) ⭐: 2292 ⌨️:  `limbopro` `paolujichang` `shadowsocks` `trojan` `v2ray` `vpn`
+*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) ⭐: 2293 ⌨️:  `limbopro` `paolujichang` `shadowsocks` `trojan` `v2ray` `vpn`
     跑路机场名单收集（2020-2024），欢迎投稿。
 
-*   [xx025/carrot](https://github.com/xx025/carrot) ⭐: 16933 ⌨️:  `ai` `chat` `chatgpt` `freechatgpt` `openai`
+*   [xx025/carrot](https://github.com/xx025/carrot) ⭐: 16936 ⌨️:  `ai` `chat` `chatgpt` `freechatgpt` `openai`
     Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐: 52319 ⌨️:  `chat-gpt` `chatgpt` `chatgpt3` `chatgpt4` `gpt`
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐: 52322 ⌨️:  `chat-gpt` `chatgpt` `chatgpt3` `chatgpt4` `gpt`
     ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
 *   [Crequency/KitX](https://github.com/Crequency/KitX) ⭐: 1170 ⌨️:  `android` `avalonia` `avaloniaui` `desktop` `dotnet` `flutter` `flutter-apps` `flutter-web` `ios` `kitx` `kitx-loaders` `kitx-plugins` `linux` `macos` `mobile` `wasm` `web` `website` `windows`
@@ -4163,7 +4163,7 @@
 *   [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) ⭐: 5171 ⌨️:\
     PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 
-*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) ⭐: 13035 ⌨️:\
+*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) ⭐: 13040 ⌨️:\
     健康学习到150岁 - 人体系统调优不完全指南
 
 *   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) ⭐: 13162 ⌨️:  `crack` `kgm` `kugou` `kwm` `mflac` `mgg` `music` `ncm` `qmc` `qqmusic` `unlock` `unlock-music` `xiami` `xm`
@@ -4175,22 +4175,22 @@
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) ⭐: 8880 ⌨️:  `nas` `python`
     NAS媒体库管理工具
 
-*   [open-telemetry/docs-cn](https://github.com/open-telemetry/docs-cn) ⭐: 613 ⌨️:  `chinese` `docs` `markdown` `opentelemetry`
+*   [open-telemetry/docs-cn](https://github.com/open-telemetry/docs-cn) ⭐: 614 ⌨️:  `chinese` `docs` `markdown` `opentelemetry`
     OpenTelemetry 中文文档: 接入使用、技术标准、RFC、SDK等.
 
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) ⭐: 54703 ⌨️:  `brook` `fanqiang` `free-ss` `free-ssr` `freegate` `gfw` `goflyway` `kcptun` `lantern` `naiveproxy` `shadowsocks` `shadowsocksr` `ss` `ssr` `trojan` `v2ray` `vmess` `vpn`
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) ⭐: 54726 ⌨️:  `brook` `fanqiang` `free-ss` `free-ssr` `freegate` `gfw` `goflyway` `kcptun` `lantern` `naiveproxy` `shadowsocks` `shadowsocksr` `ss` `ssr` `trojan` `v2ray` `vmess` `vpn`
     翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
 
 *   [suiyun39/pac-auto-gen](https://github.com/suiyun39/pac-auto-gen) ⭐: 65 ⌨️:  `pacfile` `ssr`
     使用 GitHub Actions 每周生成 PAC
 
-*   [open-dingtalk/pierced](https://github.com/open-dingtalk/pierced) ⭐: 2277 ⌨️:\
+*   [open-dingtalk/pierced](https://github.com/open-dingtalk/pierced) ⭐: 2276 ⌨️:\
     钉钉内网穿透
 
 *   [lensapp/lens](https://github.com/lensapp/lens) ⭐: 22486 ⌨️:  `cloud-native` `containers` `devops` `kubernetes` `kubernetes-dashboard` `kubernetes-ui`
     Lens - The way the world runs Kubernetes
 
-*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) ⭐: 14272 ⌨️:  `telegram` `telegram-api` `telegram-bot` `telegram-bot-api` `telegram-bots` `telegram-channel` `telegramgroups`
+*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) ⭐: 14280 ⌨️:  `telegram` `telegram-api` `telegram-bot` `telegram-bot-api` `telegram-bots` `telegram-channel` `telegramgroups`
     2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】
 
 *   [EasyAbp/awesome-abp](https://github.com/EasyAbp/awesome-abp) ⭐: 448 ⌨️:  `abp` `easyabp`
@@ -4214,10 +4214,10 @@
 *   [qianyugang/kong-docs-cn](https://github.com/qianyugang/kong-docs-cn) ⭐: 816 ⌨️:  `api-gateway` `kong` `kong-api` `kong-api-gateway` `kong-doc` `kong-docs` `kong-docs-cn` `kong-gateway` `kong-plugin` `lua` `microservice` `nginx` `openresty`
     微服务 Api 网关 Kong 最新文档中文版
 
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐: 47715 ⌨️:  `awesome` `awesome-list` `git` `github` `list`
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐: 47728 ⌨️:  `awesome` `awesome-list` `git` `github` `list`
     A list of cool features of Git and GitHub.
 
-*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) ⭐: 9765 ⌨️:  `computer-network` `computer-science` `database` `git` `interview` `interview-questions` `operating-system` `python`
+*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) ⭐: 9767 ⌨️:  `computer-network` `computer-science` `database` `git` `interview` `interview-questions` `operating-system` `python`
     计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
 
 *   [wuhan2020/wuhan2020](https://github.com/wuhan2020/wuhan2020) ⭐: 5984 ⌨️:\
@@ -4238,7 +4238,7 @@
 *   [ethereum/wiki](https://github.com/ethereum/wiki) ⭐: 14747 ⌨️:\
     The Ethereum Wiki
 
-*   [dotnet/installer](https://github.com/dotnet/installer) ⭐: 1267 ⌨️:\
+*   [dotnet/installer](https://github.com/dotnet/installer) ⭐: 1266 ⌨️:\
     .NET SDK Installer
 
 *   [233boy/chinaip](https://github.com/233boy/chinaip) ⭐: 92 ⌨️:\
@@ -4247,7 +4247,7 @@
 *   [googleapis/nodejs-translate](https://github.com/googleapis/nodejs-translate) ⭐: 516 ⌨️:  `machine-learning` `nodejs` `translate`
     This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
 
-*   [guodongxiaren/README](https://github.com/guodongxiaren/README) ⭐: 6814 ⌨️:  `flavored` `gfm` `github` `markdown` `readme`
+*   [guodongxiaren/README](https://github.com/guodongxiaren/README) ⭐: 6816 ⌨️:  `flavored` `gfm` `github` `markdown` `readme`
     README文件语法解读，即Github Flavored Markdown语法介绍
 
 *   [uknowsec/Active-Directory-Pentest-Notes](https://github.com/uknowsec/Active-Directory-Pentest-Notes) ⭐: 1720 ⌨️:\
@@ -4256,10 +4256,10 @@
 *   [lxl0928/it\_blacklist\_company](https://github.com/lxl0928/it_blacklist_company) ⭐: 761 ⌨️:\
     各主要城市的互联网公司黑名单
 
-*   [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ⭐: 10237 ⌨️:  `awesome-list` `framework` `isomorphic` `javascript` `nextjs` `reactjs` `routing` `server-side-rendering` `tutorials` `universal`
+*   [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ⭐: 10235 ⌨️:  `awesome-list` `framework` `isomorphic` `javascript` `nextjs` `reactjs` `routing` `server-side-rendering` `tutorials` `universal`
     :notebook\_with\_decorative\_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) ⭐: 32068 ⌨️:  `ai` `algorithms-and-data-structures` `backend` `developer-tools` `development` `frontend` `github` `java` `javascript` `kubernetes` `linux` `markdown` `open-source` `python` `tutorials` `web`
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) ⭐: 32075 ⌨️:  `ai` `algorithms-and-data-structures` `backend` `developer-tools` `development` `frontend` `github` `java` `javascript` `kubernetes` `linux` `markdown` `open-source` `python` `tutorials` `web`
     坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 *   [TideSec/Tide](https://github.com/TideSec/Tide) ⭐: 871 ⌨️:\
@@ -4268,10 +4268,10 @@
 *   [yzddmr6/webshell-venom](https://github.com/yzddmr6/webshell-venom) ⭐: 1282 ⌨️:\
     免杀webshell无限生成工具
 
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) ⭐: 46600 ⌨️:  `bittorrent` `bittorrent-tracker` `bittorrent-trackers` `http` `list` `lists` `public-tracker` `public-trackers` `torrent` `tracker` `trackers` `trackerslist` `udp` `webtorrent` `ws`
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) ⭐: 46610 ⌨️:  `bittorrent` `bittorrent-tracker` `bittorrent-trackers` `http` `list` `lists` `public-tracker` `public-trackers` `torrent` `tracker` `trackers` `trackerslist` `udp` `webtorrent` `ws`
     Updated list of public BitTorrent trackers
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐: 304983 ⌨️:  `algorithm` `algorithms` `coding-interview` `coding-interviews` `computer-science` `data-structures` `interview` `interview-prep` `interview-preparation` `programming-interviews` `software-engineering` `study-plan`
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐: 305039 ⌨️:  `algorithm` `algorithms` `coding-interview` `coding-interviews` `computer-science` `data-structures` `interview` `interview-prep` `interview-preparation` `programming-interviews` `software-engineering` `study-plan`
     A complete computer science study plan to become a software engineer.
 
 *   [Trekkiii/paxos\_raft\_protocol](https://github.com/Trekkiii/paxos_raft_protocol) ⭐: 335 ⌨️:  `atomic-broadcast-protocol` `paxos` `raft` `zab` `zookeeper`
@@ -4280,10 +4280,10 @@
 *   [qwerty472123/wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker) ⭐: 4515 ⌨️:\
     wxml被“编译“后”压缩“一下多好！😀
 
-*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) ⭐: 45557 ⌨️:  `learn-regex` `regex` `regular-expression`
+*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) ⭐: 45555 ⌨️:  `learn-regex` `regex` `regular-expression`
     Learn regex the easy way
 
-*   [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) ⭐: 17908 ⌨️:  `go` `golang` `roadmap`
+*   [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) ⭐: 17909 ⌨️:  `go` `golang` `roadmap`
     Roadmap to becoming a Go developer in 2020
 
 *   [lib-xdown/xdown](https://github.com/lib-xdown/xdown) ⭐: 268 ⌨️:\
@@ -4304,10 +4304,10 @@
 *   [ng-tech-edu/react-components-practices](https://github.com/ng-tech-edu/react-components-practices) ⭐: 4 ⌨️:  `wx-course`
     React 组件化开发实践配套代码
 
-*   [phodal/microfrontends](https://github.com/phodal/microfrontends) ⭐: 3078 ⌨️:  `micro-frontend` `micro-frontends` `micro-services` `microfrontend` `microfrontends` `microservices-architecture`
+*   [phodal/microfrontends](https://github.com/phodal/microfrontends) ⭐: 3079 ⌨️:  `micro-frontend` `micro-frontends` `micro-services` `microfrontend` `microfrontends` `microservices-architecture`
     Micro-frontend Architecture in Action-微前端的那些事儿
 
-*   [getlantern/download](https://github.com/getlantern/download) ⭐: 16970 ⌨️:  `accelerator` `censorship` `censorship-circumvention` `gfw` `lantern` `vpn`
+*   [getlantern/download](https://github.com/getlantern/download) ⭐: 16971 ⌨️:  `accelerator` `censorship` `censorship-circumvention` `gfw` `lantern` `vpn`
     Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
 
 *   [MZCretin/RollToolsApi](https://github.com/MZCretin/RollToolsApi) ⭐: 3372 ⌨️:  `api`
@@ -4319,7 +4319,7 @@
 *   [Bypass007/Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) ⭐: 5186 ⌨️:\
     应急响应实战笔记，一个安全工程师的自我修养。
 
-*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) ⭐: 12480 ⌨️:  `chinese` `coding` `computerscience` `laws` `principles`
+*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) ⭐: 12481 ⌨️:  `chinese` `coding` `computerscience` `laws` `principles`
     💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 
 *   [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) ⭐: 4645 ⌨️:  `c-plus-plus` `java` `javascript` `python` `ruby`
@@ -4330,10 +4330,10 @@
 *   [dotnet/cli](https://github.com/dotnet/cli) ⭐: 3489 ⌨️:\
     The .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...).
 
-*   [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) ⭐: 8216 ⌨️:  `apk-analysis` `binary-analysis` `code-analyzer` `devsecops` `exploitation-framework` `hacker-tools` `information-security` `malware-analysis` `penetration-testing` `pentesting-tools` `privacy-compliance` `redteam-tools` `security-audit` `security-automation` `smart-contracts` `static-analysis` `vulnerability-scanners` `wifi-hacking` `wifi-security`
+*   [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) ⭐: 8215 ⌨️:  `apk-analysis` `binary-analysis` `code-analyzer` `devsecops` `exploitation-framework` `hacker-tools` `information-security` `malware-analysis` `penetration-testing` `pentesting-tools` `privacy-compliance` `redteam-tools` `security-audit` `security-automation` `smart-contracts` `static-analysis` `vulnerability-scanners` `wifi-hacking` `wifi-security`
     A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
 
-*   [reactnativecn/react-native-guide](https://github.com/reactnativecn/react-native-guide) ⭐: 17602 ⌨️:\
+*   [reactnativecn/react-native-guide](https://github.com/reactnativecn/react-native-guide) ⭐: 17604 ⌨️:\
     React Native指南汇集了各类react-native学习资源、开源App和组件
 
 *   [starrtc/starrtc-android-demo](https://github.com/starrtc/starrtc-android-demo) ⭐: 3625 ⌨️:  `chatroom` `coturn` `free` `groupchat` `im` `janus` `jitsi` `kurento` `licode` `live` `raspberry-pi` `video` `video-chat` `voip` `webrtc`
@@ -4345,7 +4345,7 @@
 *   [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) ⭐: 4349 ⌨️:\
     在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 
-*   [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) ⭐: 7554 ⌨️:  `awesome` `awesome-list` `grpc` `protocol-buffers`
+*   [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) ⭐: 7555 ⌨️:  `awesome` `awesome-list` `grpc` `protocol-buffers`
     A curated list of useful resources for gRPC
 
 *   [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) ⭐: 10093 ⌨️:\
@@ -4360,10 +4360,10 @@
 *   [Y1ran/Introduction-to-Machine-Learning](https://github.com/Y1ran/Introduction-to-Machine-Learning) ⭐: 1099 ⌨️:\
     专栏文章迁移中，敬请期待~
 
-*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) ⭐: 34656 ⌨️:\
+*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) ⭐: 34655 ⌨️:\
     955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) ⭐: 269715 ⌨️:\
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) ⭐: 269712 ⌨️:\
     Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 *   [logpai/awesome-log-analysis](https://github.com/logpai/awesome-log-analysis) ⭐: 706 ⌨️:  `aiops` `anamoly-detection` `bug-finding` `failure-diagnosis` `fault-localization` `log-analysis`
@@ -4396,7 +4396,7 @@
 *   [dreamhead/ugly-code](https://github.com/dreamhead/ugly-code) ⭐: 82 ⌨️:\
     the published articles about ugly code
 
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) ⭐: 37240 ⌨️:  `china` `indie` `indie-developer`
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) ⭐: 37244 ⌨️:  `china` `indie` `indie-developer`
     👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
 *   [b3log/30-seconds-zh\_CN](https://github.com/b3log/30-seconds-zh_CN) ⭐: 1228 ⌨️:  `30-seconds` `frontend` `translation` `zh-cn`
@@ -4423,7 +4423,7 @@
 *   [monklof/Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions) ⭐: 2606 ⌨️:\
     后端开发面试题，翻译自 https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 
-*   [github/gitignore](https://github.com/github/gitignore) ⭐: 161462 ⌨️:  `git` `gitignore`
+*   [github/gitignore](https://github.com/github/gitignore) ⭐: 161485 ⌨️:  `git` `gitignore`
     A collection of useful .gitignore templates
 
 *   [linjinjin123/awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps) ⭐: 1553 ⌨️:  `aiops` `alarm-reduction` `anomaly-detection` `deep-learning` `machine-learning` `root-cause-analysis` `time-series-analysis`
@@ -4438,22 +4438,22 @@
 *   [tencentyun/wafer](https://github.com/tencentyun/wafer) ⭐: 2164 ⌨️:  `wafer`
     Wafer - 快速构建具备弹性能力的微信小程序
 
-*   [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) ⭐: 4373 ⌨️:  `alert` `cadvisor` `dashboard-templates` `docker` `docker-compose` `docker-swarm` `grafana` `grafana-dashboard` `node-exporter` `prometheus` `stack`
+*   [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) ⭐: 4374 ⌨️:  `alert` `cadvisor` `dashboard-templates` `docker` `docker-compose` `docker-swarm` `grafana` `grafana-dashboard` `node-exporter` `prometheus` `stack`
     A docker-compose stack for Prometheus monitoring
 
 *   [jiangfengming/webpack-and-spa-guide](https://github.com/jiangfengming/webpack-and-spa-guide) ⭐: 1636 ⌨️:\
     Webpack 4 和单页应用入门
 
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐: 326834 ⌨️:  `awesome` `awesome-list` `lists` `resources` `unicorns`
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐: 326954 ⌨️:  `awesome` `awesome-list` `lists` `resources` `unicorns`
     😎 Awesome lists about all kinds of interesting topics
 
 *   [fritx/awesome-wechat](https://github.com/fritx/awesome-wechat) ⭐: 625 ⌨️:  `awesome` `wechat`
     微信个人号/公众号相关项目整理 (wechat/weixin/wx)
 
-*   [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) ⭐: 45587 ⌨️:  `demo` `minapp` `miniprogram` `weapp-demo` `wechat` `wechat-weapp` `wepy` `wxapp` `wxml`
+*   [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) ⭐: 45592 ⌨️:  `demo` `minapp` `miniprogram` `weapp-demo` `wechat` `wechat-weapp` `wepy` `wxapp` `wxml`
     微信小程序开发资源汇总 :100:
 
-*   [hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) ⭐: 3753 ⌨️:  `awesome-list` `chart` `data-visualization` `dataviz` `visualization` `visualize-data`
+*   [hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) ⭐: 3755 ⌨️:  `awesome-list` `chart` `data-visualization` `dataviz` `visualization` `visualize-data`
     :chart\_with\_upwards\_trend:  A curated list of awesome data visualization libraries and resources.
 
 *   [chooin/wechat-spa](https://github.com/chooin/wechat-spa) ⭐: 331 ⌨️:  `spa` `wechat` `wechat-spa`
@@ -4465,13 +4465,13 @@
 *   [bloodzer0/ossa](https://github.com/bloodzer0/ossa) ⭐: 930 ⌨️:  `application-security` `business-security` `code-audit` `ids` `ips` `security` `security-audit` `security-scanner` `security-tools` `security-vulnerability` `vulnerabilities` `vulnerability-scanners`
     Open-Source Security Architecture | 开源安全架构
 
-*   [stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) ⭐: 9621 ⌨️:  `awesome` `programmer` `programmer-tool`
+*   [stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) ⭐: 9623 ⌨️:  `awesome` `programmer` `programmer-tool`
     成为专业程序员路上用到的各种优秀资料、神器及框架
 
 *   [ximan/dropload](https://github.com/ximan/dropload) ⭐: 2721 ⌨️:\
     移动端下拉刷新、上拉加载更多插件
 
-*   [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) ⭐: 18484 ⌨️:  `asp-net-core` `aspnet-core` `aspnetcore` `blazor` `csharp` `dotnet` `dotnet-core` `razor` `roadmap`
+*   [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) ⭐: 18487 ⌨️:  `asp-net-core` `aspnet-core` `aspnetcore` `blazor` `csharp` `dotnet` `dotnet-core` `razor` `roadmap`
     Roadmap to becoming an ASP.NET Core developer in 2024
 
 *   [venshine/AndroidNote](https://github.com/venshine/AndroidNote) ⭐: 692 ⌨️:  `android` `blog` `book` `community` `flutter` `framework` `technology`
@@ -4495,22 +4495,22 @@
 *   [geffzhang/awesome-ocelot](https://github.com/geffzhang/awesome-ocelot) ⭐: 419 ⌨️:  `api` `api-gateway` `microservice` `ocelot`
     A curated list of awesome ocelot books, courses, trainings, conference talks, blogs and most inspiring open source contributors
 
-*   [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) ⭐: 12221 ⌨️:  `awesome` `awesome-list` `awesome-lists` `podcast` `software`
+*   [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) ⭐: 12222 ⌨️:  `awesome` `awesome-list` `awesome-lists` `podcast` `software`
     Collection of awesome podcasts
 
 *   [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) ⭐: 3522 ⌨️:  `kubernetes` `operator`
     A resource tracking a number of Operators out in the wild.
 
-*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) ⭐: 41500 ⌨️:  `awesome` `awesome-list`
+*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) ⭐: 41509 ⌨️:  `awesome` `awesome-list`
     A curated list of awesome frameworks, libraries and software for the Java programming language.
 
 *   [Ridter/Intranet\_Penetration\_Tips](https://github.com/Ridter/Intranet_Penetration_Tips) ⭐: 4484 ⌨️:\
     2018年初整理的一些内网渗透TIPS，后面更新的慢，所以整理出来希望跟小伙伴们一起更新维护~
 
-*   [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) ⭐: 20911 ⌨️:  `api` `books` `security` `security-book` `security-checklist`
+*   [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) ⭐: 20912 ⌨️:  `api` `books` `security` `security-book` `security-checklist`
     Security Guide for Developers (实用性开发人员安全须知)
 
-*   [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) ⭐: 4818 ⌨️:  `ios` `mobile` `objective-c` `rss` `swift` `weekly`
+*   [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) ⭐: 4819 ⌨️:  `ios` `mobile` `objective-c` `rss` `swift` `weekly`
     🇨🇳 老司机技术 iOS 周报
 
 *   [rickiechina/tech-doc](https://github.com/rickiechina/tech-doc) ⭐: 6 ⌨️:  `bitcoin` `blockchina` `scm` `spring` `spring-boot` `spring-cloud`
@@ -4552,12 +4552,12 @@
 *   [tonycai/The-Journal-of-Blockchain](https://github.com/tonycai/The-Journal-of-Blockchain) ⭐: 81 ⌨️:  `bitcoin` `blockchain` `cosmos` `crypto` `cryptocurrency` `dapp` `ethereum` `ethermint` `ipfs` `journal` `neo`
     区块链自媒体、专注区块链技术学习和实践、IPFS/Filecoin、Bitcoin、Ethereum、EOS、Cosmos、区块链、白皮书、Coinmarketcap、Coindesk、Safe Network、Telegram、Docker、社会治理、经济激励
 
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐: 58027 ⌨️:  `awesome` `awesome-list` `javascript` `list` `node` `nodejs`
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐: 58034 ⌨️:  `awesome` `awesome-list` `javascript` `list` `node` `nodejs`
     :zap: Delightful Node.js packages and resources
 
 *   [arkcontrol/arkcontrol](https://github.com/arkcontrol/arkcontrol) ⭐: 565 ⌨️:
 
-*   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) ⭐: 10742 ⌨️:  `awesome` `awesome-list` `list` `nestjs`
+*   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) ⭐: 10749 ⌨️:  `awesome` `awesome-list` `list` `nestjs`
     A curated list of awesome things related to NestJS 😎
 
 *   [frontend9/fe9-library](https://github.com/frontend9/fe9-library) ⭐: 1938 ⌨️:\
@@ -4572,10 +4572,10 @@
 *   [stulzq/MonitoringSystem](https://github.com/stulzq/MonitoringSystem) ⭐: 6 ⌨️:  `grafana` `monitoring` `prometheus`
     prometheus & grafana help doc.
 
-*   [facert/awesome-spider](https://github.com/facert/awesome-spider) ⭐: 22377 ⌨️:  `awesome` `python` `spider`
+*   [facert/awesome-spider](https://github.com/facert/awesome-spider) ⭐: 22379 ⌨️:  `awesome` `python` `spider`
     爬虫集合
 
-*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐: 19143 ⌨️:  `awesome` `awesome-list` `clr` `csharp` `dotnet` `fsharp`
+*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐: 19146 ⌨️:  `awesome` `awesome-list` `clr` `csharp` `dotnet` `fsharp`
     A collection of awesome .NET libraries, tools, frameworks and software
 
 *   [52ABP/Documents](https://github.com/52ABP/Documents) ⭐: 73 ⌨️:  `52abp` `abp` `abp-aspnet-boilerplate-project` `ddd`
@@ -4596,7 +4596,7 @@
 *   [LiuBoyu/blockchain](https://github.com/LiuBoyu/blockchain) ⭐: 6995 ⌨️:  `blockchain`
     区块链 - 中文资源
 
-*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) ⭐: 10942 ⌨️:  `awesome` `golang`
+*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) ⭐: 10943 ⌨️:  `awesome` `golang`
     为互联网IT人打造的中文版awesome-go
 
 *   [unknwon/go-study-index](https://github.com/unknwon/go-study-index) ⭐: 6437 ⌨️:  `go`
@@ -4626,7 +4626,7 @@
 *   [zhouningyi/v-note](https://github.com/zhouningyi/v-note) ⭐: 172 ⌨️:\
     数据可视化&全栈笔记
 
-*   [nbarbettini/little-aspnetcore-book](https://github.com/nbarbettini/little-aspnetcore-book) ⭐: 702 ⌨️:  `asp-net-core` `book` `csharp` `web-application`
+*   [nbarbettini/little-aspnetcore-book](https://github.com/nbarbettini/little-aspnetcore-book) ⭐: 701 ⌨️:  `asp-net-core` `book` `csharp` `web-application`
     The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0
 
 *   [GammaGao/bitcoinwhitepaper](https://github.com/GammaGao/bitcoinwhitepaper) ⭐: 512 ⌨️:\
@@ -4656,13 +4656,13 @@
 *   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) ⭐: 15579 ⌨️:  `cheatsheet` `git` `github`
     :trollface:Git的奇技淫巧
 
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐: 334855 ⌨️:  `books` `education` `hacktoberfest` `list` `resource`
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐: 335021 ⌨️:  `books` `education` `hacktoberfest` `list` `resource`
     :books: Freely available programming books
 
 *   [nieweidong/fetool](https://github.com/nieweidong/fetool) ⭐: 4447 ⌨️:  `chrome` `css` `gulp` `javascript` `linux` `nodejs` `react` `vim`
     大前端的瑞士军刀，只记录有用的。
 
-*   [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) ⭐: 17208 ⌨️:\
+*   [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) ⭐: 17211 ⌨️:\
     Free resources for learning Full Stack Web Development
 
 *   [jaywcjlove/swift-tutorial](https://github.com/jaywcjlove/swift-tutorial) ⭐: 104 ⌨️:  `ios` `swift` `swift5` `swiftui`
@@ -4674,13 +4674,13 @@
 *   [jaywcjlove/FrontEndBlogCN](https://github.com/jaywcjlove/FrontEndBlogCN) ⭐: 6 ⌨️:\
     前端博客相关网站搜集
 
-*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) ⭐: 4319 ⌨️:  `centos7-mysql` `mariadb-mysql` `mysql` `mysql-tutorial` `sql-mysql`
+*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) ⭐: 4320 ⌨️:  `centos7-mysql` `mariadb-mysql` `mysql` `mysql-tutorial` `sql-mysql`
     MySQL入门教程（MySQL tutorial book）
 
 *   [KeKe-Li/book](https://github.com/KeKe-Li/book) ⭐: 4657 ⌨️:  `deep-learning` `go` `python`
     :books: All programming languages books
 
-*   [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) ⭐: 11360 ⌨️:\
+*   [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) ⭐: 11361 ⌨️:\
     程序员应该访问的最佳网站中文版
 
 *   [KeKe-Li/For-learning-Go-Tutorial](https://github.com/KeKe-Li/For-learning-Go-Tutorial) ⭐: 647 ⌨️:  `go` `tutorial`
@@ -4715,7 +4715,7 @@
 *   [ReactiveX/rxjs-core-notes](https://github.com/ReactiveX/rxjs-core-notes) ⭐: 77 ⌨️:\
     Notes from RxJS core meetings
 
-*   [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) ⭐: 11155 ⌨️:  `awesome` `awesome-list` `list`
+*   [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) ⭐: 11159 ⌨️:  `awesome` `awesome-list` `list`
     A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
 *   [sdcuike/DistributedTracingSystem](https://github.com/sdcuike/DistributedTracingSystem) ⭐: 159 ⌨️:\
@@ -4727,33 +4727,33 @@
 *   [aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) ⭐: 5092 ⌨️:  `rest` `rest-api` `restapi` `restful` `restful-api`
     RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计。
 
-*   [programthink/books](https://github.com/programthink/books) ⭐: 18174 ⌨️:\
+*   [programthink/books](https://github.com/programthink/books) ⭐: 18178 ⌨️:\
     【编程随想】收藏的电子书清单（多个学科，含下载链接）
 
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) ⭐: 111333 ⌨️:  `android` `angular` `books` `free` `ios` `javascript` `kotlin` `pdf` `programming` `python` `react` `react-native` `swift` `vue`
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) ⭐: 111338 ⌨️:  `android` `angular` `books` `free` `ios` `javascript` `kotlin` `pdf` `programming` `python` `react` `react-native` `swift` `vue`
     :books: 免费的计算机编程类中文书籍，欢迎投稿
 
-*   [SecWiki/sec-chart](https://github.com/SecWiki/sec-chart) ⭐: 6184 ⌨️:\
+*   [SecWiki/sec-chart](https://github.com/SecWiki/sec-chart) ⭐: 6185 ⌨️:\
     安全思维导图集合
 
 *   [SpringForAll/spring-guides-translation](https://github.com/SpringForAll/spring-guides-translation) ⭐: 794 ⌨️:  `guides` `spring`
     Spring官方教程【中文版】，最好的入门指南！
 
-*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐: 50391 ⌨️:  `android` `awesome` `ui`
+*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐: 50401 ⌨️:  `android` `awesome` `ui`
     A curated list of awesome Android UI/UX libraries
 
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) ⭐: 30266 ⌨️:  `api` `apis` `cloudmusic` `javascript` `neteasecloud` `nodejs`
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) ⭐: 30262 ⌨️:  `api` `apis` `cloudmusic` `javascript` `neteasecloud` `nodejs`
     网易云音乐 Node.js API service
 
 *   [hackstoic/kubernetes\_practice](https://github.com/hackstoic/kubernetes_practice) ⭐: 475 ⌨️:  `blogs` `cka` `documentation` `k8s` `kubernetes`
     kubernetes实践指南(内容不定期更新中。。。), 欢迎提PR。
 
-*   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐: 59708 ⌨️:\
+*   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐: 59706 ⌨️:\
     后端架构师技术图谱
 
 *   [angular/devkit](https://github.com/angular/devkit) ⭐: 545 ⌨️:  `angular` `cli` `devkit` `generator` `schematics` `sdk`
 
-*   [qianguyihao/Web](https://github.com/qianguyihao/Web) ⭐: 26292 ⌨️:  `css` `front-end` `html` `javascript`
+*   [qianguyihao/Web](https://github.com/qianguyihao/Web) ⭐: 26295 ⌨️:  `css` `front-end` `html` `javascript`
     千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 
 *   [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) ⭐: 9435 ⌨️:\
@@ -4783,7 +4783,7 @@
 *   [aben1188/awesome-wepy](https://github.com/aben1188/awesome-wepy) ⭐: 4332 ⌨️:\
     Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
 
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) ⭐: 174989 ⌨️:  `algorithm` `computer-science` `cpp` `interview` `java` `leetcode` `python` `system-design`
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) ⭐: 175005 ⌨️:  `algorithm` `computer-science` `cpp` `interview` `java` `leetcode` `python` `system-design`
     :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 *   [rememberber/WebDevMatters](https://github.com/rememberber/WebDevMatters) ⭐: 9 ⌨️:  `projectmanagement` `webdev` `webdevelopers` `webdevelopment` `webproject`
@@ -4795,7 +4795,7 @@
 *   [jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) ⭐: 4171 ⌨️:\
     机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
 
-*   [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) ⭐: 6401 ⌨️:\
+*   [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) ⭐: 6402 ⌨️:\
     C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 
 *   [jobbole/awesome-android-cn](https://github.com/jobbole/awesome-android-cn) ⭐: 1541 ⌨️:\
@@ -4807,7 +4807,7 @@
 *   [jobbole/awesome-css-cn](https://github.com/jobbole/awesome-css-cn) ⭐: 1678 ⌨️:\
     CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等
 
-*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) ⭐: 15444 ⌨️:\
+*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) ⭐: 15445 ⌨️:\
     Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 
 *   [oliverpicton/WebApiContrib.MessageHandlers.Html](https://github.com/oliverpicton/WebApiContrib.MessageHandlers.Html) ⭐: 1 ⌨️:\
@@ -4828,25 +4828,25 @@
 *   [brillout/awesome-angular-components](https://github.com/brillout/awesome-angular-components) ⭐: 3235 ⌨️:  `angular-component` `angular-components` `angular-library` `angular2-component` `angular2-components` `angular2-directive` `angular2-library` `angular2-modal` `angular2-toaster` `devarchy` `ng2`
     Catalog of Angular 2+ Components & Libraries
 
-*   [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) ⭐: 21814 ⌨️:  `android-studio` `clion` `datagrip` `gogland` `intellij` `intellij-idea` `java` `jetbrains` `phpstorm` `pycharm` `rubymine` `tutorial` `webstorm`
+*   [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) ⭐: 21816 ⌨️:  `android-studio` `clion` `datagrip` `gogland` `intellij` `intellij-idea` `java` `jetbrains` `phpstorm` `pycharm` `rubymine` `tutorial` `webstorm`
     IntelliJ IDEA 简体中文专题教程
 
 *   [osbzr/gooderp\_addons](https://github.com/osbzr/gooderp_addons) ⭐: 1326 ⌨️:  `accounting` `china` `erp` `finance` `fork` `odoo` `project` `python` `scm`
     可能是中国用户数最多的开源ERP
 
-*   [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) ⭐: 35011 ⌨️:  `angular` `bun` `csv` `data` `database` `deno` `excel` `grid` `html` `html5` `ios` `javascript` `json` `nodejs` `react` `spreadsheet` `table` `vue` `xlsx` `xml`
+*   [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) ⭐: 35013 ⌨️:  `angular` `bun` `csv` `data` `database` `deno` `excel` `grid` `html` `html5` `ios` `javascript` `json` `nodejs` `react` `spreadsheet` `table` `vue` `xlsx` `xml`
     📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 
 *   [hupo376787/A-Beautiful-UWP-Frame](https://github.com/hupo376787/A-Beautiful-UWP-Frame) ⭐: 49 ⌨️:  `uwp`
     A Beautiful UWP Frame, maybe the most beautiful one.
 
-*   [staticfile/static](https://github.com/staticfile/static) ⭐: 1417 ⌨️:\
+*   [staticfile/static](https://github.com/staticfile/static) ⭐: 1416 ⌨️:\
     开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
 
 *   [1021683053/awesome-raspberry-pi-zh](https://github.com/1021683053/awesome-raspberry-pi-zh) ⭐: 303 ⌨️:  `awesome-raspberry-pi` `linux` `linux-arm` `raspberry-pi` `raspberry-pi-zh` `supports-raspberry-pi` `ubuntu`
     树莓派工具，镜像，教程，文章
 
-*   [dotnet/coreclr](https://github.com/dotnet/coreclr) ⭐: 12808 ⌨️:  `c-sharp` `coreclr` `corefx` `dotnet` `dotnet-core` `dotnetcore` `jit` `runtime`
+*   [dotnet/coreclr](https://github.com/dotnet/coreclr) ⭐: 12807 ⌨️:  `c-sharp` `coreclr` `corefx` `dotnet` `dotnet-core` `dotnetcore` `jit` `runtime`
     CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 
 *   [dotnet/standard](https://github.com/dotnet/standard) ⭐: 3065 ⌨️:\
@@ -4866,16 +4866,16 @@
 
 ## C\#
 
-*   [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) ⭐: 270 ⌨️: C#
+*   [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) ⭐: 272 ⌨️: C#
     Source only package that exposes newer .net and C# features to older runtimes.
 
-*   [lepoco/wpfui](https://github.com/lepoco/wpfui) ⭐: 7461 ⌨️: C# `csharp` `dotnet` `fluent` `mica` `theme` `ui` `windows-10` `windows-11` `wpf` `wpf-controls` `wpf-ui` `xaml`
+*   [lepoco/wpfui](https://github.com/lepoco/wpfui) ⭐: 7464 ⌨️: C# `csharp` `dotnet` `fluent` `mica` `theme` `ui` `windows-10` `windows-11` `wpf` `wpf-controls` `wpf-ui` `xaml`
     WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
 
-*   [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) ⭐: 2165 ⌨️: C# `clean` `csharp` `ddd` `design-patterns` `domain-driven-design` `dotnet` `dotnet-core` `enum` `hacktoberfest`
+*   [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) ⭐: 2166 ⌨️: C# `clean` `csharp` `ddd` `design-patterns` `domain-driven-design` `dotnet` `dotnet-core` `enum` `hacktoberfest`
     A base class for quickly and easily creating strongly typed enum replacements in C#.
 
-*   [AntdUI/AntdUI](https://github.com/AntdUI/AntdUI) ⭐: 371 ⌨️: C# `ant-design` `antd` `antdesign` `control` `csharp` `ui` `usercontrol` `winform` `winform-ui` `winforms`
+*   [AntdUI/AntdUI](https://github.com/AntdUI/AntdUI) ⭐: 376 ⌨️: C# `ant-design` `antd` `antdesign` `control` `csharp` `ui` `usercontrol` `winform` `winform-ui` `winforms`
     👚 基于 Ant Design 设计语言的 Winform 界面库
 
 *   [nor0x/Dots](https://github.com/nor0x/Dots) ⭐: 286 ⌨️: C# `avalonia` `dotnet` `sdk`
@@ -4884,16 +4884,16 @@
 *   [Layui-WPF-Team/Layui-WPF](https://github.com/Layui-WPF-Team/Layui-WPF) ⭐: 392 ⌨️: C#
     这是一个WPF版的Layui前端UI样式库
 
-*   [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) ⭐: 6973 ⌨️: C# `algorithm` `algorithms` `algorithms-and-data-structures` `c-sharp` `data-structures` `hacktoberfest`
+*   [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) ⭐: 6975 ⌨️: C# `algorithm` `algorithms` `algorithms-and-data-structures` `c-sharp` `data-structures` `hacktoberfest`
     All algorithms implemented in C#.
 
-*   [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) ⭐: 11703 ⌨️: C# `create` `creation` `csharp` `dotnet` `export` `generate` `html` `invoice` `nuget` `pdf` `report` `reporting` `tool`
+*   [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) ⭐: 11714 ⌨️: C# `create` `creation` `csharp` `dotnet` `export` `generate` `html` `invoice` `nuget` `pdf` `report` `reporting` `tool`
     QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.
 
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) ⭐: 8429 ⌨️: C# `access` `email` `excel` `kms` `lync` `microsoft` `msoffice` `office` `office-free` `office365` `onedrive` `onenote` `outlook` `ppt` `project` `publisher` `skype` `teams` `visio` `word`
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) ⭐: 8436 ⌨️: C# `access` `email` `excel` `kms` `lync` `microsoft` `msoffice` `office` `office-free` `office365` `onedrive` `onenote` `outlook` `ppt` `project` `publisher` `skype` `teams` `visio` `word`
     一键自动化 下载、安装、激活 Office 的利器。
 
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) ⭐: 26837 ⌨️: C# `blazor` `cross-platform` `csharp` `desktop` `desktop-app` `desktop-application` `developer-tools` `extensible` `fluent` `fluent-design` `linux` `macos` `mica` `syntax-highlighting` `typescript` `windows` `windows-10` `windows-11` `winui`
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) ⭐: 26841 ⌨️: C# `blazor` `cross-platform` `csharp` `desktop` `desktop-app` `desktop-application` `developer-tools` `extensible` `fluent` `fluent-design` `linux` `macos` `mica` `syntax-highlighting` `typescript` `windows` `windows-10` `windows-11` `winui`
     A Swiss Army knife for developers.
 
 *   [bcgit/bc-csharp](https://github.com/bcgit/bc-csharp) ⭐: 1647 ⌨️: C# `bouncycastle` `cryptography` `dtls` `encryption` `open-source` `openpgp` `post-quantum` `security` `tls`
@@ -4905,7 +4905,7 @@
 *   [hishamco/My.Extensions.Localization.Json](https://github.com/hishamco/My.Extensions.Localization.Json) ⭐: 100 ⌨️: C# `json` `localization`
     JSON Localization Resources
 
-*   [riok/mapperly](https://github.com/riok/mapperly) ⭐: 2557 ⌨️: C# `c-sharp` `csharp` `csharp-sourcegenerator` `dotnet` `dotnet-core` `hacktoberfest` `mapping` `roslyn`
+*   [riok/mapperly](https://github.com/riok/mapperly) ⭐: 2559 ⌨️: C# `c-sharp` `csharp` `csharp-sourcegenerator` `dotnet` `dotnet-core` `hacktoberfest` `mapping` `roslyn`
     A .NET source generator for generating object mappings. No runtime reflection.
 
 *   [SparkDevNetwork/Rock](https://github.com/SparkDevNetwork/Rock) ⭐: 575 ⌨️: C# `c-sharp` `chms` `rock-rms`
@@ -4917,7 +4917,7 @@
 *   [bing-framework/Bing.Serialization](https://github.com/bing-framework/Bing.Serialization) ⭐: 1 ⌨️: C#
     Bing应用框架的序列化类库
 
-*   [VerifyTests/Verify](https://github.com/VerifyTests/Verify) ⭐: 2485 ⌨️: C# `assertion-library` `snapshot` `snapshot-testing` `testing`
+*   [VerifyTests/Verify](https://github.com/VerifyTests/Verify) ⭐: 2486 ⌨️: C# `assertion-library` `snapshot` `snapshot-testing` `testing`
     Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
 
 *   [hlz2516/AutoScaleHelper](https://github.com/hlz2516/AutoScaleHelper) ⭐: 48 ⌨️: C#
@@ -4932,7 +4932,7 @@
 *   [anobaka/InsideWorld](https://github.com/anobaka/InsideWorld) ⭐: 388 ⌨️: C# `acg` `anime` `anime-manager` `audio-manager` `av` `bilibili-download` `comic` `doushijin` `file-processor` `filemanager` `game-manager` `image-manager` `medialibrary` `mod-manager` `movie-manager` `toolkit` `video-manager`
     A local media manager for all types of files. 二次元老司机专用的本地媒体文件管理器，支持管理和处理音视频、本子、图集、小说、哔哩哔哩视频、游戏甚至mod等各类资源
 
-*   [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) ⭐: 455 ⌨️: C# `dotnet` `dotnet-core` `opentelemetry`
+*   [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) ⭐: 457 ⌨️: C# `dotnet` `dotnet-core` `opentelemetry`
     This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
 
 *   [serilog/serilog-extensions-logging](https://github.com/serilog/serilog-extensions-logging) ⭐: 313 ⌨️: C# `aspnetcore` `serilog`
@@ -4950,19 +4950,19 @@
 *   [xixixixixiao/wechat-bot](https://github.com/xixixixixiao/wechat-bot) ⭐: 6 ⌨️: C#
     A WeChat bot for sending daily messages.
 
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) ⭐: 9510 ⌨️: C# `downloader`
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) ⭐: 9519 ⌨️: C# `downloader`
     Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 
-*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) ⭐: 2230 ⌨️: C# `automation` `automation-ui` `dotnet` `framework` `gui` `microsoft` `qa` `testing` `testing-tools` `ui-automation` `uiautomation` `user-interface` `winforms` `wpf`
+*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) ⭐: 2231 ⌨️: C# `automation` `automation-ui` `dotnet` `framework` `gui` `microsoft` `qa` `testing` `testing-tools` `ui-automation` `uiautomation` `user-interface` `winforms` `wpf`
     UI automation library for .Net
 
 *   [bing-framework/Bing.Abstractions](https://github.com/bing-framework/Bing.Abstractions) ⭐: 1 ⌨️: C#
     Bing应用框架的核心抽象类库
 
-*   [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) ⭐: 3737 ⌨️: C# `assertions` `bdd-style` `c-sharp` `fluent-assertions` `hacktoberfest` `mstest` `tdd` `unit-testing` `xunit`
+*   [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) ⭐: 3740 ⌨️: C# `assertions` `bdd-style` `c-sharp` `fluent-assertions` `hacktoberfest` `mstest` `tdd` `unit-testing` `xunit`
     A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
 
-*   [Sergio0694/PolySharp](https://github.com/Sergio0694/PolySharp) ⭐: 1767 ⌨️: C# `csharp` `dotnet` `dotnet-core` `dotnet-framework` `dotnet-standard` `roslyn` `roslyn-analyzer` `roslyn-generator`
+*   [Sergio0694/PolySharp](https://github.com/Sergio0694/PolySharp) ⭐: 1768 ⌨️: C# `csharp` `dotnet` `dotnet-core` `dotnet-framework` `dotnet-standard` `roslyn` `roslyn-analyzer` `roslyn-generator`
     PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun! 🚀
 
 *   [teomane/CAP.HealthCheck](https://github.com/teomane/CAP.HealthCheck) ⭐: 5 ⌨️: C# `eventbus` `healthcheck` `outbox-pattern` `postgresql` `rabbitmq`
@@ -4977,7 +4977,7 @@
 *   [cqjjjzr/MusicBee-NeteaseLyrics](https://github.com/cqjjjzr/MusicBee-NeteaseLyrics) ⭐: 180 ⌨️: C#
     A plugin to retrieve lyrics from Netease Cloud Music for MusicBee.
 
-*   [SteeltoeOSS/Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) ⭐: 1004 ⌨️: C# `application-monitoring` `cloud-native` `configuration` `dotnet` `dotnet-core` `load-balancer` `microservices` `service-discovery`
+*   [SteeltoeOSS/Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) ⭐: 1003 ⌨️: C# `application-monitoring` `cloud-native` `configuration` `dotnet` `dotnet-core` `load-balancer` `microservices` `service-discovery`
     .NET Components for Externalized Configuration, Database Connectors, Service Discovery, Logging and Distributed Tracing, Application Management, Security, and more.
 
 *   [dorisoy/Wexflow](https://github.com/dorisoy/Wexflow) ⭐: 16 ⌨️: C#
@@ -4998,7 +4998,7 @@
 *   [catcherwong/nacos-csharp-extensions](https://github.com/catcherwong/nacos-csharp-extensions) ⭐: 17 ⌨️: C# `nacos` `refit` `webapiclient`
     Some extensions for nacos-sdk-csharp
 
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) ⭐: 19926 ⌨️: C# `android-app` `avalonia` `avaloniaui` `cross-platform` `crossplatform` `csharp` `dotnet` `dotnetcore` `ios-app` `linux-app` `macos-app` `mvvm` `steam` `steamtools` `windows-app` `wpf` `xaml`
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) ⭐: 19937 ⌨️: C# `android-app` `avalonia` `avaloniaui` `cross-platform` `crossplatform` `csharp` `dotnet` `dotnetcore` `ios-app` `linux-app` `macos-app` `mvvm` `steam` `steamtools` `windows-app` `wpf` `xaml`
     🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 *   [microsoft/data-accelerator](https://github.com/microsoft/data-accelerator) ⭐: 296 ⌨️: C# `apache-spark` `azure` `big-data` `cosmosdb` `docker` `eventhub` `hdinsight` `iot` `iothub` `kafka` `kafka-streams` `nodejs` `react` `servicefabric` `spark` `spark-sql` `spark-streaming` `sparksql` `streaming` `streaming-data`
@@ -5010,16 +5010,16 @@
 *   [GMYXDS/MstscManager](https://github.com/GMYXDS/MstscManager) ⭐: 255 ⌨️: C#
     一个支持MSTSC，Putty，Xshell，Xftp，Radmin，VNC，Winscp，SecureCRT的远程管理器
 
-*   [robinrodricks/FluentFTP](https://github.com/robinrodricks/FluentFTP) ⭐: 3087 ⌨️: C# `ftp` `ftp-client` `ftps` `iis` `net-core` `net-framework` `net-standard` `ssl` `tls` `unix` `uwp`
+*   [robinrodricks/FluentFTP](https://github.com/robinrodricks/FluentFTP) ⭐: 3089 ⌨️: C# `ftp` `ftp-client` `ftps` `iis` `net-core` `net-framework` `net-standard` `ssl` `tls` `unix` `uwp`
     An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, FXP support, UTF-8 support, Async/await support, Powershell support and more. Written entirely in C#.
 
-*   [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB) ⭐: 2189 ⌨️: C#
+*   [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB) ⭐: 2190 ⌨️: C#
     Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle tools.
 
 *   [zlzforever/MSFramework](https://github.com/zlzforever/MSFramework) ⭐: 6 ⌨️: C#
     A micro service template
 
-*   [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) ⭐: 1912 ⌨️: C# `c-sharp` `compiler` `cpp` `dart` `deserialization` `javascript` `json` `marshalling` `real-time` `rpc` `rust` `serialization` `typescript` `zero-copy`
+*   [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) ⭐: 1914 ⌨️: C# `c-sharp` `compiler` `cpp` `dart` `deserialization` `javascript` `json` `marshalling` `real-time` `rpc` `rust` `serialization` `typescript` `zero-copy`
     🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 
 *   [ncalc/ncalc](https://github.com/ncalc/ncalc) ⭐: 578 ⌨️: C# `antlr` `antlr4` `async` `csharp` `dotnet` `evaluation` `expressions` `math` `ncalc` `parser` `runtime`
@@ -5046,7 +5046,7 @@
 *   [SpringHgui/serilog-sinks-skywalking](https://github.com/SpringHgui/serilog-sinks-skywalking) ⭐: 8 ⌨️: C# `aspnetcore` `serilog` `sink` `skywalking`
     Write Serilog log events to skywalking apm
 
-*   [projectkudu/kudu](https://github.com/projectkudu/kudu) ⭐: 3120 ⌨️: C#
+*   [projectkudu/kudu](https://github.com/projectkudu/kudu) ⭐: 3121 ⌨️: C#
     Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure.
 
 *   [Suprcode/Crystal](https://github.com/Suprcode/Crystal) ⭐: 1145 ⌨️: C#
@@ -5073,10 +5073,10 @@
 *   [ElasticLINQ/ElasticLINQ](https://github.com/ElasticLINQ/ElasticLINQ) ⭐: 383 ⌨️: C# `c-sharp` `elasticsearch` `linq`
     Use LINQ to query Elasticsearch with results as .NET objects
 
-*   [Jackett/Jackett](https://github.com/Jackett/Jackett) ⭐: 12105 ⌨️: C# `api` `couchpotato` `duckietv` `hacktoberfest` `indexer` `jackett` `lidarr` `medusa` `mylar3` `nefarious` `newznab` `proxy` `radarr` `rss` `rss-proxy` `sickrage` `sonarr` `torrent` `torznab` `trackers`
+*   [Jackett/Jackett](https://github.com/Jackett/Jackett) ⭐: 12108 ⌨️: C# `api` `couchpotato` `duckietv` `hacktoberfest` `indexer` `jackett` `lidarr` `medusa` `mylar3` `nefarious` `newznab` `proxy` `radarr` `rss` `rss-proxy` `sickrage` `sonarr` `torrent` `torznab` `trackers`
     API Support for your favorite torrent trackers
 
-*   [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) ⭐: 1618 ⌨️: C#
+*   [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) ⭐: 1619 ⌨️: C#
     一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐
 
 *   [serilog-contrib/serilog-sinks-elasticsearch](https://github.com/serilog-contrib/serilog-sinks-elasticsearch) ⭐: 433 ⌨️: C# `elasticsearch` `looking-for-maintainer` `serilog` `serilog-sink`
@@ -5085,7 +5085,7 @@
 *   [manojlds/cmd](https://github.com/manojlds/cmd) ⭐: 354 ⌨️: C#
     C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
 
-*   [redis/redis-om-dotnet](https://github.com/redis/redis-om-dotnet) ⭐: 459 ⌨️: C# `dotnet` `linq` `redis`
+*   [redis/redis-om-dotnet](https://github.com/redis/redis-om-dotnet) ⭐: 460 ⌨️: C# `dotnet` `linq` `redis`
     Object mapping, and more, for Redis and .NET
 
 *   [tomakita/Colorful.Console](https://github.com/tomakita/Colorful.Console) ⭐: 1299 ⌨️: C#
@@ -5097,7 +5097,7 @@
 *   [filipnavara/dotnet-hotrewatch](https://github.com/filipnavara/dotnet-hotrewatch) ⭐: 101 ⌨️: C#
     dotnet watch we always wanted
 
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ⭐: 14235 ⌨️: C# `command-line` `downloader` `m3u8` `m3u8-downloader` `m3u8-parser` `m3u8dl-cli` `windows`
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ⭐: 14242 ⌨️: C# `command-line` `downloader` `m3u8` `m3u8-downloader` `m3u8-parser` `m3u8dl-cli` `windows`
     \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 
 *   [dtm-labs/client-csharp](https://github.com/dtm-labs/client-csharp) ⭐: 123 ⌨️: C# `csharp` `database` `distributed` `distributed-transactions` `microservice` `saga` `tcc` `transaction`
@@ -5109,7 +5109,7 @@
 *   [barnhill/barcodelib](https://github.com/barnhill/barcodelib) ⭐: 733 ⌨️: C# `barcode` `barcode-generator` `barcode-images` `barcodes` `csharp` `csharp-library`
     C# Barcode Image Generation Library
 
-*   [scriban/scriban](https://github.com/scriban/scriban) ⭐: 3140 ⌨️: C# `handlebars` `liquid` `mustache` `templating` `templating-engine` `templating-language` `text-templating`
+*   [scriban/scriban](https://github.com/scriban/scriban) ⭐: 3141 ⌨️: C# `handlebars` `liquid` `mustache` `templating` `templating-engine` `templating-language` `text-templating`
     A fast, powerful, safe and lightweight scripting language and engine for .NET
 
 *   [gottscj/Hangfire.Mongo](https://github.com/gottscj/Hangfire.Mongo) ⭐: 259 ⌨️: C#
@@ -5196,13 +5196,13 @@
 *   [wmchuang/EasyElasticSearch](https://github.com/wmchuang/EasyElasticSearch) ⭐: 18 ⌨️: C# `elasticsearch` `netcore`
     EasyElasticSearch是支持ES的增删改查的一个基础类库
 
-*   [files-community/Files](https://github.com/files-community/Files) ⭐: 33973 ⌨️: C# `alternatives` `csharp` `customization` `developer-tools` `dotnet` `file-manager` `files` `fluent` `fluent-design` `git` `good-first-issue` `power-user` `productivity` `utilities` `winappsdk` `windows` `windows-10` `windows-11` `winui` `xaml`
+*   [files-community/Files](https://github.com/files-community/Files) ⭐: 34003 ⌨️: C# `alternatives` `csharp` `customization` `developer-tools` `dotnet` `file-manager` `files` `fluent` `fluent-design` `git` `good-first-issue` `power-user` `productivity` `utilities` `winappsdk` `windows` `windows-10` `windows-11` `winui` `xaml`
     Building the best file manager for Windows
 
-*   [RicoSuter/NJsonSchema](https://github.com/RicoSuter/NJsonSchema) ⭐: 1384 ⌨️: C#
+*   [RicoSuter/NJsonSchema](https://github.com/RicoSuter/NJsonSchema) ⭐: 1386 ⌨️: C#
     JSON Schema reader, generator and validator for .NET
 
-*   [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) ⭐: 1527 ⌨️: C# `database` `dotnet` `entity-framework` `entity-framework-core` `npgsql` `postgres` `postgresql` `sql`
+*   [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) ⭐: 1529 ⌨️: C# `database` `dotnet` `entity-framework` `entity-framework-core` `npgsql` `postgres` `postgresql` `sql`
     Entity Framework Core provider for PostgreSQL
 
 *   [mettoc/Abp.WorkflowCore](https://github.com/mettoc/Abp.WorkflowCore) ⭐: 151 ⌨️: C#
@@ -5211,7 +5211,7 @@
 *   [Alex1911-Jiang/GreenOnions](https://github.com/Alex1911-Jiang/GreenOnions) ⭐: 157 ⌨️: C# `cqhttp` `cqhttp-mirai` `mirai-bot` `onebot` `qq-bot` `qqbot` `qqrobot`
     一个Mirai的QQ机器人, 实现了搜图, RSS订阅转发, 根据PixivID下载原图, 翻译, setu等功能
 
-*   [quartznet/quartznet](https://github.com/quartznet/quartznet) ⭐: 6494 ⌨️: C# `c-sharp` `cron` `dotnet` `dotnetcore` `hacktoberfest` `job-scheduler` `nuget` `quartz` `scheduled-jobs` `scheduled-tasks` `scheduler` `scheduling` `trigger`
+*   [quartznet/quartznet](https://github.com/quartznet/quartznet) ⭐: 6496 ⌨️: C# `c-sharp` `cron` `dotnet` `dotnetcore` `hacktoberfest` `job-scheduler` `nuget` `quartz` `scheduled-jobs` `scheduled-tasks` `scheduler` `scheduling` `trigger`
     Quartz Enterprise Scheduler .NET
 
 *   [rusuly/MySqlCdc](https://github.com/rusuly/MySqlCdc) ⭐: 118 ⌨️: C# `binlog` `cdc` `change-data-capture` `dotnet` `mariadb` `mysql` `real-time` `replication`
@@ -5238,7 +5238,7 @@
 *   [HEF-Sharp/HEF.Flink](https://github.com/HEF-Sharp/HEF.Flink) ⭐: 19 ⌨️: C#
     Flink dotNet sdk by HEF
 
-*   [ClosedXML/ClosedXML.Report](https://github.com/ClosedXML/ClosedXML.Report) ⭐: 542 ⌨️: C# `c-sharp` `closedxml` `dotnet` `excel` `reporting`
+*   [ClosedXML/ClosedXML.Report](https://github.com/ClosedXML/ClosedXML.Report) ⭐: 543 ⌨️: C# `c-sharp` `closedxml` `dotnet` `excel` `reporting`
     ClosedXML.Report is a tool for report generation with which you can easily export any data from your .NET classes to Excel using a XLSX-template.
 
 *   [rickyah/ini-parser](https://github.com/rickyah/ini-parser) ⭐: 966 ⌨️: C# `c-sharp` `cli` `config` `config-management` `configuration` `configuration-file` `configuration-management` `dotnet` `ini` `ini-parser` `iniparser` `mono` `monodevelop` `nuget` `unity-scripts` `unity3d` `unity3d-games`
@@ -5256,7 +5256,7 @@
 *   [difudotnet/CAP.RedisMQ.Extensions](https://github.com/difudotnet/CAP.RedisMQ.Extensions) ⭐: 10 ⌨️: C#
     CAP RedisMQ 队列扩展
 
-*   [LibUsbDotNet/LibUsbDotNet](https://github.com/LibUsbDotNet/LibUsbDotNet) ⭐: 554 ⌨️: C#
+*   [LibUsbDotNet/LibUsbDotNet](https://github.com/LibUsbDotNet/LibUsbDotNet) ⭐: 555 ⌨️: C#
     My updates to LibUsbDotNet, an excellent library for cross-platform USB device control using Mono/.NET
 
 *   [bing-framework/Bing.BluetoothPrinter](https://github.com/bing-framework/Bing.BluetoothPrinter) ⭐: 6 ⌨️: C#
@@ -5288,7 +5288,7 @@
 *   [phil-guo/ketchup](https://github.com/phil-guo/ketchup) ⭐: 196 ⌨️: C# `consul` `docker` `dotnet-core` `grpc` `k8s` `microservice` `rabbitmq` `redis`
     ketchup （番茄酱） 是一个基于dotnet core的微服务框架。
 
-*   [dotnetcore/AgileConfig](https://github.com/dotnetcore/AgileConfig) ⭐: 1496 ⌨️: C# `agileconfig` `configuration` `configuration-center` `configuration-management` `configuration-server` `dotnet-core` `microservice` `websocket`
+*   [dotnetcore/AgileConfig](https://github.com/dotnetcore/AgileConfig) ⭐: 1497 ⌨️: C# `agileconfig` `configuration` `configuration-center` `configuration-management` `configuration-server` `dotnet-core` `microservice` `websocket`
     基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server
 
 *   [zmjack/Chinese](https://github.com/zmjack/Chinese) ⭐: 258 ⌨️: C#
@@ -5330,19 +5330,19 @@
 *   [castleproject/Core](https://github.com/castleproject/Core) ⭐: 2200 ⌨️: C#
     Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
 
-*   [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) ⭐: 3600 ⌨️: C# `dotnet` `engine` `expression-evaluator` `nuget` `rules` `rules-engine` `workflow`
+*   [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) ⭐: 3601 ⌨️: C# `dotnet` `engine` `expression-evaluator` `nuget` `rules` `rules-engine` `workflow`
     A Json based Rules Engine with extensive Dynamic expression support
 
 *   [SapphireDb/SapphireDb](https://github.com/SapphireDb/SapphireDb) ⭐: 402 ⌨️: C# `aspnet` `core` `database` `dbcontext` `entity` `entity-framework` `entityframework` `firebase` `firestore` `net` `net-core` `realtime` `realtime-data-synchronization` `realtime-database` `sapphire-db` `self-hosted` `server-sent-events` `signalr` `sse` `websockets`
     SapphireDb Server, a self-hosted, easy to use realtime database for Asp.Net Core and EF Core
 
-*   [andrewlock/NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) ⭐: 652 ⌨️: C# `hacktoberfest`
+*   [andrewlock/NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) ⭐: 655 ⌨️: C# `hacktoberfest`
     Small package to allow adding security headers to ASP.NET Core websites
 
 *   [SmallChi/JT808Gateway](https://github.com/SmallChi/JT808Gateway) ⭐: 183 ⌨️: C# `808` `808-tcp` `808-udp` `csharp` `dotnetcore` `gb808` `gps` `gps-gateway` `jt808` `jt808-dotnetty` `jt808-gateway` `jt808-pipeline` `net6` `tracker`
     JT/T808 Gateway,JT808 Gateway, GB808 Gateway(support 2011, 2013, 2019 version) JT/T808网关、JT808网关、GB808网关(支持2011、2013、2019版本)
 
-*   [EPPlusSoftware/EPPlus](https://github.com/EPPlusSoftware/EPPlus) ⭐: 1787 ⌨️: C# `epplus` `excel` `net` `netcore` `netframework` `netstandard` `ooxml` `spreadsheet`
+*   [EPPlusSoftware/EPPlus](https://github.com/EPPlusSoftware/EPPlus) ⭐: 1788 ⌨️: C# `epplus` `excel` `net` `netcore` `netframework` `netstandard` `ooxml` `spreadsheet`
     EPPlus-Excel spreadsheets for .NET
 
 *   [Mcdull0921/NetTask](https://github.com/Mcdull0921/NetTask) ⭐: 63 ⌨️: C#
@@ -5368,7 +5368,7 @@
 *   [soul-soft/Dapper.Linq](https://github.com/soul-soft/Dapper.Linq) ⭐: 153 ⌨️: C# `custom-functions` `dapper` `linq-to-sql` `mysql` `object-to-sql` `orm` `sqlite` `sqlserver` `subquery` `windows-function`
     Dapper.Linq
 
-*   [oleg-shilo/cs-script](https://github.com/oleg-shilo/cs-script) ⭐: 1612 ⌨️: C#
+*   [oleg-shilo/cs-script](https://github.com/oleg-shilo/cs-script) ⭐: 1613 ⌨️: C#
     C# scripting platform
 
 *   [cosmos-stack/cosmos-serialization](https://github.com/cosmos-stack/cosmos-serialization) ⭐: 1 ⌨️: C# `binary` `jil` `json` `kooboo-json` `litjson` `messagepack` `nett` `protobuf` `serialization` `toml` `xml` `yaml` `zeroformatter`
@@ -5380,13 +5380,13 @@
 *   [alipay/alipay-sdk-net-all](https://github.com/alipay/alipay-sdk-net-all) ⭐: 200 ⌨️: C# `alipay` `alipay-sdk` `csharp` `netcore2` `sdk`
     支付宝开放平台 Alipay SDK for .NET
 
-*   [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) ⭐: 3230 ⌨️: C# `database` `database-schema` `db2` `dotnet` `fluentmigrator` `migration` `mysql` `oracle` `postgres` `redshift` `snowflake` `sql` `sql-server`
+*   [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) ⭐: 3231 ⌨️: C# `database` `database-schema` `db2` `dotnet` `fluentmigrator` `migration` `mysql` `oracle` `postgres` `redshift` `snowflake` `sql` `sql-server`
     Fluent migrations framework for .NET
 
 *   [mayuki/Cocona](https://github.com/mayuki/Cocona) ⭐: 3229 ⌨️: C# `cli` `command-line` `console` `csharp` `dotnet` `dotnet-core`
     Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
 
-*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) ⭐: 16741 ⌨️: C# `angular` `aspnetcore` `clean-architecture` `entity-framework-core` `react` `template` `webapi`
+*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) ⭐: 16748 ⌨️: C# `angular` `aspnetcore` `clean-architecture` `entity-framework-core` `react` `template` `webapi`
     Clean Architecture Solution Template for ASP.NET Core
 
 *   [jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) ⭐: 5001 ⌨️: C# `aspnet-core` `clean-architecture` `code-first` `entity-framework-core` `northwind-database`
@@ -5404,7 +5404,7 @@
 *   [dotnet-lab/BTFindTree](https://github.com/dotnet-lab/BTFindTree) ⭐: 21 ⌨️: C#
     This project provides efficient data structures for the NCaller project, optimizing search performance using a combination of binary search and bucketing.
 
-*   [Squidex/squidex](https://github.com/Squidex/squidex) ⭐: 2244 ⌨️: C# `asp-net` `asp-net-core` `cms` `csharp` `headless-cms` `mongodb`
+*   [Squidex/squidex](https://github.com/Squidex/squidex) ⭐: 2246 ⌨️: C# `asp-net` `asp-net-core` `cms` `csharp` `headless-cms` `mongodb`
     Headless CMS and Content Managment Hub
 
 *   [2881099/IdleBus](https://github.com/2881099/IdleBus) ⭐: 109 ⌨️: C#
@@ -5446,13 +5446,13 @@
 *   [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) ⭐: 2248 ⌨️: C# `csharp` `dotnet` `ef6` `efcore` `entity-framework` `entity-framework-core` `entityframework`
     Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
 
-*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) ⭐: 7729 ⌨️: C# `c-sharp` `chinese-characters` `converter` `dotnet` `dotnet-core` `ime`
+*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) ⭐: 7730 ⌨️: C# `c-sharp` `chinese-characters` `converter` `dotnet` `dotnet-core` `ime`
     ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 
 *   [Coldairarrow/Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) ⭐: 1238 ⌨️: C#
     Admin Fx Based On .NET 5 + Ant Design Vue
 
-*   [jbogard/MediatR](https://github.com/jbogard/MediatR) ⭐: 11046 ⌨️: C# `hacktoberfest`
+*   [jbogard/MediatR](https://github.com/jbogard/MediatR) ⭐: 11050 ⌨️: C# `hacktoberfest`
     Simple, unambitious mediator implementation in .NET
 
 *   [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp) ⭐: 890 ⌨️: C# `csharp` `gtk`
@@ -5467,7 +5467,7 @@
 *   [yuchen1030/Log2Net](https://github.com/yuchen1030/Log2Net) ⭐: 27 ⌨️: C# `log-logfiles-logging-tracing`
     Log2Net是一个用于收集日志到数据库或文件的组件，支持.NET和.NetCore平台。  此组件自动收集系统的运行日志（服务器运行情况、在线人数等）、异常日志。程序员还可以添加自定义日志。  该组件支持.NET平台和.NETCore平台，支持将日志写入到文本文件、SQL Server、Oracle、MySQL，可以方便地扩展到其他数据库。  Log2NET is a tool for collecting log to databases or files for .NET and .NETCore. This component automatically collects the system's running logs (server operation, online statistics, etc.), exception logs. programmers can also add custom logs. This component supports.NET platform and.NETCore platform, supports file, sql server, oracle, mysql, and can be easily extended to other databases.
 
-*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) ⭐: 7376 ⌨️: C# `bmp` `c-sharp` `drawing` `exif` `gif` `graphics` `hacktoberfest` `image-processing` `jpeg` `netcore` `png` `tiff` `webp`
+*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) ⭐: 7378 ⌨️: C# `bmp` `c-sharp` `drawing` `exif` `gif` `graphics` `hacktoberfest` `image-processing` `jpeg` `netcore` `png` `tiff` `webp`
     :camera: A modern, cross-platform, 2D Graphics library for .NET
 
 *   [Mochengvia/PanuonUI.Silver](https://github.com/Mochengvia/PanuonUI.Silver) ⭐: 1646 ⌨️: C# `control` `csharp` `design` `ui` `wpf`
@@ -5500,13 +5500,13 @@
 *   [danielgerlag/conductor](https://github.com/danielgerlag/conductor) ⭐: 530 ⌨️: C# `workflow` `workflow-engine` `workflow-management-system`
     Distributed workflow server
 
-*   [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐: 10998 ⌨️: C# `architecture` `clean-architecture` `clean-code` `cqrs` `ddd` `ddd-architecture` `ddd-cqrs` `ddd-example` `design-patterns` `design-systems` `domain-driven-design` `dotnet` `dotnetcore` `entity-framework-core` `event-sourcing` `modularity` `monolith` `rest` `rest-api` `software-architecture`
+*   [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐: 11002 ⌨️: C# `architecture` `clean-architecture` `clean-code` `cqrs` `ddd` `ddd-architecture` `ddd-cqrs` `ddd-example` `design-patterns` `design-systems` `domain-driven-design` `dotnet` `dotnetcore` `entity-framework-core` `event-sourcing` `modularity` `monolith` `rest` `rest-api` `software-architecture`
     Full Modular Monolith application with Domain-Driven Design approach.
 
 *   [xuanye/dotbpe](https://github.com/xuanye/dotbpe) ⭐: 21 ⌨️: C#
     dotbpe rpc is a lightweight and high performance, easy to learn rpc framework
 
-*   [bitfoundation/bitplatform](https://github.com/bitfoundation/bitplatform) ⭐: 1070 ⌨️: C# `aspnetcore` `bitplatform` `blazor` `csharp` `css` `efcore` `hacktoberfest` `html` `maui` `odata` `wasm` `webapi`
+*   [bitfoundation/bitplatform](https://github.com/bitfoundation/bitplatform) ⭐: 1071 ⌨️: C# `aspnetcore` `bitplatform` `blazor` `csharp` `css` `efcore` `hacktoberfest` `html` `maui` `odata` `wasm` `webapi`
     Build all of your apps using what you already know and love ❤️
 
 *   [dadhi/DryIoc](https://github.com/dadhi/DryIoc) ⭐: 1011 ⌨️: C# `dependency-injection` `di-ioc-container` `dryioc` `inversion-of-control` `netcore` `netstandard` `performance` `prism` `simplicity` `xamarin`
@@ -5553,7 +5553,7 @@
 *   [meteatamel/knative-tutorial](https://github.com/meteatamel/knative-tutorial) ⭐: 482 ⌨️: C# `google-cloud` `knative` `knative-tutorial`
     A collection of samples for Knative Serving, Knative Eventing and Knative-GCP projects.
 
-*   [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) ⭐: 3996 ⌨️: C# `docx` `office` `openxml-format` `pptx`
+*   [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) ⭐: 3997 ⌨️: C# `docx` `office` `openxml-format` `pptx`
     Open XML SDK by Microsoft
 
 *   [ixre/cms](https://github.com/ixre/cms) ⭐: 328 ⌨️: C# `c-sharp` `cms` `docker` `linux` `net6`
@@ -5571,7 +5571,7 @@
 *   [danielcrenna/TypeKitchen](https://github.com/danielcrenna/TypeKitchen) ⭐: 17 ⌨️: C# `dotnet-standard` `fast` `metaprogramming` `reflection`
     TypeKitchen is a set of small libraries for fast metaprogramming in .NET Standard.
 
-*   [CypherCore/CypherCore](https://github.com/CypherCore/CypherCore) ⭐: 352 ⌨️: C#
+*   [CypherCore/CypherCore](https://github.com/CypherCore/CypherCore) ⭐: 353 ⌨️: C#
     CypherCore is an open source server project for World of Warcraft written in C#.
 
 *   [Fody/Costura](https://github.com/Fody/Costura) ⭐: 2381 ⌨️: C#
@@ -5580,7 +5580,7 @@
 *   [xin9le/FastEnum](https://github.com/xin9le/FastEnum) ⭐: 353 ⌨️: C# `csharp` `enum` `high-performance` `netstandard` `utility`
     The world fastest enum utilities for C#/.NET
 
-*   [paolosalvatori/ServiceBusExplorer](https://github.com/paolosalvatori/ServiceBusExplorer) ⭐: 2011 ⌨️: C# `azure` `azure-event-hub` `azure-event-hubs` `azure-eventhub` `azure-notification-hubs` `azure-notificationhub` `azure-relay` `azure-service-bus` `azure-servicebus` `dotnet` `messaging-entities` `notification-hubs` `service-bus` `windows-forms`
+*   [paolosalvatori/ServiceBusExplorer](https://github.com/paolosalvatori/ServiceBusExplorer) ⭐: 2012 ⌨️: C# `azure` `azure-event-hub` `azure-event-hubs` `azure-eventhub` `azure-notification-hubs` `azure-notificationhub` `azure-relay` `azure-service-bus` `azure-servicebus` `dotnet` `messaging-entities` `notification-hubs` `service-bus` `windows-forms`
     The Service Bus Explorer allows users to connect to a Service Bus namespace and administer messaging entities in an easy manner. The tool provides advanced features like import/export functionality or the ability to test topic, queues, subscriptions, relay services, notification hubs and events hubs.
 
 *   [htrlq/NCoreCoder.Framework](https://github.com/htrlq/NCoreCoder.Framework) ⭐: 29 ⌨️: C#
@@ -5588,7 +5588,7 @@
 *   [stulzq/reCAPTCHA.AspNetCore](https://github.com/stulzq/reCAPTCHA.AspNetCore) ⭐: 18 ⌨️: C#
     Google reCAPTCHA for ASP.NET Core 2
 
-*   [davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) ⭐: 7909 ⌨️: C#
+*   [davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) ⭐: 7911 ⌨️: C#
     This repository has examples of broken patterns in ASP.NET Core applications
 
 *   [RobThree/TwoFactorAuth.Net](https://github.com/RobThree/TwoFactorAuth.Net) ⭐: 338 ⌨️: C# `csharp` `dotnet` `multi-factor` `qrcode` `security` `totp` `two-factor` `twofactorauth`
@@ -5623,7 +5623,7 @@
 *   [RusKnyaz/Optimus](https://github.com/RusKnyaz/Optimus) ⭐: 81 ⌨️: C#
     Optimus is headless Web Browser fully implemented on .net.
 
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) ⭐: 8799 ⌨️: C# `c-sharp` `mremoteng` `multi-protocol` `rdp` `remote-access` `remote-desktop` `ssh` `windows`
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) ⭐: 8801 ⌨️: C# `c-sharp` `mremoteng` `multi-protocol` `rdp` `remote-access` `remote-desktop` `ssh` `windows`
     mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 
 *   [winstonwxj/ExcelCake](https://github.com/winstonwxj/ExcelCake) ⭐: 61 ⌨️: C# `dotnet` `dotnet-core2` `dotnetcore` `epplus` `excel` `netcore` `netcore2`
@@ -5641,7 +5641,7 @@
 *   [bing-framework/Bing.Offices](https://github.com/bing-framework/Bing.Offices) ⭐: 15 ⌨️: C#
     Bing.Offices是Bing应用框架的Office操作类库。 主要用于Excel、Word、Pdf相关功能操作。
 
-*   [angularsen/UnitsNet](https://github.com/angularsen/UnitsNet) ⭐: 2189 ⌨️: C# `abbreviations` `conversion` `converter` `csharp` `measure` `measurement` `measurements` `measures` `parse` `powershell` `quantities` `quantity` `unit` `unit-converter` `units` `units-of-measure`
+*   [angularsen/UnitsNet](https://github.com/angularsen/UnitsNet) ⭐: 2190 ⌨️: C# `abbreviations` `conversion` `converter` `csharp` `measure` `measurement` `measurements` `measures` `parse` `powershell` `quantities` `quantity` `unit` `unit-converter` `units` `units-of-measure`
     Makes life working with units of measurement just a little bit better.
 
 *   [oleg-shilo/wixsharp](https://github.com/oleg-shilo/wixsharp) ⭐: 1100 ⌨️: C#
@@ -5670,7 +5670,7 @@
 *   [real-zony/Abp.Auditing.MongoDb](https://github.com/real-zony/Abp.Auditing.MongoDb) ⭐: 17 ⌨️: C#
     基于 MongoDb 的 Abp 审计日志存储提供器。(MongoDb-based audit log storage provider.)
 
-*   [real-zony/ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) ⭐: 1420 ⌨️: C# `csharp` `dotnet-core` `lyrics` `lyrics-fetcher` `lyrics-search` `mp3` `netease-cloud-music` `qqmusic` `taglib`
+*   [real-zony/ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) ⭐: 1421 ⌨️: C# `csharp` `dotnet-core` `lyrics` `lyrics-fetcher` `lyrics-search` `mp3` `netease-cloud-music` `qqmusic` `taglib`
     ZonyLrcToolsX 是一个能够方便地下载歌词的小软件。
 
 *   [EasyAbp/Abp.Aliyun](https://github.com/EasyAbp/Abp.Aliyun) ⭐: 45 ⌨️: C# `abp-vnext` `aliyun` `aliyun-sdk` `api-abp-vnext` `aspnetboilerplate` `aspnetcore`
@@ -5696,7 +5696,7 @@
 *   [tejacques/Deque](https://github.com/tejacques/Deque) ⭐: 49 ⌨️: C#
     A C# Deque class
 
-*   [ppy/osu](https://github.com/ppy/osu) ⭐: 15125 ⌨️: C# `beatmap` `catch` `game` `mania` `osu` `rhythm` `taiko`
+*   [ppy/osu](https://github.com/ppy/osu) ⭐: 15133 ⌨️: C# `beatmap` `catch` `game` `mania` `osu` `rhythm` `taiko`
     rhythm is just a *click* away!
 
 *   [bordereast/arangodb-net-core](https://github.com/bordereast/arangodb-net-core) ⭐: 15 ⌨️: C# `arangodb` `csharp` `library-database` `net-core`
@@ -5708,12 +5708,12 @@
 *   [lamondlu/CoolCat](https://github.com/lamondlu/CoolCat) ⭐: 337 ⌨️: C# `asp-net-core` `asp-net-core-mvc` `docker` `docker-compose` `dynamic-plugins` `plugin-architecture`
     A sample about how to create a dynamic plugins mechanism with ASP.NET Core Mvc at runtime. This sample is based on .NET Core 3.1 and .NET 5
 
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) ⭐: 28938 ⌨️: C# `hex-editor` `patch` `pc` `qq` `revoke` `revokemsg` `tim` `tool` `wechat` `windows`
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) ⭐: 28954 ⌨️: C# `hex-editor` `patch` `pc` `qq` `revoke` `revokemsg` `tim` `tool` `wechat` `windows`
     :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 *   [dotnet/try-samples](https://github.com/dotnet/try-samples) ⭐: 1098 ⌨️: C#
 
-*   [Tayx94/graphy](https://github.com/Tayx94/graphy) ⭐: 2496 ⌨️: C# `fps-counter` `stats-for-nerds` `stats-monitor` `unity` `unity-asset`
+*   [Tayx94/graphy](https://github.com/Tayx94/graphy) ⭐: 2498 ⌨️: C# `fps-counter` `stats-for-nerds` `stats-monitor` `unity` `unity-asset`
     Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
 
 *   [gebiWangshushu/Hei.Captcha](https://github.com/gebiWangshushu/Hei.Captcha) ⭐: 281 ⌨️: C# `captcha` `dotnet` `dotnet-core2` `gif` `hei` `imagesharp` `netcore` `verifycode`
@@ -5725,7 +5725,7 @@
 *   [tianmin200/weibo](https://github.com/tianmin200/weibo) ⭐: 9 ⌨️: C#
     微博淘宝客项目
 
-*   [DbUp/DbUp](https://github.com/DbUp/DbUp) ⭐: 2312 ⌨️: C#
+*   [DbUp/DbUp](https://github.com/DbUp/DbUp) ⭐: 2313 ⌨️: C#
     DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
 
 *   [nbuilder/nbuilder](https://github.com/nbuilder/nbuilder) ⭐: 476 ⌨️: C#
@@ -5737,7 +5737,7 @@
 *   [mzbhy/DoubanList](https://github.com/mzbhy/DoubanList) ⭐: 1 ⌨️: C#
     利用豆瓣API，管理本机的电影和电视剧
 
-*   [win-acme/win-acme](https://github.com/win-acme/win-acme) ⭐: 5235 ⌨️: C# `acme` `acme-v2` `certificates` `cli` `csharp` `exchange` `iis` `letsencrypt` `rds` `windows` `winrm`
+*   [win-acme/win-acme](https://github.com/win-acme/win-acme) ⭐: 5236 ⌨️: C# `acme` `acme-v2` `certificates` `cli` `csharp` `exchange` `iis` `letsencrypt` `rds` `windows` `winrm`
     A simple ACME client for Windows (for use with Let's Encrypt et al.)
 
 *   [redhat-developer/kestrel-linux-transport](https://github.com/redhat-developer/kestrel-linux-transport) ⭐: 120 ⌨️: C#
@@ -5749,7 +5749,7 @@
 *   [fs7744/SolrQueryBuilder](https://github.com/fs7744/SolrQueryBuilder) ⭐: 3 ⌨️: C#
     Sol rQuery Builder
 
-*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) ⭐: 1781 ⌨️: C#
+*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) ⭐: 1782 ⌨️: C#
     图形化ADB工具箱
 
 *   [Kooboo/Json](https://github.com/Kooboo/Json) ⭐: 139 ⌨️: C# `expression` `expression-tree` `json` `serialization` `serialization-library`
@@ -5767,7 +5767,7 @@
 *   [Roger3Lee/INC.Runtime.Queue](https://github.com/Roger3Lee/INC.Runtime.Queue) ⭐: 24 ⌨️: C# `csharp` `mutilthread` `queue` `task` `threadpool`
     An runtime queue use Asynchronous program
 
-*   [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) ⭐: 4079 ⌨️: C# `3d` `audio` `csharp` `game-development` `glfw` `graphics` `graphics-library` `haptics` `native` `openal` `opencl` `opengl` `scientific-visualization` `silk` `vulkan` `webgpu` `wgpu`
+*   [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) ⭐: 4080 ⌨️: C# `3d` `audio` `csharp` `game-development` `glfw` `graphics` `graphics-library` `haptics` `native` `openal` `opencl` `opengl` `scientific-visualization` `silk` `vulkan` `webgpu` `wgpu`
     The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
 
 *   [thangchung/GrpcJsonTranscoder](https://github.com/thangchung/GrpcJsonTranscoder) ⭐: 121 ⌨️: C# `api-gateway` `cloud-native` `dotnet` `dotnet-core` `grpc` `microservices` `microservices-architecture` `ocelot` `rest-api` `restful-api`
@@ -5818,16 +5818,16 @@
 *   [TinyMapper/TinyMapper](https://github.com/TinyMapper/TinyMapper) ⭐: 691 ⌨️: C#
     A quick object-object mapper for .NET
 
-*   [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) ⭐: 2574 ⌨️: C# `c-sharp` `networking` `nuget` `protobuf` `reverse-engineering` `steam` `steam-network` `steamkit2` `valve`
+*   [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) ⭐: 2575 ⌨️: C# `c-sharp` `networking` `nuget` `protobuf` `reverse-engineering` `steam` `steam-network` `steamkit2` `valve`
     SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 
-*   [npgsql/npgsql](https://github.com/npgsql/npgsql) ⭐: 3281 ⌨️: C# `c-sharp` `database` `dotnet` `npgsql` `postgres` `postgresql` `sql`
+*   [npgsql/npgsql](https://github.com/npgsql/npgsql) ⭐: 3282 ⌨️: C# `c-sharp` `database` `dotnet` `npgsql` `postgres` `postgresql` `sql`
     Npgsql is the .NET data provider for PostgreSQL.
 
 *   [StephenCleary/AsyncEx](https://github.com/StephenCleary/AsyncEx) ⭐: 3496 ⌨️: C# `async` `async-await` `asyncex` `await` `c-sharp` `task`
     A helper library for async/await.
 
-*   [quasar/Quasar](https://github.com/quasar/Quasar) ⭐: 8665 ⌨️: C# `administration` `c-sharp` `dotnet` `mono` `net` `protobuf` `rat` `red-team` `remote` `remote-control` `remote-desktop` `security` `windows`
+*   [quasar/Quasar](https://github.com/quasar/Quasar) ⭐: 8669 ⌨️: C# `administration` `c-sharp` `dotnet` `mono` `net` `protobuf` `rat` `red-team` `remote` `remote-control` `remote-desktop` `security` `windows`
     Remote Administration Tool for Windows
 
 *   [LayoutFarm/Typography](https://github.com/LayoutFarm/Typography) ⭐: 406 ⌨️: C# `cff` `contour` `dotnet` `emoji` `font` `glyph` `layout` `msdf` `netstandard` `opentype` `otf` `rendering` `truetype` `ttf` `typography` `webfonts` `woff` `woff2`
@@ -5905,7 +5905,7 @@
 *   [icsharp/Hangfire.Topshelf](https://github.com/icsharp/Hangfire.Topshelf) ⭐: 207 ⌨️: C# `hangfire` `message-bus` `message-queue` `scheduled-jobs` `scheduled-tasks` `scheduler-service` `topshelf`
     Best practice for hangfire samples
 
-*   [zzzprojects/Eval-Expression.NET](https://github.com/zzzprojects/Eval-Expression.NET) ⭐: 449 ⌨️: C# `csharp` `dotnet` `eval` `eval-expression` `evaluation` `evaluator`
+*   [zzzprojects/Eval-Expression.NET](https://github.com/zzzprojects/Eval-Expression.NET) ⭐: 450 ⌨️: C# `csharp` `dotnet` `eval` `eval-expression` `evaluation` `evaluator`
     C# Eval Expression | Evaluate, Compile, and Execute C# code and expression at runtime.
 
 *   [symbolspace/Symbol](https://github.com/symbolspace/Symbol) ⭐: 17 ⌨️: C# `api` `cloud` `image-recognition` `json` `netcore` `socket` `symbol` `verifycode` `web`
@@ -5952,7 +5952,7 @@
 *   [lwojtkowski/SalesModule](https://github.com/lwojtkowski/SalesModule) ⭐: 7 ⌨️: C#
     Sales Module based on dockerized ASP.NET Core Web API, Ocelot Gateway, Azure Service Bus
 
-*   [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) ⭐: 5640 ⌨️: C# `c-sharp` `lz4` `messagepack` `msgpack` `serialization` `serializer` `unity` `xamarin`
+*   [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) ⭐: 5639 ⌨️: C# `c-sharp` `lz4` `messagepack` `msgpack` `serialization` `serializer` `unity` `xamarin`
     Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org\[C#]
 
 *   [hyprsoftcorp/IoTCoreAppUpdates](https://github.com/hyprsoftcorp/IoTCoreAppUpdates) ⭐: 14 ⌨️: C#
@@ -5973,7 +5973,7 @@
 *   [caifl/bpmtk](https://github.com/caifl/bpmtk) ⭐: 32 ⌨️: C#
     BPMTK is a workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins, based on .NET Platform(.NET Standard 2.0). Port some good ideas and code from Activiti and jBPM. It's open-source and distributed under the Apache license.  BPMTK 是开源的业务流程平台, 符合BPMN 2.0业务流程语言规范, 一些设计思想、代码来源于Activiti、jBPM， 基于.NET Standard 2.0平台, C#语言开发.
 
-*   [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) ⭐: 9183 ⌨️: C# `asp-net-core` `aspnet-core` `aspnetcore` `dotnet-core` `hacktoberfest`
+*   [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) ⭐: 9184 ⌨️: C# `asp-net-core` `aspnet-core` `aspnetcore` `dotnet-core` `hacktoberfest`
     Practical samples of ASP.NET Core 9 RC1, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 
 *   [pda-team/Panda](https://github.com/pda-team/Panda) ⭐: 4 ⌨️: C# `asp-net-core`
@@ -5985,7 +5985,7 @@
 *   [pda-team/Panda.DynamicWebApi](https://github.com/pda-team/Panda.DynamicWebApi) ⭐: 584 ⌨️: C# `asp-net-core` `dynamic-webapi`
     ASP.NET Core Dynamic Restful WebApi. Generating WebApi from Classes. Such as: Direct Generation of WebApi Based on Business Logic Layer.
 
-*   [GitTools/GitVersion](https://github.com/GitTools/GitVersion) ⭐: 2840 ⌨️: C# `c-sharp` `dotnet` `git` `semver` `versioning`
+*   [GitTools/GitVersion](https://github.com/GitTools/GitVersion) ⭐: 2841 ⌨️: C# `c-sharp` `dotnet` `git` `semver` `versioning`
     From git log to SemVer in no time
 
 *   [bing-framework/Bing.Sequence](https://github.com/bing-framework/Bing.Sequence) ⭐: 5 ⌨️: C#
@@ -6006,7 +6006,7 @@
 *   [mojigui/AspNetCore.SignalR.Client.Net20](https://github.com/mojigui/AspNetCore.SignalR.Client.Net20) ⭐: 3 ⌨️: C#
     基于WebSocket4Net实现的适用于窗口应用的AspNetCore.SignalR客户端，目前只实现了服务器与客户端的方法调用。.NETFramework,Version>=2.0
 
-*   [MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster) ⭐: 4312 ⌨️: C# `c-sharp` `codegenerator` `fast` `mapper` `mapping`
+*   [MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster) ⭐: 4313 ⌨️: C# `c-sharp` `codegenerator` `fast` `mapper` `mapping`
     A fast, fun and stimulating object to object Mapper
 
 *   [EzrealJ/EasyPay](https://github.com/EzrealJ/EasyPay) ⭐: 3 ⌨️: C#
@@ -6021,7 +6021,7 @@
 *   [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib) ⭐: 3712 ⌨️: C#
     \#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 
-*   [JanKallman/EPPlus](https://github.com/JanKallman/EPPlus) ⭐: 3753 ⌨️: C# `dotnet` `excel` `ooxml` `spreadsheet`
+*   [JanKallman/EPPlus](https://github.com/JanKallman/EPPlus) ⭐: 3754 ⌨️: C# `dotnet` `excel` `ooxml` `spreadsheet`
     Create advanced Excel spreadsheets using .NET
 
 *   [walterlv/walterlv.demo](https://github.com/walterlv/walterlv.demo) ⭐: 43 ⌨️: C#
@@ -6041,7 +6041,7 @@
 *   [zmrbak/WeChatContractPurifier](https://github.com/zmrbak/WeChatContractPurifier) ⭐: 9 ⌨️: C#
     微信联系人净化器
 
-*   [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) ⭐: 2106 ⌨️: C# `asp-net` `asp-net-core` `csharp` `dotnet-core` `middleware` `mit-license` `nancy`
+*   [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) ⭐: 2107 ⌨️: C# `asp-net` `asp-net-core` `csharp` `dotnet-core` `middleware` `mit-license` `nancy`
     Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 
 *   [bing-framework/Bing.Barcode](https://github.com/bing-framework/Bing.Barcode) ⭐: 8 ⌨️: C#
@@ -6059,7 +6059,7 @@
 *   [BrightstarDB/BrightstarDB](https://github.com/BrightstarDB/BrightstarDB) ⭐: 459 ⌨️: C# `csharp` `dotnet` `rdf` `sparql` `triplestore`
     This is the core development repository for BrightstarDB.
 
-*   [microsoft/OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) ⭐: 1391 ⌨️: C# `http` `openapi`
+*   [microsoft/OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) ⭐: 1392 ⌨️: C# `http` `openapi`
     The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
 
 *   [kaixin1995/HappyReading](https://github.com/kaixin1995/HappyReading) ⭐: 62 ⌨️: C#
@@ -6134,7 +6134,7 @@
 *   [childotg/Ocelot.Extensions](https://github.com/childotg/Ocelot.Extensions) ⭐: 7 ⌨️: C#
     Ocelot Extensions is the project containing some extension to the popular open-source API Gateway engine Ocelot.
 
-*   [IoTSharp/IoTSharp](https://github.com/IoTSharp/IoTSharp) ⭐: 1022 ⌨️: C# `broker` `coap-server` `docker` `iot-cloud` `iot-platform` `iotsharp` `mqtt` `visualization`
+*   [IoTSharp/IoTSharp](https://github.com/IoTSharp/IoTSharp) ⭐: 1023 ⌨️: C# `broker` `coap-server` `docker` `iot-cloud` `iot-platform` `iotsharp` `mqtt` `visualization`
     IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 
 *   [shirhatti/dotnet-logs](https://github.com/shirhatti/dotnet-logs) ⭐: 39 ⌨️: C#
@@ -6248,13 +6248,13 @@
 *   [2881099/FreeSql.Connection.Extensions](https://github.com/2881099/FreeSql.Connection.Extensions) ⭐: 10 ⌨️: C# `dapper` `dbconnection` `freesql` `orm` `sqlhelper`
     Mysql, postgresql, sqlserver, Oracle and SQLite connection object extension methods.
 
-*   [dotnet-state-machine/stateless](https://github.com/dotnet-state-machine/stateless) ⭐: 5531 ⌨️: C#
+*   [dotnet-state-machine/stateless](https://github.com/dotnet-state-machine/stateless) ⭐: 5532 ⌨️: C#
     A simple library for creating state machines in C# code
 
 *   [TimothyMeadows/reCAPTCHA.AspNetCore](https://github.com/TimothyMeadows/reCAPTCHA.AspNetCore) ⭐: 146 ⌨️: C# `asp-net-core` `asp-net-mvc` `aspnetcore` `core2` `core3` `core31` `dotnet` `dotnet-core` `google-recaptcha` `netframework` `nuget` `recaptcha`
     Google reCAPTCHA v2/v3 for .NET Core 3.x
 
-*   [Meowv/Monitor](https://github.com/Meowv/Monitor) ⭐: 81 ⌨️: C#
+*   [Meowv/Monitor](https://github.com/Meowv/Monitor) ⭐: 82 ⌨️: C#
     Grafana + Zabbix + ASP.NET Core 2.1 + ECharts + MySQL + WebApi + EF Core + Dapper + Swagger + layuiAdmin   基于角色授权的权限体系，使用 ECharts 开发大屏监控图表界面，可以自由切换多种风格主题，完整的用户后台 体系 根据文档自学 Zabbix，借助 API 二次开发获取 Zabbix 监控数据返回前端生成可视化图表
 
 *   [franknew/DataSync](https://github.com/franknew/DataSync) ⭐: 25 ⌨️: C#
@@ -6317,7 +6317,7 @@
 *   [OPCFoundation/UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) ⭐: 151 ⌨️: C#
     ModelCompiler converts XML files into C# and ANSI C
 
-*   [OPCFoundation/UA-.NETStandard](https://github.com/OPCFoundation/UA-.NETStandard) ⭐: 1940 ⌨️: C#
+*   [OPCFoundation/UA-.NETStandard](https://github.com/OPCFoundation/UA-.NETStandard) ⭐: 1941 ⌨️: C#
     OPC Unified Architecture .NET Standard
 
 *   [OPCFoundation/UA-.NET-Legacy](https://github.com/OPCFoundation/UA-.NET-Legacy) ⭐: 330 ⌨️: C#
@@ -6343,7 +6343,7 @@
 *   [yuzd/Hangfire.Dashboard.BasicAuthorization](https://github.com/yuzd/Hangfire.Dashboard.BasicAuthorization) ⭐: 47 ⌨️: C# `basicauthentication` `hangfire`
     Hangfire.Dashboard.BasicAuthorization for .netcore
 
-*   [Excel-DNA/ExcelDna](https://github.com/Excel-DNA/ExcelDna) ⭐: 1290 ⌨️: C# `excel` `hacktoberfest`
+*   [Excel-DNA/ExcelDna](https://github.com/Excel-DNA/ExcelDna) ⭐: 1289 ⌨️: C# `excel` `hacktoberfest`
     Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library.
 
 *   [BradenCalderMurphy/SocketFactory](https://github.com/BradenCalderMurphy/SocketFactory) ⭐: 4 ⌨️: C#
@@ -6472,7 +6472,7 @@
 *   [olsh/resharper-structured-logging](https://github.com/olsh/resharper-structured-logging) ⭐: 141 ⌨️: C# `analyzers` `highlighting` `jetbrains-plugins` `nlog` `resharper` `rider` `serilog` `structured-logging`
     An extension for ReSharper and Rider that highlights structured logging templates and contains some useful analyzers
 
-*   [amerkoleci/Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) ⭐: 1000 ⌨️: C# `direct3d` `direct3d11` `direct3d12` `dotnet` `dotnetcore` `game-development` `game-engine` `gamedev` `graphics` `netstandard` `netstandard20` `nuget` `sharpdx` `vortice`
+*   [amerkoleci/Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) ⭐: 1001 ⌨️: C# `direct3d` `direct3d11` `direct3d12` `dotnet` `dotnetcore` `game-development` `game-engine` `gamedev` `graphics` `netstandard` `netstandard20` `nuget` `sharpdx` `vortice`
     .NET bindings for Direct3D12, Direct3D11, WIC, Direct2D1, XInput, XAudio, X3DAudio, DXC, Direct3D9 and DirectInput.
 
 *   [Turnerj/forem-dotnet](https://github.com/Turnerj/forem-dotnet) ⭐: 20 ⌨️: C#
@@ -6515,7 +6515,7 @@
 *   [Coldairarrow/Colder.Fx.Core.AdminLTE](https://github.com/Coldairarrow/Colder.Fx.Core.AdminLTE) ⭐: 437 ⌨️: C#
     A Web Rapid Development Framework For .NETCore2.2 Based On AdminLTE
 
-*   [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) ⭐: 968 ⌨️: C#
+*   [OpenSilver/OpenSilver](https://github.com/OpenSilver/OpenSilver) ⭐: 969 ⌨️: C#
     This repository contains the source of both OpenSilver and CSHTML5. More information is available at: www.opensilver.net and www.cshtml5.com - Read README.md for the instructions on how to build the source code and how to test it.
 
 *   [CHKZL/DDTV\_Old](https://github.com/CHKZL/DDTV_Old) ⭐: 406 ⌨️: C#
@@ -6533,13 +6533,13 @@
 *   [microsoft/jupyter-core](https://github.com/microsoft/jupyter-core) ⭐: 108 ⌨️: C#
     Library for writing Jupyter kernels in .NET Core
 
-*   [hardkoded/puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐: 3362 ⌨️: C# `automation` `chrome` `chromium` `crawler` `crawling` `csharp` `e2e` `e2e-testing` `puppeteer` `webautomation`
+*   [hardkoded/puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) ⭐: 3363 ⌨️: C# `automation` `chrome` `chromium` `crawler` `crawling` `csharp` `e2e` `e2e-testing` `puppeteer` `webautomation`
     Headless Chrome .NET API
 
 *   [Rickedb/OpenProtocolInterpreter](https://github.com/Rickedb/OpenProtocolInterpreter) ⭐: 151 ⌨️: C# `atlas` `controller` `copco` `open-protocol` `protocol` `tightening`
     Converts the ugly ASCII package that came from Open Protocol to an object
 
-*   [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) ⭐: 1580 ⌨️: C# `hacktoberfest`
+*   [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) ⭐: 1582 ⌨️: C# `hacktoberfest`
 
 *   [landmarkhw/Dapper.GraphQL](https://github.com/landmarkhw/Dapper.GraphQL) ⭐: 290 ⌨️: C# `dapper` `dotnet-core` `graphql` `graphql-dotnet`
     A .NET Core library designed to integrate the Dapper and graphql-dotnet projects with ease-of-use in mind and performance as the primary concern.
@@ -6585,7 +6585,7 @@
 *   [MindscapeHQ/druid4net](https://github.com/MindscapeHQ/druid4net) ⭐: 51 ⌨️: C# `druid` `druid-io`
     A .NET druid.io client written in C#
 
-*   [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) ⭐: 3954 ⌨️: C# `csharp` `dotnet` `excel` `parser` `xls` `xlsb` `xlsx`
+*   [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) ⭐: 3956 ⌨️: C# `csharp` `dotnet` `excel` `parser` `xls` `xlsb` `xlsx`
     Lightweight and fast library written in C# for reading Microsoft Excel files
 
 *   [xboxeer/NScrapy](https://github.com/xboxeer/NScrapy) ⭐: 93 ⌨️: C# `distributed` `dotnet` `scrapy` `spider`
@@ -6638,7 +6638,7 @@
 *   [microsoft/workbooks](https://github.com/microsoft/workbooks) ⭐: 466 ⌨️: C#
     Workbooks is an interactive programming environment that’s perfect for experimentation, learning, and documentation: an educational tool for learning the myriad of .NET platforms, APIs, and libraries.
 
-*   [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) ⭐: 6263 ⌨️: C# `csharp` `dotnet` `elsa` `workflows`
+*   [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) ⭐: 6266 ⌨️: C# `csharp` `dotnet` `elsa` `workflows`
     A .NET workflows library
 
 *   [DotNetAnalyzers/AspNetCoreAnalyzers](https://github.com/DotNetAnalyzers/AspNetCoreAnalyzers) ⭐: 62 ⌨️: C#
@@ -6649,7 +6649,7 @@
 *   [Dasync/Dasync](https://github.com/Dasync/Dasync) ⭐: 193 ⌨️: C# `actor-framework` `actor-model` `azure` `cloud` `cloud-computing` `cloud-native-microservices` `csharp` `dasync` `ddd` `distributed-systems` `event-driven-microservices` `finite-state-machine` `microservices` `publish-subscribe` `saga-pattern` `serverless` `service-oriented-applications` `stateful-actors` `workflows`
     Every developer deserves the right of creating microservices without using any framework 🤍
 
-*   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) ⭐: 3378 ⌨️: C# `command-line` `commandlineparser` `completions` `dotnet-core` `dotnet-standard` `dotnet-suggest` `hacktoberfest` `parser` `parsing` `posix` `system-commandline` `terminal` `vt100`
+*   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) ⭐: 3379 ⌨️: C# `command-line` `commandlineparser` `completions` `dotnet-core` `dotnet-standard` `dotnet-suggest` `hacktoberfest` `parser` `parsing` `posix` `system-commandline` `terminal` `vt100`
     Command line parsing, invocation, and rendering of terminal output.
 
 *   [AElfProject/AElf](https://github.com/AElfProject/AElf) ⭐: 1569 ⌨️: C# `blockchain` `clusters` `csharp` `dotnet-core` `multi-chain` `scalability`
@@ -6661,7 +6661,7 @@
 *   [ravendb/ravenmq](https://github.com/ravendb/ravenmq) ⭐: 46 ⌨️: C#
     Distributed Queuing System
 
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) ⭐: 6392 ⌨️: C# `arp` `aws-session-manager` `dns-lookup` `ip-scanner` `link-layer-discovery-protocol` `net8` `ping-monitor` `port-scanner` `powershell` `putty` `remote-desktop` `subnet-calculator` `tigervnc` `traceroute` `wake-on-lan` `web-console` `whois` `wifi` `windows` `wpf`
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) ⭐: 6394 ⌨️: C# `arp` `aws-session-manager` `dns-lookup` `ip-scanner` `link-layer-discovery-protocol` `net8` `ping-monitor` `port-scanner` `powershell` `putty` `remote-desktop` `subnet-calculator` `tigervnc` `traceroute` `wake-on-lan` `web-console` `whois` `wifi` `windows` `wpf`
     A powerful tool for managing networks and troubleshoot network problems!
 
 *   [mrahhal/niai](https://github.com/mrahhal/niai) ⭐: 43 ⌨️: C# `api` `asp-net-core` `kanjis` `lookup` `vuejs`
@@ -6670,10 +6670,10 @@
 *   [newbe36524/Newbe.Mahua.Framework](https://github.com/newbe36524/Newbe.Mahua.Framework) ⭐: 835 ⌨️: C# `amanda` `cleverqq` `cqa` `cqp` `csharp` `irqq` `mahua` `mpq` `mypcqq` `newbe` `qq` `qqlight` `robot` `sdk` `sdk-qq` `star`
     本SDK为实现QQ机器人平台的大一统，支持多种机器人平台：酷Q、MyPCQQ、QQLight等
 
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) ⭐: 58326 ⌨️: C# `c-sharp` `proxy` `shadowsocks`
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) ⭐: 58330 ⌨️: C# `c-sharp` `proxy` `shadowsocks`
     A C# port of shadowsocks
 
-*   [devlooped/moq](https://github.com/devlooped/moq) ⭐: 5896 ⌨️: C#
+*   [devlooped/moq](https://github.com/devlooped/moq) ⭐: 5897 ⌨️: C#
     The most popular and friendly mocking framework for .NET
 
 *   [linezero/jieba.NET](https://github.com/linezero/jieba.NET) ⭐: 214 ⌨️: C#
@@ -6731,7 +6731,7 @@
 *   [li2008kui/AirHome](https://github.com/li2008kui/AirHome) ⭐: 29 ⌨️: C#
     这是一个基于C#的智能家居控制系统通信协议的实现。
 
-*   [DotNetAnalyzers/StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) ⭐: 2645 ⌨️: C#
+*   [DotNetAnalyzers/StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) ⭐: 2646 ⌨️: C#
     An implementation of StyleCop rules using the .NET Compiler Platform
 
 *   [bruce-dunwiddie/tsql-parser](https://github.com/bruce-dunwiddie/tsql-parser) ⭐: 324 ⌨️: C# `parse` `parser` `parsing-scripts` `sql` `sql-server` `statement-parsers` `tsql` `tsql-parser`
@@ -6758,7 +6758,7 @@
 *   [SeanFeldman/ServiceBus.AttachmentPlugin](https://github.com/SeanFeldman/ServiceBus.AttachmentPlugin) ⭐: 69 ⌨️: C#
     Microsoft Azure Service Bus attachment plugin
 
-*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) ⭐: 9597 ⌨️: C# `cross-platform` `csharp` `curses` `dotnet` `gui` `terminal` `toolkit` `winforms`
+*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) ⭐: 9599 ⌨️: C# `cross-platform` `csharp` `curses` `dotnet` `gui` `terminal` `toolkit` `winforms`
     Cross Platform Terminal UI toolkit for .NET
 
 *   [mstachyra/WebRtc](https://github.com/mstachyra/WebRtc) ⭐: 14 ⌨️: C#
@@ -6805,13 +6805,13 @@
 *   [StephenCleary/Disposables](https://github.com/StephenCleary/Disposables) ⭐: 116 ⌨️: C# `c-sharp` `disposable`
     IDisposable helper types.
 
-*   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) ⭐: 5135 ⌨️: C# `angle-bracket` `anglesharp` `c-sharp` `dom` `hacktoberfest` `html` `library` `linq` `parser`
+*   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) ⭐: 5136 ⌨️: C# `angle-bracket` `anglesharp` `c-sharp` `dom` `hacktoberfest` `html` `library` `linq` `parser`
     :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 
-*   [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) ⭐: 16220 ⌨️: C# `architecture` `clean-architecture` `csharp` `ddd` `domain-driven-design` `dotnet` `hacktoberfest`
+*   [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) ⭐: 16225 ⌨️: C# `architecture` `clean-architecture` `csharp` `ddd` `domain-driven-design` `dotnet` `hacktoberfest`
     Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 
-*   [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) ⭐: 2871 ⌨️: C# `clean-architecture` `clean-code` `cqrs` `cqrs-simple` `dapper` `ddd` `ddd-cqrs` `ddd-example` `design-patterns` `design-systems` `domain-driven-design` `dotnercore` `dotnet` `entity-framework` `entity-framework-core` `mediatr` `rest` `rest-api` `software-architecture`
+*   [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) ⭐: 2872 ⌨️: C# `clean-architecture` `clean-code` `cqrs` `cqrs-simple` `dapper` `ddd` `ddd-cqrs` `ddd-example` `design-patterns` `design-systems` `domain-driven-design` `dotnercore` `dotnet` `entity-framework` `entity-framework-core` `mediatr` `rest` `rest-api` `software-architecture`
     Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 
 *   [demianrasko/Dynamics-365-Workflow-Tools](https://github.com/demianrasko/Dynamics-365-Workflow-Tools) ⭐: 465 ⌨️: C# `business-solutions` `codeless` `crm` `dynamics-365` `dynamics-crm` `dynamics-crm-online` `microsoft` `mvp` `workflow-automation`
@@ -6897,13 +6897,13 @@
 *   [SciSharp/NumSharp](https://github.com/SciSharp/NumSharp) ⭐: 1364 ⌨️: C# `machine-learning` `numpy` `numsharp` `pandas`
     High Performance Computation for N-D Tensors in .NET, similar API to NumPy.
 
-*   [naudio/NAudio](https://github.com/naudio/NAudio) ⭐: 5499 ⌨️: C#
+*   [naudio/NAudio](https://github.com/naudio/NAudio) ⭐: 5500 ⌨️: C#
     Audio and MIDI library for .NET
 
 *   [serilog/serilog-sinks-file](https://github.com/serilog/serilog-sinks-file) ⭐: 334 ⌨️: C# `serilog` `sink`
     Write Serilog events to files in text and JSON formats, optionally rolling on time or size
 
-*   [hangfire-postgres/Hangfire.PostgreSql](https://github.com/hangfire-postgres/Hangfire.PostgreSql) ⭐: 357 ⌨️: C# `hangfire` `postgresql` `storage`
+*   [hangfire-postgres/Hangfire.PostgreSql](https://github.com/hangfire-postgres/Hangfire.PostgreSql) ⭐: 358 ⌨️: C# `hangfire` `postgresql` `storage`
     PostgreSql Storage Provider for Hangfire
 
 *   [jtattermusch/grpc-loadbalancing-kubernetes-examples](https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples) ⭐: 248 ⌨️: C#
@@ -6912,7 +6912,7 @@
 *   [NimaAra/Easy.Logger](https://github.com/NimaAra/Easy.Logger) ⭐: 136 ⌨️: C# `cross-platform` `csharp` `dotnet` `dotnet-core` `easy` `easy-to-use` `log4net` `logging` `performance`
     A modern, high performance cross platform wrapper for Log4Net.
 
-*   [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) ⭐: 1593 ⌨️: C# `dotnet-core`
+*   [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) ⭐: 1594 ⌨️: C# `dotnet-core`
     .NET Core library for dynamically loading code
 
 *   [WenJM/AppSettings.NET](https://github.com/WenJM/AppSettings.NET) ⭐: 2 ⌨️: C#
@@ -6930,13 +6930,13 @@
 *   [neuecc/HyperMapper](https://github.com/neuecc/HyperMapper) ⭐: 91 ⌨️: C#
     An alternative to AutoMapper, Hyper fast object-to-object mapper built on fastest serializer technology.
 
-*   [Cysharp/MasterMemory](https://github.com/Cysharp/MasterMemory) ⭐: 1508 ⌨️: C# `c-sharp` `memory-database` `unity`
+*   [Cysharp/MasterMemory](https://github.com/Cysharp/MasterMemory) ⭐: 1509 ⌨️: C# `c-sharp` `memory-database` `unity`
     Embedded Typed Readonly In-Memory Document Database for .NET and Unity.
 
 *   [neuecc/ZeroFormatter](https://github.com/neuecc/ZeroFormatter) ⭐: 2386 ⌨️: C# `binaryformat` `c-sharp` `serializer` `unity`
     Infinitely Fast Deserializer for .NET, .NET Core and Unity.
 
-*   [neuecc/Utf8Json](https://github.com/neuecc/Utf8Json) ⭐: 2357 ⌨️: C#
+*   [neuecc/Utf8Json](https://github.com/neuecc/Utf8Json) ⭐: 2358 ⌨️: C#
     Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
 
 *   [AnyListen/YaVipCore](https://github.com/AnyListen/YaVipCore) ⭐: 1208 ⌨️: C# `baidu` `kugou` `kuwo` `losslesss` `music` `netcore` `netease` `qq` `sony` `xiami`
@@ -6965,7 +6965,7 @@
 *   [davidfowl/TcpEcho](https://github.com/davidfowl/TcpEcho) ⭐: 361 ⌨️: C#
     Basic TCP server that uses System.IO.Pipelines to parse line based messages
 
-*   [sebastienros/jint](https://github.com/sebastienros/jint) ⭐: 4061 ⌨️: C#
+*   [sebastienros/jint](https://github.com/sebastienros/jint) ⭐: 4064 ⌨️: C#
     Javascript Interpreter for .NET
 
 *   [zzzprojects/Eval-SQL.NET](https://github.com/zzzprojects/Eval-SQL.NET) ⭐: 95 ⌨️: C# `eval` `evaluation` `evaluator` `expression-evaluator` `regular-expression` `splitting-text` `sql` `sql-server`
@@ -6986,7 +6986,7 @@
 *   [rsocket/rsocket-net](https://github.com/rsocket/rsocket-net) ⭐: 252 ⌨️: C#
     .NET implementation of RSocket
 
-*   [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) ⭐: 35263 ⌨️: C# `aspnetcore` `dotnet` `hacktoberfest` `help-wanted`
+*   [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) ⭐: 35270 ⌨️: C# `aspnetcore` `dotnet` `hacktoberfest` `help-wanted`
     ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 *   [approvals/ApprovalTests.Net.Wpf](https://github.com/approvals/ApprovalTests.Net.Wpf) ⭐: 7 ⌨️: C#
@@ -7052,7 +7052,7 @@
 *   [EdiWang/Edi.WordFilter](https://github.com/EdiWang/Edi.WordFilter) ⭐: 12 ⌨️: C#
     Module used in my blog system to filter disharmony words.
 
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ⭐: 33712 ⌨️: C# `csharp` `dotnet` `jellyfin`
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ⭐: 33740 ⌨️: C# `csharp` `dotnet` `jellyfin`
     The Free Software Media System
 
 *   [amh1979/AspNetCore.FileLog](https://github.com/amh1979/AspNetCore.FileLog) ⭐: 5 ⌨️: C#
@@ -7073,7 +7073,7 @@
 *   [eBay/ebay-oauth-csharp-client](https://github.com/eBay/ebay-oauth-csharp-client) ⭐: 56 ⌨️: C# `authentication` `csharp` `ebay-api` `ebay-sdk`
     eBay OAuth C# Client Library
 
-*   [microsoft/perfview](https://github.com/microsoft/perfview) ⭐: 4133 ⌨️: C# `dotnet` `dotnet-core` `performance` `performance-analysis` `windows`
+*   [microsoft/perfview](https://github.com/microsoft/perfview) ⭐: 4136 ⌨️: C# `dotnet` `dotnet-core` `performance` `performance-analysis` `windows`
     PerfView is a CPU and memory performance-analysis tool
 
 *   [ProxyKit/ProxyKit](https://github.com/ProxyKit/ProxyKit) ⭐: 1113 ⌨️: C# `aspnetcore` `dotnet` `middleware` `obsolete-soon` `proxy` `reverse-proxy` `serverless`
@@ -7114,19 +7114,19 @@
 *   [wenqiang0928/small-mark](https://github.com/wenqiang0928/small-mark) ⭐: 12 ⌨️: C#
     微信小程序商城
 
-*   [IgnaceMaes/MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) ⭐: 2857 ⌨️: C# `c-sharp` `design` `material-design` `net-winforms` `theme`
+*   [IgnaceMaes/MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) ⭐: 2859 ⌨️: C# `c-sharp` `design` `material-design` `net-winforms` `theme`
     Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
 
 *   [realLiangshiwei/SharpPlugs](https://github.com/realLiangshiwei/SharpPlugs) ⭐: 26 ⌨️: C# `aspnetcore` `netcore` `plugs`
     .Net Core 鋒利扩展
 
-*   [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) ⭐: 1237 ⌨️: C# `age-classification` `dotnet` `emotion-classification` `face-detection` `face-recognition` `gender-classification` `headpose-estimation` `linux` `machine-learning` `macos` `windows`
+*   [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) ⭐: 1239 ⌨️: C# `age-classification` `dotnet` `emotion-classification` `face-detection` `face-recognition` `gender-classification` `headpose-estimation` `linux` `machine-learning` `macos` `windows`
     The world's simplest facial recognition api for .NET on Windows, MacOS and Linux
 
-*   [mono/mono](https://github.com/mono/mono) ⭐: 11106 ⌨️: C# `android` `csharp` `dotnet` `garbage-collector` `ios` `jit` `runtime` `xamarin`
+*   [mono/mono](https://github.com/mono/mono) ⭐: 11105 ⌨️: C# `android` `csharp` `dotnet` `garbage-collector` `ios` `jit` `runtime` `xamarin`
     Mono open source ECMA CLI, C# and .NET implementation.
 
-*   [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) ⭐: 9837 ⌨️: C# `browser` `c-plus-plus` `c-sharp` `cefsharp` `framework` `winforms` `wpf`
+*   [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) ⭐: 9838 ⌨️: C# `browser` `c-plus-plus` `c-sharp` `cefsharp` `framework` `winforms` `wpf`
     .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
 
 *   [yuezhongxin/DDD.Sample](https://github.com/yuezhongxin/DDD.Sample) ⭐: 145 ⌨️: C#
@@ -7153,7 +7153,7 @@
 *   [SteffenMangold/EntityFrameworkCore.Cacheable](https://github.com/SteffenMangold/EntityFrameworkCore.Cacheable) ⭐: 193 ⌨️: C# `c-sharp` `cache` `database` `dotnet-core` `dotnet-framework` `dotnet-standard` `entity-framework` `orm`
     EntityFrameworkCore second level cache
 
-*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) ⭐: 2144 ⌨️: C# `dbcontext` `dotnet` `entity-framework` `entity-framework-core` `hacktoberfest` `model-visualization` `sql-server` `visual-studio` `visual-studio-extension`
+*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) ⭐: 2146 ⌨️: C# `dbcontext` `dotnet` `entity-framework` `entity-framework-core` `hacktoberfest` `model-visualization` `sql-server` `visual-studio` `visual-studio-extension`
     Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
 
 *   [minren118/ExcelUdfByExcelCuiHuaJi](https://github.com/minren118/ExcelUdfByExcelCuiHuaJi) ⭐: 85 ⌨️: C#
@@ -7162,7 +7162,7 @@
 *   [DigDes/SoapCore](https://github.com/DigDes/SoapCore) ⭐: 994 ⌨️: C# `middleware` `soap`
     SOAP extension for ASP.NET Core
 
-*   [bchavez/Bogus](https://github.com/bchavez/Bogus) ⭐: 8713 ⌨️: C# `bogus` `c-sharp` `csharp` `data` `data-access-layer` `data-generator` `database` `dotnet` `fake` `faker` `generator` `poco` `seed` `test-data`
+*   [bchavez/Bogus](https://github.com/bchavez/Bogus) ⭐: 8717 ⌨️: C# `bogus` `c-sharp` `csharp` `data` `data-access-layer` `data-generator` `database` `dotnet` `fake` `faker` `generator` `poco` `seed` `test-data`
     :card\_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 
 *   [CooperLiu/Abpro](https://github.com/CooperLiu/Abpro) ⭐: 6 ⌨️: C#
@@ -7225,7 +7225,7 @@
 *   [cnblogs/EnyimMemcachedCore](https://github.com/cnblogs/EnyimMemcachedCore) ⭐: 162 ⌨️: C# `csharp` `donet` `memcached`
     .NET Memcached client. Available on https://www.nuget.org/packages/EnyimMemcachedCore
 
-*   [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) ⭐: 6041 ⌨️: C# `color-picker` `control` `csharp` `flipclock` `gif` `propertygrid` `relativepanel` `wpf` `wpf-controls` `wpf-ui` `xaml`
+*   [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) ⭐: 6042 ⌨️: C# `color-picker` `control` `csharp` `flipclock` `gif` `propertygrid` `relativepanel` `wpf` `wpf-controls` `wpf-ui` `xaml`
     Contains some simple and commonly used WPF controls
 
 *   [mcintyre321/ValueOf](https://github.com/mcintyre321/ValueOf) ⭐: 876 ⌨️: C# `ddd` `domain-model` `valueobject`
@@ -7237,10 +7237,10 @@
 *   [ferventdesert/Hawk](https://github.com/ferventdesert/Hawk) ⭐: 3156 ⌨️: C#
     visualized crawler & ETL IDE written with C#/WPF
 
-*   [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) ⭐: 3429 ⌨️: C# `c-sharp` `discriminated-unions` `dotnetcore` `f-sharp`
+*   [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) ⭐: 3432 ⌨️: C# `c-sharp` `discriminated-unions` `dotnetcore` `f-sharp`
     Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
 
-*   [microsoft/TrillSamples](https://github.com/microsoft/TrillSamples) ⭐: 169 ⌨️: C#
+*   [microsoft/TrillSamples](https://github.com/microsoft/TrillSamples) ⭐: 170 ⌨️: C#
     Sample applications to demonstrate how to use the Trill library and API
 
 *   [944095635/DMSkin-Miniblink](https://github.com/944095635/DMSkin-Miniblink) ⭐: 38 ⌨️: C# `blink` `chromium` `miniblink49` `web` `webbrowser`
@@ -7276,7 +7276,7 @@
 *   [stulzq/dotnetcore-image](https://github.com/stulzq/dotnetcore-image) ⭐: 22 ⌨️: C# `aspnetcore` `dotnetcore` `image`
     Solution of .NET Core GDI+(Image) on Linux/Docker
 
-*   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) ⭐: 4882 ⌨️: C# `collaboration` `cross-platform` `dropbox` `git` `git-lfs` `gnome` `linux` `privacy` `self-hosted` `sharing` `sparkleshare` `sync` `version-control`
+*   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) ⭐: 4883 ⌨️: C# `collaboration` `cross-platform` `dropbox` `git` `git-lfs` `gnome` `linux` `privacy` `self-hosted` `sharing` `sparkleshare` `sync` `version-control`
     Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
 *   [bing-framework/Bing.MockData](https://github.com/bing-framework/Bing.MockData) ⭐: 71 ⌨️: C#
@@ -7308,10 +7308,10 @@
 *   [FrodaSE/Minion](https://github.com/FrodaSE/Minion) ⭐: 105 ⌨️: C# `background-jobs` `background-thread` `background-worker` `dotnet-core` `dotnet-framework` `dotnet-standard` `minion` `processing` `scheduled-jobs`
     Background job system for .NET applications
 
-*   [jamesmh/coravel](https://github.com/jamesmh/coravel) ⭐: 3832 ⌨️: C# `background-jobs` `background-thread` `background-worker` `dotnet` `dotnet-core` `dotnetcore` `hacktoberfest` `mailing` `queue` `scheduled-jobs`
+*   [jamesmh/coravel](https://github.com/jamesmh/coravel) ⭐: 3835 ⌨️: C# `background-jobs` `background-thread` `background-worker` `dotnet` `dotnet-core` `dotnetcore` `hacktoberfest` `mailing` `queue` `scheduled-jobs`
     Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 
-*   [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) ⭐: 8519 ⌨️: C# `database` `dotnet` `litedb` `nosql`
+*   [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) ⭐: 8520 ⌨️: C# `database` `dotnet` `litedb` `nosql`
     LiteDB - A .NET NoSQL Document Store in a single data file
 
 *   [PKISharp/ACMESharpCore](https://github.com/PKISharp/ACMESharpCore) ⭐: 325 ⌨️: C#
@@ -7335,10 +7335,10 @@
 *   [yoyofx/Prometheus.Alert](https://github.com/yoyofx/Prometheus.Alert) ⭐: 4 ⌨️: C#
     AlertMananger是Prometheus的独立报警模块，此项目为它的.NET版本客户端
 
-*   [dotnet/wpf](https://github.com/dotnet/wpf) ⭐: 7047 ⌨️: C# `dotnet` `help-wanted` `wpf`
+*   [dotnet/wpf](https://github.com/dotnet/wpf) ⭐: 7048 ⌨️: C# `dotnet` `help-wanted` `wpf`
     WPF is a .NET Core UI framework for building Windows desktop applications.
 
-*   [martincostello/sqllocaldb](https://github.com/martincostello/sqllocaldb) ⭐: 243 ⌨️: C# `c-sharp` `sql-localdb` `sql-server`
+*   [martincostello/sqllocaldb](https://github.com/martincostello/sqllocaldb) ⭐: 244 ⌨️: C# `c-sharp` `sql-localdb` `sql-server`
     SQL LocalDB Wrapper is a .NET library providing interop with the Microsoft SQL Server LocalDB Instance API
 
 *   [AiursoftWeb/Infrastructures](https://github.com/AiursoftWeb/Infrastructures) ⭐: 112 ⌨️: C# `microservice` `platform` `website`
@@ -7409,10 +7409,10 @@
 *   [dotnetcore/Util](https://github.com/dotnetcore/Util) ⭐: 4534 ⌨️: C# `angular` `aspnetcore` `dotnetcore` `efcore` `framework` `ng-zorro` `taghelper`
     Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
 
-*   [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) ⭐: 9347 ⌨️: C# `background-jobs` `background-thread` `background-worker` `dotnet` `dotnet-core` `hangfire` `scheduled-jobs`
+*   [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) ⭐: 9346 ⌨️: C# `background-jobs` `background-thread` `background-worker` `dotnet` `dotnet-core` `hangfire` `scheduled-jobs`
     An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 
-*   [MassTransit/MassTransit](https://github.com/MassTransit/MassTransit) ⭐: 6902 ⌨️: C# `azure-service-bus` `c-sharp` `dotnet` `masstransit` `messaging` `nuget` `rabbitmq` `sqs`
+*   [MassTransit/MassTransit](https://github.com/MassTransit/MassTransit) ⭐: 6905 ⌨️: C# `azure-service-bus` `c-sharp` `dotnet` `masstransit` `messaging` `nuget` `rabbitmq` `sqs`
     Distributed Application Framework for .NET
 
 *   [FastReports/FastReport](https://github.com/FastReports/FastReport) ⭐: 2674 ⌨️: C# `csharp` `dotnet` `dotnet-core` `dotnet5` `dotnet6` `dotnetcore` `fastreport` `opensource` `pdf` `pdf-generation` `report` `report-generator` `reporting` `reporting-engine` `reporting-tool`
@@ -7475,7 +7475,7 @@
 *   [md-frank/file-service](https://github.com/md-frank/file-service) ⭐: 261 ⌨️: C# `asp-net-core` `file-server`
     ASP.NET Core based universal file server
 
-*   [neo-project/neo](https://github.com/neo-project/neo) ⭐: 3466 ⌨️: C# `blockchain` `neo`
+*   [neo-project/neo](https://github.com/neo-project/neo) ⭐: 3465 ⌨️: C# `blockchain` `neo`
     NEO Smart Economy
 
 *   [statianzo/Fleck](https://github.com/statianzo/Fleck) ⭐: 2278 ⌨️: C# `c-sharp` `dot-net` `hacktoberfest` `websocket`
@@ -7534,7 +7534,7 @@
 *   [SFML/SFML.Net](https://github.com/SFML/SFML.Net) ⭐: 517 ⌨️: C# `audio` `crossplatform` `dotnet` `graphics` `hacktoberfest` `multimedia` `opengl` `sfml`
     Official binding of SFML for .Net languages
 
-*   [aloneguid/config](https://github.com/aloneguid/config) ⭐: 654 ⌨️: C# `configuration` `dotnet` `dotnet-core` `dotnet-standard`
+*   [aloneguid/config](https://github.com/aloneguid/config) ⭐: 655 ⌨️: C# `configuration` `dotnet` `dotnet-core` `dotnet-standard`
     ⚙ Config.Net - the easiest configuration framework for .NET developers. No BS.
 
 *   [OptiKey/OptiKey](https://github.com/OptiKey/OptiKey) ⭐: 4283 ⌨️: C# `aac` `accessibility` `accessible` `als` `assistive-technology` `c-sharp` `communication` `disabilities` `disabilty` `eye-tracker` `eye-tracking` `eyes` `eyetracking` `mnd` `optikey` `screen-keyboard`
@@ -7555,7 +7555,7 @@
 *   [jason-roberts/FeatureToggle](https://github.com/jason-roberts/FeatureToggle) ⭐: 689 ⌨️: C# `c-sharp` `continuous-deployment` `continuous-integration` `dotnet` `dotnet-core` `dotnet-standard` `feature-flags` `feature-toggles` `featuretoggle`
     Simple, reliable feature toggles in .NET
 
-*   [serilog/serilog](https://github.com/serilog/serilog) ⭐: 7204 ⌨️: C# `serilog`
+*   [serilog/serilog](https://github.com/serilog/serilog) ⭐: 7206 ⌨️: C# `serilog`
     Simple .NET logging with fully-structured events
 
 *   [2881099/SafeObjectPool](https://github.com/2881099/SafeObjectPool) ⭐: 113 ⌨️: C# `objectpool` `pool` `pooling`
@@ -7567,16 +7567,16 @@
 *   [HMBSbige/AliyunDDNS](https://github.com/HMBSbige/AliyunDDNS) ⭐: 19 ⌨️: C#
     【自用】阿里云 DDNS
 
-*   [dotnet/roslyn](https://github.com/dotnet/roslyn) ⭐: 18951 ⌨️: C# `csharp` `hacktoberfest` `roslyn` `visual-basic` `visual-studio`
+*   [dotnet/roslyn](https://github.com/dotnet/roslyn) ⭐: 18954 ⌨️: C# `csharp` `hacktoberfest` `roslyn` `visual-basic` `visual-studio`
     The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
 *   [mirzaevolution/ThumbnailSharp](https://github.com/mirzaevolution/ThumbnailSharp) ⭐: 28 ⌨️: C# `thumbnail`
     A simple but awesome library to create a flexibel thumbnail from an image for .NET Framework 4.5+
 
-*   [xoofx/markdig](https://github.com/xoofx/markdig) ⭐: 4311 ⌨️: C# `commonmark` `commonmark-parsing` `csharp` `dotnet` `dotnetcore` `gfm` `markdown` `markdown-flavors` `markdown-parser` `markdown-processor` `markdown-to-html`
+*   [xoofx/markdig](https://github.com/xoofx/markdig) ⭐: 4312 ⌨️: C# `commonmark` `commonmark-parsing` `csharp` `dotnet` `dotnetcore` `gfm` `markdown` `markdown-flavors` `markdown-parser` `markdown-processor` `markdown-to-html`
     A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 
-*   [Handlebars-Net/Handlebars.Net](https://github.com/Handlebars-Net/Handlebars.Net) ⭐: 1247 ⌨️: C# `c-sharp` `dotnet` `handlebars` `handlebars-templates` `mustache` `template-engine`
+*   [Handlebars-Net/Handlebars.Net](https://github.com/Handlebars-Net/Handlebars.Net) ⭐: 1250 ⌨️: C# `c-sharp` `dotnet` `handlebars` `handlebars-templates` `mustache` `template-engine`
     A real .NET Handlebars engine
 
 *   [leestar54/WebWeChatAPI.Net](https://github.com/leestar54/WebWeChatAPI.Net) ⭐: 88 ⌨️: C# `wechat` `wechat-bot` `weixinbot`
@@ -7690,7 +7690,7 @@
 *   [weizhonzhen/FastData.Core](https://github.com/weizhonzhen/FastData.Core) ⭐: 11 ⌨️: C# `fast` `fastorm` `maporm` `orm`
     .net core orm(db first,code frist) for sqlserver mysql etl.
 
-*   [abpframework/abp](https://github.com/abpframework/abp) ⭐: 12802 ⌨️: C# `abp` `angular` `architecture` `aspnet` `aspnet-core` `aspnetcore` `blazor` `c-sharp` `csharp` `domain-driven-design` `dotnet-core` `framework` `multi-tenancy` `saas`
+*   [abpframework/abp](https://github.com/abpframework/abp) ⭐: 12805 ⌨️: C# `abp` `angular` `architecture` `aspnet` `aspnet-core` `aspnetcore` `blazor` `c-sharp` `csharp` `domain-driven-design` `dotnet-core` `framework` `multi-tenancy` `saas`
     Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.
 
 *   [2881099/csredis](https://github.com/2881099/csredis) ⭐: 2007 ⌨️: C# `csredis` `redis` `redis-client` `redis-cluster` `redis-sentinels`
@@ -7714,7 +7714,7 @@
 *   [FollowmeTech/fm.consulinterop](https://github.com/FollowmeTech/fm.consulinterop) ⭐: 32 ⌨️: C# `consul` `consul-kv` `docker` `dotnet` `dotnet-core` `grpc` `microservice`
     a lib for build micro-service
 
-*   [CragonGame/CasinosClient](https://github.com/CragonGame/CasinosClient) ⭐: 407 ⌨️: C# `csharp` `game` `poker` `poker-cards` `poker-engine` `poker-game` `poker-hands` `pokerist` `pokerstars` `stars-badge` `texas` `texas-hold-em-poker` `texas-holdem` `texas-holdem-poker` `unity` `unity3d`
+*   [CragonGame/CasinosClient](https://github.com/CragonGame/CasinosClient) ⭐: 406 ⌨️: C# `csharp` `game` `poker` `poker-cards` `poker-engine` `poker-game` `poker-hands` `pokerist` `pokerstars` `stars-badge` `texas` `texas-hold-em-poker` `texas-holdem` `texas-holdem-poker` `unity` `unity3d`
     果派德州客户端源代码，使用Unity3D引擎。
 
 *   [yuezhishun/Ocelot.GrpcHttpGateway](https://github.com/yuezhishun/Ocelot.GrpcHttpGateway) ⭐: 15 ⌨️: C#
@@ -7738,7 +7738,7 @@
 *   [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum) ⭐: 2166 ⌨️: C# `abi` `blockchain` `cross-platform` `ethereum` `ethereum-client` `geth` `nethereum` `parity` `quorum` `rlp` `rpc` `signing`
     Ethereum .Net cross platform integration library
 
-*   [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) ⭐: 24531 ⌨️: C# `ddd` `ddd-patterns` `docker` `microservices` `netcore` `spa` `windowscontainers` `xamarin`
+*   [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) ⭐: 24530 ⌨️: C# `ddd` `ddd-patterns` `docker` `microservices` `netcore` `spa` `windowscontainers` `xamarin`
     Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.
 
 *   [AlienJust/AlienJust.Support](https://github.com/AlienJust/AlienJust.Support) ⭐: 1 ⌨️: C#
@@ -7783,7 +7783,7 @@
 *   [beetlex-io/RazorEngine](https://github.com/beetlex-io/RazorEngine) ⭐: 7 ⌨️: C#
     RazorEngine
 
-*   [marcoCasamento/Hangfire.Redis.StackExchange](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange) ⭐: 459 ⌨️: C#
+*   [marcoCasamento/Hangfire.Redis.StackExchange](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange) ⭐: 460 ⌨️: C#
     HangFire Redis storage based on original (and now unsupported) Hangfire.Redis but using lovely StackExchange.Redis client
 
 *   [beetlex-io/FastHttpApi](https://github.com/beetlex-io/FastHttpApi) ⭐: 651 ⌨️: C# `dotnet` `dotnetcore` `fasthttp` `fasthttpapi` `http` `https-server` `rpc-api` `rpc-service` `ssl` `webapi` `websocket` `websockets-server`
@@ -7792,16 +7792,16 @@
 *   [JamesNK/Newtonsoft.Json.Schema](https://github.com/JamesNK/Newtonsoft.Json.Schema) ⭐: 247 ⌨️: C# `c-sharp` `json` `json-schema` `schema`
     Json.NET Schema is a powerful, complete and easy to use JSON Schema framework for .NET
 
-*   [bitwarden/server](https://github.com/bitwarden/server) ⭐: 15252 ⌨️: C# `api` `aspnet` `aspnetcore` `bitwarden` `csharp` `docker` `dotnet` `dotnet-core` `signalr` `sql` `sql-server`
+*   [bitwarden/server](https://github.com/bitwarden/server) ⭐: 15256 ⌨️: C# `api` `aspnet` `aspnetcore` `bitwarden` `csharp` `docker` `dotnet` `dotnet-core` `signalr` `sql` `sql-server`
     Bitwarden infrastructure/backend (API, database, Docker, etc).
 
-*   [dotnet/reactive](https://github.com/dotnet/reactive) ⭐: 6677 ⌨️: C#
+*   [dotnet/reactive](https://github.com/dotnet/reactive) ⭐: 6678 ⌨️: C#
     The Reactive Extensions for .NET
 
 *   [pmcau/AustralianElectorates](https://github.com/pmcau/AustralianElectorates) ⭐: 33 ⌨️: C#
     Provides geojson maps and a .net wrapper around the Australian Electoral Commission data
 
-*   [beetlex-io/BeetleX](https://github.com/beetlex-io/BeetleX) ⭐: 1179 ⌨️: C# `http-server` `https` `mqtt` `mqtt-client` `mqtt-server` `non-blocking` `rpc` `rpc-framework` `rpc-server` `socket` `socket-server` `socketasynceventargs` `ssl` `tcp` `tcp-server` `tls` `webserver` `websocket` `websocket-server` `websockets`
+*   [beetlex-io/BeetleX](https://github.com/beetlex-io/BeetleX) ⭐: 1180 ⌨️: C# `http-server` `https` `mqtt` `mqtt-client` `mqtt-server` `non-blocking` `rpc` `rpc-framework` `rpc-server` `socket` `socket-server` `socketasynceventargs` `ssl` `tcp` `tcp-server` `tls` `webserver` `websocket` `websocket-server` `websockets`
     high performance dotnet core socket tcp communication components,  support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols  and 1M connections problem solution
 
 *   [2881099/NJob](https://github.com/2881099/NJob) ⭐: 30 ⌨️: C#
@@ -7839,7 +7839,7 @@
 *   [eaglexiang/eagle.tunnel.dotnet.core](https://github.com/eaglexiang/eagle.tunnel.dotnet.core) ⭐: 171 ⌨️: C# `eagle-tunnel` `proxy` `proxy-server`
     稳定易用的代理工具
 
-*   [dotnet/roslynator](https://github.com/dotnet/roslynator) ⭐: 3054 ⌨️: C# `csharp` `dotnet` `roslyn` `visual-studio`
+*   [dotnet/roslynator](https://github.com/dotnet/roslynator) ⭐: 3055 ⌨️: C# `csharp` `dotnet` `roslyn` `visual-studio`
     Roslynator is a set of code analysis tools for C#, powered by Roslyn.
 
 *   [pardahlman/RawRabbit](https://github.com/pardahlman/RawRabbit) ⭐: 746 ⌨️: C# `async` `dotnetcore` `message-bus` `rabbitmq`
@@ -7911,7 +7911,7 @@
 *   [dapplo/Dapplo.HttpExtensions](https://github.com/dapplo/Dapplo.HttpExtensions) ⭐: 13 ⌨️: C# `hacktoberfest` `hacktoberfest2021`
     .NET extensions for using the HttpClient to call Http(s) services, with less complexity
 
-*   [yuzhengyang/Fork](https://github.com/yuzhengyang/Fork) ⭐: 901 ⌨️: C#
+*   [yuzhengyang/Fork](https://github.com/yuzhengyang/Fork) ⭐: 902 ⌨️: C#
     a c# utility library. C#工具包，C#工具类，常用方法，系统API，文件处理、加密解密、Winform美化（C# Tools）
 
 *   [RickStrahl/Westwind.AspNetCore](https://github.com/RickStrahl/Westwind.AspNetCore) ⭐: 126 ⌨️: C# `aspnet-core` `csharp` `dotnet`
@@ -7947,7 +7947,7 @@
 *   [duuliy/aspnetcore-vue-signalR](https://github.com/duuliy/aspnetcore-vue-signalR) ⭐: 6 ⌨️: C# `aspnetcore` `axios` `less` `signalr` `vue` `vuejs` `vuex`
     aspnetcore+vue+signalR+vuex+axios+less.
 
-*   [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) ⭐: 9205 ⌨️: C# `asp-net` `asp-net-core` `aspnet` `aspnetcore` `cart` `dotnet` `dotnet-core` `e-commerce` `ecommerce` `ecommerce-platform` `headless` `mvc` `net6` `net7` `net8` `shop` `shopping-cart` `sqlserver`
+*   [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) ⭐: 9207 ⌨️: C# `asp-net` `asp-net-core` `aspnet` `aspnetcore` `cart` `dotnet` `dotnet-core` `e-commerce` `ecommerce` `ecommerce-platform` `headless` `mvc` `net6` `net7` `net8` `shop` `shopping-cart` `sqlserver`
     ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
 
 *   [Scooletz/QueueBatch](https://github.com/Scooletz/QueueBatch) ⭐: 41 ⌨️: C# `azure` `azure-functions` `azure-storage` `webjob-functions`
@@ -8027,7 +8027,7 @@
 *   [dathlin/SharpNodeSettings](https://github.com/dathlin/SharpNodeSettings) ⭐: 251 ⌨️: C#
     一个设备及节点配置类库，基于HslCommunication.dll创建，方便的实现PLC根据配置文件动态创建，并支持自动写入相应的服务器对象。
 
-*   [cezarypiatek/MappingGenerator](https://github.com/cezarypiatek/MappingGenerator) ⭐: 1030 ⌨️: C# `automapper` `c-sharp` `code-generation` `codegenerator` `dotnet` `mapper` `mapping` `roslyn` `visual-studio` `vsix`
+*   [cezarypiatek/MappingGenerator](https://github.com/cezarypiatek/MappingGenerator) ⭐: 1029 ⌨️: C# `automapper` `c-sharp` `code-generation` `codegenerator` `dotnet` `mapper` `mapping` `roslyn` `visual-studio` `vsix`
     :arrows\_counterclockwise: "AutoMapper" like, Roslyn based, code fix provider that allows to generate mapping code in design time.
 
 *   [twenzel/NServiceBus.MSDependencyInjection](https://github.com/twenzel/NServiceBus.MSDependencyInjection) ⭐: 6 ⌨️: C# `nservicebus`
@@ -8191,7 +8191,7 @@
 *   [JoshClose/FluentDatabase](https://github.com/JoshClose/FluentDatabase) ⭐: 78 ⌨️: C#
     A .NET library created in C# to fluently create any type of database
 
-*   [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) ⭐: 4731 ⌨️: C# `hacktoberfest`
+*   [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) ⭐: 4732 ⌨️: C# `hacktoberfest`
     Library to help reading and writing CSV files
 
 *   [Scooletz/Thruster](https://github.com/Scooletz/Thruster) ⭐: 22 ⌨️: C# `dotnet` `dotnet-core` `memory` `memorypool`
@@ -8205,16 +8205,16 @@
 *   [withlin/CommonX](https://github.com/withlin/CommonX) ⭐: 57 ⌨️: C# `autofac` `esb` `kafka` `log4net` `mapster` `masstransit` `quartz` `rabbitmq` `redis` `zookeeper`
     基础框架
 
-*   [natemcmaster/dotnet-serve](https://github.com/natemcmaster/dotnet-serve) ⭐: 797 ⌨️: C# `command-line-tool` `dotnet` `dotnet-core` `webserver`
+*   [natemcmaster/dotnet-serve](https://github.com/natemcmaster/dotnet-serve) ⭐: 798 ⌨️: C# `command-line-tool` `dotnet` `dotnet-core` `webserver`
     Simple command-line HTTPS server for the .NET Core CLI
 
 *   [PolicyServer/PolicyServer.Local](https://github.com/PolicyServer/PolicyServer.Local) ⭐: 457 ⌨️: C# `authorization` `permissions` `policies` `policyserver` `roles`
     Sample OSS version of PolicyServer
 
-*   [Alachisoft/NCache](https://github.com/Alachisoft/NCache) ⭐: 648 ⌨️: C#
+*   [Alachisoft/NCache](https://github.com/Alachisoft/NCache) ⭐: 650 ⌨️: C#
     NCache: Highly Scalable Distributed Cache for .NET
 
-*   [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) ⭐: 21325 ⌨️: C# `c-sharp` `decompile` `decompiler` `decompiler-engine` `dotnet` `dotnetcore` `ilspy` `mono` `pdb` `unity`
+*   [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) ⭐: 21333 ⌨️: C# `c-sharp` `decompile` `decompiler` `decompiler-engine` `dotnet` `dotnetcore` `ilspy` `mono` `pdb` `unity`
     .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
 
 *   [dotnet/efcore](https://github.com/dotnet/efcore) ⭐: 13679 ⌨️: C# `aspnet-product` `c-sharp` `database` `dotnet-core` `dotnet-framework` `dotnet-standard` `entity-framework` `hacktoberfest` `orm`
@@ -8277,7 +8277,7 @@
 *   [MISoftware/SciterSharp](https://github.com/MISoftware/SciterSharp) ⭐: 111 ⌨️: C# `gui-framework` `sciter`
     Port of Sciter headers for the C# language (+ WPF and Windows Forms support) (+ Windows, Linux, OSX = cross-platform)
 
-*   [microsoft/FASTER](https://github.com/microsoft/FASTER) ⭐: 6306 ⌨️: C# `concurrent` `hash-table` `indexing` `key-value-store` `library` `logging` `multi-threaded` `persistent` `recoverable`
+*   [microsoft/FASTER](https://github.com/microsoft/FASTER) ⭐: 6305 ⌨️: C# `concurrent` `hash-table` `indexing` `key-value-store` `library` `logging` `multi-threaded` `persistent` `recoverable`
     Fast persistent recoverable log and key-value store + cache, in C# and C++.
 
 *   [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) ⭐: 2982 ⌨️: C# `angular` `asp-net-core` `asp-net-core-mvc` `asp-net-core-razor-pages` `blazor` `browser` `c-sharp` `cef` `cefglue` `cefsharp` `chromium` `cross-platform` `desktop` `dotnet` `electron` `html5` `owin` `react` `vue` `winapi`
@@ -8313,7 +8313,7 @@
 *   [bamcis-io/GeoJSON](https://github.com/bamcis-io/GeoJSON) ⭐: 44 ⌨️: C#
     A .NET Core library for serializing and deserializing GeoJSON formatted JSON data. Complies with RFC 7946.
 
-*   [madelson/DistributedLock](https://github.com/madelson/DistributedLock) ⭐: 1853 ⌨️: C#
+*   [madelson/DistributedLock](https://github.com/madelson/DistributedLock) ⭐: 1854 ⌨️: C#
     A .NET library for distributed synchronization
 
 *   [vantheshark/Flatwhite](https://github.com/vantheshark/Flatwhite) ⭐: 23 ⌨️: C#
@@ -8367,7 +8367,7 @@
 *   [Particular/docs.particular.net](https://github.com/Particular/docs.particular.net) ⭐: 103 ⌨️: C# `hacktoberfest` `nservicebus`
     All content for ParticularDocs
 
-*   [reactiveui/refit](https://github.com/reactiveui/refit) ⭐: 8492 ⌨️: C# `c-sharp` `dotnet` `dotnet-core` `http` `json` `xamarin` `xml`
+*   [reactiveui/refit](https://github.com/reactiveui/refit) ⭐: 8500 ⌨️: C# `c-sharp` `dotnet` `dotnet-core` `http` `json` `xamarin` `xml`
     The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
 *   [RobThree/IdGen](https://github.com/RobThree/IdGen) ⭐: 1181 ⌨️: C# `c-sharp` `dotnet` `idgenerator` `snowflake` `twitter-snowflake` `unique-id`
@@ -8385,7 +8385,7 @@
 *   [MikePopoloski/StringFormatter](https://github.com/MikePopoloski/StringFormatter) ⭐: 340 ⌨️: C# `allocation` `allocations-performed` `performance` `stringformatter`
     Zero-allocation string formatting for .NET.
 
-*   [eventflow/EventFlow](https://github.com/eventflow/EventFlow) ⭐: 2363 ⌨️: C# `async-await` `c-sharp` `cqrs` `cqrs-es` `ddd` `domain-driven-design` `dotnet` `dotnet-core` `elasticsearch` `event-sourcing` `events` `eventsourcing` `eventstore` `framework` `netcore` `netstandard` `nuget` `rabbitmq` `sagas`
+*   [eventflow/EventFlow](https://github.com/eventflow/EventFlow) ⭐: 2364 ⌨️: C# `async-await` `c-sharp` `cqrs` `cqrs-es` `ddd` `domain-driven-design` `dotnet` `dotnet-core` `elasticsearch` `event-sourcing` `events` `eventsourcing` `eventstore` `framework` `netcore` `netstandard` `nuget` `rabbitmq` `sagas`
     Async/await first CQRS+ES and DDD framework for .NET
 
 *   [Shuttle/Shuttle.Esb.RabbitMQ](https://github.com/Shuttle/Shuttle.Esb.RabbitMQ) ⭐: 5 ⌨️: C#
@@ -8536,7 +8536,7 @@
 *   [m98proxy/Dapper.Extension](https://github.com/m98proxy/Dapper.Extension) ⭐: 14 ⌨️: C#
     CRUD extension methods for Dapper (WIP)
 
-*   [micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net) ⭐: 2702 ⌨️: C#
+*   [micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net) ⭐: 2703 ⌨️: C#
     .Net port of the original java-based barcode reader and generator library zxing
 
 *   [2881099/Microsoft.Extensions.Caching.CSRedis](https://github.com/2881099/Microsoft.Extensions.Caching.CSRedis) ⭐: 43 ⌨️: C#
@@ -8585,7 +8585,7 @@
 *   [pigLoveRabbit520/WinWnmp](https://github.com/pigLoveRabbit520/WinWnmp) ⭐: 371 ⌨️: C# `mysql` `nginx` `nginx-php-fpm` `php` `wnmp` `wpf` `wpf-wnmp`
     A beautiful Nginx PHP Mysql environment for windows（ windows下用WPF制作的nginx，php，mysql集成环境（免安装））
 
-*   [shimat/opencvsharp](https://github.com/shimat/opencvsharp) ⭐: 5368 ⌨️: C# `computer-vision` `dotnet` `dotnetcore6` `dotnetstandard` `image-processing` `machine-learning` `native-bindings` `nuget` `nuget-packages` `opencv` `opencvsharp` `wrapper`
+*   [shimat/opencvsharp](https://github.com/shimat/opencvsharp) ⭐: 5370 ⌨️: C# `computer-vision` `dotnet` `dotnetcore6` `dotnetstandard` `image-processing` `machine-learning` `native-bindings` `nuget` `nuget-packages` `opencv` `opencvsharp` `wrapper`
     OpenCV wrapper for .NET
 
 *   [trembon/TelldusCoreWrapper](https://github.com/trembon/TelldusCoreWrapper) ⭐: 4 ⌨️: C# `csharp` `dotnet-standard` `telldus` `telldus-core` `tellstick` `tellstick-duo`
@@ -8618,7 +8618,7 @@
 *   [Liu-Alan/Ocelot-Consul](https://github.com/Liu-Alan/Ocelot-Consul) ⭐: 25 ⌨️: C# `consul` `dotnet-core` `ocelot`
     .net core Ocelot Consul 实现API网关 服务注册 服务发现 负载均衡
 
-*   [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) ⭐: 1768 ⌨️: C# `dotnet-core` `dotnet-framework` `dotnet-stryker` `hacktoberfest` `mutation-testing` `stryker`
+*   [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) ⭐: 1770 ⌨️: C# `dotnet-core` `dotnet-framework` `dotnet-stryker` `hacktoberfest` `mutation-testing` `stryker`
     Mutation testing for .NET core and .NET framework!
 
 *   [MafiaHub/MafiaUnity](https://github.com/MafiaHub/MafiaUnity) ⭐: 269 ⌨️: C#
@@ -8651,7 +8651,7 @@
 *   [Blind-Striker/Cake.Electron.Net](https://github.com/Blind-Striker/Cake.Electron.Net) ⭐: 17 ⌨️: C# `cake` `cake-build` `cake-contrib` `electron` `electron-net`
     A Cake AddIn that extends Cake with Electron.NET command tools.
 
-*   [vkhorikov/CqrsInPractice](https://github.com/vkhorikov/CqrsInPractice) ⭐: 488 ⌨️: C#
+*   [vkhorikov/CqrsInPractice](https://github.com/vkhorikov/CqrsInPractice) ⭐: 489 ⌨️: C#
     Source code for the CQRS in Practice Pluralsight course
 
 *   [pfnet-research/menoh-sharp](https://github.com/pfnet-research/menoh-sharp) ⭐: 15 ⌨️: C#
@@ -8666,16 +8666,16 @@
 *   [gordon-matt/Doxie](https://github.com/gordon-matt/Doxie) ⭐: 19 ⌨️: C#
     Help Generator for .NET Assemblies
 
-*   [videolan/libvlcsharp](https://github.com/videolan/libvlcsharp) ⭐: 1468 ⌨️: C# `dotnet` `libvlc` `libvlcsharp` `multimedia` `player` `unity` `vlc` `xamarin`
+*   [videolan/libvlcsharp](https://github.com/videolan/libvlcsharp) ⭐: 1471 ⌨️: C# `dotnet` `libvlc` `libvlcsharp` `multimedia` `player` `unity` `vlc` `xamarin`
     Cross-platform .NET/Mono bindings for LibVLC
 
-*   [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) ⭐: 4354 ⌨️: C# `desktop` `dynamic-desktop` `lockscreen` `wallpaper` `wallpaper-changer` `windows` `windows-10` `windows-11`
+*   [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) ⭐: 4358 ⌨️: C# `desktop` `dynamic-desktop` `lockscreen` `wallpaper` `wallpaper-changer` `windows` `windows-10` `windows-11`
     Port of macOS Mojave Dynamic Desktop feature to Windows
 
 *   [conan-roslyn/Conan](https://github.com/conan-roslyn/Conan) ⭐: 97 ⌨️: C# `compiler-plugin` `dotnet` `roslyn` `roslyn-analyzer`
     Lightweight fork of the .NET Compiler Platform ("Roslyn") by adding a compiler plugin infrastructure
 
-*   [Misaka-Mikoto-Tech/MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) ⭐: 947 ⌨️: C# `android` `dll` `hook` `il2cpp` `jit` `mac` `unity` `unityeditor`
+*   [Misaka-Mikoto-Tech/MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) ⭐: 948 ⌨️: C# `android` `dll` `hook` `il2cpp` `jit` `mac` `unity` `unityeditor`
     hook C# method at runtime without modify dll file (such as UnityEditor.dll), works on Windows, Mac, Android il2cpp(armv7a and armv8a)
 
 *   [olsh/curl-to-csharp](https://github.com/olsh/curl-to-csharp) ⭐: 223 ⌨️: C# `converter` `csharp` `curl` `roslyn`
@@ -8710,7 +8710,7 @@
 *   [druizgui/Img2Html](https://github.com/druizgui/Img2Html) ⭐: 4 ⌨️: C#
     Console Tool for convert images to html img tag with base 64 image embed
 
-*   [dongweiPeng/SkillSystem](https://github.com/dongweiPeng/SkillSystem) ⭐: 339 ⌨️: C#
+*   [dongweiPeng/SkillSystem](https://github.com/dongweiPeng/SkillSystem) ⭐: 340 ⌨️: C#
     游戏技能系统框架
 
 *   [yuriqdev/WinCCflexLogViewer](https://github.com/yuriqdev/WinCCflexLogViewer) ⭐: 26 ⌨️: C# `analyzer` `datalog` `datalogviewer` `hmi` `plc` `s7` `s7-plc` `siemens` `siemens-plc` `tiaportal` `wincc` `wincc-oa` `winccflex` `zedgraph`
@@ -8816,7 +8816,7 @@
 
 *   [JaryMan/NetCore2Base](https://github.com/JaryMan/NetCore2Base) ⭐: 1 ⌨️: C#
 
-*   [DiscUtils/DiscUtils](https://github.com/DiscUtils/DiscUtils) ⭐: 761 ⌨️: C# `disk` `fat` `fat32` `filesystem` `iso` `ntfs` `vhd` `vmdk` `xva`
+*   [DiscUtils/DiscUtils](https://github.com/DiscUtils/DiscUtils) ⭐: 762 ⌨️: C# `disk` `fat` `fat32` `filesystem` `iso` `ntfs` `vhd` `vmdk` `xva`
     Utility libraries to interact with discs, filesystem formats and more
 
 *   [coderabsolute/Utils.SqlDbHelper](https://github.com/coderabsolute/Utils.SqlDbHelper) ⭐: 3 ⌨️: C# `c-sharp` `dapper` `simplecrud`
@@ -8891,10 +8891,10 @@
 *   [Senparc/Senparc.CO2NET](https://github.com/Senparc/Senparc.CO2NET) ⭐: 358 ⌨️: C# `base-library` `cache` `co2net` `configuration` `dependency-injection` `dotnet` `dotnet-core` `helper` `memcached` `redis` `senparc` `settings` `utility`
     支持 .NET Framework & .NET Core 的公共基础扩展库
 
-*   [toddams/RazorLight](https://github.com/toddams/RazorLight) ⭐: 1514 ⌨️: C# `dotnet-core` `netcore` `razor` `razor-parsing-engine` `razorengine` `razorengine-alternative` `template-engine`
+*   [toddams/RazorLight](https://github.com/toddams/RazorLight) ⭐: 1515 ⌨️: C# `dotnet-core` `netcore` `razor` `razor-parsing-engine` `razorengine` `razorengine-alternative` `template-engine`
     Template engine based on Microsoft's Razor parsing engine for .NET Core
 
-*   [NRules/NRules](https://github.com/NRules/NRules) ⭐: 1488 ⌨️: C# `c-sharp` `dsl` `nrules` `rete` `rule-engine` `rules` `rules-engine`
+*   [NRules/NRules](https://github.com/NRules/NRules) ⭐: 1489 ⌨️: C# `c-sharp` `dsl` `nrules` `rete` `rule-engine` `rules` `rules-engine`
     Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#.
 
 *   [GangZhuo/BaiduPCS\_NET](https://github.com/GangZhuo/BaiduPCS_NET) ⭐: 291 ⌨️: C#
@@ -8906,7 +8906,7 @@
 *   [san0129/IQiYiCrawler](https://github.com/san0129/IQiYiCrawler) ⭐: 10 ⌨️: C#
     IQiYiCrawler
 
-*   [dotnet/csharplang](https://github.com/dotnet/csharplang) ⭐: 11428 ⌨️: C# `csharp` `language-design`
+*   [dotnet/csharplang](https://github.com/dotnet/csharplang) ⭐: 11429 ⌨️: C# `csharp` `language-design`
     The official repo for the design of the C# programming language
 
 *   [zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui) ⭐: 1513 ⌨️: C# `jobs` `quartz` `quartz-docker` `quartz3` `quartzdocker` `quartznet` `quartznet3` `quartznetcore` `quartznetui` `quartzui`
@@ -8915,7 +8915,7 @@
 *   [zlzforever/Scheduler.NET](https://github.com/zlzforever/Scheduler.NET) ⭐: 83 ⌨️: C#
     Scheduler.NET is a distributed scheduler system. It support http call back job and client managed job
 
-*   [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector) ⭐: 1387 ⌨️: C# `ado-net` `async` `dotnet` `dotnet-core` `mariadb` `mysql` `mysql-connector`
+*   [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector) ⭐: 1388 ⌨️: C# `ado-net` `async` `dotnet` `dotnet-core` `mariadb` `mysql` `mysql-connector`
     MySQL Connector for .NET
 
 *   [Fody/Fody](https://github.com/Fody/Fody) ⭐: 4324 ⌨️: C#
@@ -8981,7 +8981,7 @@
 *   [Supercide/Encrypt.Config](https://github.com/Supercide/Encrypt.Config) ⭐: 1 ⌨️: C# `asp-net-core` `configuration` `encryption` `json` `transformations`
     File Configuration encryption tool
 
-*   [DapperLib/Dapper](https://github.com/DapperLib/Dapper) ⭐: 17484 ⌨️: C# `ado-net` `dapper` `sql`
+*   [DapperLib/Dapper](https://github.com/DapperLib/Dapper) ⭐: 17485 ⌨️: C# `ado-net` `dapper` `sql`
     Dapper - a simple object mapper for .Net
 
 *   [Decad/SwaggerMock](https://github.com/Decad/SwaggerMock) ⭐: 4 ⌨️: C#
@@ -9044,7 +9044,7 @@
 *   [lfz233002072/activemq](https://github.com/lfz233002072/activemq) ⭐: 17 ⌨️: C# `activemq` `autoupdater` `mq` `nlog` `redis`
     高性能消息监控无服务器，使用ActiveMQ消息中间件实现，使用MQ、redis、nlog 等技术实现
 
-*   [NLog/NLog](https://github.com/NLog/NLog) ⭐: 6294 ⌨️: C# `c-sharp` `csharp` `dotnet` `logger` `logging` `logging-library` `net6` `net8` `netstandard` `netstandard20` `nlog` `structured-logging` `uwp` `xamarin`
+*   [NLog/NLog](https://github.com/NLog/NLog) ⭐: 6292 ⌨️: C# `c-sharp` `csharp` `dotnet` `logger` `logging` `logging-library` `net6` `net8` `netstandard` `netstandard20` `nlog` `structured-logging` `uwp` `xamarin`
     NLog - Advanced and Structured Logging for Various .NET Platforms
 
 *   [wyDuang/T4Template](https://github.com/wyDuang/T4Template) ⭐: 8 ⌨️: C#
@@ -9065,7 +9065,7 @@
 *   [xunit/xunit.analyzers](https://github.com/xunit/xunit.analyzers) ⭐: 180 ⌨️: C# `roslyn-analyzer` `unit-testing` `xunit`
     Roslyn analyzers for xUnit.net (please open issues in https://github.com/xunit/xunit)
 
-*   [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐: 15077 ⌨️: C# `c-sharp` `design` `dragablz` `hacktoberfest` `hacktoberfest2020` `material` `material-design` `theme` `wpf` `xaml`
+*   [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) ⭐: 15081 ⌨️: C# `c-sharp` `design` `dragablz` `hacktoberfest` `hacktoberfest2020` `material` `material-design` `theme` `wpf` `xaml`
     Google's Material Design in XAML & WPF, for C# & VB.Net.
 
 *   [qiniu/csharp-sdk](https://github.com/qiniu/csharp-sdk) ⭐: 176 ⌨️: C#
@@ -9092,7 +9092,7 @@
 *   [grigas3/PDManagerDSS](https://github.com/grigas3/PDManagerDSS) ⭐: 3 ⌨️: C#
     PDManager DSS
 
-*   [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML) ⭐: 4716 ⌨️: C# `closedxml` `excel` `hacktoberfest` `hacktoberfest2020` `openxml` `xlsm` `xlsx`
+*   [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML) ⭐: 4718 ⌨️: C# `closedxml` `excel` `hacktoberfest` `hacktoberfest2020` `openxml` `xlsm` `xlsx`
     ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 
 *   [lxw618/project\_cs](https://github.com/lxw618/project_cs) ⭐: 17 ⌨️: C#
@@ -9131,22 +9131,22 @@
 *   [AnyStatus/Plugins](https://github.com/AnyStatus/Plugins) ⭐: 31 ⌨️: C# `anystatus` `appveyor` `azure` `azure-devops` `cicd` `continuous-delivery` `continuous-integration` `cpu` `devops` `downtime` `jenkins` `monitoring` `network` `notifications` `performance-counters` `powershell` `teamcity` `tfs` `uptime` `visual-studio`
     \[DEPRECATED] A repository of plugins and extensions for AnyStatus
 
-*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) ⭐: 10452 ⌨️: C# `benchmark` `benchmarking` `c-sharp` `csharp` `dotnet` `hacktoberfest` `performance`
+*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) ⭐: 10457 ⌨️: C# `benchmark` `benchmarking` `c-sharp` `csharp` `dotnet` `hacktoberfest` `performance`
     Powerful .NET library for benchmarking
 
-*   [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) ⭐: 2240 ⌨️: C#
+*   [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) ⭐: 2241 ⌨️: C#
     :whale: .NET (C#) Client Library for Docker API
 
 *   [ArxOne/MrAdvice](https://github.com/ArxOne/MrAdvice) ⭐: 309 ⌨️: C# `advice` `aop` `aspects` `assembly` `inject-aspects`
     .NET aspect weaver (build task under NuGet package)
 
-*   [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) ⭐: 1436 ⌨️: C# `business-intelligence` `chart` `dashboards` `etl` `excel` `html-report` `linq` `mongodb` `mysql` `pdf` `report-generator` `reporting-engine` `sqlserver` `task-scheduler` `tasks`
+*   [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) ⭐: 1437 ⌨️: C# `business-intelligence` `chart` `dashboards` `etl` `excel` `html-report` `linq` `mongodb` `mysql` `pdf` `report-generator` `reporting-engine` `sqlserver` `task-scheduler` `tasks`
     Database Reporting Tool and Tasks (.Net)
 
 *   [lishilei0523/SD.Framework](https://github.com/lishilei0523/SD.Framework) ⭐: 18 ⌨️: C#
     经典领域驱动开发框架/DDD/AOP/WCF/NoSql/事件驱动/企业级服务端应用架构/支持.NET Core
 
-*   [NuGetPackageExplorer/NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) ⭐: 2373 ⌨️: C# `gui-application` `hacktoberfest` `nuget-client` `nuget-packages`
+*   [NuGetPackageExplorer/NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) ⭐: 2374 ⌨️: C# `gui-application` `hacktoberfest` `nuget-client` `nuget-packages`
     Create, update and deploy Nuget Packages with a GUI
 
 *   [q315523275/FamilyBucket](https://github.com/q315523275/FamilyBucket) ⭐: 726 ⌨️: C# `configserver` `consul` `elasticsearch` `eventbus` `grpc` `netcore2` `ocelot` `rabbit-mq` `sqlsugar` `tracing`
@@ -9181,7 +9181,7 @@
 *   [SciSharp/SiaNet](https://github.com/SciSharp/SiaNet) ⭐: 380 ⌨️: C# `artificial-intelligence` `cognitive-services` `deep-learning` `deep-neural-network` `image-classification` `image-processing` `machine-learning` `neural-network` `object-detection`
     An easy to use C# deep learning library with CUDA/OpenCL support
 
-*   [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) ⭐: 9027 ⌨️: C#
+*   [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) ⭐: 9029 ⌨️: C#
     A popular .NET validation library for building strongly-typed validation rules.
 
 *   [Vip56/CSharpToTypeScript](https://github.com/Vip56/CSharpToTypeScript) ⭐: 12 ⌨️: C# `csharp` `project` `typescript`
@@ -9266,7 +9266,7 @@
 *   [vany0114/microservices-dotnetcore-docker-sf-k8s](https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s) ⭐: 152 ⌨️: C# `asp-net-core` `azure-service-bus` `azure-service-fabric` `cosmos-db` `cqrs` `cqrs-pattern` `ddd` `ddd-architecture` `docker` `domain-driven-design` `dotnet-core` `entity-framework-core` `k8s` `kubernetes` `microservices` `microsoft-azure` `mongodb` `netcore31` `rabbitmq` `servicefabric`
     Shows an approach to work with a microservices based architecture using .Net Core, Docker, and Azure Service Fabric/Kubernetes, applying Domain Driven Design (DDD) and Comand and Query Responsibility Segregation (CQRS) and other patterns.
 
-*   [essensoft/paylink](https://github.com/essensoft/paylink) ⭐: 1759 ⌨️: C# `alipay` `essensoft` `paylink` `payment` `wechat` `wechat-pay` `wechatpay` `weixin`
+*   [essensoft/paylink](https://github.com/essensoft/paylink) ⭐: 1760 ⌨️: C# `alipay` `essensoft` `paylink` `payment` `wechat` `wechat-pay` `wechatpay` `weixin`
     一套基于 .NET 开发的支付SDK，它简化了API调用及通知的处理流程。
 
 *   [toolgood/ToolGood.ReadyGo](https://github.com/toolgood/ToolGood.ReadyGo) ⭐: 10 ⌨️: C#
@@ -9275,7 +9275,7 @@
 *   [toolgood/ToolGood.Algorithm](https://github.com/toolgood/ToolGood.Algorithm) ⭐: 108 ⌨️: C# `algorithm` `arithmetic` `dotnet` `excel` `excel-expressions` `expression` `formula` `formula-grammar` `java` `script`
     ToolGood.Algorithm is a powerful, lightweight, Excel formula compatible algorithm library aimed at improving developers’ productivity in different business scenes.  ToolGood.Algorithm是一个功能强大、轻量级、兼容Excel公式的算法类库，旨在提高开发人员在不同业务场景中的生产力。
 
-*   [liangxiegame/QFramework](https://github.com/liangxiegame/QFramework) ⭐: 4343 ⌨️: C# `frameworks` `game-dev` `godot` `godot-addon` `godot-engine` `godot-plugin` `godot4` `godotengine` `qframework` `u3d` `unity` `unity-3d` `unity-asset` `unity-editor` `unity-framework` `unity-scripts` `unity2d` `unity3d` `unity3d-framework` `unity3d-plugin`
+*   [liangxiegame/QFramework](https://github.com/liangxiegame/QFramework) ⭐: 4345 ⌨️: C# `frameworks` `game-dev` `godot` `godot-addon` `godot-engine` `godot-plugin` `godot4` `godotengine` `qframework` `u3d` `unity` `unity-3d` `unity-asset` `unity-editor` `unity-framework` `unity-scripts` `unity2d` `unity3d` `unity3d-framework` `unity3d-plugin`
     Godot/Unity3D System Design Architecture
 
 *   [JiarongGu/RissoleDatabaseHelper](https://github.com/JiarongGu/RissoleDatabaseHelper) ⭐: 5 ⌨️: C# `csharp` `dotnet-core` `orm`
@@ -9311,7 +9311,7 @@
 *   [openzipkin/zipkin4net](https://github.com/openzipkin/zipkin4net) ⭐: 341 ⌨️: C# `openzipkin` `zipkin`
     A .NET client library for Zipkin
 
-*   [Azure/DotNetty](https://github.com/Azure/DotNetty) ⭐: 4072 ⌨️: C# `networking` `protocols`
+*   [Azure/DotNetty](https://github.com/Azure/DotNetty) ⭐: 4073 ⌨️: C# `networking` `protocols`
     DotNetty project – a port of netty, event-driven asynchronous network application framework
 
 *   [besley/Slickflow](https://github.com/besley/Slickflow) ⭐: 787 ⌨️: C# `bpmn` `net8` `workflow-engine`
@@ -9341,7 +9341,7 @@
 *   [yuzd/AntData.ORM](https://github.com/yuzd/AntData.ORM) ⭐: 436 ⌨️: C# `async` `mysql` `netcore2` `oracle` `orm` `postgresql` `read-write` `sharding-db` `sqlserver`
     特色：vs插件或者t4一键生成entity 支持配置非物理外键。分离linq转sql引擎(原生linq非扩展)和执行dal功能,支持异步,支持netcore2.0
 
-*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) ⭐: 9680 ⌨️: C# `capture` `chocolatey` `dotnet` `gif` `keystrokes` `record` `recording` `region-capture` `screen-capture` `screen-recorder` `screencast` `screenshot` `webcam` `windows` `wpf`
+*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) ⭐: 9681 ⌨️: C# `capture` `chocolatey` `dotnet` `gif` `keystrokes` `record` `recording` `region-capture` `screen-capture` `screen-recorder` `screencast` `screenshot` `webcam` `windows` `wpf`
     Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 
 *   [Askyms/Asky](https://github.com/Askyms/Asky) ⭐: 209 ⌨️: C# `dapper` `dnc` `docker` `ecommerce` `eshop` `kafka` `kubernetes` `postgresql` `rabbitmq` `rancher` `tidb`
@@ -9353,7 +9353,7 @@
 *   [cdroulers/awesome-sql-builder](https://github.com/cdroulers/awesome-sql-builder) ⭐: 46 ⌨️: C# `builder` `c-sharp` `odata` `sql-query`
     A small library for building SQL queries in a better way than regular string concatenation.
 
-*   [tmenier/Flurl](https://github.com/tmenier/Flurl) ⭐: 4183 ⌨️: C# `c-sharp` `dotnet` `http` `rest-client` `url-builder`
+*   [tmenier/Flurl](https://github.com/tmenier/Flurl) ⭐: 4184 ⌨️: C# `c-sharp` `dotnet` `http` `rest-client` `url-builder`
     Fluent URL builder and testable HTTP client for .NET
 
 *   [sketch7/FluentlyHttpClient](https://github.com/sketch7/FluentlyHttpClient) ⭐: 114 ⌨️: C# `csharp` `dotnet` `fluent-api` `fluentapi` `http-client` `httpclient` `middleware` `netstandard` `rest` `rest-client`
@@ -9374,7 +9374,7 @@
 *   [Lenic/Lenic.Web](https://github.com/Lenic/Lenic.Web) ⭐: 4 ⌨️: C#
     WebApi for module.
 
-*   [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) ⭐: 1312 ⌨️: C# `builder` `compose` `docker` `docker-container` `docker-machine` `docker-stack` `dotnetcore` `fluent` `linux` `macos` `net` `test` `windows` `wsl2`
+*   [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) ⭐: 1316 ⌨️: C# `builder` `compose` `docker` `docker-container` `docker-machine` `docker-stack` `dotnetcore` `fluent` `linux` `macos` `net` `test` `windows` `wsl2`
     Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
 
 *   [WebApiContrib/WebAPIContrib.Core](https://github.com/WebApiContrib/WebAPIContrib.Core) ⭐: 461 ⌨️: C# `asp-net-core` `net-core` `webapicontrib`
@@ -9383,7 +9383,7 @@
 *   [dotnetcore/DotnetSpider](https://github.com/dotnetcore/DotnetSpider) ⭐: 3971 ⌨️: C# `crawler` `cross-platform` `csharp` `distributed` `dotnetcore`
     DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
 
-*   [intel/acat](https://github.com/intel/acat) ⭐: 3197 ⌨️: C#
+*   [intel/acat](https://github.com/intel/acat) ⭐: 3196 ⌨️: C#
     Assistive Context-Aware Toolkit (ACAT)
 
 *   [DataBooster/DbWebApi](https://github.com/DataBooster/DbWebApi) ⭐: 99 ⌨️: C# `ado-net` `asp-net` `bulk` `csv` `dataaccess` `database` `ddtek` `excel` `json` `jsonp` `odp-net` `oracle` `powershell` `razor` `restful` `sql-server` `stored-procedure` `webapi` `xlsx` `xml`
@@ -9395,7 +9395,7 @@
 *   [reflection-emit/Cauldron](https://github.com/reflection-emit/Cauldron) ⭐: 33 ⌨️: C# `aop` `capgemini` `cauldron` `core` `fody` `interception` `interceptor` `net` `uwp`
     C# Toolkit
 
-*   [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) ⭐: 5845 ⌨️: C# `api` `dotnet-core` `graphiql` `graphql` `graphql-dotnet`
+*   [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) ⭐: 5847 ⌨️: C# `api` `dotnet-core` `graphiql` `graphql` `graphql-dotnet`
     GraphQL for .NET
 
 *   [yesan/EverythingCSharp](https://github.com/yesan/EverythingCSharp) ⭐: 16 ⌨️: C#
@@ -9407,13 +9407,13 @@
 *   [atifaziz/NCrontab](https://github.com/atifaziz/NCrontab) ⭐: 905 ⌨️: C# `crontab` `dotnet` `hacktoberfest` `schedule`
     Crontab for .NET
 
-*   [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) ⭐: 1611 ⌨️: C# `arch-linux` `avalonia` `clang` `cplusplus` `cross-platform-ide` `csharp` `dotnetcore` `gcc` `gdb` `linux` `llvm` `macos` `mono` `stm32` `ubuntu` `xaml`
+*   [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) ⭐: 1612 ⌨️: C# `arch-linux` `avalonia` `clang` `cplusplus` `cross-platform-ide` `csharp` `dotnetcore` `gcc` `gdb` `linux` `llvm` `macos` `mono` `stm32` `ubuntu` `xaml`
     Cross platform IDE and Shell
 
 *   [aliyun/aliyun-openapi-net-sdk](https://github.com/aliyun/aliyun-openapi-net-sdk) ⭐: 541 ⌨️: C# `alibaba` `alibabacloud` `alibabacloud-sdk` `client` `csharp` `dotnet` `net` `net-core` `sdk`
     Alibaba Cloud SDK for .NET
 
-*   [ravibpatel/AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) ⭐: 3046 ⌨️: C# `autoupdate` `c-sharp` `desktop-application` `nuget`
+*   [ravibpatel/AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) ⭐: 3047 ⌨️: C# `autoupdate` `c-sharp` `desktop-application` `nuget`
     AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.
 
 *   [davidfowl/QueryInterceptor](https://github.com/davidfowl/QueryInterceptor) ⭐: 163 ⌨️: C#
@@ -9591,7 +9591,7 @@
 *   [BrandonPotter/SimpleTCP](https://github.com/BrandonPotter/SimpleTCP) ⭐: 366 ⌨️: C#
     Straightforward .NET library to handle the repetitive tasks of spinning up and working with TCP sockets (client and server).
 
-*   [MichaCo/DnsClient.NET](https://github.com/MichaCo/DnsClient.NET) ⭐: 780 ⌨️: C# `c-sharp` `dns` `dns-client` `dns-server` `dotnet` `dotnet-core`
+*   [MichaCo/DnsClient.NET](https://github.com/MichaCo/DnsClient.NET) ⭐: 781 ⌨️: C# `c-sharp` `dns` `dns-client` `dns-server` `dotnet` `dotnet-core`
     DnsClient.NET is a simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups
 
 *   [andrewlock/NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration) ⭐: 295 ⌨️: C#
@@ -9677,16 +9677,16 @@
 *   [opentracing/opentracing-csharp](https://github.com/opentracing/opentracing-csharp) ⭐: 517 ⌨️: C#
     OpenTracing API for C# (.NET). 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
 
-*   [spring-projects/spring-net](https://github.com/spring-projects/spring-net) ⭐: 848 ⌨️: C#
+*   [spring-projects/spring-net](https://github.com/spring-projects/spring-net) ⭐: 849 ⌨️: C#
     Spring Framework for .NET
 
 *   [eraydin/EPPlus.Core.Extensions](https://github.com/eraydin/EPPlus.Core.Extensions) ⭐: 67 ⌨️: C# `epplus` `epplus-library` `excel` `extensions` `msexcel` `netframework` `netstandard`
     An extensions library for EPPlus package to generate and manipulate Excel files easily.
 
-*   [mongodb/mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) ⭐: 3132 ⌨️: C# `csharp` `csharp-library` `dotnet-framework` `mongodb` `nosql`
+*   [mongodb/mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) ⭐: 3133 ⌨️: C# `csharp` `csharp-library` `dotnet-framework` `mongodb` `nosql`
     The Official C# .NET Driver for MongoDB
 
-*   [khellang/Scrutor](https://github.com/khellang/Scrutor) ⭐: 3584 ⌨️: C# `asp-net-core` `assembly-scanning` `convention-registration` `conventions` `decoration` `decoration-extensions` `dependency-injection` `hacktoberfest` `scanning` `scrutor`
+*   [khellang/Scrutor](https://github.com/khellang/Scrutor) ⭐: 3586 ⌨️: C# `asp-net-core` `assembly-scanning` `convention-registration` `conventions` `decoration` `decoration-extensions` `dependency-injection` `hacktoberfest` `scanning` `scrutor`
     Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 
 *   [OpenSenparc/Senparc.Weixin.Plugins.WeixinTraceManager](https://github.com/OpenSenparc/Senparc.Weixin.Plugins.WeixinTraceManager) ⭐: 17 ⌨️: C#
@@ -9722,7 +9722,7 @@
 *   [stanzhai/Html2Article](https://github.com/stanzhai/Html2Article) ⭐: 491 ⌨️: C# `article` `content` `crawler` `html` `spider` `topic`
     Html网页正文提取
 
-*   [App-vNext/Polly](https://github.com/App-vNext/Polly) ⭐: 13347 ⌨️: C# `circuit-breaker` `circuit-breaker-pattern` `dotnet` `fault-handler` `resilience` `resiliency-patterns` `retry-strategies` `transient-fault-handling`
+*   [App-vNext/Polly](https://github.com/App-vNext/Polly) ⭐: 13346 ⌨️: C# `circuit-breaker` `circuit-breaker-pattern` `dotnet` `fault-handler` `resilience` `resiliency-patterns` `retry-strategies` `transient-fault-handling`
     Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 
 *   [jwt-dotnet/jwt](https://github.com/jwt-dotnet/jwt) ⭐: 2126 ⌨️: C# `authorization` `c-sharp` `json` `jwt`
@@ -9743,7 +9743,7 @@
 *   [jehugaleahsa/SQLGeneration](https://github.com/jehugaleahsa/SQLGeneration) ⭐: 22 ⌨️: C#
     Provides core classes for generating SQL at runtime.
 
-*   [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) ⭐: 2272 ⌨️: C# `audit` `audit-log` `audit-logs` `entity-framework` `mvc` `netcore` `wcf` `webapi`
+*   [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) ⭐: 2273 ⌨️: C# `audit` `audit-log` `audit-logs` `entity-framework` `mvc` `netcore` `wcf` `webapi`
     An extensible framework to audit executing operations in .NET and .NET Core.
 
 *   [sdrapkin/SecurityDriven.TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM) ⭐: 305 ⌨️: C# `micro-orm` `mssql` `orm` `sql` `sql-server`
@@ -9761,7 +9761,7 @@
 *   [NickStrupat/EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) ⭐: 373 ⌨️: C#
     Adds events for entity inserting, inserted, updating, updated, deleting, and deleted
 
-*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐: 25391 ⌨️: C# `android` `app-framework` `avalonia` `avaloniaui` `browser` `c-sharp` `cross-platform` `csharp` `desktop` `dotnet` `gui` `ios` `linux` `macos` `mobile` `mvvm` `wasm` `windows` `xamarin` `xaml`
+*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐: 25395 ⌨️: C# `android` `app-framework` `avalonia` `avaloniaui` `browser` `c-sharp` `cross-platform` `csharp` `desktop` `dotnet` `gui` `ios` `linux` `macos` `mobile` `mvvm` `wasm` `windows` `xamarin` `xaml`
     Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 
 *   [NickStrupat/TimeAgo](https://github.com/NickStrupat/TimeAgo) ⭐: 20 ⌨️: C#
@@ -9903,10 +9903,10 @@
 *   [progressonderwijs/ProgressOnderwijsUtils](https://github.com/progressonderwijs/ProgressOnderwijsUtils) ⭐: 3 ⌨️: C#
     ProgressOnderwijsUtils
 
-*   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) ⭐: 26419 ⌨️: C#
+*   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) ⭐: 26425 ⌨️: C#
     .NET debugger and assembly editor
 
-*   [ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐: 29304 ⌨️: C# `capture` `color-picker` `csharp` `dropbox` `file-sharing` `file-upload` `ftp` `gif` `gif-recorder` `image-annotation` `imgur` `ocr` `productivity` `region-capture` `screen-capture` `screen-recorder` `screenshot` `share` `sharex` `url-shortener`
+*   [ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐: 29314 ⌨️: C# `capture` `color-picker` `csharp` `dropbox` `file-sharing` `file-upload` `ftp` `gif` `gif-recorder` `image-annotation` `imgur` `ocr` `productivity` `region-capture` `screen-capture` `screen-recorder` `screenshot` `share` `sharex` `url-shortener`
     ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 
 *   [geffzhang/NanoFabric](https://github.com/geffzhang/NanoFabric) ⭐: 1466 ⌨️: C#
@@ -9921,7 +9921,7 @@
 *   [ProgrammingBlockchain/ProgrammingBlockchainCodeExamples](https://github.com/ProgrammingBlockchain/ProgrammingBlockchainCodeExamples) ⭐: 325 ⌨️: C#
     Don't talk. Code!
 
-*   [dotnet/extensions](https://github.com/dotnet/extensions) ⭐: 2586 ⌨️: C# `dotnet`
+*   [dotnet/extensions](https://github.com/dotnet/extensions) ⭐: 2587 ⌨️: C# `dotnet`
     This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 
 *   [microsoft/IIS.Administration](https://github.com/microsoft/IIS.Administration) ⭐: 501 ⌨️: C# `administration` `iis`
@@ -9933,7 +9933,7 @@
 *   [dotnet/designs](https://github.com/dotnet/designs) ⭐: 885 ⌨️: C#
     This repo is used for reviewing new .NET designs.
 
-*   [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) ⭐: 3633 ⌨️: C# `batch` `bulk` `copy` `efcore` `entity-framework-core` `entityframework` `entityframeworkcore` `mysql` `postgresql` `sql` `sqlbulkcopy` `sqlite` `sqlserver`
+*   [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) ⭐: 3634 ⌨️: C# `batch` `bulk` `copy` `efcore` `entity-framework-core` `entityframework` `entityframeworkcore` `mysql` `postgresql` `sql` `sqlbulkcopy` `sqlite` `sqlserver`
     Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
 
 *   [benaadams/Ben.BlockingDetector](https://github.com/benaadams/Ben.BlockingDetector) ⭐: 731 ⌨️: C#
@@ -10002,7 +10002,7 @@
 *   [CYJB/Cyjb](https://github.com/CYJB/Cyjb) ⭐: 78 ⌨️: C# `dotnet`
     提供 C# 基础的功能扩展
 
-*   [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) ⭐: 6715 ⌨️: C# `angular` `aspnet` `aspnetcore` `aurelia` `codegen` `csharp` `dotnet` `nswag` `openapi` `swagger` `typescript` `webapi`
+*   [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) ⭐: 6717 ⌨️: C# `angular` `aspnet` `aspnetcore` `aurelia` `codegen` `csharp` `dotnet` `nswag` `openapi` `swagger` `typescript` `webapi`
     The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
 
 *   [opserver/Opserver](https://github.com/opserver/Opserver) ⭐: 4509 ⌨️: C# `bosun` `dotnet` `elasticsearch` `monitoring` `orion` `redis` `sql`
@@ -10017,7 +10017,7 @@
 *   [dunitian/snowflake-net](https://github.com/dunitian/snowflake-net) ⭐: 130 ⌨️: C#
     全局ID生成（雪花算法）
 
-*   [codebude/QRCoder](https://github.com/codebude/QRCoder) ⭐: 4585 ⌨️: C# `barcode` `c-sharp` `csharp` `girocode` `qrcode` `qrcode-generator` `qrcoder-generator` `swissqrcode`
+*   [codebude/QRCoder](https://github.com/codebude/QRCoder) ⭐: 4588 ⌨️: C# `barcode` `c-sharp` `csharp` `girocode` `qrcode` `qrcode-generator` `qrcoder-generator` `swissqrcode`
     A pure C# Open Source QR Code implementation
 
 *   [Yang-Onion/RabbitMQ.Practice](https://github.com/Yang-Onion/RabbitMQ.Practice) ⭐: 2 ⌨️: C#
@@ -10094,7 +10094,7 @@
 *   [BeiMeng/BeiDreamCore](https://github.com/BeiMeng/BeiDreamCore) ⭐: 2 ⌨️: C#
     悲梦的DotNet跨平台应用框架
 
-*   [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) ⭐: 2683 ⌨️: C# `aurora` `database` `dotnet` `dotnet-core` `entity-framework` `entity-framework-core` `mariadb` `mysql` `mysqlconnector` `orm`
+*   [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) ⭐: 2684 ⌨️: C# `aurora` `database` `dotnet` `dotnet-core` `entity-framework` `entity-framework-core` `mariadb` `mysql` `mysqlconnector` `orm`
     Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
 
 *   [dingxiaowei/LineWaves20](https://github.com/dingxiaowei/LineWaves20) ⭐: 3 ⌨️: C#
@@ -10157,16 +10157,16 @@
 *   [damienbod/AspNetCoreMultipleProject](https://github.com/damienbod/AspNetCoreMultipleProject) ⭐: 225 ⌨️: C# `asp-net-core` `aspnetcore` `ef-core` `ms-sql-server` `mysql` `postgresql` `sqlite`
     ASP.NET Core API EF Core and Swagger
 
-*   [openiddict/openiddict-core](https://github.com/openiddict/openiddict-core) ⭐: 4382 ⌨️: C# `aspnetcore` `dotnet` `oauth2` `openidconnect`
+*   [openiddict/openiddict-core](https://github.com/openiddict/openiddict-core) ⭐: 4384 ⌨️: C# `aspnetcore` `dotnet` `oauth2` `openidconnect`
     Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 
-*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐: 19834 ⌨️: C# `awesome` `awesome-list` `csharp` `dotnet-core` `list` `microsoft`
+*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐: 19836 ⌨️: C# `awesome` `awesome-list` `csharp` `dotnet-core` `list` `microsoft`
     :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 
 *   [Vita-Nex/Core](https://github.com/Vita-Nex/Core) ⭐: 23 ⌨️: C#
     A library of advanced features that push the limits of Ultima Online!
 
-*   [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) ⭐: 5219 ⌨️: C#
+*   [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) ⭐: 5220 ⌨️: C#
     Swagger tools for documenting API's built on ASP.NET Core
 
 *   [fullstackproltd/AspNetCoreSpa](https://github.com/fullstackproltd/AspNetCoreSpa) ⭐: 1473 ⌨️: C# `angular` `angular-cli` `aspnetcore` `aspnetcorespa` `best-practices` `compodoc` `efcore` `globalization` `identityserver4` `security` `spa` `typescript` `unit-testing`
@@ -10202,10 +10202,10 @@
 *   [WebApiContrib/WebAPIContrib](https://github.com/WebApiContrib/WebAPIContrib) ⭐: 768 ⌨️: C#
     Community Contributions for ASP.NET Web API
 
-*   [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) ⭐: 4427 ⌨️: C# `asp-net-core` `cms` `csharp` `dotnet-core` `hacktoberfest` `umbraco` `umbraco-cms`
+*   [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) ⭐: 4429 ⌨️: C# `asp-net-core` `cms` `csharp` `dotnet-core` `hacktoberfest` `umbraco` `umbraco-cms`
     Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
 
-*   [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐: 11782 ⌨️: C# `abp` `architecture` `aspnet` `aspnet-core` `aspnetcore` `best-practices` `c-sharp` `csharp` `domain-driven-design` `dotnet` `dotnet-core` `framework` `multi-tenancy` `nlayer-architecture`
+*   [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐: 11781 ⌨️: C# `abp` `architecture` `aspnet` `aspnet-core` `aspnetcore` `best-practices` `c-sharp` `csharp` `domain-driven-design` `dotnet` `dotnet-core` `framework` `multi-tenancy` `nlayer-architecture`
     ASP.NET Boilerplate - Web Application Framework
 
 *   [iccb1013/Sheng.WeixinConstruction](https://github.com/iccb1013/Sheng.WeixinConstruction) ⭐: 714 ⌨️: C#
@@ -10213,7 +10213,7 @@
 
 *   [polischuk/EasyEncryption](https://github.com/polischuk/EasyEncryption) ⭐: 21 ⌨️: C# `aes` `aesthenhmac` `des` `dotnet` `encryption` `md5` `sha`
 
-*   [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) ⭐: 8417 ⌨️: C# `c-sharp` `cache` `distributed-cache` `dotnetcore` `jssdk` `memcached` `net-core` `net6` `net8` `netcore` `nuget` `officialaccounts` `redis` `sdk` `senparc` `tenpay` `wechat` `wechat-sdk` `weixin` `weixin-sdk`
+*   [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) ⭐: 8419 ⌨️: C# `c-sharp` `cache` `distributed-cache` `dotnetcore` `jssdk` `memcached` `net-core` `net6` `net8` `netcore` `nuget` `officialaccounts` `redis` `sdk` `senparc` `tenpay` `wechat` `wechat-sdk` `weixin` `weixin-sdk`
     微信全平台 .NET SDK， Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 8.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 
 *   [glitchdotcom/AlchemySharp](https://github.com/glitchdotcom/AlchemySharp) ⭐: 18 ⌨️: C#
@@ -10365,34 +10365,34 @@
 
 *   [orestonce/Ip2regionTool](https://github.com/orestonce/Ip2regionTool) ⭐: 33 ⌨️: Go
 
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ⭐: 16900 ⌨️: Go `bash` `cmd` `fish` `fish-shell` `git` `golang` `hacktoberfest` `nerd-fonts` `nushell` `powerline` `powershell` `prompt` `prompt-toolkit` `shell-prompt` `starship` `tooltips` `zsh`
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ⭐: 16909 ⌨️: Go `bash` `cmd` `fish` `fish-shell` `git` `golang` `hacktoberfest` `nerd-fonts` `nushell` `powerline` `powershell` `prompt` `prompt-toolkit` `shell-prompt` `starship` `tooltips` `zsh`
     The most customisable and low-latency cross platform/shell prompt renderer
 
-*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) ⭐: 6297 ⌨️: Go `bobplugin` `deepl`
+*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) ⭐: 6303 ⌨️: Go `bobplugin` `deepl`
     Powerful Free DeepL API, No Token Required
 
 *   [Jrohy/trojan](https://github.com/Jrohy/trojan) ⭐: 5435 ⌨️: Go `gfw` `trojan` `trojan-gfw` `trojan-go` `trojan-web`
     trojan多用户管理部署程序, 支持web页面管理
 
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐: 37226 ⌨️: Go `go` `management` `node` `node-version-manager` `nodejs` `nvm` `switch` `version` `version-manager` `versioning` `windows`
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐: 37235 ⌨️: Go `go` `management` `node` `node-version-manager` `nodejs` `nvm` `switch` `version` `version-manager` `versioning` `windows`
     A node.js version management utility for Windows. Ironically written in Go.
 
 *   [test-instructor/yangfan](https://github.com/test-instructor/yangfan) ⭐: 120 ⌨️: Go
     扬帆测试平台是一款高效、可靠的自动化测试平台，旨在帮助团队提升测试效率、降低测试成本。该平台包括用例管理、定时任务、执行记录等功能模块，支持多种类型的测试用例，目前支持API(http和grpc协议)、性能，并且可定制化，灵活满足不同场景的需求。其中，用例管理模块支持上传、编辑、复制、删除等基础操作，同时支持批量执行、并发执行等高级功能。通过用例设置，可以设置用例的基本信息、运行配置、环境变量等，灵活控制用例的执行。而定时任务模块支持引用一个或多个用例，实现用例的自动执行，支持并发运行、任务标签等功能，后续支持CI/CD集成，实现全自动化的测试流程。扬帆测试平台还提供执行记录模块，记录测试用例的执行结果，支持查看测试报告、执行日志等详细信息，方便对测试结果进行分析和优化。
 
-*   [httprunner/httprunner](https://github.com/httprunner/httprunner) ⭐: 4043 ⌨️: Go `adb` `api-testing` `benchmarking` `boomer` `curl` `httprunner` `httptest` `jmeter` `load-testing` `locust` `performance-testing` `pytest` `requests` `testing` `ui-testing` `wda`
+*   [httprunner/httprunner](https://github.com/httprunner/httprunner) ⭐: 4044 ⌨️: Go `adb` `api-testing` `benchmarking` `boomer` `curl` `httprunner` `httptest` `jmeter` `load-testing` `locust` `performance-testing` `pytest` `requests` `testing` `ui-testing` `wda`
     HttpRunner 是一个开源的 API/UI 测试工具，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
 
-*   [iyear/tdl](https://github.com/iyear/tdl) ⭐: 4241 ⌨️: Go `bash` `download` `downloader` `telegram` `telegram-api`
+*   [iyear/tdl](https://github.com/iyear/tdl) ⭐: 4247 ⌨️: Go `bash` `download` `downloader` `telegram` `telegram-api`
     📥 A Telegram toolkit written in Golang
 
-*   [iawia002/lux](https://github.com/iawia002/lux) ⭐: 27249 ⌨️: Go `bilibili` `crawler` `download` `downloader` `go` `golang` `iqiyi` `qq` `scraper` `tumblr` `video` `youku` `youtube`
+*   [iawia002/lux](https://github.com/iawia002/lux) ⭐: 27261 ⌨️: Go `bilibili` `crawler` `download` `downloader` `go` `golang` `iqiyi` `qq` `scraper` `tumblr` `video` `youku` `youtube`
     👾 Fast and simple video download library and CLI tool written in Go
 
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) ⭐: 11503 ⌨️: Go `airsonic` `madsonic` `media-server` `music` `music-server` `navidrome` `opensubsonic` `raspberry-pi` `self-hosted` `streamer` `streaming-api` `streaming-audio` `subsonic` `subsonic-server`
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) ⭐: 11516 ⌨️: Go `airsonic` `madsonic` `media-server` `music` `music-server` `navidrome` `opensubsonic` `raspberry-pi` `self-hosted` `streamer` `streaming-api` `streaming-audio` `subsonic` `subsonic-server`
     🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 
-*   [alist-org/alist](https://github.com/alist-org/alist) ⭐: 42478 ⌨️: Go `file-server` `gin` `golang` `onedrive` `solidjs` `webdav`
+*   [alist-org/alist](https://github.com/alist-org/alist) ⭐: 42490 ⌨️: Go `file-server` `gin` `golang` `onedrive` `solidjs` `webdav`
     🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 *   [brokercap/Bifrost](https://github.com/brokercap/Bifrost) ⭐: 1937 ⌨️: Go `cdc-go` `clickhouse` `datalink` `datax` `dts` `go` `go-canal` `go-mysql` `go-mysqlbinlog` `go-otter` `gobinlog` `mongodb` `mysql` `mysql-kafka` `mysql-mongodb` `mysql-redis` `mysqlbinlog` `rabbitmq`
@@ -10404,10 +10404,10 @@
 *   [1340691923/ElasticView](https://github.com/1340691923/ElasticView) ⭐: 1209 ⌨️: Go `elastic` `elastic-sql-dsl` `elasticsearch` `elasticsearch-gui` `elasticview` `es` `go` `sql` `vue`
     这是一个简单好用的ElasticSearch可视化客户端，支持连接6，7，8版本的ES，不妨一试
 
-*   [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) ⭐: 1544 ⌨️: Go `admin` `casbin` `element-ui` `eryajf` `gin` `gin-vue-admin` `go` `go-admin` `go-ldap-admin` `golang` `gorm` `jwt` `ldap` `ldap-manager`
+*   [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) ⭐: 1545 ⌨️: Go `admin` `casbin` `element-ui` `eryajf` `gin` `gin-vue-admin` `go` `go-admin` `go-ldap-admin` `golang` `gorm` `jwt` `ldap` `ldap-manager`
     🌉 基于Go+Vue实现的openLDAP后台管理项目
 
-*   [bytebase/bytebase](https://github.com/bytebase/bytebase) ⭐: 11173 ⌨️: Go `cicd` `clickhouse` `devops` `flyway` `gitlab` `gitops` `liquibase` `mongodb` `mysql` `oracle` `postgres` `postgresql` `redis` `schema-migrations` `snowflake` `sql` `sql-client` `sqlserver` `terraform` `tidb`
+*   [bytebase/bytebase](https://github.com/bytebase/bytebase) ⭐: 11177 ⌨️: Go `cicd` `clickhouse` `devops` `flyway` `gitlab` `gitops` `liquibase` `mongodb` `mysql` `oracle` `postgres` `postgresql` `redis` `schema-migrations` `snowflake` `sql` `sql-client` `sqlserver` `terraform` `tidb`
     The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 
 *   [childe/gohangout](https://github.com/childe/gohangout) ⭐: 1016 ⌨️: Go `elasticsearch` `golang` `kafka` `logstash`
@@ -10416,7 +10416,7 @@
 *   [BaoXuebin/beancount-gs](https://github.com/BaoXuebin/beancount-gs) ⭐: 300 ⌨️: Go `beancount` `docker` `gin-gonic` `go` `golang`
     基于 beancount 提供个人记账财务管理的 RESTful API 服务（包含前端页面）
 
-*   [grafana/pyroscope](https://github.com/grafana/pyroscope) ⭐: 9966 ⌨️: Go `continuous-profiling` `developer-tools` `devops` `find-bottlenecks` `golang` `hacktoberfest` `linux` `monitoring` `observability` `performance` `profiling` `pyroscope` `python` `ruby`
+*   [grafana/pyroscope](https://github.com/grafana/pyroscope) ⭐: 9970 ⌨️: Go `continuous-profiling` `developer-tools` `devops` `find-bottlenecks` `golang` `hacktoberfest` `linux` `monitoring` `observability` `performance` `profiling` `pyroscope` `python` `ruby`
     Continuous Profiling Platform. Debug performance issues down to a single line of code
 
 *   [phachon/mm-wiki](https://github.com/phachon/mm-wiki) ⭐: 3547 ⌨️: Go `api-docs` `confluence` `docs` `document-management` `documentation` `documents` `documentserver` `dokuwiki` `wiki`
@@ -10425,25 +10425,25 @@
 *   [bzppx/bzppx-codepub](https://github.com/bzppx/bzppx-codepub) ⭐: 488 ⌨️: Go `c` `ci` `codepub` `con` `continuous-delivery` `continuous-deployment` `continuous-integration` `continuous-testing` `cpp` `git` `golang` `java` `jenkins` `nodejs` `php` `ruby`
     暴走皮皮虾之代码发布系统,是现代的持续集成发布系统,由后台管理系统和agent两部分组成,一个运行着的agent就是一个节点,本系统并不是造轮子,是"鸟枪"到"大炮"的创新,对"前朝遗老"的革命.
 
-*   [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ⭐: 4318 ⌨️: Go `metrics` `monitoring` `observability` `open-telemetry` `opentelemetry` `telemetry`
+*   [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ⭐: 4323 ⌨️: Go `metrics` `monitoring` `observability` `open-telemetry` `opentelemetry` `telemetry`
     OpenTelemetry Collector
 
-*   [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) ⭐: 3230 ⌨️: Go
+*   [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) ⭐: 3231 ⌨️: Go
     微信聊天记录持久化备份本地硬盘，释放手机存储空间。
 
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) ⭐: 13885 ⌨️: Go `chat` `go` `golang` `im` `imserver` `instant-messaging` `messaging` `messenger` `openim` `telegram` `wechat`
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) ⭐: 13888 ⌨️: Go `chat` `go` `golang` `im` `imserver` `instant-messaging` `messaging` `messenger` `openim` `telegram` `wechat`
     IM Chat
 
-*   [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) ⭐: 862 ⌨️: Go `epub` `golang` `spider`
+*   [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) ⭐: 863 ⌨️: Go `epub` `golang` `spider`
     A download tools for clawing the ebooks from internets.
 
-*   [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) ⭐: 3453 ⌨️: Go `emby` `finder` `jellyfin` `plex` `radarr` `shooter` `sonarr` `sub` `subtitle` `tmm` `xunlei`
+*   [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) ⭐: 3455 ⌨️: Go `emby` `finder` `jellyfin` `plex` `radarr` `shooter` `sonarr` `sub` `subtitle` `tmm` `xunlei`
     自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 
 *   [etcd-manage/etcd-manage-server](https://github.com/etcd-manage/etcd-manage-server) ⭐: 79 ⌨️: Go `etcd` `etcd-manage` `etcdui` `etcdv2` `etcdv3`
     etcd-manage 服务端
 
-*   [dtm-labs/dtm](https://github.com/dtm-labs/dtm) ⭐: 10067 ⌨️: Go `cadence` `csharp` `database` `distributed` `distributed-transactions` `dtm` `go` `golang` `java` `microservice` `outbox` `saga` `seata` `tcc` `transaction` `transactions` `workflow-engine` `xa`
+*   [dtm-labs/dtm](https://github.com/dtm-labs/dtm) ⭐: 10068 ⌨️: Go `cadence` `csharp` `database` `distributed` `distributed-transactions` `dtm` `go` `golang` `java` `microservice` `outbox` `saga` `seata` `tcc` `transaction` `transactions` `workflow-engine` `xa`
     A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 
 *   [microsoft/hivedscheduler](https://github.com/microsoft/hivedscheduler) ⭐: 253 ⌨️: Go `artificial-intelligence` `containers` `deep-learning` `gang-scheduling` `kubernetes` `multi-tenancy` `scheduling`
@@ -10452,7 +10452,7 @@
 *   [alexclownfish/k8s-monitor](https://github.com/alexclownfish/k8s-monitor) ⭐: 44 ⌨️: Go
     k8s+prometheus+grafana+alertmanager，监控报警系列源码，yaml,及文档归纳
 
-*   [kubevela/kubevela](https://github.com/kubevela/kubevela) ⭐: 6383 ⌨️: Go `application` `cloudnative` `cncf` `continuous-delivery` `control-plane` `cue` `helm` `hybridcloud` `kubernetes` `microservices` `multicloud` `multicluster` `oam` `paas` `serverless` `trait` `workloads`
+*   [kubevela/kubevela](https://github.com/kubevela/kubevela) ⭐: 6384 ⌨️: Go `application` `cloudnative` `cncf` `continuous-delivery` `control-plane` `cue` `helm` `hybridcloud` `kubernetes` `microservices` `multicloud` `multicluster` `oam` `paas` `serverless` `trait` `workloads`
     The Modern Application Platform.
 
 *   [xinjiayu/NoticeServices](https://github.com/xinjiayu/NoticeServices) ⭐: 145 ⌨️: Go
@@ -10470,13 +10470,13 @@
 *   [erda-project/erda](https://github.com/erda-project/erda) ⭐: 2694 ⌨️: Go `apm` `ci-cd` `cmp` `containers` `devops` `docker` `go` `golang` `kubernetes` `microservice`
     An enterprise-grade Cloud-Native application platform for Kubernetes.
 
-*   [ccfos/nightingale](https://github.com/ccfos/nightingale) ⭐: 9635 ⌨️: Go `alerting` `ccf` `metrics` `monitoring` `nightingale` `observability` `open-falcon` `time-series` `tsdb`
+*   [ccfos/nightingale](https://github.com/ccfos/nightingale) ⭐: 9636 ⌨️: Go `alerting` `ccf` `metrics` `monitoring` `nightingale` `observability` `open-falcon` `time-series` `tsdb`
     An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
 
-*   [lazzyfu/goInsight](https://github.com/lazzyfu/goInsight) ⭐: 651 ⌨️: Go `clickhouse` `data-query-ui` `gaudit` `go` `mysql` `order` `tidb`
+*   [lazzyfu/goInsight](https://github.com/lazzyfu/goInsight) ⭐: 652 ⌨️: Go `clickhouse` `data-query-ui` `gaudit` `go` `mysql` `order` `tidb`
     集MySQL/TiDB数据库工单和数据查询的WEB平台
 
-*   [zeromicro/go-zero](https://github.com/zeromicro/go-zero) ⭐: 28990 ⌨️: Go `cloud-native` `code-generation` `framework` `gateway` `go` `go-zero` `goctl` `golang` `gozero` `grpc-gateway` `microservice` `microservice-framework` `microservices` `microservices-architecture` `rest-api` `restful` `restful-api` `rpc` `rpc-framework` `web-framework`
+*   [zeromicro/go-zero](https://github.com/zeromicro/go-zero) ⭐: 28995 ⌨️: Go `cloud-native` `code-generation` `framework` `gateway` `go` `go-zero` `goctl` `golang` `gozero` `grpc-gateway` `microservice` `microservice-framework` `microservices` `microservices-architecture` `rest-api` `restful` `restful-api` `rpc` `rpc-framework` `web-framework`
     A cloud-native Go microservices framework with cli tool for productivity.
 
 *   [Humpheh/goboy](https://github.com/Humpheh/goboy) ⭐: 2600 ⌨️: Go `emulator` `gameboy` `gameboy-emulator` `go` `golang` `macos` `windows`
@@ -10491,25 +10491,25 @@
 *   [dmhao/hgw](https://github.com/dmhao/hgw) ⭐: 107 ⌨️: Go `api-gateway` `gateway` `gateway-manager` `gateway-microservice` `go` `golang` `http` `http-proxy` `http-server` `microservices`
     hgw是由gateway网关服务、manager控制服务构成的一套轻量级网关系统。目前支持http/https协议的服务控制
 
-*   [go-kratos/kratos](https://github.com/go-kratos/kratos) ⭐: 23177 ⌨️: Go `architecture` `cloud-native` `framework` `generate` `go` `golang` `grpc` `http` `kratos` `microservice` `microservices` `protobuf`
+*   [go-kratos/kratos](https://github.com/go-kratos/kratos) ⭐: 23180 ⌨️: Go `architecture` `cloud-native` `framework` `generate` `go` `golang` `grpc` `http` `kratos` `microservice` `microservices` `protobuf`
     Your ultimate Go microservices framework for the cloud-native era.
 
 *   [kumahq/kuma](https://github.com/kumahq/kuma) ⭐: 3623 ⌨️: Go `apis` `cloud-native` `cncf` `connectivity` `control-plane` `controlplane` `envoy` `envoyproxy` `golang` `kong` `kubernetes` `kuma` `mesh` `microservices` `networking` `service-mesh` `servicemesh` `sidecar-proxy`
     🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
 
-*   [google/cadvisor](https://github.com/google/cadvisor) ⭐: 17004 ⌨️: Go
+*   [google/cadvisor](https://github.com/google/cadvisor) ⭐: 17007 ⌨️: Go
     Analyzes resource usage and performance characteristics of running containers.
 
 *   [kbudde/rabbitmq\_exporter](https://github.com/kbudde/rabbitmq_exporter) ⭐: 682 ⌨️: Go `eol` `exporter` `golang` `hacktoberfest` `prometheus`
     Prometheus exporter for RabbitMQ
 
-*   [luraproject/lura](https://github.com/luraproject/lura) ⭐: 6316 ⌨️: Go `api-gateway` `apis` `backend-services` `gateway` `gateway-api` `go` `golang` `krakend` `load-balancer` `microservice` `middleware` `proxies` `router`
+*   [luraproject/lura](https://github.com/luraproject/lura) ⭐: 6318 ⌨️: Go `api-gateway` `apis` `backend-services` `gateway` `gateway-api` `go` `golang` `krakend` `load-balancer` `microservice` `middleware` `proxies` `router`
     Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 
 *   [douyu/jupiter](https://github.com/douyu/jupiter) ⭐: 4392 ⌨️: Go `douyu` `douyutv` `etcd` `go` `golang` `governance` `grpc` `jupiter` `metrics` `microservice` `trace` `web-framework`
     Jupiter: Governance-oriented Microservice Framework.
 
-*   [hashicorp/vault](https://github.com/hashicorp/vault) ⭐: 30965 ⌨️: Go `go` `secrets` `vault`
+*   [hashicorp/vault](https://github.com/hashicorp/vault) ⭐: 30966 ⌨️: Go `go` `secrets` `vault`
     A tool for secrets management, encryption as a service, and privileged access management
 
 *   [docker-archive/docker-ce](https://github.com/docker-archive/docker-ce) ⭐: 5746 ⌨️: Go `docker` `git` `golang` `moby`
@@ -10533,16 +10533,16 @@
 *   [yametech/canal](https://github.com/yametech/canal) ⭐: 35 ⌨️: Go `canal` `redis` `replication`
     redis replication canal slave
 
-*   [go-gitea/gitea](https://github.com/go-gitea/gitea) ⭐: 44357 ⌨️: Go `devops` `docker-registry-v2` `git` `git-gui` `git-server` `gitea` `github` `github-actions` `gitlab` `go` `gogs` `golang` `hacktoberfest` `maven-server` `npm-registry` `vue`
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) ⭐: 44366 ⌨️: Go `devops` `docker-registry-v2` `git` `git-gui` `git-server` `gitea` `github` `github-actions` `gitlab` `go` `gogs` `golang` `hacktoberfest` `maven-server` `npm-registry` `vue`
     Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
-*   [gogs/gogs](https://github.com/gogs/gogs) ⭐: 44899 ⌨️: Go `docker` `git` `go` `gogs` `mysql` `postgresql` `raspberry-pi` `scip-enabled` `self-hosted` `sqlite3`
+*   [gogs/gogs](https://github.com/gogs/gogs) ⭐: 44904 ⌨️: Go `docker` `git` `go` `gogs` `mysql` `postgresql` `raspberry-pi` `scip-enabled` `self-hosted` `sqlite3`
     Gogs is a painless self-hosted Git service
 
-*   [dapr/dapr](https://github.com/dapr/dapr) ⭐: 23885 ⌨️: Go `containers` `event-driven` `kubernetes` `microservice` `microservices` `pubsub` `serverless` `sidecar` `state-management`
+*   [dapr/dapr](https://github.com/dapr/dapr) ⭐: 23887 ⌨️: Go `containers` `event-driven` `kubernetes` `microservice` `microservices` `pubsub` `serverless` `sidecar` `state-management`
     Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 
-*   [TruthHun/BookStack](https://github.com/TruthHun/BookStack) ⭐: 3392 ⌨️: Go `beego` `bookstack` `gitbook` `golang` `markdown` `mindoc`
+*   [TruthHun/BookStack](https://github.com/TruthHun/BookStack) ⭐: 3393 ⌨️: Go `beego` `bookstack` `gitbook` `golang` `markdown` `mindoc`
     BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
 
 *   [kplcloud/kplcloud](https://github.com/kplcloud/kplcloud) ⭐: 644 ⌨️: Go `docker` `go-kit` `golang` `kplcloud` `kubernetes` `paas` `platform`
@@ -10554,13 +10554,13 @@
 *   [ysrc/yulong-hids-archived](https://github.com/ysrc/yulong-hids-archived) ⭐: 2154 ⌨️: Go `hids` `intrusion-detection`
     \[archived] 一款实验性质的主机入侵检测系统
 
-*   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) ⭐: 7301 ⌨️: Go `beego` `document` `go` `golang` `mindoc` `smartwiki`
+*   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) ⭐: 7302 ⌨️: Go `beego` `document` `go` `golang` `mindoc` `smartwiki`
     Golang实现的基于beego框架的接口在线文档管理系统
 
 *   [b3log/lute](https://github.com/b3log/lute) ⭐: 201 ⌨️: Go `commonmark` `gfm` `gopherjs` `lute` `markdown` `vditor`
     🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。
 
-*   [containerd/ttrpc](https://github.com/containerd/ttrpc) ⭐: 537 ⌨️: Go `go` `golang` `golang-library` `golang-package` `grpc` `protocol` `rpc` `stream`
+*   [containerd/ttrpc](https://github.com/containerd/ttrpc) ⭐: 538 ⌨️: Go `go` `golang` `golang-library` `golang-package` `grpc` `protocol` `rpc` `stream`
     GRPC for low-memory environments
 
 *   [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) ⭐: 8 ⌨️: Go
@@ -10571,10 +10571,10 @@
 *   [fanpei91/torsniff](https://github.com/fanpei91/torsniff) ⭐: 3952 ⌨️: Go `bep0003` `bep0005` `bep0009` `bep0010` `bittorrent-protocol` `dht` `golang` `metadata`
     torsniff - a sniffer that sniffs torrents from BitTorrent network
 
-*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) ⭐: 32812 ⌨️: Go `acm-icpc` `algo` `algorithm` `algorithm-competitions` `algorithms` `algorithms-and-data-structures` `dynamic-programming` `facebook` `go` `golang` `interview-questions` `leetcode` `leetcode-go` `leetcode-golang` `leetcode-solutions` `math` `pattern`
+*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) ⭐: 32814 ⌨️: Go `acm-icpc` `algo` `algorithm` `algorithm-competitions` `algorithms` `algorithms-and-data-structures` `dynamic-programming` `facebook` `go` `golang` `interview-questions` `leetcode` `leetcode-go` `leetcode-golang` `leetcode-solutions` `math` `pattern`
     ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
-*   [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) ⭐: 5998 ⌨️: Go `cloud-native` `cncf` `docker-image` `p2p` `pouch` `registry`
+*   [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) ⭐: 5999 ⌨️: Go `cloud-native` `cncf` `docker-image` `p2p` `pouch` `registry`
     This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
 
 *   [AliyunContainerService/log-pilot](https://github.com/AliyunContainerService/log-pilot) ⭐: 1427 ⌨️: Go `container` `docker` `filebeat` `fluentd` `kubernetes` `log-pilot` `logging`
@@ -10589,19 +10589,19 @@
 *   [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) ⭐: 3794 ⌨️: Go `redis` `redis-cluster` `redis-proxy`
     RedisShake is a Redis data processing and migration tool.
 
-*   [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) ⭐: 5076 ⌨️: Go `ai` `databases` `deep-learning` `machine-learning` `sql-syntax` `sqlflow` `transpiler`
+*   [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) ⭐: 5077 ⌨️: Go `ai` `databases` `deep-learning` `machine-learning` `sql-syntax` `sqlflow` `transpiler`
     Brings SQL and AI together.
 
-*   [prometheus/prometheus](https://github.com/prometheus/prometheus) ⭐: 55074 ⌨️: Go `alerting` `graphing` `hacktoberfest` `metrics` `monitoring` `prometheus` `time-series`
+*   [prometheus/prometheus](https://github.com/prometheus/prometheus) ⭐: 55083 ⌨️: Go `alerting` `graphing` `hacktoberfest` `metrics` `monitoring` `prometheus` `time-series`
     The Prometheus monitoring system and time series database.
 
-*   [opencost/opencost](https://github.com/opencost/opencost) ⭐: 5171 ⌨️: Go `aws` `azure` `cncf` `cost` `cost-optimization` `finops` `gcp` `k8s` `kubernetes` `monitoring` `opencost` `prometheus`
+*   [opencost/opencost](https://github.com/opencost/opencost) ⭐: 5175 ⌨️: Go `aws` `azure` `cncf` `cost` `cost-optimization` `finops` `gcp` `k8s` `kubernetes` `monitoring` `opencost` `prometheus`
     Cost monitoring for Kubernetes workloads and cloud costs
 
-*   [vugu/vugu](https://github.com/vugu/vugu) ⭐: 4843 ⌨️: Go `framework` `go` `gui` `library` `ui` `vugu` `web` `webassembly`
+*   [vugu/vugu](https://github.com/vugu/vugu) ⭐: 4844 ⌨️: Go `framework` `go` `gui` `library` `ui` `vugu` `web` `webassembly`
     Vugu: A modern UI library for Go+WebAssembly (experimental)
 
-*   [ehang-io/nps](https://github.com/ehang-io/nps) ⭐: 30461 ⌨️: Go `dns` `firewall` `go` `gzip` `http` `https` `nat` `nps` `snnapy` `socks` `socks5` `ssh` `tcp` `tunnel` `udp`
+*   [ehang-io/nps](https://github.com/ehang-io/nps) ⭐: 30462 ⌨️: Go `dns` `firewall` `go` `gzip` `http` `https` `nat` `nps` `snnapy` `socks` `socks5` `ssh` `tcp` `tunnel` `udp`
     一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
 *   [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) ⭐: 2146 ⌨️: Go `daemon` `go` `golang` `library` `pid` `pidfile`
@@ -10625,10 +10625,10 @@
 *   [thanos-io/thanos](https://github.com/thanos-io/thanos) ⭐: 13015 ⌨️: Go `cncf` `go` `google-cloud-storage` `hacktoberfest` `high-availability` `metrics` `monitoring` `observability` `prometheus` `prometheus-ha-pairs` `prometheus-setup` `s3` `storage` `thanos`
     Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
-*   [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ⭐: 20255 ⌨️: Go `cncf` `distributed-tracing` `hacktoberfest` `jaeger` `observability` `opentelemetry` `tracing`
+*   [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ⭐: 20259 ⌨️: Go `cncf` `distributed-tracing` `hacktoberfest` `jaeger` `observability` `opentelemetry` `tracing`
     CNCF Jaeger, a Distributed Tracing Platform
 
-*   [coredns/coredns](https://github.com/coredns/coredns) ⭐: 12266 ⌨️: Go `cncf` `coredns` `dns-server` `go` `plugin` `service-discovery`
+*   [coredns/coredns](https://github.com/coredns/coredns) ⭐: 12271 ⌨️: Go `cncf` `coredns` `dns-server` `go` `plugin` `service-discovery`
     CoreDNS is a DNS server that chains plugins
 
 *   [tektoncd/pipeline](https://github.com/tektoncd/pipeline) ⭐: 8446 ⌨️: Go `cdf` `hacktoberfest` `kubernetes` `pipeline` `tekton`
@@ -10652,16 +10652,16 @@
 *   [golang/dep](https://github.com/golang/dep) ⭐: 12849 ⌨️: Go `dependency-manager` `golang` `package-manager` `toolchain`
     Go dependency management tool experiment (deprecated)
 
-*   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐: 110156 ⌨️: Go `cncf` `containers` `go` `kubernetes`
+*   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐: 110173 ⌨️: Go `cncf` `containers` `go` `kubernetes`
     Production-Grade Container Scheduling and Management
 
 *   [baetyl/baetyl](https://github.com/baetyl/baetyl) ⭐: 1870 ⌨️: Go `container` `docker` `edge` `edge-computing` `faas` `functions-as-a-service` `golang` `iot` `micro-service` `ml-in-production` `mqtt`
     Extend cloud computing, data and service seamlessly to edge devices.
 
-*   [kataras/iris](https://github.com/kataras/iris) ⭐: 25187 ⌨️: Go `dependency-injection` `go` `golang` `http2` `iris` `mvc` `sessions` `web-framework` `websocket`
+*   [kataras/iris](https://github.com/kataras/iris) ⭐: 25188 ⌨️: Go `dependency-injection` `go` `golang` `http2` `iris` `mvc` `sessions` `web-framework` `websocket`
     The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 
-*   [istio/istio](https://github.com/istio/istio) ⭐: 35788 ⌨️: Go `api-management` `circuit-breaker` `consul` `enforce-policies` `envoy` `fault-injection` `kubernetes` `lyft-envoy` `microservice` `microservices` `nomad` `polyglot-microservices` `proxies` `request-routing` `resiliency` `service-mesh`
+*   [istio/istio](https://github.com/istio/istio) ⭐: 35790 ⌨️: Go `api-management` `circuit-breaker` `consul` `enforce-policies` `envoy` `fault-injection` `kubernetes` `lyft-envoy` `microservice` `microservices` `nomad` `polyglot-microservices` `proxies` `request-routing` `resiliency` `service-mesh`
     Connect, secure, control, and observe services.
 
 *   [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) ⭐: 3190 ⌨️: Go `containers` `docker` `oci` `runc`
@@ -10670,10 +10670,10 @@
 *   [containerd/cgroups](https://github.com/containerd/cgroups) ⭐: 1083 ⌨️: Go `cgroups` `golang` `linux`
     cgroups package for Go
 
-*   [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) ⭐: 9506 ⌨️: Go
+*   [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) ⭐: 9509 ⌨️: Go
     Cross-platform filesystem notifications for Go.
 
-*   [coocood/freecache](https://github.com/coocood/freecache) ⭐: 5072 ⌨️: Go
+*   [coocood/freecache](https://github.com/coocood/freecache) ⭐: 5073 ⌨️: Go
     A cache library for Go with zero GC overhead.
 
 *   [saracen/kubeql](https://github.com/saracen/kubeql) ⭐: 57 ⌨️: Go `kubernetes` `sql`
@@ -10682,16 +10682,16 @@
 *   [tencentyun/workflow-components](https://github.com/tencentyun/workflow-components) ⭐: 33 ⌨️: Go
     tencent cloud workflow components
 
-*   [3xxx/engineercms](https://github.com/3xxx/engineercms) ⭐: 1355 ⌨️: Go `cms` `engineer-management` `engineers` `hydraulic-informatization` `ipad` `projectmanage`
+*   [3xxx/engineercms](https://github.com/3xxx/engineercms) ⭐: 1356 ⌨️: Go `cms` `engineer-management` `engineers` `hydraulic-informatization` `ipad` `projectmanage`
     工程师知识管理系统：基于golang语言（beego框架），支持分布式文件存储minio集群部署。engineercms为土木工程师基于web的知识管理系统。管理个人、工程项目资料，业主—设计—监理—施工方均从平台获得资料。支持提取码分享文件、onlyoffice实时文档协作，在线利用mindoc创作你的书籍，阅览PDF文件。手机端配套小程序，微信搜索“设计与管理”即可呼出小程序。
 
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) ⭐: 45312 ⌨️: Go `golang` `http-proxy` `proxy` `shadowsocks` `socks` `socks5` `v2ray` `vmess`
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) ⭐: 45313 ⌨️: Go `golang` `http-proxy` `proxy` `shadowsocks` `socks` `socks5` `v2ray` `vmess`
     A platform for building proxies to bypass network restrictions.
 
 *   [tietang/zebra](https://github.com/tietang/zebra) ⭐: 40 ⌨️: Go `api-gateway` `configuration` `consul` `discovery` `distributed` `eure` `eureka` `gateway` `k8s` `kubernetes` `router` `zuul`
     a dynamic gateway for golang，支持Eureka、k8s、consul
 
-*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ⭐: 13351 ⌨️: Go `docker` `golang` `k8s-sig-testing` `kubeadm` `kubernetes` `podman`
+*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ⭐: 13353 ⌨️: Go `docker` `golang` `k8s-sig-testing` `kubeadm` `kubernetes` `podman`
     Kubernetes IN Docker - local clusters for testing Kubernetes
 
 *   [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) ⭐: 1260 ⌨️: Go
@@ -10703,7 +10703,7 @@
 *   [juju/ratelimit](https://github.com/juju/ratelimit) ⭐: 2784 ⌨️: Go
     Efficient token-bucket-based rate limiter package.
 
-*   [k3s-io/k3s](https://github.com/k3s-io/k3s) ⭐: 27736 ⌨️: Go `k8s` `kubernetes`
+*   [k3s-io/k3s](https://github.com/k3s-io/k3s) ⭐: 27745 ⌨️: Go `k8s` `kubernetes`
     Lightweight Kubernetes
 
 *   [kubernetes/sample-apiserver](https://github.com/kubernetes/sample-apiserver) ⭐: 529 ⌨️: Go `k8s-staging`
@@ -10715,13 +10715,13 @@
 *   [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) ⭐: 1426 ⌨️: Go `grpc` `grpc-health` `kubernetes`
     A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
 
-*   [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐: 7798 ⌨️: Go `k8s-sig-api-machinery`
+*   [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐: 7800 ⌨️: Go `k8s-sig-api-machinery`
     Kubebuilder - SDK for building Kubernetes APIs using CRDs
 
 *   [ouqiang/delay-queue](https://github.com/ouqiang/delay-queue) ⭐: 1179 ⌨️: Go `delay-queue` `delayed-job` `delayqueue` `golang` `redis`
     延迟队列
 
-*   [shirou/gopsutil](https://github.com/shirou/gopsutil) ⭐: 10519 ⌨️: Go `go` `golang` `system-information`
+*   [shirou/gopsutil](https://github.com/shirou/gopsutil) ⭐: 10525 ⌨️: Go `go` `golang` `system-information`
     psutil for golang
 
 *   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) ⭐: 5400 ⌨️: Go `blueking` `cmdb` `devops-tools` `golang` `microservice` `rest-api`
@@ -10730,13 +10730,13 @@
 *   [percona/mongodb\_exporter](https://github.com/percona/mongodb_exporter) ⭐: 1171 ⌨️: Go `go` `golang` `hacktoberfest` `metrics` `mongodb` `pmm` `prometheus` `prometheus-exporter`
     A Prometheus exporter for MongoDB including sharding, replication and storage engines
 
-*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) ⭐: 21650 ⌨️: Go `cloud` `cloud-storage` `cloudreve` `file` `file-manager` `file-sharing` `golang`
+*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) ⭐: 21652 ⌨️: Go `cloud` `cloud-storage` `cloudreve` `file` `file-manager` `file-sharing` `golang`
     🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 
 *   [yangwenmai/learning-golang](https://github.com/yangwenmai/learning-golang) ⭐: 2697 ⌨️: Go `cn` `go` `golang` `learning-golang` `rss` `wechat`
     Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 
-*   [distribution/distribution](https://github.com/distribution/distribution) ⭐: 8878 ⌨️: Go `cncf` `containers` `distribution` `oci` `oci-specification` `registry`
+*   [distribution/distribution](https://github.com/distribution/distribution) ⭐: 8884 ⌨️: Go `cncf` `containers` `distribution` `oci` `oci-specification` `registry`
     The toolkit to pack, ship, store, and deliver container content
 
 *   [mesosphere-backup/octarine](https://github.com/mesosphere-backup/octarine) ⭐: 5 ⌨️: Go
@@ -10747,16 +10747,16 @@
 *   [Azure/kubernetes-keyvault-flexvol](https://github.com/Azure/kubernetes-keyvault-flexvol) ⭐: 253 ⌨️: Go
     Azure keyvault integration with Kubernetes via a Flex Volume
 
-*   [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) ⭐: 9616 ⌨️: Go `api` `api-gateway` `api-management` `cloudnative` `go` `graphql` `grpc` `k8s` `kubernetes` `microservices` `reverse-proxy` `tyk`
+*   [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) ⭐: 9617 ⌨️: Go `api` `api-gateway` `api-management` `cloudnative` `go` `graphql` `grpc` `k8s` `kubernetes` `microservices` `reverse-proxy` `tyk`
     Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 
 *   [caicloud/nirvana](https://github.com/caicloud/nirvana) ⭐: 520 ⌨️: Go `cli` `engineering` `framework` `golang` `middleware` `openapi`
     Golang Restful API Framework for Productivity
 
-*   [nsqio/nsq](https://github.com/nsqio/nsq) ⭐: 24891 ⌨️: Go `distributed-systems` `go` `message-queue` `messaging` `nsq` `queue`
+*   [nsqio/nsq](https://github.com/nsqio/nsq) ⭐: 24894 ⌨️: Go `distributed-systems` `go` `message-queue` `messaging` `nsq` `queue`
     A realtime distributed messaging platform
 
-*   [dgraph-io/badger](https://github.com/dgraph-io/badger) ⭐: 13824 ⌨️: Go `database` `document-database` `go` `golang` `key-value` `library` `ssd`
+*   [dgraph-io/badger](https://github.com/dgraph-io/badger) ⭐: 13829 ⌨️: Go `database` `document-database` `go` `golang` `key-value` `library` `ssd`
     Fast key-value DB in Go.
 
 *   [mohuishou/scuplus-go](https://github.com/mohuishou/scuplus-go) ⭐: 107 ⌨️: Go
@@ -10780,19 +10780,19 @@
 *   [meitu/go-ethereum](https://github.com/meitu/go-ethereum) ⭐: 252 ⌨️: Go
     go-ethereum with DPoS
 
-*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) ⭐: 43232 ⌨️: Go
+*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) ⭐: 43234 ⌨️: Go
     A golang ebook intro how to build a web with golang
 
 *   [TTCECO/gttc](https://github.com/TTCECO/gttc) ⭐: 117 ⌨️: Go `blockchain` `consensus` `dpos` `ethereum` `go`
     Official Go implementation of MARO, Maro builds an open infrastructure that seamlessly connects billions to the global economy market
 
-*   [goharbor/harbor](https://github.com/goharbor/harbor) ⭐: 23803 ⌨️: Go `cloud-native` `cncf` `cncf-project` `container` `container-management` `container-registry` `containers` `docker` `hacktoberfest` `helm` `kubernetes` `registry`
+*   [goharbor/harbor](https://github.com/goharbor/harbor) ⭐: 23804 ⌨️: Go `cloud-native` `cncf` `cncf-project` `container` `container-management` `container-registry` `containers` `docker` `hacktoberfest` `helm` `kubernetes` `registry`
     An open source trusted cloud native registry project that stores, signs, and scans content.
 
-*   [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) ⭐: 10710 ⌨️: Go
+*   [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) ⭐: 10714 ⌨️: Go
     Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 
-*   [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ⭐: 47282 ⌨️: Go `blockchain` `ethereum` `geth` `go` `p2p`
+*   [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ⭐: 47283 ⌨️: Go `blockchain` `ethereum` `geth` `go` `p2p`
     Go implementation of the Ethereum protocol
 
 *   [withlin/canal-go](https://github.com/withlin/canal-go) ⭐: 894 ⌨️: Go
@@ -10813,7 +10813,7 @@
 *   [unknwon/go-fundamental-programming](https://github.com/unknwon/go-fundamental-programming) ⭐: 9012 ⌨️: Go
     《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
 
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐: 129707 ⌨️: Go `awesome` `awesome-list` `go` `golang` `golang-library` `hacktoberfest`
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐: 129754 ⌨️: Go `awesome` `awesome-list` `go` `golang` `golang-library` `hacktoberfest`
     A curated list of awesome Go frameworks, libraries and software
 
 *   [agiledragon/ddd-sample-in-golang](https://github.com/agiledragon/ddd-sample-in-golang) ⭐: 28 ⌨️: Go
@@ -10830,7 +10830,7 @@
 *   [jaywcjlove/golang-tutorial](https://github.com/jaywcjlove/golang-tutorial) ⭐: 555 ⌨️: Go `go` `golang` `golang-tutorial`
     Go语言快速入门
 
-*   [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) ⭐: 9269 ⌨️: Go
+*   [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) ⭐: 9268 ⌨️: Go
     Machine Learning for Go
 
 *   [KeKe-Li/micro-Services-Tutorial](https://github.com/KeKe-Li/micro-Services-Tutorial) ⭐: 46 ⌨️: Go `golang` `microservices`
@@ -10845,16 +10845,16 @@
 *   [AsuraTeam/zcloud](https://github.com/AsuraTeam/zcloud) ⭐: 226 ⌨️: Go
     k8s管理平台
 
-*   [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ⭐: 16748 ⌨️: Go `gcp` `gke` `google-cloud` `grpc` `istio` `kubernetes` `kustomize` `sample-application` `samples` `skaffold` `terraform`
+*   [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) ⭐: 16751 ⌨️: Go `gcp` `gke` `google-cloud` `grpc` `istio` `kubernetes` `kustomize` `sample-application` `samples` `skaffold` `terraform`
     Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 
-*   [cookieY/Yearning](https://github.com/cookieY/Yearning) ⭐: 8472 ⌨️: Go `devops` `go` `golang` `mysql` `mysql-web-sql` `sql` `sql-audit` `yearning`
+*   [cookieY/Yearning](https://github.com/cookieY/Yearning) ⭐: 8473 ⌨️: Go `devops` `go` `golang` `mysql` `mysql-web-sql` `sql` `sql-audit` `yearning`
     🐳 A most popular sql audit platform for mysql
 
 *   [studygolang/studygolang](https://github.com/studygolang/studygolang) ⭐: 2641 ⌨️: Go `go` `golang` `studygolang`
     Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 
-*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) ⭐: 19315 ⌨️: Go `asm` `book` `cgo` `cloud` `go` `golang` `programming-language` `rpc` `web`
+*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) ⭐: 19316 ⌨️: Go `asm` `book` `cgo` `cloud` `go` `golang` `programming-language` `rpc` `web`
     :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 
 *   [eolinker/goku\_lite](https://github.com/eolinker/goku_lite) ⭐: 3115 ⌨️: Go `api` `api-gateway` `gateway` `goku` `microservices` `middleware` `proxy`
@@ -10863,45 +10863,45 @@
 *   [xluohome/phonedata](https://github.com/xluohome/phonedata) ⭐: 2055 ⌨️: Go `golang` `java` `phonenumber` `php` `python`
     手机号码归属地信息库、手机号归属地查询   phone.dat 最后更新：2023年02月
 
-*   [ilanyu/ReverseProxy](https://github.com/ilanyu/ReverseProxy) ⭐: 4340 ⌨️: Go
+*   [ilanyu/ReverseProxy](https://github.com/ilanyu/ReverseProxy) ⭐: 4341 ⌨️: Go
     ReverseProxy in golang
 
-*   [pingcap/tidb](https://github.com/pingcap/tidb) ⭐: 36985 ⌨️: Go `cloud-native` `database` `distributed-database` `distributed-transactions` `go` `hacktoberfest` `htap` `mysql` `mysql-compatibility` `scale` `serverless` `sql` `tidb`
+*   [pingcap/tidb](https://github.com/pingcap/tidb) ⭐: 36990 ⌨️: Go `cloud-native` `database` `distributed-database` `distributed-transactions` `go` `hacktoberfest` `htap` `mysql` `mysql-compatibility` `scale` `serverless` `sql` `tidb`
     TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) ⭐: 16940 ⌨️: Go `c` `clang` `golang` `ip-address` `ip-address-database` `ip-address-location` `ip-location` `ip-lookup` `java` `lua` `lua-extension` `php` `rust` `xdb-engine`
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) ⭐: 16941 ⌨️: Go `c` `clang` `golang` `ip-address` `ip-address-database` `ip-address-location` `ip-location` `ip-lookup` `java` `lua` `lua-extension` `php` `rust` `xdb-engine`
     Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 
-*   [willnorris/imageproxy](https://github.com/willnorris/imageproxy) ⭐: 3513 ⌨️: Go `imageproxy`
+*   [willnorris/imageproxy](https://github.com/willnorris/imageproxy) ⭐: 3514 ⌨️: Go `imageproxy`
     A caching, resizing image proxy written in Go
 
 *   [AliyunContainerService/pouch](https://github.com/AliyunContainerService/pouch) ⭐: 4622 ⌨️: Go `cloud-native` `containers` `efficiency` `go` `isolation` `kubernetes` `oci` `package` `security`
     An Efficient Enterprise-class Container Engine
 
-*   [influxdata/telegraf](https://github.com/influxdata/telegraf) ⭐: 14531 ⌨️: Go `gnmi` `golang` `influxdb` `json` `kafka` `logs` `metrics` `modbus` `monitoring` `mqtt` `opcua` `telegraf` `time-series` `windows-eventlog` `windows-management-instrumentation` `xpath`
+*   [influxdata/telegraf](https://github.com/influxdata/telegraf) ⭐: 14534 ⌨️: Go `gnmi` `golang` `influxdb` `json` `kafka` `logs` `metrics` `modbus` `monitoring` `mqtt` `opcua` `telegraf` `time-series` `windows-eventlog` `windows-management-instrumentation` `xpath`
     Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 
-*   [fatedier/frp](https://github.com/fatedier/frp) ⭐: 84923 ⌨️: Go `expose` `firewall` `frp` `go` `http-proxy` `nat` `p2p` `proxy` `reverse-proxy` `tunnel`
+*   [fatedier/frp](https://github.com/fatedier/frp) ⭐: 84950 ⌨️: Go `expose` `firewall` `frp` `go` `http-proxy` `nat` `p2p` `proxy` `reverse-proxy` `tunnel`
     A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## Shell
 
-*   [233boy/Xray](https://github.com/233boy/Xray) ⭐: 1367 ⌨️: Shell `xray`
+*   [233boy/Xray](https://github.com/233boy/Xray) ⭐: 1370 ⌨️: Shell `xray`
     最好用的 Xray 一键安装脚本 & 管理脚本
 
-*   [wulabing/Xray\_onekey](https://github.com/wulabing/Xray_onekey) ⭐: 9258 ⌨️: Shell `nginx` `tls` `v2ray` `vless` `vmess` `websocket` `xray` `xtls`
+*   [wulabing/Xray\_onekey](https://github.com/wulabing/Xray_onekey) ⭐: 9257 ⌨️: Shell `nginx` `tls` `v2ray` `vless` `vmess` `websocket` `xray` `xtls`
     Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
 
-*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) ⭐: 3972 ⌨️: Shell
+*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) ⭐: 3973 ⌨️: Shell
     This tool is used to install `pyenv` and friends.
 
-*   [jenv/jenv](https://github.com/jenv/jenv) ⭐: 5785 ⌨️: Shell
+*   [jenv/jenv](https://github.com/jenv/jenv) ⭐: 5789 ⌨️: Shell
     Manage your Java environment
 
 *   [d4rkstar/kong-konga-keycloak](https://github.com/d4rkstar/kong-konga-keycloak) ⭐: 280 ⌨️: Shell
     short tutorial to install kong, keycloak and konga in docker and test API authentication
 
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) ⭐: 50889 ⌨️: Shell `algorithm` `cpp` `go` `interview` `java` `javascript` `leetcode` `offer` `programmer` `python`
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) ⭐: 50899 ⌨️: Shell `algorithm` `cpp` `go` `interview` `java` `javascript` `leetcode` `offer` `programmer` `python`
     《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
 *   [zlzforever/my-docker](https://github.com/zlzforever/my-docker) ⭐: 3 ⌨️: Shell
@@ -10913,7 +10913,7 @@
 *   [ChisBread/chislash](https://github.com/ChisBread/chislash) ⭐: 148 ⌨️: Shell `clash` `docker` `proxy` `proxy-server`
     🐳 proxycenter in container 家用代理中心, 集成clash/yacd/subconverter
 
-*   [key-networks/ztncui-aio](https://github.com/key-networks/ztncui-aio) ⭐: 368 ⌨️: Shell
+*   [key-networks/ztncui-aio](https://github.com/key-networks/ztncui-aio) ⭐: 370 ⌨️: Shell
     Licensed Under AGPL v3
 
 *   [badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) ⭐: 3811 ⌨️: Shell
@@ -10927,7 +10927,7 @@
 *   [repo-sync/github-sync](https://github.com/repo-sync/github-sync) ⭐: 385 ⌨️: Shell `action` `fork` `github-action` `sync`
     ⤵️ A GitHub Action for syncing current repository with remote
 
-*   [deviantony/docker-elk](https://github.com/deviantony/docker-elk) ⭐: 17124 ⌨️: Shell `docker` `docker-compose` `elasticsearch` `elk` `kibana` `logstash` `searchguard`
+*   [deviantony/docker-elk](https://github.com/deviantony/docker-elk) ⭐: 17128 ⌨️: Shell `docker` `docker-compose` `elasticsearch` `elk` `kibana` `logstash` `searchguard`
     The Elastic stack (ELK) powered by Docker and Compose.
 
 *   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) ⭐: 1771 ⌨️: Shell `ad` `adblock` `banad` `host` `hosts` `neohosts`
@@ -10942,7 +10942,7 @@
 *   [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) ⭐: 6924 ⌨️: Shell
     Dockerfile for Apache Kafka
 
-*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) ⭐: 1773 ⌨️: Shell `check` `linux` `rkhunter` `shell-script`
+*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) ⭐: 1774 ⌨️: Shell `check` `linux` `rkhunter` `shell-script`
     Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
 
 *   [dotnetclub-net/club-server](https://github.com/dotnetclub-net/club-server) ⭐: 9 ⌨️: Shell
@@ -10957,7 +10957,7 @@
 *   [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) ⭐: 2952 ⌨️: Shell
     🔎 互联网内推信息（社招、校招、实习）
 
-*   [aqzt/kjyw](https://github.com/aqzt/kjyw) ⭐: 1696 ⌨️: Shell `devops`
+*   [aqzt/kjyw](https://github.com/aqzt/kjyw) ⭐: 1698 ⌨️: Shell `devops`
     快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
 
 *   [coding/WebIDE](https://github.com/coding/WebIDE) ⭐: 1711 ⌨️: Shell `docker` `ide` `java-8` `web-ide`
@@ -10977,13 +10977,13 @@
 *   [caison/java-knowledge-mind-map](https://github.com/caison/java-knowledge-mind-map) ⭐: 904 ⌨️: Shell `architecture` `cache` `database` `dubbo` `hashmap-concurrenthashmap` `java` `jvm` `network` `redis`
     【🌱🌱Java服务端知识技能图谱】用思维脑图梳理汇总Java服务端知识技能
 
-*   [redox-os/redox](https://github.com/redox-os/redox) ⭐: 15105 ⌨️: Shell `bsd` `freebsd` `gnu` `gnu-hurd` `linux` `microkernel` `minix` `open-source` `openbsd` `operating-system` `plan9` `posix` `redox` `rust` `sel4`
+*   [redox-os/redox](https://github.com/redox-os/redox) ⭐: 15109 ⌨️: Shell `bsd` `freebsd` `gnu` `gnu-hurd` `linux` `microkernel` `minix` `open-source` `openbsd` `operating-system` `plan9` `posix` `redox` `rust` `sel4`
     Mirror of https://gitlab.redox-os.org/redox-os/redox
 
-*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) ⭐: 19988 ⌨️: Shell `screenshot` `shell` `syntax-highlighting` `zsh` `zsh-syntax-highlighting`
+*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) ⭐: 19997 ⌨️: Shell `screenshot` `shell` `syntax-highlighting` `zsh` `zsh-syntax-highlighting`
     Fish shell like syntax highlighting for Zsh.
 
-*   [nodesource/distributions](https://github.com/nodesource/distributions) ⭐: 13448 ⌨️: Shell `javascript` `linux` `node` `nodejs` `runtime`
+*   [nodesource/distributions](https://github.com/nodesource/distributions) ⭐: 13449 ⌨️: Shell `javascript` `linux` `node` `nodejs` `runtime`
     NodeSource Node.js Binary Distributions
 
 *   [idoop/docker-nuget-server](https://github.com/idoop/docker-nuget-server) ⭐: 28 ⌨️: Shell `dockerfile` `nuget-server` `shell`
@@ -10995,7 +10995,7 @@
 *   [JaredTan95/skywalking-docker](https://github.com/JaredTan95/skywalking-docker) ⭐: 157 ⌨️: Shell `collector` `docker` `docker-compose` `k8s` `kubernetes` `skywalking` `skywalking-quick-start` `skywallking-collector`
     \[Deprecated] 🎉 Deploy Skywalking in Docker container.
 
-*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐: 14989 ⌨️: Shell `aws` `azure` `books` `cloud-providers` `deploy-kubernetes` `docker` `enterprise-kubernetes-products` `google-cloud` `google-kubernetes` `kubernetes` `kubernetes-cluster` `kubernetes-sources` `machine-learning` `meetup` `minikube` `monitoring-kubernetes` `resource` `schedule`
+*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐: 14993 ⌨️: Shell `aws` `azure` `books` `cloud-providers` `deploy-kubernetes` `docker` `enterprise-kubernetes-products` `google-cloud` `google-kubernetes` `kubernetes` `kubernetes-cluster` `kubernetes-sources` `machine-learning` `meetup` `minikube` `monitoring-kubernetes` `resource` `schedule`
     A curated list for awesome kubernetes sources :ship::tada:
 
 *   [maxfields2000/dockerjenkins\_tutorial](https://github.com/maxfields2000/dockerjenkins_tutorial) ⭐: 736 ⌨️: Shell
@@ -11006,13 +11006,13 @@
 
 *   [udacity/CarND-Advanced-Lane-Lines](https://github.com/udacity/CarND-Advanced-Lane-Lines) ⭐: 488 ⌨️: Shell
 
-*   [oracle/docker-images](https://github.com/oracle/docker-images) ⭐: 6533 ⌨️: Shell `coherence-ce` `docker` `docker-images` `dockerfile` `dockerfiles` `graalvm` `nosql` `oci` `oracle` `oracle-commercial` `oracle-database` `oracle-instantclient` `oracle-linux` `oracle-products` `oraclelinux`
+*   [oracle/docker-images](https://github.com/oracle/docker-images) ⭐: 6536 ⌨️: Shell `coherence-ce` `docker` `docker-images` `dockerfile` `dockerfiles` `graalvm` `nosql` `oci` `oracle` `oracle-commercial` `oracle-database` `oracle-instantclient` `oracle-linux` `oracle-products` `oraclelinux`
     Official source of container configurations, images, and examples for Oracle products and projects
 
-*   [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) ⭐: 7428 ⌨️: Shell `containerd` `coredns` `docker` `docker-registry` `efk` `etcd` `flanneld` `harbor` `kubernetes`
+*   [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) ⭐: 7429 ⌨️: Shell `containerd` `coredns` `docker` `docker-registry` `efk` `etcd` `flanneld` `harbor` `kubernetes`
     和我一步步部署 kubernetes 集群
 
-*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) ⭐: 11097 ⌨️: Shell `cloud-native` `cncf` `gitbook` `handbook` `istio` `k8s` `kubernetes` `service-mesh`
+*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) ⭐: 11099 ⌨️: Shell `cloud-native` `cncf` `gitbook` `handbook` `istio` `k8s` `kubernetes` `service-mesh`
     Kubernetes中文指南/云原生应用架构实战手册
 
 *   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) ⭐: 28474 ⌨️: Shell
@@ -11021,7 +11021,7 @@
 *   [Mountain-Buzhou/Interview-Book](https://github.com/Mountain-Buzhou/Interview-Book) ⭐: 440 ⌨️: Shell
     It's not just interview questions, it's an engineer's career path.
 
-*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) ⭐: 8566 ⌨️: Shell `centos` `elasticsearch` `fastdfs` `gitlab` `jenkins` `linux` `mysql` `nginx` `nmon` `ubuntu` `vmware`
+*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) ⭐: 8567 ⌨️: Shell `centos` `elasticsearch` `fastdfs` `gitlab` `jenkins` `linux` `mysql` `nginx` `nmon` `ubuntu` `vmware`
     《Java 程序员眼中的 Linux》
 
 ## Jupyter Notebook
@@ -11044,7 +11044,7 @@
 *   [YJango/Tensorflow-eager-execution](https://github.com/YJango/Tensorflow-eager-execution) ⭐: 108 ⌨️: Jupyter Notebook
     使用 tensorflow eager execution 的机器学习全新教程
 
-*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) ⭐: 12547 ⌨️: Jupyter Notebook
+*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) ⭐: 12548 ⌨️: Jupyter Notebook
     wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 
 *   [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) ⭐: 6229 ⌨️: Jupyter Notebook `classification` `cnn` `genetic-algorithm` `kmeans-clustering` `linear-regression` `machine-learning` `neural-network` `nlp` `ode` `packtpub` `regression` `rnn` `svm` `tensorboard` `tensorflow` `tensorflow-algorithms` `tensorflow-cookbook`
@@ -11055,13 +11055,13 @@
 *   [tarka/xcp](https://github.com/tarka/xcp) ⭐: 728 ⌨️: Rust `command-line` `copy-files` `linux` `solid-state-disks` `sparse-files`
     An extended `cp`
 
-*   [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) ⭐: 3663 ⌨️: Rust `data` `data-stream-processing` `dev-tools` `infrastructure` `kafka` `rust` `sql` `stream-processing` `stream-processing-engine`
+*   [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) ⭐: 3668 ⌨️: Rust `data` `data-stream-processing` `dev-tools` `infrastructure` `kafka` `rust` `sql` `stream-processing` `stream-processing-engine`
     Distributed stream processing engine in Rust
 
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐: 73474 ⌨️: Rust `anydesk` `dart` `flutter` `flutter-apps` `flutter-desktop` `flutter-examples` `flutter-mobile` `flutter-ui` `flutter-web` `hacktoberfest` `linux` `p2p` `rdp` `remote-control` `remote-desktop` `rust` `rust-lang` `teamviewer` `vnc` `wayland`
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐: 73510 ⌨️: Rust `anydesk` `dart` `flutter` `flutter-apps` `flutter-desktop` `flutter-examples` `flutter-mobile` `flutter-ui` `flutter-web` `hacktoberfest` `linux` `p2p` `rdp` `remote-control` `remote-desktop` `rust` `rust-lang` `teamviewer` `vnc` `wayland`
     An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-*   [visioncortex/vtracer](https://github.com/visioncortex/vtracer) ⭐: 3185 ⌨️: Rust `image-procesing` `rust` `svg`
+*   [visioncortex/vtracer](https://github.com/visioncortex/vtracer) ⭐: 3189 ⌨️: Rust `image-procesing` `rust` `svg`
     Raster to Vector Graphics Converter
 
 *   [dontpanic92/OpenPAL3](https://github.com/dontpanic92/OpenPAL3) ⭐: 557 ⌨️: Rust `game` `game-engine` `open-source` `pal` `pal3` `rust` `vulkan`
@@ -11070,25 +11070,25 @@
 *   [shaipe/china-areas](https://github.com/shaipe/china-areas) ⭐: 63 ⌨️: Rust
     中华人民共和国行政区数据
 
-*   [glademiller/openapiv3](https://github.com/glademiller/openapiv3) ⭐: 171 ⌨️: Rust
+*   [glademiller/openapiv3](https://github.com/glademiller/openapiv3) ⭐: 172 ⌨️: Rust
     Rust Open API v3 Structs and Enums for easy deserialization with serde
 
 *   [Matthias247/futures-intrusive](https://github.com/Matthias247/futures-intrusive) ⭐: 174 ⌨️: Rust `async` `async-await` `futures-rs` `multithreading` `rust` `synchronization`
     Synchronization primitives for Futures and async/await based on intrusive collections
 
-*   [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) ⭐: 5405 ⌨️: Rust `acrn` `containers` `cri` `cri-o` `docker` `firecracker` `k8s` `kubernetes` `kvm` `oci` `qemu` `security` `virtual-machine` `virtualization`
+*   [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) ⭐: 5410 ⌨️: Rust `acrn` `containers` `cri` `cri-o` `docker` `firecracker` `k8s` `kubernetes` `kvm` `oci` `qemu` `security` `virtual-machine` `virtualization`
     Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 
-*   [rust-lang/cargo](https://github.com/rust-lang/cargo) ⭐: 12622 ⌨️: Rust `cargo` `package-manager` `rust`
+*   [rust-lang/cargo](https://github.com/rust-lang/cargo) ⭐: 12623 ⌨️: Rust `cargo` `package-manager` `rust`
     The Rust package manager
 
 *   [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) ⭐: 1661 ⌨️: Rust `jsonwebtoken` `jwt` `rust`
     JWT lib in rust
 
-*   [denoland/deno](https://github.com/denoland/deno) ⭐: 94506 ⌨️: Rust `deno` `javascript` `rust` `typescript`
+*   [denoland/deno](https://github.com/denoland/deno) ⭐: 94534 ⌨️: Rust `deno` `javascript` `rust` `typescript`
     A modern runtime for JavaScript and TypeScript.
 
-*   [quinn-rs/quinn](https://github.com/quinn-rs/quinn) ⭐: 3759 ⌨️: Rust `hacktoberfest` `protocol` `quic` `rust`
+*   [quinn-rs/quinn](https://github.com/quinn-rs/quinn) ⭐: 3760 ⌨️: Rust `hacktoberfest` `protocol` `quic` `rust`
     Async-friendly QUIC implementation in Rust
 
 *   [mydotey/scf](https://github.com/mydotey/scf) ⭐: 34 ⌨️: Rust
@@ -11096,7 +11096,7 @@
 
 ## C++
 
-*   [microsoft/terminal](https://github.com/microsoft/terminal) ⭐: 95092 ⌨️: C++ `cmd` `command-line` `console` `contributions-welcome` `good-first-issue` `hacktoberfest` `terminal` `windows` `windows-console` `windows-terminal` `wsl`
+*   [microsoft/terminal](https://github.com/microsoft/terminal) ⭐: 95103 ⌨️: C++ `cmd` `command-line` `console` `contributions-welcome` `good-first-issue` `hacktoberfest` `terminal` `windows` `windows-console` `windows-terminal` `wsl`
     The new Windows Terminal and the original Windows console host, all in the same place!
 
 *   [Greedysky/TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) ⭐: 2282 ⌨️: C++ `amiga` `chiptune` `music-player` `qmmp` `qmmp-plugin` `qt` `spectrum`
@@ -11105,34 +11105,34 @@
 *   [iqbal-lab-org/pandora](https://github.com/iqbal-lab-org/pandora) ⭐: 109 ⌨️: C++
     Pan-genome inference and genotyping with long noisy or short accurate reads
 
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐: 65672 ⌨️: C++ `ggml` `llama`
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐: 65692 ⌨️: C++ `ggml` `llama`
     LLM inference in C/C++
 
-*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) ⭐: 3869 ⌨️: C++ `chatglm` `chatgpt` `gemini` `hook` `robot` `wechat`
+*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) ⭐: 3873 ⌨️: C++ `chatglm` `chatgpt` `gemini` `hook` `robot` `wechat`
     微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.
 
-*   [wh201906/SerialTest](https://github.com/wh201906/SerialTest) ⭐: 1138 ⌨️: C++ `android` `bluetooth` `bluetooth-le` `f-droid` `linux` `macos` `network` `plot` `qcustomplot` `qt` `qt5` `serial` `serial-monitor` `serialport` `tcp` `udp` `windows`
+*   [wh201906/SerialTest](https://github.com/wh201906/SerialTest) ⭐: 1139 ⌨️: C++ `android` `bluetooth` `bluetooth-le` `f-droid` `linux` `macos` `network` `plot` `qcustomplot` `qt` `qt5` `serial` `serial-monitor` `serialport` `tcp` `udp` `windows`
     Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
 
 *   [Komet/MediaElch](https://github.com/Komet/MediaElch) ⭐: 832 ⌨️: C++
     Media Manager for Kodi
 
-*   [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) ⭐: 3110 ⌨️: C++ `jellyfin` `jellyfin-client`
+*   [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) ⭐: 3111 ⌨️: C++ `jellyfin` `jellyfin-client`
     Jellyfin Desktop Client
 
-*   [apache/kudu](https://github.com/apache/kudu) ⭐: 1843 ⌨️: C++ `big-data` `cplusplus` `kudu`
+*   [apache/kudu](https://github.com/apache/kudu) ⭐: 1844 ⌨️: C++ `big-data` `cplusplus` `kudu`
     Mirror of Apache Kudu
 
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) ⭐: 6214 ⌨️: C++ `backup` `chat` `dump` `export` `friend` `history` `itunes` `libmp3lame` `libplist` `silk` `wechat`
     Wechat Chat History Exporter 微信聊天记录导出备份程序
 
-*   [kuroni/bongocat-osu](https://github.com/kuroni/bongocat-osu) ⭐: 2136 ⌨️: C++
+*   [kuroni/bongocat-osu](https://github.com/kuroni/bongocat-osu) ⭐: 2137 ⌨️: C++
     An osu! Bongo Cat overlay
 
 *   [caozhiyuan/ClrProfiler.Trace](https://github.com/caozhiyuan/ClrProfiler.Trace) ⭐: 55 ⌨️: C++ `apm` `ilrewrite`
     CoreCLR Profiler ILReWrite , Use To OpenTracing
 
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) ⭐: 22887 ⌨️: C++
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) ⭐: 22886 ⌨️: C++
 
 *   [wx-chevalier/CPP-Notes](https://github.com/wx-chevalier/CPP-Notes) ⭐: 92 ⌨️: C++ `cpp` `cpp-learning` `cpp-notes` `cpp11` `cpp17` `morden-cpp`
     CPP Notes & RoadMaps for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 技术领域前瞻与程序员的进阶之路
@@ -11146,22 +11146,22 @@
 *   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) ⭐: 6469 ⌨️: C++ `wechat` `wechatapi` `wechatrobot` `wxhook`
     微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
 
-*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) ⭐: 8402 ⌨️: C++ `chinese-translation` `simplified-chinese` `traditional-chinese`
+*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) ⭐: 8403 ⌨️: C++ `chinese-translation` `simplified-chinese` `traditional-chinese`
     Conversion between Traditional and Simplified Chinese
 
-*   [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) ⭐: 5082 ⌨️: C++
+*   [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) ⭐: 5085 ⌨️: C++
     High performance, multi-platform VNC client and server
 
 *   [microsoft/CNTK](https://github.com/microsoft/CNTK) ⭐: 17506 ⌨️: C++ `c-plus-plus` `c-sharp` `cntk` `cognitive-toolkit` `deep-learning` `deep-neural-networks` `distributed` `java` `machine-learning` `neural-network` `python`
     Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 
-*   [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) ⭐: 14832 ⌨️: C++ `computer-science` `course` `share` `ustc`
+*   [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) ⭐: 14833 ⌨️: C++ `computer-science` `course` `share` `ustc`
     :heart:中国科学技术大学课程资源
 
 *   [DragonLi-Mi/JavaCallCSharp](https://github.com/DragonLi-Mi/JavaCallCSharp) ⭐: 25 ⌨️: C++
     Java call c# lib built with .NET CORE 2.0
 
-*   [microsoft/calculator](https://github.com/microsoft/calculator) ⭐: 29582 ⌨️: C++ `cpp` `csharp` `uwp` `windows` `windows-10` `windows-11` `xaml`
+*   [microsoft/calculator](https://github.com/microsoft/calculator) ⭐: 29584 ⌨️: C++ `cpp` `csharp` `uwp` `windows` `windows-10` `windows-11` `xaml`
     Windows Calculator: A simple yet powerful calculator that ships with Windows
 
 *   [tensor-compiler/taco](https://github.com/tensor-compiler/taco) ⭐: 1235 ⌨️: C++ `code-generator` `library` `linear-algebra` `sparse` `tensor` `tensor-algebra` `tensor-algebra-compiler`
@@ -11170,7 +11170,7 @@
 *   [xland/redredstar](https://github.com/xland/redredstar) ⭐: 1347 ⌨️: C++
     RedRedStar
 
-*   [weolar/miniblink49](https://github.com/weolar/miniblink49) ⭐: 7136 ⌨️: C++ `blink` `chromium` `electron` `nodejs`
+*   [weolar/miniblink49](https://github.com/weolar/miniblink49) ⭐: 7137 ⌨️: C++ `blink` `chromium` `electron` `nodejs`
     a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 
 *   [OracleChain/EOSDevHelper](https://github.com/OracleChain/EOSDevHelper) ⭐: 264 ⌨️: C++
@@ -11179,13 +11179,13 @@
 *   [DoubleLabyrinth/navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen) ⭐: 9242 ⌨️: C++
     A keygen for Navicat
 
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) ⭐: 6303 ⌨️: C++ `cpp` `csharp` `desktop` `fluent-design` `uwp` `windows` `windows-10` `winui` `xaml`
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) ⭐: 6305 ⌨️: C++ `cpp` `csharp` `desktop` `fluent-design` `uwp` `windows` `windows-10` `winui` `xaml`
     Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 
 *   [EOSIO/eos](https://github.com/EOSIO/eos) ⭐: 11278 ⌨️: C++ `eosio`
     An open source smart contract platform
 
-*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) ⭐: 7356 ⌨️: C++ `c` `cpp` `cross-platform` `display` `docker` `embedded` `graphics-library` `gui` `header-only` `iot` `iot-platform` `mcu` `microcontroller`
+*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) ⭐: 7359 ⌨️: C++ `c` `cpp` `cross-platform` `display` `docker` `embedded` `graphics-library` `gui` `header-only` `iot` `iot-platform` `mcu` `microcontroller`
     ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 
 *   [sass/node-sass](https://github.com/sass/node-sass) ⭐: 8505 ⌨️: C++ `libsass` `node-sass` `sass-files` `scss` `scss-files`
@@ -11194,10 +11194,10 @@
 *   [itleaks/eos-contract](https://github.com/itleaks/eos-contract) ⭐: 172 ⌨️: C++ `contract-security` `eos` `eos-contract` `eos-contracts` `eos-security` `smart-contracts`
     Tutorial on writing smart contracts on EOS EOS智能合约教程,从零开始学习EOS智能合约, DApp安全漏洞(security)及攻击实践(EOS Contract)(Powered by Itleaks)
 
-*   [vnotex/vnote](https://github.com/vnotex/vnote) ⭐: 11765 ⌨️: C++ `editor` `markdown` `mathjax` `note` `note-taking` `uml` `vim` `vnote`
+*   [vnotex/vnote](https://github.com/vnotex/vnote) ⭐: 11766 ⌨️: C++ `editor` `markdown` `mathjax` `note` `note-taking` `uml` `vim` `vnote`
     A pleasant note-taking platform in native C++.
 
-*   [TarsCloud/Tars](https://github.com/TarsCloud/Tars) ⭐: 9796 ⌨️: C++ `high-availability` `high-performance` `microservice` `rpc-framework` `tars` `tars-foundation`
+*   [TarsCloud/Tars](https://github.com/TarsCloud/Tars) ⭐: 9798 ⌨️: C++ `high-availability` `high-performance` `microservice` `rpc-framework` `tars` `tars-foundation`
     Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 
 *   [ZhiquanW/Computer-Graphics-Related-Library](https://github.com/ZhiquanW/Computer-Graphics-Related-Library) ⭐: 3 ⌨️: C++
@@ -11206,7 +11206,7 @@
 *   [tjanczuk/edge](https://github.com/tjanczuk/edge) ⭐: 5418 ⌨️: C++
     Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐: 36918 ⌨️: C++ `ai` `analytics` `big-data` `clickhouse` `cpp` `dbms` `distributed-database` `hacktoberfest` `mpp` `olap` `rust` `sql`
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐: 36931 ⌨️: C++ `ai` `analytics` `big-data` `clickhouse` `cpp` `dbms` `distributed-database` `hacktoberfest` `mpp` `olap` `rust` `sql`
     ClickHouse® is a real-time analytics DBMS
 
 *   [varunramc/clr-profiling](https://github.com/varunramc/clr-profiling) ⭐: 8 ⌨️: C++ `asp-net` `clr` `clr-profiling` `profiler`
@@ -11218,78 +11218,78 @@
 *   [cinience/RedisStudio](https://github.com/cinience/RedisStudio) ⭐: 1551 ⌨️: C++
     RedisStudio Redis GUI client(tool) for windows
 
-*   [scylladb/seastar](https://github.com/scylladb/seastar) ⭐: 8297 ⌨️: C++ `aio` `async` `c-plus-plus` `dpdk` `seastar`
+*   [scylladb/seastar](https://github.com/scylladb/seastar) ⭐: 8299 ⌨️: C++ `aio` `async` `c-plus-plus` `dpdk` `seastar`
     High performance server-side application framework
 
 ## Python
 
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) ⭐: 3289 ⌨️: Python `awesome` `profile` `profile-page` `profile-readme` `readme` `wakatime`
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) ⭐: 3292 ⌨️: Python `awesome` `profile` `profile-page` `profile-readme` `readme` `wakatime`
     This GitHub action helps to add cool dev metrics to your github profile Readme
 
-*   [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) ⭐: 5427 ⌨️: Python `pywxdump` `wechat` `wx` `wxdump` `wxexport`
+*   [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) ⭐: 5432 ⌨️: Python `pywxdump` `wechat` `wx` `wxdump` `wxexport`
     获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
 
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) ⭐: 33558 ⌨️: Python `chatgpt` `llms` `pyqt` `wechat`
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) ⭐: 33585 ⌨️: Python `chatgpt` `llms` `pyqt` `wechat`
     提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐: 140480 ⌨️: Python `ai` `ai-art` `deep-learning` `diffusion` `gradio` `image-generation` `image2image` `img2img` `pytorch` `stable-diffusion` `text2image` `torch` `txt2img` `unstable` `upscaling` `web`
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐: 140553 ⌨️: Python `ai` `ai-art` `deep-learning` `diffusion` `gradio` `image-generation` `image2image` `img2img` `pytorch` `stable-diffusion` `text2image` `torch` `txt2img` `unstable` `upscaling` `web`
     Stable Diffusion web UI
 
-*   [Suwmlee/ikaros](https://github.com/Suwmlee/ikaros) ⭐: 392 ⌨️: Python `docker` `flask` `media`
+*   [Suwmlee/ikaros](https://github.com/Suwmlee/ikaros) ⭐: 391 ⌨️: Python `docker` `flask` `media`
     打通下载软件与媒体服务，安心享受影片
 
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) ⭐: 60151 ⌨️: Python `chatbot` `chatbots` `chatgpt` `chatgpt-4` `chatgpt-api` `chatgpt-free` `chatgpt4` `free-gpt` `gpt` `gpt-3` `gpt-4` `gpt3` `gpt4` `gpt4-api` `language-model` `openai` `openai-api` `openai-chatgpt` `python` `reverse-engineering`
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) ⭐: 60165 ⌨️: Python `chatbot` `chatbots` `chatgpt` `chatgpt-4` `chatgpt-api` `chatgpt-free` `chatgpt4` `free-gpt` `gpt` `gpt-3` `gpt-4` `gpt3` `gpt4` `gpt4-api` `language-model` `openai` `openai-api` `openai-chatgpt` `python` `reverse-engineering`
     The official gpt4free repository | various collection of powerful language models
 
 *   [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) ⭐: 5697 ⌨️: Python `apifree` `chatgpt` `chatgpt-api` `chatgpt-clone` `freegpt` `freegpt4` `gpt-4` `gpt-4-api` `gpt-4-free` `gpt-free` `gpt-interface` `gpt3` `gpt3-api` `gpt3-turbo` `gpt4` `gpt4all` `gptfree` `jailbreak` `language-model` `website`
     GPT 3.5/4 with a Chat Web UI. No API key required.
 
-*   [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐: 40459 ⌨️: Python
+*   [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐: 40462 ⌨️: Python
     ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 
-*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐: 83718 ⌨️: Python `python` `sponskrub` `sponsorblock` `video-downloader` `youtube-dl` `youtube-dlc` `youtube-downloader` `yt-dlp`
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐: 83784 ⌨️: Python `python` `sponskrub` `sponsorblock` `video-downloader` `youtube-dl` `youtube-dlc` `youtube-downloader` `yt-dlp`
     A feature-rich command-line audio/video downloader
 
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) ⭐: 21828 ⌨️: Python `bilibili` `downloader` `exhentai` `gui` `hitomi` `manga` `nhentai` `pixiv` `pornhub` `torrent` `twitch` `twitter` `youtube` `youtube-dl` `yt-dlp`
+*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) ⭐: 21833 ⌨️: Python `bilibili` `downloader` `exhentai` `gui` `hitomi` `manga` `nhentai` `pixiv` `pornhub` `torrent` `twitch` `twitter` `youtube` `youtube-dl` `yt-dlp`
     :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 
 *   [soimort/you-get](https://github.com/soimort/you-get) ⭐: 50270 ⌨️: Python
     :arrow\_double\_down: Dumb downloader that scrapes the web
 
-*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐: 131608 ⌨️: Python
+*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐: 131624 ⌨️: Python
     Command-line program to download videos from YouTube.com and other video sites
 
-*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ⭐: 17940 ⌨️: Python `awesome` `awesome-list` `chat` `chatgpt` `free` `freechatgpt`
+*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ⭐: 17944 ⌨️: Python `awesome` `awesome-list` `chat` `chatgpt` `free` `freechatgpt`
     🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) ⭐: 15670 ⌨️: Python `honkai-star-rail` `mihomo` `python` `star-rail-api`
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) ⭐: 15686 ⌨️: Python `honkai-star-rail` `mihomo` `python` `star-rail-api`
     A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 *   [xhongc/streamflow](https://github.com/xhongc/streamflow) ⭐: 97 ⌨️: Python `python` `scheduler` `workflow` `workflow-engine`
     任务调用平台+工作流引擎(workflow\&workflow-engine)
 
-*   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) ⭐: 2276 ⌨️: Python `docker` `mp3tag` `music` `music-tag` `musictag` `nas` `navidrome` `tag`
+*   [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) ⭐: 2280 ⌨️: Python `docker` `mp3tag` `music` `music-tag` `musictag` `nas` `navidrome` `tag`
     音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 
-*   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) ⭐: 13066 ⌨️: Python `bard` `bot` `chatglm-6b` `chatgpt` `discord` `ernie` `go-cqhttp` `mirai` `mirai-qq` `new-bing` `openai` `poe` `qq` `qqbot` `sydney` `telegram` `wechat` `xinghuo`
+*   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) ⭐: 13067 ⌨️: Python `bard` `bot` `chatglm-6b` `chatgpt` `discord` `ernie` `go-cqhttp` `mirai` `mirai-qq` `new-bing` `openai` `poe` `qq` `qqbot` `sydney` `telegram` `wechat` `xinghuo`
     🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 
 *   [apache/dolphinscheduler-sdk-python](https://github.com/apache/dolphinscheduler-sdk-python) ⭐: 50 ⌨️: Python `api` `dolphinscheduler` `python` `workflow`
     Apache DolphinScheduler Python API, aka PyDolphinscheduler.
 
-*   [lich0821/WeChatRobot](https://github.com/lich0821/WeChatRobot) ⭐: 1193 ⌨️: Python `chatglm` `chatgpt` `gemini` `python` `wechat` `xunfei`
+*   [lich0821/WeChatRobot](https://github.com/lich0821/WeChatRobot) ⭐: 1194 ⌨️: Python `chatglm` `chatgpt` `gemini` `python` `wechat` `xunfei`
     微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
 
 *   [zongdeiqianxing/Autoscanner](https://github.com/zongdeiqianxing/Autoscanner) ⭐: 784 ⌨️: Python `autoscanner` `cdn` `crawlergo` `dirsearch` `iplocation` `masscan` `nmap-http` `nslookup` `nuclei` `oneforall` `scanner` `snapshot` `xray`
     输入域名>爆破子域名>扫描子域名端口>发现扫描web服务>集成报告的全流程全自动扫描器。集成oneforall、masscan、nmap、dirsearch、crawlergo、xray等工具，另支持cdn识别、网页截图、站点定位；动态识别域名并添加功能、工具超时中断等
 
-*   [getredash/redash](https://github.com/getredash/redash) ⭐: 26055 ⌨️: Python `analytics` `athena` `bi` `bigquery` `business-intelligence` `dashboard` `databricks` `hacktoberfest` `javascript` `mysql` `postgresql` `python` `redash` `redshift` `spark` `spark-sql` `visualization`
+*   [getredash/redash](https://github.com/getredash/redash) ⭐: 26061 ⌨️: Python `analytics` `athena` `bi` `bigquery` `business-intelligence` `dashboard` `databricks` `hacktoberfest` `javascript` `mysql` `postgresql` `python` `redash` `redshift` `spark` `spark-sql` `visualization`
     Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) ⭐: 15354 ⌨️: Python `deprecated`
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) ⭐: 15352 ⌨️: Python `deprecated`
     SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 
-*   [bndr/pipreqs](https://github.com/bndr/pipreqs) ⭐: 6295 ⌨️: Python
+*   [bndr/pipreqs](https://github.com/bndr/pipreqs) ⭐: 6331 ⌨️: Python
     pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 
 *   [yangpeng14/DevOps](https://github.com/yangpeng14/DevOps) ⭐: 753 ⌨️: Python `devops` `docker` `istio` `kubernetes` `servicemesh`
@@ -11298,28 +11298,28 @@
 *   [wuranxu/pity](https://github.com/wuranxu/pity) ⭐: 638 ⌨️: Python `aiohttp` `apitest` `autotest` `ddt` `fastapi` `http` `httprunner` `mysql` `postgresql` `python3` `react` `testplatform` `yapi`
     🎉一个持续迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
 
-*   [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐: 19512 ⌨️: Python `angular` `archiving` `django` `dms` `document-management` `document-management-system` `machine-learning` `ocr` `optical-character-recognition` `pdf`
+*   [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐: 19557 ⌨️: Python `angular` `archiving` `django` `dms` `document-management` `document-management-system` `machine-learning` `ocr` `optical-character-recognition` `pdf`
     A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) ⭐: 21165 ⌨️: Python `dns` `github` `hosts`
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) ⭐: 21167 ⌨️: Python `dns` `github` `hosts`
     :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 
-*   [MrWQ/vulnerability-paper](https://github.com/MrWQ/vulnerability-paper) ⭐: 1719 ⌨️: Python
+*   [MrWQ/vulnerability-paper](https://github.com/MrWQ/vulnerability-paper) ⭐: 1720 ⌨️: Python
     收集的文章 https://mrwq.github.io/tools/paper/
 
 *   [starsliao/Prometheus](https://github.com/starsliao/Prometheus) ⭐: 1438 ⌨️: Python
     Grafana Dashboards for Prometheus Exporter
 
-*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) ⭐: 14184 ⌨️: Python `bot` `movies` `telegram-bot` `tv-shows` `yyets` `zimuxia`
+*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) ⭐: 14183 ⌨️: Python `bot` `movies` `telegram-bot` `tv-shows` `yyets` `zimuxia`
     🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
 
 *   [Neeky/mysqltools](https://github.com/Neeky/mysqltools) ⭐: 1054 ⌨️: Python `ansible` `atlas` `dble` `dev-ops` `innodb` `innodb-cluster` `master-slave` `mgr` `mycat` `mysql` `mysql-backup` `mysql-dba` `mysql-group-replicaion` `mysql-maintance` `mysql-monitor` `mysql-tools` `python` `zabbix`
     一个用于快速构建大规模，高质量，全自动化的 mysql分布式集群环境的工具；包含mysql 安装、备份、监控、高可用、读写分离、优化、巡检、自行化运维
 
-*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) ⭐: 6965 ⌨️: Python
+*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) ⭐: 6973 ⌨️: Python
     github release、archive以及项目文件的加速项目
 
-*   [canonical/microk8s](https://github.com/canonical/microk8s) ⭐: 8420 ⌨️: Python `cicd` `developer-workstations` `hacktoberfest` `iot` `k8s` `kubernetes` `snap`
+*   [canonical/microk8s](https://github.com/canonical/microk8s) ⭐: 8421 ⌨️: Python `cicd` `developer-workstations` `hacktoberfest` `iot` `k8s` `kubernetes` `snap`
     MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 
 *   [zhuifengshen/xmind](https://github.com/zhuifengshen/xmind) ⭐: 509 ⌨️: Python
@@ -11331,7 +11331,7 @@
 *   [a312863063/seeprettyface-generator-wanghong](https://github.com/a312863063/seeprettyface-generator-wanghong) ⭐: 689 ⌨️: Python
     这是一个用StyleGAN训练出的网红脸生成器
 
-*   [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) ⭐: 66079 ⌨️: Python `ansible` `aws` `azure` `coding` `containers` `devops` `docker` `git` `interview` `interview-questions` `kubernetes` `linux` `openstack` `production-engineer` `prometheus` `python` `sql` `sre` `terraform`
+*   [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) ⭐: 66094 ⌨️: Python `ansible` `aws` `azure` `coding` `containers` `devops` `docker` `git` `interview` `interview-questions` `kubernetes` `linux` `openstack` `production-engineer` `prometheus` `python` `sql` `sre` `terraform`
     Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 *   [out0fmemory/qqwry.dat](https://github.com/out0fmemory/qqwry.dat) ⭐: 1209 ⌨️: Python `ip` `location`
@@ -11346,16 +11346,16 @@
 *   [pjialin/py12306](https://github.com/pjialin/py12306) ⭐: 14380 ⌨️: Python
     🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 
-*   [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) ⭐: 5571 ⌨️: Python `analytics` `monitoring` `notifications` `plex` `plexpy` `python` `statistics` `stats` `tautulli`
+*   [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) ⭐: 5572 ⌨️: Python `analytics` `monitoring` `notifications` `plex` `plexpy` `python` `statistics` `stats` `tautulli`
     A Python based monitoring and tracking tool for Plex Media Server.
 
-*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) ⭐: 21380 ⌨️: Python `crawler` `http` `proxy` `redis` `spider`
+*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) ⭐: 21381 ⌨️: Python `crawler` `http` `proxy` `redis` `spider`
     Python ProxyPool for web spider
 
 *   [gadfly0x/signature\_algorithm](https://github.com/gadfly0x/signature_algorithm) ⭐: 426 ⌨️: Python `crawler` `reverse-engineering` `spider`
     各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 
-*   [coleifer/peewee](https://github.com/coleifer/peewee) ⭐: 11109 ⌨️: Python `dank` `gametight` `peewee` `python` `sqlite`
+*   [coleifer/peewee](https://github.com/coleifer/peewee) ⭐: 11110 ⌨️: Python `dank` `gametight` `peewee` `python` `sqlite`
     a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 
 *   [chaoss/grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk) ⭐: 59 ⌨️: Python `data-enrichment` `elasticsearch` `grimoirelab` `hacktoberfest` `software-analytics`
@@ -11363,7 +11363,7 @@
 *   [my8100/scrapydweb](https://github.com/my8100/scrapydweb) ⭐: 3126 ⌨️: Python `dashboard` `log-analysis` `log-parsing` `scrapy` `scrapy-log-analysis` `scrapy-visualization` `scrapyd` `scrapyd-admin` `scrapyd-api` `scrapyd-cluster-management` `scrapyd-control` `scrapyd-keeper` `scrapyd-log-analysis` `scrapyd-manage` `scrapyd-monitor` `scrapyd-ui` `scrapyd-visualization` `spider`
     Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point\_right:
 
-*   [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) ⭐: 10388 ⌨️: Python `amazing` `gif` `picture` `qr-code` `qrcode` `qrcode-generator`
+*   [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) ⭐: 10390 ⌨️: Python `amazing` `gif` `picture` `qr-code` `qrcode` `qrcode-generator`
     💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 
 *   [panxl6/douban-movie](https://github.com/panxl6/douban-movie) ⭐: 316 ⌨️: Python `douban` `douban-movie` `python3`
@@ -11393,7 +11393,7 @@
 *   [TideSec/web\_pwd\_common\_crack](https://github.com/TideSec/web_pwd_common_crack) ⭐: 358 ⌨️: Python
     通用web弱口令破解脚本，旨在批量检测那些没有验证码的管理后台，可用于刷分~
 
-*   [TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) ⭐: 7439 ⌨️: Python `directory` `fuzz-testing` `fuzzer` `fuzzing` `paramter` `password` `pentesting` `username` `wfuzz`
+*   [TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) ⭐: 7440 ⌨️: Python `directory` `fuzz-testing` `fuzzer` `fuzzing` `paramter` `password` `pentesting` `username` `wfuzz`
     Web Pentesting Fuzz 字典,一个就够了。
 
 *   [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) ⭐: 4140 ⌨️: Python `baota` `bt-panel` `lamp` `lnmp` `python` `web-panel`
@@ -11408,10 +11408,10 @@
 *   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) ⭐: 13819 ⌨️: Python `agent-pool` `crawler` `example` `fund` `multithreading` `pyquery` `python` `selenium` `spider` `stock` `taobao` `tmall` `wechat` `wechat-report` `wereader`
     一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 
-*   [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) ⭐: 8594 ⌨️: Python `dos` `game`
+*   [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) ⭐: 8593 ⌨️: Python `dos` `game`
     🎮 Chinese DOS games collections.
 
-*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) ⭐: 38193 ⌨️: Python `cheatsheet` `cli` `command-line` `curl` `documentation` `examples` `hacktoberfest2021` `help` `terminal` `tldr`
+*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) ⭐: 38194 ⌨️: Python `cheatsheet` `cli` `command-line` `curl` `documentation` `examples` `hacktoberfest2021` `help` `terminal` `tldr`
     the only cheat sheet you need
 
 *   [yuanxiaosc/DeepImage-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepImage-an-Image-to-Image-technology) ⭐: 5172 ⌨️: Python `cycle-gan` `dcgan` `deepface` `deepfakes` `deepnude` `image-generation` `image-to-image` `nerual-style` `pix2pix` `sin-gan` `style-gan` `tensorflow2` `vae` `zao`
@@ -11435,10 +11435,10 @@
 *   [ZSAIm/TakeTheCourse\_GDUT](https://github.com/ZSAIm/TakeTheCourse_GDUT) ⭐: 22 ⌨️: Python
     广东工业大学教务系统选课助手
 
-*   [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) ⭐: 2936 ⌨️: Python `aws` `bigquery` `blockchain-analytics` `csv` `erc20` `erc20-tokens` `erc721` `ethereum` `etl` `export` `gcp` `google-cloud` `sql` `transaction`
+*   [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) ⭐: 2937 ⌨️: Python `aws` `bigquery` `blockchain-analytics` `csv` `erc20` `erc20-tokens` `erc721` `ethereum` `etl` `export` `gcp` `google-cloud` `sql` `transaction`
     Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
 
-*   [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐: 8266 ⌨️: Python `anomaly-detection` `awesome` `awesome-list` `data-mining` `fraud` `fraud-detection` `graph-neural-networks` `machine-learning` `outlier` `outlier-detection` `outlier-ensembles` `time-series-analysis` `unsupervised-learning`
+*   [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐: 8268 ⌨️: Python `anomaly-detection` `awesome` `awesome-list` `data-mining` `fraud` `fraud-detection` `graph-neural-networks` `machine-learning` `outlier` `outlier-detection` `outlier-ensembles` `time-series-analysis` `unsupervised-learning`
     Anomaly detection related books, papers, videos, and toolboxes
 
 *   [vipstone/faceai](https://github.com/vipstone/faceai) ⭐: 10748 ⌨️: Python `dlib` `keras` `opencv` `tensorflow` `tesseract-ocr`
@@ -11450,7 +11450,7 @@
 *   [jaanli/variational-autoencoder](https://github.com/jaanli/variational-autoencoder) ⭐: 1140 ⌨️: Python `autoregressive-neural-networks` `deep` `deep-learning` `deep-neural-networks` `learning` `machine-learning` `probabilistic-graphical-models` `pytorch` `tensorflow` `unsupervised-learning` `vae` `variational-autoencoder` `variational-inference`
     Variational autoencoder implemented in tensorflow and pytorch (including inverse autoregressive flow)
 
-*   [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) ⭐: 15856 ⌨️: Python `163mail-login` `bilibili-login` `douban-spider` `facebook-login` `github-login` `guoke-spider` `jingdong` `lagou-spider` `python` `selenium` `sina-spider` `spiders` `taobao-spider` `tuchong` `twitter-bot` `weixinbot` `zhihu-spider`
+*   [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) ⭐: 15857 ⌨️: Python `163mail-login` `bilibili-login` `douban-spider` `facebook-login` `github-login` `guoke-spider` `jingdong` `lagou-spider` `python` `selenium` `sina-spider` `spiders` `taobao-spider` `tuchong` `twitter-bot` `weixinbot` `zhihu-spider`
     😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 
 *   [Giphy/celeb-detection-oss](https://github.com/Giphy/celeb-detection-oss) ⭐: 677 ⌨️: Python
@@ -11462,10 +11462,10 @@
 *   [ldkrsi/jieba-zh\_TW](https://github.com/ldkrsi/jieba-zh_TW) ⭐: 317 ⌨️: Python
     結巴中文斷詞台灣繁體版本
 
-*   [google-research/planet](https://github.com/google-research/planet) ⭐: 1172 ⌨️: Python
+*   [google-research/planet](https://github.com/google-research/planet) ⭐: 1173 ⌨️: Python
     Learning Latent Dynamics for Planning from Pixels
 
-*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) ⭐: 52007 ⌨️: Python `deep-face-swap` `deep-learning` `deep-neural-networks` `deepface` `deepfakes` `deeplearning` `face-swap` `faceswap` `fakeapp` `machine-learning` `myfakeapp` `neural-nets` `neural-networks` `openfaceswap`
+*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) ⭐: 52020 ⌨️: Python `deep-face-swap` `deep-learning` `deep-neural-networks` `deepface` `deepfakes` `deeplearning` `face-swap` `faceswap` `fakeapp` `machine-learning` `myfakeapp` `neural-nets` `neural-networks` `openfaceswap`
     Deepfakes Software For All
 
 *   [offu/WeRoBot](https://github.com/offu/WeRoBot) ⭐: 4573 ⌨️: Python `python` `sdk` `wechat` `wechat-framework` `wechat-sdk` `weixin` `weixin-sdk`
@@ -11519,7 +11519,7 @@
 *   [ShichaoMa/translate\_html](https://github.com/ShichaoMa/translate_html) ⭐: 59 ⌨️: Python
     超简单超好用的外语转中文翻译程序，适合翻译网页
 
-*   [yutiansut/QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) ⭐: 8116 ⌨️: Python `quant`
+*   [yutiansut/QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) ⭐: 8119 ⌨️: Python `quant`
     QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 
 *   [lizhemingi/zhihu-terminal](https://github.com/lizhemingi/zhihu-terminal) ⭐: 269 ⌨️: Python
@@ -11536,28 +11536,28 @@
 
 *   [zrools/spider](https://github.com/zrools/spider) ⭐: 114 ⌨️: Python
 
-*   [liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) ⭐: 6220 ⌨️: Python
+*   [liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) ⭐: 6222 ⌨️: Python
     A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
 
-*   [frappe/erpnext](https://github.com/frappe/erpnext) ⭐: 20773 ⌨️: Python `accounting` `asset-management` `crm` `distribution` `erp` `erpnext` `frappe` `healthcare` `hrms` `manufacturing` `point-of-sale` `procurement` `project-management` `python` `retail` `support`
+*   [frappe/erpnext](https://github.com/frappe/erpnext) ⭐: 20793 ⌨️: Python `accounting` `asset-management` `crm` `distribution` `erp` `erpnext` `frappe` `healthcare` `hrms` `manufacturing` `point-of-sale` `procurement` `project-management` `python` `retail` `support`
     Free and Open Source Enterprise Resource Planning (ERP)
 
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) ⭐: 25229 ⌨️: Python `bastion-host` `cyberark` `django` `jumpserver` `pam` `python` `ssh-server` `teleport` `terminal`
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) ⭐: 25232 ⌨️: Python `bastion-host` `cyberark` `django` `jumpserver` `pam` `python` `ssh-server` `teleport` `terminal`
     An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 
 *   [olajowon/loggrove](https://github.com/olajowon/loggrove) ⭐: 214 ⌨️: Python
     Loggrove是对本地、远程日志文件进行 分页阅读、实时阅读、关键词匹配、统计、监控、钉钉告警、Highcharts图表展示 的 Web 平台服务，并包含 用户认证、LDAP认证、操作审计 等基础服务。
 
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐: 313364 ⌨️: Python `api` `apis` `dataset` `development` `free` `list` `lists` `open-source` `public` `public-api` `public-apis` `resources` `software`
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐: 313433 ⌨️: Python `api` `apis` `dataset` `development` `free` `list` `lists` `open-source` `public` `public-api` `public-apis` `resources` `software`
     A collective list of free APIs
 
 *   [zhaoyingjun/chatbot](https://github.com/zhaoyingjun/chatbot) ⭐: 3508 ⌨️: Python `ai` `chatbot` `nlp-machine-learning` `python` `pytorch` `seq2seq-chatbot` `seqgan` `seqgan-tensorflow` `tensorflow2`
     ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。
 
-*   [Vonng/ddia](https://github.com/Vonng/ddia) ⭐: 20224 ⌨️: Python `book` `database` `ddia` `distributed-systems`
+*   [Vonng/ddia](https://github.com/Vonng/ddia) ⭐: 20226 ⌨️: Python `book` `database` `ddia` `distributed-systems`
     《Designing Data-Intensive Application》DDIA中文翻译
 
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐: 271043 ⌨️: Python `design` `design-patterns` `design-system` `development` `interview` `interview-practice` `interview-questions` `programming` `python` `system` `web` `web-application` `webapp`
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐: 271134 ⌨️: Python `design` `design-patterns` `design-system` `development` `interview` `interview-practice` `interview-questions` `programming` `python` `system` `web` `web-application` `webapp`
     Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 *   [aneesha/RAKE](https://github.com/aneesha/RAKE) ⭐: 973 ⌨️: Python
@@ -11566,13 +11566,13 @@
 *   [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) ⭐: 8149 ⌨️: Python `cron` `cron-jobs` `devops` `django` `monitoring` `ops`
     Open-source cron job and background task monitoring service, written in Python & Django
 
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) ⭐: 91283 ⌨️: Python `awesome` `github` `hellogithub` `python`
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) ⭐: 91305 ⌨️: Python `awesome` `github` `hellogithub` `python`
     :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
-*   [vnpy/vnpy](https://github.com/vnpy/vnpy) ⭐: 24574 ⌨️: Python `algotrading` `finance` `fintech` `investment` `python` `quant` `trading` `vnpy`
+*   [vnpy/vnpy](https://github.com/vnpy/vnpy) ⭐: 24580 ⌨️: Python `algotrading` `finance` `fintech` `investment` `python` `quant` `trading` `vnpy`
     基于Python的开源量化交易平台开发框架
 
-*   [fighting41love/funNLP](https://github.com/fighting41love/funNLP) ⭐: 68021 ⌨️: Python
+*   [fighting41love/funNLP](https://github.com/fighting41love/funNLP) ⭐: 68033 ⌨️: Python
     中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba\_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical\_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
 
 *   [chenjiandongx/async-proxy-pool](https://github.com/chenjiandongx/async-proxy-pool) ⭐: 373 ⌨️: Python `proxy-pool` `python3`
@@ -11581,13 +11581,13 @@
 *   [qiueer/zabbix](https://github.com/qiueer/zabbix) ⭐: 444 ⌨️: Python
     zabbix功能扩展，主要监控tomcat,mysql,redis,mongodb,memcached,nginx等中间件
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) ⭐: 33616 ⌨️: Python `dependency-parser` `hanlp` `named-entity-recognition` `natural-language-processing` `nlp` `pos-tagging` `semantic-parsing` `text-classification`
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) ⭐: 33620 ⌨️: Python `dependency-parser` `hanlp` `named-entity-recognition` `natural-language-processing` `nlp` `pos-tagging` `semantic-parsing` `text-classification`
     中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [liaolongfei/lagou](https://github.com/liaolongfei/lagou) ⭐: 12 ⌨️: Python
     拉勾网Python职位数据分析
 
-*   [MorvanZhou/tutorials](https://github.com/MorvanZhou/tutorials) ⭐: 11751 ⌨️: Python `machine-learning` `multiprocessing` `neural-network` `numpy` `python` `sklearn` `tensorflow` `theano` `threading`
+*   [MorvanZhou/tutorials](https://github.com/MorvanZhou/tutorials) ⭐: 11752 ⌨️: Python `machine-learning` `multiprocessing` `neural-network` `numpy` `python` `sklearn` `tensorflow` `theano` `threading`
     机器学习相关教程
 
 *   [taobao/nginx-book](https://github.com/taobao/nginx-book) ⭐: 6911 ⌨️: Python
@@ -11601,7 +11601,7 @@
 
 *   [yang1688899/CarND-Advanced-Lane-Lines](https://github.com/yang1688899/CarND-Advanced-Lane-Lines) ⭐: 346 ⌨️: Python
 
-*   [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) ⭐: 10872 ⌨️: Python `chinese` `chinese-characters` `chinese-language` `chinese-nlp` `chinese-simplified` `chinese-traditional` `data` `json` `json-data` `json-dataset` `python3` `scraper`
+*   [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) ⭐: 10871 ⌨️: Python `chinese` `chinese-characters` `chinese-language` `chinese-nlp` `chinese-simplified` `chinese-traditional` `data` `json` `json-data` `json-dataset` `python3` `scraper`
     :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 
 *   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ⭐: 22078 ⌨️: Python `applications` `awesome-list` `cli-app` `cross-platform` `desktop-environment` `free` `freeware-icon` `gui-app` `icon-theme` `linux` `linux-app` `linux-desktop` `linux-resource` `open-source` `oss-icon` `software` `tools` `ubuntu-linux`
@@ -11616,7 +11616,7 @@
 *   [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) ⭐: 9291 ⌨️: Python
     😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 
-*   [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) ⭐: 18106 ⌨️: Python `python` `python-spider` `python3` `webspider`
+*   [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) ⭐: 18109 ⌨️: Python `python` `python-spider` `python3` `webspider`
     :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 
 *   [Kilo19/NixieVideoKit](https://github.com/Kilo19/NixieVideoKit) ⭐: 250 ⌨️: Python
@@ -11630,16 +11630,16 @@
 *   [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) ⭐: 881 ⌨️: HTML `glitch-me` `pybadge` `visitor-badge` `visitor-counter` `visitor-tracking`
     \[Service is DOWN now] A badge generator service to count visitors of your markdown file.
 
-*   [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) ⭐: 5986 ⌨️: HTML `activiti` `bootstrap` `bootstrap-table` `druid` `hplus` `hutool` `java` `jquery` `layer` `layui` `mybatis` `mybatisplus` `pagehelper` `quartz` `shiro` `spring` `springboot` `swagger` `thymeleaf` `velocity`
+*   [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) ⭐: 5989 ⌨️: HTML `activiti` `bootstrap` `bootstrap-table` `druid` `hplus` `hutool` `java` `jquery` `layer` `layui` `mybatis` `mybatisplus` `pagehelper` `quartz` `shiro` `spring` `springboot` `swagger` `thymeleaf` `velocity`
     :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
-*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) ⭐: 20346 ⌨️: HTML
+*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) ⭐: 20345 ⌨️: HTML
     全国各省市停贷通知汇总
 
-*   [tencentyun/qcloud-documents](https://github.com/tencentyun/qcloud-documents) ⭐: 2548 ⌨️: HTML
+*   [tencentyun/qcloud-documents](https://github.com/tencentyun/qcloud-documents) ⭐: 2549 ⌨️: HTML
     腾讯云官方文档
 
-*   [cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI) ⭐: 2264 ⌨️: HTML `java` `layui` `nginx`
+*   [cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI) ⭐: 2265 ⌨️: HTML `java` `layui` `nginx`
     Nginx Web page configuration tool. Use web pages to quickly configure Nginx. Nginx网页管理工具，使用网页来快速配置与管理nginx单机与集群
 
 *   [wechatjs/mp-darkmode](https://github.com/wechatjs/mp-darkmode) ⭐: 64 ⌨️: HTML `darkmode` `wechat-official-account`
@@ -11684,7 +11684,7 @@
 *   [tanjiti/sec\_profile](https://github.com/tanjiti/sec_profile) ⭐: 1159 ⌨️: HTML
     爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)
 
-*   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) ⭐: 7721 ⌨️: HTML `canvas` `chart` `charts` `data-visualization` `diagram` `es6` `es6-modules` `flowchart` `gojs` `graph` `html` `interactive-diagrams` `javascript` `javascript-library` `layout` `orgchart` `svg` `typescript` `typescript-library` `visualization`
+*   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) ⭐: 7722 ⌨️: HTML `canvas` `chart` `charts` `data-visualization` `diagram` `es6` `es6-modules` `flowchart` `gojs` `graph` `html` `interactive-diagrams` `javascript` `javascript-library` `layout` `orgchart` `svg` `typescript` `typescript-library` `visualization`
     JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
 *   [wx-chevalier/DistributedSystem-Notes](https://github.com/wx-chevalier/DistributedSystem-Notes) ⭐: 1525 ⌨️: HTML `distributed-computing` `distributed-systems` `maintainance` `network` `operatingsystem` `storage` `virtualization`
@@ -11746,7 +11746,7 @@
 *   [GerryIsWarrior/ajax](https://github.com/GerryIsWarrior/ajax) ⭐: 265 ⌨️: HTML `ajax` `js-ajax` `xmlhttprequest`
     ajax设计方案
 
-*   [twitter/twemoji](https://github.com/twitter/twemoji) ⭐: 16799 ⌨️: HTML `emoji` `twemoji`
+*   [twitter/twemoji](https://github.com/twitter/twemoji) ⭐: 16796 ⌨️: HTML `emoji` `twemoji`
     Emoji for everyone. https://twemoji.twitter.com/
 
 *   [adamabdelhamed/PowerArgs](https://github.com/adamabdelhamed/PowerArgs) ⭐: 568 ⌨️: HTML
@@ -11764,7 +11764,7 @@
 *   [kujian/frontendDaily](https://github.com/kujian/frontendDaily) ⭐: 2331 ⌨️: HTML `awesome` `awesome-list` `css` `daily` `frontend` `html` `javascript` `jquery` `js` `news` `newsletter` `vue` `weekly`
     前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。
 
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) ⭐: 36882 ⌨️: HTML `chinese` `english-learning` `tutorial`
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) ⭐: 36886 ⌨️: HTML `chinese` `english-learning` `tutorial`
     An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 
 *   [wangzhiwubigdata/JavaUtils](https://github.com/wangzhiwubigdata/JavaUtils) ⭐: 2 ⌨️: HTML
@@ -11803,7 +11803,7 @@
 *   [CreativeIT/material-dashboard-lite](https://github.com/CreativeIT/material-dashboard-lite) ⭐: 752 ⌨️: HTML `dashboard-templates` `html` `html5` `material-design` `nvd3` `sass`
     A free dashboard template with material design lite
 
-*   [tabler/tabler](https://github.com/tabler/tabler) ⭐: 37863 ⌨️: HTML `admin-dashboard` `adminpanel` `boilerplate-template` `bootstrap` `bootstrap4-theme` `bootstrap5` `css` `dashboard` `dashboard-templates` `dashboards` `html` `html5` `jekyll` `modular` `sass` `scss` `sponsors` `themes` `ui-kit` `uikit`
+*   [tabler/tabler](https://github.com/tabler/tabler) ⭐: 37865 ⌨️: HTML `admin-dashboard` `adminpanel` `boilerplate-template` `bootstrap` `bootstrap4-theme` `bootstrap5` `css` `dashboard` `dashboard-templates` `dashboards` `html` `html5` `jekyll` `modular` `sass` `scss` `sponsors` `themes` `ui-kit` `uikit`
     Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 *   [seven1986/IdentityServer4.MicroService.AdminUI](https://github.com/seven1986/IdentityServer4.MicroService.AdminUI) ⭐: 55 ⌨️: HTML
@@ -11815,13 +11815,13 @@
 *   [lyq3/vue-swagger-ui](https://github.com/lyq3/vue-swagger-ui) ⭐: 11 ⌨️: HTML
     VUE 重写的SwaggerUI
 
-*   [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) ⭐: 4092 ⌨️: HTML `knife4j` `openapi2` `openapi3` `springdoc-openapi` `springfox-swagger2` `swagger` `swagger-ui`
+*   [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) ⭐: 4093 ⌨️: HTML `knife4j` `openapi2` `openapi3` `springdoc-openapi` `springfox-swagger2` `swagger` `swagger-ui`
     Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution
 
 *   [phodal/growth-ebook](https://github.com/phodal/growth-ebook) ⭐: 7794 ⌨️: HTML `back-end` `book` `ebook` `free-book` `freebook` `frontend` `full-stack` `fullstack` `github` `github-books` `growth` `growth-hacking` `phodal` `repractise`
     Growth Engineering: The Definitive Guide。全栈增长工程师指南
 
-*   [phodal/ideabook](https://github.com/phodal/ideabook) ⭐: 3753 ⌨️: HTML `ebook` `github-books` `growth` `idea` `ideabook` `phodal`
+*   [phodal/ideabook](https://github.com/phodal/ideabook) ⭐: 3754 ⌨️: HTML `ebook` `github-books` `growth` `idea` `ideabook` `phodal`
     一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 
 *   [phodal/growth-in-action](https://github.com/phodal/growth-in-action) ⭐: 2508 ⌨️: HTML `action` `backend` `book` `ebook` `free-book` `free-ebook` `frontend` `full-stack` `fullstack` `github-books` `growth` `phodal`
@@ -11839,14 +11839,14 @@
 *   [microsoft/dotnet](https://github.com/microsoft/dotnet) ⭐: 14358 ⌨️: HTML
     This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 
-*   [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) ⭐: 9468 ⌨️: HTML `angular` `angular-components` `angular10` `angular11` `angular2` `angular4` `angular9` `awesome` `awesome-list`
+*   [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) ⭐: 9470 ⌨️: HTML `angular` `angular-components` `angular10` `angular11` `angular2` `angular4` `angular9` `awesome` `awesome-list`
     :page\_facing\_up: A curated list of awesome Angular resources
 
 ## CSS
 
 *   [chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao) ⭐: 576 ⌨️: CSS
 
-*   [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) ⭐: 5546 ⌨️: CSS `javascript` `micro-frontend` `microapp` `webcomponents`
+*   [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) ⭐: 5548 ⌨️: CSS `javascript` `micro-frontend` `microapp` `webcomponents`
     A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 
 *   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) ⭐: 2572 ⌨️: CSS `editor` `flowchart` `gantt-diagram` `markdown` `sequence-diagram` `to-do-list` `vditor` `vue`
@@ -11861,16 +11861,16 @@
 *   [Cimpress/swagger-ui-cimpress](https://github.com/Cimpress/swagger-ui-cimpress) ⭐: 32 ⌨️: CSS `developer-experience` `developer-tools` `swagger` `swagger-docs` `swagger-ui`
     A swagger-ui fork with an easy to read, responsive three pane view.
 
-*   [primefaces/primeng](https://github.com/primefaces/primeng) ⭐: 10271 ⌨️: CSS `angular` `charts` `components` `datagrid` `datatable` `mit` `typescript` `ui`
+*   [primefaces/primeng](https://github.com/primefaces/primeng) ⭐: 10277 ⌨️: CSS `angular` `charts` `components` `datagrid` `datatable` `mit` `typescript` `ui`
     The Most Complete Angular UI Component Library
 
-*   [smartping/smartping](https://github.com/smartping/smartping) ⭐: 1701 ⌨️: CSS `echarts` `golang` `ping`
+*   [smartping/smartping](https://github.com/smartping/smartping) ⭐: 1702 ⌨️: CSS `echarts` `golang` `ping`
     综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
 
 *   [dotnetcore-group/IdentityServer4.Admin](https://github.com/dotnetcore-group/IdentityServer4.Admin) ⭐: 13 ⌨️: CSS `ant-design` `asp-net-core` `event-sourcing` `identityserver4` `identityserver4-admin` `sso` `umijs`
     🚩 IdentityServer4 AdminUI and SSO
 
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) ⭐: 19571 ⌨️: CSS `css` `css3`
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) ⭐: 19572 ⌨️: CSS `css` `css3`
     不止于 CSS
 
 *   [dotnet-foundation/election](https://github.com/dotnet-foundation/election) ⭐: 31 ⌨️: CSS
@@ -11914,17 +11914,17 @@
 
 ## VBScript
 
-*   [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) ⭐: 4765 ⌨️: VBScript `pyenv` `pyenv-alternative` `pyenv-for-windows` `pyenv-win` `pyenv-windows` `python` `python-version-management` `windows-pyenv` `windows-python`
+*   [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) ⭐: 4767 ⌨️: VBScript `pyenv` `pyenv-alternative` `pyenv-for-windows` `pyenv-win` `pyenv-windows` `python` `python-version-management` `windows-pyenv` `windows-python`
     pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
 
 ## Roff
 
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) ⭐: 38817 ⌨️: Roff `python` `shell`
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) ⭐: 38819 ⌨️: Roff `python` `shell`
     Simple Python version management
 
 ## AngelScript
 
-*   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) ⭐: 1352 ⌨️: AngelScript `bilibili` `potplayer` `potplayer-extension`
+*   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) ⭐: 1354 ⌨️: AngelScript `bilibili` `potplayer` `potplayer-extension`
     PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
 
 ## Lua
@@ -11932,10 +11932,10 @@
 *   [revomatico/kong-oidc](https://github.com/revomatico/kong-oidc) ⭐: 109 ⌨️: Lua
     OIDC plugin for Kong
 
-*   [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) ⭐: 5715 ⌨️: Lua
+*   [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) ⭐: 5717 ⌨️: Lua
     Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 
-*   [apache/apisix](https://github.com/apache/apisix) ⭐: 14347 ⌨️: Lua `api` `api-gateway` `api-management` `apigateway` `apis` `apisix` `cloud-native` `devops` `docker` `iot` `kubernetes` `kubernetes-ingress` `kubernetes-ingress-controller` `loadbalancing` `luajit` `microservices` `nginx` `reverse-proxy` `serverless` `service-mesh`
+*   [apache/apisix](https://github.com/apache/apisix) ⭐: 14349 ⌨️: Lua `api` `api-gateway` `api-management` `apigateway` `apis` `apisix` `cloud-native` `devops` `docker` `iot` `kubernetes` `kubernetes-ingress` `kubernetes-ingress-controller` `loadbalancing` `luajit` `microservices` `nginx` `reverse-proxy` `serverless` `service-mesh`
     The Cloud-Native API Gateway
 
 *   [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) ⭐: 5961 ⌨️: Lua
@@ -11956,15 +11956,15 @@
 *   [leehomewl/nginx\_log\_analysis](https://github.com/leehomewl/nginx_log_analysis) ⭐: 68 ⌨️: Lua `nginx-log-to-influxdb`
     nginx log analysis
 
-*   [Kong/kong](https://github.com/Kong/kong) ⭐: 38962 ⌨️: Lua `ai` `ai-gateway` `api-gateway` `api-management` `apis` `artificial-intelligence` `cloud-native` `consul` `devops` `docker` `kong` `kubernetes` `kubernetes-ingress` `kubernetes-ingress-controller` `luajit` `microservice` `microservices` `nginx` `reverse-proxy` `serverless`
+*   [Kong/kong](https://github.com/Kong/kong) ⭐: 38970 ⌨️: Lua `ai` `ai-gateway` `api-gateway` `api-management` `apis` `artificial-intelligence` `cloud-native` `consul` `devops` `docker` `kong` `kubernetes` `kubernetes-ingress` `kubernetes-ingress-controller` `luajit` `microservice` `microservices` `nginx` `reverse-proxy` `serverless`
     🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## Clojure
 
-*   [penpot/penpot](https://github.com/penpot/penpot) ⭐: 32850 ⌨️: Clojure `clojure` `clojurescript` `design` `prototyping` `ui` `ux-design` `ux-experience`
+*   [penpot/penpot](https://github.com/penpot/penpot) ⭐: 32860 ⌨️: Clojure `clojure` `clojurescript` `design` `prototyping` `ui` `ux-design` `ux-experience`
     Penpot: The open-source design tool for design and code collaboration
 
-*   [metabase/metabase](https://github.com/metabase/metabase) ⭐: 38280 ⌨️: Clojure `analytics` `bi` `business-intelligence` `businessintelligence` `clojure` `dashboard` `data` `data-analysis` `data-visualization` `database` `metabase` `mysql` `postgres` `postgresql` `reporting` `slack` `sql-editor` `visualization`
+*   [metabase/metabase](https://github.com/metabase/metabase) ⭐: 38288 ⌨️: Clojure `analytics` `bi` `business-intelligence` `businessintelligence` `clojure` `dashboard` `data` `data-analysis` `data-visualization` `database` `metabase` `mysql` `postgres` `postgresql` `reporting` `slack` `sql-editor` `visualization`
     The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
 ## Kotlin
@@ -11972,22 +11972,22 @@
 *   [hectorqin/reader-legado](https://github.com/hectorqin/reader-legado) ⭐: 90 ⌨️: Kotlin
     Reader 使用的legado核心和其它开源库，欢迎大家提交pr
 
-*   [hectorqin/reader](https://github.com/hectorqin/reader) ⭐: 7912 ⌨️: Kotlin
+*   [hectorqin/reader](https://github.com/hectorqin/reader) ⭐: 7915 ⌨️: Kotlin
     阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 
 *   [leavesCZY/Monitor](https://github.com/leavesCZY/Monitor) ⭐: 293 ⌨️: Kotlin `network-monitoring` `okhttp-interceptor` `okttp-monitoring`
     一个适用于 OkHttp / Retrofit 的可视化抓包工具
 
-*   [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) ⭐: 1474 ⌨️: Kotlin `android` `java` `jellyfin` `kotlin`
+*   [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) ⭐: 1475 ⌨️: Kotlin `android` `java` `jellyfin` `kotlin`
     Android Client for Jellyfin
 
-*   [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) ⭐: 2727 ⌨️: Kotlin `android` `android-tv` `java` `jellyfin` `kotlin`
+*   [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) ⭐: 2732 ⌨️: Kotlin `android` `android-tv` `java` `jellyfin` `kotlin`
     Android TV Client for Jellyfin
 
-*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) ⭐: 2829 ⌨️: Kotlin `acg` `android` `android-application` `bangumi` `cartoon` `compose`
+*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) ⭐: 2832 ⌨️: Kotlin `acg` `android` `android-application` `bangumi` `cartoon` `compose`
     纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
 
-*   [gedoor/legado](https://github.com/gedoor/legado) ⭐: 28621 ⌨️: Kotlin
+*   [gedoor/legado](https://github.com/gedoor/legado) ⭐: 28633 ⌨️: Kotlin
     Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 *   [geowarin/graphql-webflux](https://github.com/geowarin/graphql-webflux) ⭐: 44 ⌨️: Kotlin `graphql` `junit5` `spring-boot` `webflux`
@@ -12002,7 +12002,7 @@
 *   [oleksiyp/netty-coroutines](https://github.com/oleksiyp/netty-coroutines) ⭐: 10 ⌨️: Kotlin
     Proxy based on netty & kotlin coroutines
 
-*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) ⭐: 38167 ⌨️: Kotlin `brook` `daze` `fanqiang` `goflyway` `lightsocks` `proxy` `psiphon` `shadowsocks` `ssr` `trojan` `v2ray`
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) ⭐: 38169 ⌨️: Kotlin `brook` `daze` `fanqiang` `goflyway` `lightsocks` `proxy` `psiphon` `shadowsocks` `ssr` `trojan` `v2ray`
     翻墙-科学上网
 
 *   [orbit/orbit](https://github.com/orbit/orbit) ⭐: 1703 ⌨️: Kotlin `actor-model` `actors` `distributed-actors` `distributed-systems` `grains` `java` `jvm` `kotlin` `orbit` `reactive` `virtual-actors`
@@ -12016,10 +12016,10 @@
 *   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) ⭐: 29595 ⌨️: C `lede` `lua` `openwrt-feed` `openwrt-package` `openwrt-zh-cn`
     Lean's LEDE source
 
-*   [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) ⭐: 2224 ⌨️: C `borderless` `compatiblity` `d3d9` `ddraw` `directdraw` `directx` `integer-scaling` `opengl` `upscaling` `windowed` `wrapper`
+*   [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) ⭐: 2225 ⌨️: C `borderless` `compatiblity` `d3d9` `ddraw` `directdraw` `directx` `integer-scaling` `opengl` `upscaling` `windowed` `wrapper`
     GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines
 
-*   [bb-qq/r8152](https://github.com/bb-qq/r8152) ⭐: 2048 ⌨️: C `driver` `kernel-module` `synology` `synology-nas` `synology-package`
+*   [bb-qq/r8152](https://github.com/bb-qq/r8152) ⭐: 2051 ⌨️: C `driver` `kernel-module` `synology` `synology-nas` `synology-package`
     Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 
 *   [zhouchangxun/ngx\_healthcheck\_module](https://github.com/zhouchangxun/ngx_healthcheck_module) ⭐: 265 ⌨️: C `healthcheck` `http` `loadbalance` `nginx` `nginx-module` `tcp` `udp`
@@ -12028,19 +12028,19 @@
 *   [openresty/lua-upstream-nginx-module](https://github.com/openresty/lua-upstream-nginx-module) ⭐: 499 ⌨️: C
     Nginx C module to expose Lua API to ngx\_lua for Nginx upstreams
 
-*   [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐: 11258 ⌨️: C
+*   [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐: 11260 ⌨️: C
     Embed the Power of Lua into NGINX HTTP servers
 
 *   [yitter/IdGenerator](https://github.com/yitter/IdGenerator) ⭐: 2538 ⌨️: C `c` `c-sharp` `delphi` `dotnet` `go` `idgenerator` `java` `javascript` `pascal` `php` `rust` `snowflake` `sql` `twritter-snowflake` `typescript` `unique-id`
     💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。
 
-*   [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) ⭐: 5232 ⌨️: C `3ds` `custom-firmware` `homebrew` `nintendo-3ds`
+*   [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) ⭐: 5234 ⌨️: C `3ds` `custom-firmware` `homebrew` `nintendo-3ds`
     Nintendo 3DS "Custom Firmware"
 
 *   [zogvm/zogvm](https://github.com/zogvm/zogvm) ⭐: 778 ⌨️: C
     zogna video manager
 
-*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) ⭐: 19311 ⌨️: C `architecture` `awesome` `harmonyos` `huawei` `iot` `iot-platform` `kernel` `operating-system` `os`
+*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) ⭐: 19313 ⌨️: C `architecture` `awesome` `harmonyos` `huawei` `iot` `iot-platform` `kernel` `operating-system` `os`
     A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 
 *   [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) ⭐: 5467 ⌨️: C `fulltext` `geospatial` `gis` `inverted-index` `redis` `redis-module` `search` `search-engine` `vector-database`
@@ -12064,19 +12064,19 @@
 *   [tianocore/edk2-platforms](https://github.com/tianocore/edk2-platforms) ⭐: 548 ⌨️: C
     EDK II sample platform branches and tags
 
-*   [acassen/keepalived](https://github.com/acassen/keepalived) ⭐: 3963 ⌨️: C `bfd` `c` `daemon` `high-availability` `infrastructure` `infrastructures` `ipvs` `keepalived` `linux` `lvs` `multiplexer` `netlink` `protocol` `snmp` `vrrp`
+*   [acassen/keepalived](https://github.com/acassen/keepalived) ⭐: 3964 ⌨️: C `bfd` `c` `daemon` `high-availability` `infrastructure` `infrastructures` `ipvs` `keepalived` `linux` `lvs` `multiplexer` `netlink` `protocol` `snmp` `vrrp`
     Keepalived
 
-*   [nginx/nginx](https://github.com/nginx/nginx) ⭐: 24538 ⌨️: C
+*   [nginx/nginx](https://github.com/nginx/nginx) ⭐: 24575 ⌨️: C
     The official NGINX Open Source repository.
 
-*   [facebook/zstd](https://github.com/facebook/zstd) ⭐: 23400 ⌨️: C
+*   [facebook/zstd](https://github.com/facebook/zstd) ⭐: 23409 ⌨️: C
     Zstandard - Fast real-time compression algorithm
 
 *   [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) ⭐: 1546 ⌨️: C `in-memory` `redis` `redisql` `rust` `sql` `sqlite3`
     Redis module that provides a completely functional SQL database
 
-*   [Tencent/xLua](https://github.com/Tencent/xLua) ⭐: 9350 ⌨️: C `csharp` `lua` `unity` `unity3d` `xlua`
+*   [Tencent/xLua](https://github.com/Tencent/xLua) ⭐: 9351 ⌨️: C `csharp` `lua` `unity` `unity3d` `xlua`
     xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
 
 *   [Baidu-AIP/speech-vad-demo](https://github.com/Baidu-AIP/speech-vad-demo) ⭐: 336 ⌨️: C `speech` `vad` `webrtc` `webrtc-vad`
@@ -12091,13 +12091,13 @@
 *   [zzy402905570/inception](https://github.com/zzy402905570/inception) ⭐: 1 ⌨️: C
     一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具
 
-*   [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) ⭐: 7930 ⌨️: C `qrcode` `qrcode-android` `qrcode-generator` `qrcode-scanner`
+*   [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) ⭐: 7931 ⌨️: C `qrcode` `qrcode-android` `qrcode-generator` `qrcode-scanner`
     QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
 
 *   [Meituan-Dianping/SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) ⭐: 5565 ⌨️: C
     输入SQL，输出索引优化建议
 
-*   [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) ⭐: 7686 ⌨️: C
+*   [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) ⭐: 7688 ⌨️: C
     从零开始的 JSON 库教程
 
 *   [ossc-db/pg\_hint\_plan](https://github.com/ossc-db/pg_hint_plan) ⭐: 710 ⌨️: C
@@ -12118,7 +12118,7 @@
 *   [session-replay-tools/cetus](https://github.com/session-replay-tools/cetus) ⭐: 1243 ⌨️: C `database` `distributed` `horizontal-scalable` `middleware` `mysql` `mysql-proxy` `performance` `scaling` `sharding` `xa`
     Cetus is high-performance middleware designed to provide transparent routing between your application and backend MySQL servers.
 
-*   [torvalds/linux](https://github.com/torvalds/linux) ⭐: 179462 ⌨️: C
+*   [torvalds/linux](https://github.com/torvalds/linux) ⭐: 179529 ⌨️: C
     Linux kernel source tree
 
 *   [Meituan-Dianping/MyFlash](https://github.com/Meituan-Dianping/MyFlash) ⭐: 1155 ⌨️: C
@@ -12151,7 +12151,7 @@
 *   [github/gemoji](https://github.com/github/gemoji) ⭐: 4397 ⌨️: Ruby `emoji` `ruby` `rubygem` `unicode`
     Emoji images and names.
 
-*   [TideSec/FuzzScanner](https://github.com/TideSec/FuzzScanner) ⭐: 993 ⌨️: Ruby
+*   [TideSec/FuzzScanner](https://github.com/TideSec/FuzzScanner) ⭐: 994 ⌨️: Ruby
     一个主要用于信息搜集的工具集，主要是用于对网站子域名、开放端口、端口指纹、c段地址、敏感目录等信息进行批量搜集。
 
 *   [greatghoul/remote-working](https://github.com/greatghoul/remote-working) ⭐: 9903 ⌨️: Ruby `china` `freelancer` `remote-work` `remote-workers` `soho` `telecommunications` `work-from-home`
@@ -12169,7 +12169,7 @@
 *   [saberma/china\_sms](https://github.com/saberma/china_sms) ⭐: 472 ⌨️: Ruby
     中国各个短信平台 Ruby 接口，现支持云片网、推立方、亿美软通、短信宝、畅友网络
 
-*   [jekyll/jekyll](https://github.com/jekyll/jekyll) ⭐: 49010 ⌨️: Ruby `blog-engine` `jekyll` `liquid` `markdown` `ruby` `static-site-generator`
+*   [jekyll/jekyll](https://github.com/jekyll/jekyll) ⭐: 49016 ⌨️: Ruby `blog-engine` `jekyll` `liquid` `markdown` `ruby` `static-site-generator`
     :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## Svelte
@@ -12179,24 +12179,24 @@
 
 ## Swift
 
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) ⭐: 5528 ⌨️: Swift `editor` `local-first` `macos` `markdown` `markdown-editor` `notes-app` `swift`
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) ⭐: 5529 ⌨️: Swift `editor` `local-first` `macos` `markdown` `markdown-editor` `notes-app` `swift`
     ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) ⭐: 32381 ⌨️: Swift `kcptun` `macos` `shadowsocks` `shadowsocksx-ng` `swift` `v2ray-plugin`
+*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) ⭐: 32380 ⌨️: Swift `kcptun` `macos` `shadowsocks` `shadowsocksx-ng` `swift` `v2ray-plugin`
     Next Generation of ShadowsocksX
 
 ## Markdown
 
-*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) ⭐: 125227 ⌨️: Markdown `algorithms` `computer-science` `data-structures` `dynamic-programming` `dynamic-programming-algorithm` `interview-questions` `kmp` `leetcode`
+*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) ⭐: 125245 ⌨️: Markdown `algorithms` `computer-science` `data-structures` `dynamic-programming` `dynamic-programming-algorithm` `interview-questions` `kmp` `leetcode`
     刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 *   [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) ⭐: 4232 ⌨️: Markdown
     放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 
-*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) ⭐: 31574 ⌨️: Markdown `bash` `chrome` `chrome-extension` `command-line` `gh-pages` `linux` `linux-command` `ls` `screen` `screenshot` `search` `ssh` `tools` `web-tools`
+*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) ⭐: 31588 ⌨️: Markdown `bash` `chrome` `chrome-extension` `command-line` `gh-pages` `linux` `linux-command` `ls` `screen` `screenshot` `search` `ssh` `tools` `web-tools`
     Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐: 302686 ⌨️: Markdown `awesome-list` `free` `programming` `tutorial-code` `tutorial-exercises` `tutorials`
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐: 302821 ⌨️: Markdown `awesome-list` `free` `programming` `tutorial-code` `tutorial-exercises` `tutorials`
     Master programming by recreating your favorite technologies from scratch.
 
 ## Dockerfile
@@ -12260,7 +12260,7 @@
 
 ## Fluent
 
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) ⭐: 12674 ⌨️: Fluent `calibre` `ebook` `ebook-manager` `epub` `mobi`
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) ⭐: 12689 ⌨️: Fluent `calibre` `ebook` `ebook-manager` `epub` `mobi`
     :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Nunjucks
@@ -12268,7 +12268,7 @@
 *   [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) ⭐: 2987 ⌨️: Nunjucks `hacktoberfest` `passwords` `security`
     A compilation of sites with dumb password rules.
 
-*   [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) ⭐: 59581 ⌨️: Nunjucks `css-questions` `front-end` `html-questions` `interview-questions` `interview-test` `js-questions`
+*   [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) ⭐: 59578 ⌨️: Nunjucks `css-questions` `front-end` `html-questions` `interview-questions` `interview-test` `js-questions`
     A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## Smalltalk
@@ -12298,7 +12298,7 @@
 
 ## Scala
 
-*   [mauricio/postgresql-async](https://github.com/mauricio/postgresql-async) ⭐: 1428 ⌨️: Scala
+*   [mauricio/postgresql-async](https://github.com/mauricio/postgresql-async) ⭐: 1429 ⌨️: Scala
     Async, Netty based, database drivers for PostgreSQL and MySQL written in Scala
 
 *   [yahoo/CMAK](https://github.com/yahoo/CMAK) ⭐: 11811 ⌨️: Scala `big-data` `cluster-management` `kafka` `scala`
@@ -12325,7 +12325,7 @@
 *   [servicemesher/getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) ⭐: 234 ⌨️: Makefile `gitbook` `knative` `kubernetes` `serverless`
     Knative入门——构建基于 Kubernetes 的现代化Serverless应用 - https://www.servicemesher.com/getting-started-with-knative/
 
-*   [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) ⭐: 5321 ⌨️: Makefile `books` `cloud-native` `containers` `docker` `gitbook` `handbook` `kubernetes` `kubernetes-handbook` `microservice` `service-mesh`
+*   [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) ⭐: 5323 ⌨️: Makefile `books` `cloud-native` `containers` `docker` `gitbook` `handbook` `kubernetes` `kubernetes-handbook` `microservice` `service-mesh`
     Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 
 *   [big-data-europe/docker-hbase](https://github.com/big-data-europe/docker-hbase) ⭐: 246 ⌨️: Makefile
@@ -12333,7 +12333,7 @@
 *   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) ⭐: 10576 ⌨️: Makefile
     Google 开源项目风格指南 (中文版)
 
-*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) ⭐: 48702 ⌨️: Makefile `go` `golang` `project-structure` `project-template` `standards`
+*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) ⭐: 48719 ⌨️: Makefile `go` `golang` `project-structure` `project-template` `standards`
     Standard Go Project Layout
 
 *   [servicemesher/envoy](https://github.com/servicemesher/envoy) ⭐: 565 ⌨️: Makefile `envoyproxy` `gitbook` `service-mesh`
@@ -12341,7 +12341,7 @@
 
 ## Assembly
 
-*   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) ⭐: 30644 ⌨️: Assembly `ms-dos`
+*   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) ⭐: 30647 ⌨️: Assembly `ms-dos`
     The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 
 ## XSLT
@@ -12357,7 +12357,7 @@
 *   [huangyz0918/Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) ⭐: 3941 ⌨️: Rich Text Format `apple` `apple-hardware` `bootloader` `clover` `hackintosh` `hardware` `installation` `installer` `kext` `mac` `macos` `osx86` `tutorial`
     Open source tutorial & information collector for hackintosh installation.
 
-*   [phodal/github](https://github.com/phodal/github) ⭐: 10092 ⌨️: Rich Text Format `book` `books` `github` `github-books` `open-source` `os`
+*   [phodal/github](https://github.com/phodal/github) ⭐: 10093 ⌨️: Rich Text Format `book` `books` `github` `github-books` `open-source` `os`
     GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 
 ## Astro
@@ -12389,15 +12389,15 @@
 
 ## Jinja
 
-*   [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ⭐: 15972 ⌨️: Jinja `ansible` `aws` `bare-metal` `gce` `hacktoberfest` `high-availability` `k8s-sig-cluster-lifecycle` `kubernetes` `kubernetes-cluster` `kubespray`
+*   [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) ⭐: 15974 ⌨️: Jinja `ansible` `aws` `bare-metal` `gce` `hacktoberfest` `high-availability` `k8s-sig-cluster-lifecycle` `kubernetes` `kubernetes-cluster` `kubespray`
     Deploy a Production Ready Kubernetes Cluster
 
-*   [easzlab/kubeasz](https://github.com/easzlab/kubeasz) ⭐: 10416 ⌨️: Jinja `ansible` `calico` `cilium` `docker` `etcd` `flannel` `k8s` `kubeasz` `kubernetes`
+*   [easzlab/kubeasz](https://github.com/easzlab/kubeasz) ⭐: 10417 ⌨️: Jinja `ansible` `calico` `cilium` `docker` `etcd` `flannel` `k8s` `kubeasz` `kubernetes`
     使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 
 ## PLSQL
 
-*   [oracle-samples/db-sample-schemas](https://github.com/oracle-samples/db-sample-schemas) ⭐: 724 ⌨️: PLSQL `database` `oracle` `samples` `sql`
+*   [oracle-samples/db-sample-schemas](https://github.com/oracle-samples/db-sample-schemas) ⭐: 725 ⌨️: PLSQL `database` `oracle` `samples` `sql`
     Oracle Database Sample Schemas
 
 *   [agebullhu/AgebullDesigner](https://github.com/agebullhu/AgebullDesigner) ⭐: 13 ⌨️: PLSQL
@@ -12420,7 +12420,7 @@
 
 ## JSON
 
-*   [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ⭐: 4922 ⌨️: JSON `compat` `compatibility` `data` `dataset` `json`
+*   [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) ⭐: 4924 ⌨️: JSON `compat` `compatibility` `data` `dataset` `json`
     This repository contains compatibility data for Web technologies as displayed on MDN
 
 ## Classic ASP
@@ -12429,7 +12429,7 @@
 
 ## Groovy
 
-*   [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) ⭐: 1407 ⌨️: Groovy `nexus-repository` `repository` `repository-management`
+*   [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) ⭐: 1408 ⌨️: Groovy `nexus-repository` `repository` `repository-management`
     Dockerized version of Nexus Repo Manager 3
 
 ## Vim Script
