@@ -20,3 +20,5 @@ jobs:
           github-name: "github-actions[bot]"
           github-email: "github-actions[bot]@users.noreply.github.com"
           template-path: "template/README.ejs"
+        env:
+          USERNAME: ${{ github.repository_owner }}
