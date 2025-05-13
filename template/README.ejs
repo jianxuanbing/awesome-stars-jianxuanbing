@@ -1,10 +1,13 @@
 <%
-  // 计算所有语言中仓库的 star 总数
-  let totalStarsAll = 0;
+  // 计算 star 总数
+  let count = 0;
   for (let [, repositories] of stars) {
-    totalStarsAll += repositories.reduce((sum, repo) => sum + repo.stargazers_count, 0);
+    count += repositories.length;
   }
+  // 获取构建日期
+  let date = `${updatedAt.getGullYear()}-${updatedAt.getMonth() + 1}-${updatedAt.getDate()}`;
 %>
+
 <div align="center">
 
 # awesome-stars-jianxuanbing
@@ -17,7 +20,13 @@
 [![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B1%AA%E8%81%8AdotNET%E5%BC%80%E5%8F%91-71f9fe?logo=WeChat)](https://www.jcebing.com)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E7%8E%84%E5%86%B0%E5%B0%8F%E7%AA%9D-d7b1bf?logo=Blogger)](https://www.jcebing.com)
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing#readme)
-![Total](https://img.shields.io/badge/Total-<%= totalStarsAll %>-green.svg)
+<% if (count) {														-%>
+![Total](https://img.shields.io/badge/Total-<%= count %>-green.svg)
+<% }															    -%>
+<% if (date) {														-%>
+![Updated](https://img.shields.io/badge/Updated-<%= date %>-blue.svg)
+<% }															    -%>
+
 
 🤩 我的star列表，每天凌晨自动更新 🤩
 </div><br>
