@@ -42,7 +42,8 @@ function formatDateTime(input) {
 <% } %>
 
 <% for(let [language, repositories] of stars) { %>
-## <%= language %>
+<details>
+<summary>## <%= language %></summary>
 | No. | Name | Description | Author | Stars | Topic | Last Update |
 |---	|---	|---	|---	|---	|--- |--- |
 <% for (let i = 0; i < repositories.length; i++) { 
@@ -55,9 +56,9 @@ function formatDateTime(input) {
     const topics = repo.topics.map(t => `\`${t}\``).join(' ');
     const updated = formatDateTime(repo.updated_at);
 %>
-| <%= i + 1 %> |  [<%= name %>](<%= url %>) | <%= desc %> | <%= author %> | ⭐<%= starts %> | <%= topics %> | <%= updated %> |
+| <%= i + 1 %> |  [<%= name %>](<%= url %>) | <%= desc %> | <%= author %> | ⭐<%= stars %> | <%= topics %> | <%= updated %> |
 <% } %>
-
+</details>
 **[⬆ Back to Index](#-contents)**
 
 <% } %>
