@@ -43,8 +43,7 @@ function formatDateTime(input) {
 
 <% for(let [language, repositories] of stars) { %>
 ## <%= language %>
-<details>
-<summary>Contents</summary>
+
 | No. | Name | Description | Author | Stars | Topic | Last Update |
 |---	|---	|---	|---	|---	|--- |--- |
 <% for (let i = 0; i < repositories.length; i++) { 
@@ -61,7 +60,6 @@ function formatDateTime(input) {
     const line = `| ${i + 1} | [${name}](${url}) | ${fire}${desc} | ${author} | ⭐ ${stars} | ${topics} | ${updated} |`;
 %><%- line %>
 <% } %>
-</details>
 
 **[⬆ Back to Index](#-contents)**
 
