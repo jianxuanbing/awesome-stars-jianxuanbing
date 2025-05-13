@@ -56,9 +56,10 @@ function formatDateTime(input) {
     const topics = repo.topics.map(t => `\`${t}\``).join(' ');
     const updated = formatDateTime(repo.updated_at);
 %>
-| <%= i + 1 %> |  [<%= name %>](<%= url %>) | <%= desc %> | <%= author %> | ⭐<%= stars %> | <%= topics %> | <%= updated %> |
+<%- `| ${i + 1} | [${name}](${url}) | ${desc} | ${author} | ⭐ ${stars} | ${topics} | ${updated} |` %>
 <% } %>
 </details>
+
 **[⬆ Back to Index](#-contents)**
 
 <% } %>
