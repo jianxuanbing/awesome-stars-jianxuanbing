@@ -42,8 +42,9 @@ function formatDateTime(input) {
 <% } %>
 
 <% for(let [language, repositories] of stars) { %>
+## <%= language %>
 <details>
-<summary>## <%= language %></summary>
+<summary>Contents</summary>
 | No. | Name | Description | Author | Stars | Topic | Last Update |
 |---	|---	|---	|---	|---	|--- |--- |
 <% for (let i = 0; i < repositories.length; i++) { 
@@ -55,8 +56,10 @@ function formatDateTime(input) {
     const stars = repo.stargazers_count;
     const topics = repo.topics.map(t => `\`${t}\``).join(' ');
     const updated = formatDateTime(repo.updated_at);
-%>
-<%- `| ${i + 1} | [${name}](${url}) | ${desc} | ${author} | ⭐ ${stars} | ${topics} | ${updated} |` %>
+    const isHot = (Date.now() - new Date(repo.updated_at).getTime()) / (1000 * 3600 * 24) <= 30;
+    const fire = isHot ? '🔥 ' : '';
+    const line = `| ${i + 1} | [${name}](${url}) | ${fire}${desc} | ${author} | ⭐ ${stars} | ${topics} | ${updated} |`;
+%><%- line %>
 <% } %>
 </details>
 
