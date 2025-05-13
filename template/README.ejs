@@ -4,8 +4,6 @@
   for (let [, repositories] of stars) {
     count += repositories.length;
   }
-  // 获取构建日期
-  let date = `${updatedAt.getFullYear()}-${updatedAt.getMonth() + 1}-${updatedAt.getDate()}`;
 %>
 
 <div align="center">
@@ -22,9 +20,6 @@
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing#readme)
 <% if (count) {														-%>
 ![Total](https://img.shields.io/badge/Total-<%= count %>-green.svg)
-<% }															    -%>
-<% if (date) {														-%>
-![Updated](https://img.shields.io/badge/Updated-<%= date %>-blue.svg)
 <% }															    -%>
 
 
