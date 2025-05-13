@@ -32,7 +32,7 @@
 ## 🏠 Contents
 
 <% for(let [language, repositories] of stars) { %>
-- [<%= language %> (<%= repositories.length %>)](#<%= language %>)
+- [<%= language.replace(/\s/g, " ") %> (<%= repositories.length %>)](#<%= language.replace(/\s/g, " ") %>)
 <% } %>
 
 <% for(let [language, repositories] of stars) { %>
