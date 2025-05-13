@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E7%8E%84%E5%86%B0%E5%B0%8F%E7%AA%9D-d7b1bf?logo=Blogger)](https://www.jcebing.com)
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing#readme)
 ![Total](https://img.shields.io/badge/Total-4200-green.svg)
+![Updated](https://img.shields.io/badge/Updated-13--5--2025-blue.svg)
 
 🤩 我的star列表，每天凌晨自动更新 🤩
 
@@ -143,7 +144,7 @@
 *   [zimocode/smartup](https://github.com/zimocode/smartup) ⭐: 375 ⌨️: JavaScript `chrome-extension` `gestures-extension` `mouse-gestures` `smartup`
     A customizable web browser mouse gestures extension with a variety of actions.
 
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) ⭐: 19835 ⌨️: JavaScript `clash` `luci` `mihomo` `openclash` `openwrt` `shadowsocks` `snell` `v2ray` `vmess`
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) ⭐: 19836 ⌨️: JavaScript `clash` `luci` `mihomo` `openclash` `openwrt` `shadowsocks` `snell` `v2ray` `vmess`
     A Clash Client For OpenWrt
 
 *   [jiacai2050/gooreplacer](https://github.com/jiacai2050/gooreplacer) ⭐: 1260 ⌨️: JavaScript `antd` `chrome` `chrome-extension` `clojurescript` `edge` `edge-extension` `firefox` `firefox-addon` `javascript` `reagent` `redirect-urls` `redirects`
@@ -156,7 +157,7 @@
 
 *   [hudean/YzProject](https://github.com/hudean/YzProject) ⭐: 17 ⌨️: JavaScript
 
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐: 45757 ⌨️: JavaScript
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐: 45758 ⌨️: JavaScript
     Model Context Protocol Servers
 
 *   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) ⭐: 1702 ⌨️: JavaScript `astro` `blog` `hacktoberfest` `microblog` `telegram` `telegram-channel`
@@ -171,7 +172,7 @@
 *   [sapics/ip-location-db](https://github.com/sapics/ip-location-db) ⭐: 1425 ⌨️: JavaScript `asn` `autonomous-system` `geoip` `ip-country` `ip-geolocation` `ip-location` `ip2country` `ip2location`
     ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) ⭐: 94348 ⌨️: JavaScript `ai` `llm` `llm-ui` `llm-webui` `llms` `mcp` `ollama` `ollama-webui` `open-webui` `openai` `openapi` `rag` `self-hosted` `ui` `webui`
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) ⭐: 94349 ⌨️: JavaScript `ai` `llm` `llm-ui` `llm-webui` `llms` `mcp` `ollama` `ollama-webui` `open-webui` `openai` `openapi` `rag` `self-hosted` `ui` `webui`
     User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [TimeRainStarSky/Yunzai](https://github.com/TimeRainStarSky/Yunzai) ⭐: 468 ⌨️: JavaScript `bot` `discord-bot` `kook-bot` `qqbot` `qqguildbot` `telegram-bot` `wechat-bot`
@@ -296,7 +297,7 @@
 *   [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert) ⭐: 3036 ⌨️: JavaScript `alert` `alertmanager` `aliyun` `aliyunsdk` `dingding` `dingtalk` `feishu` `grafana` `graylog` `kubernetes` `monitor` `phone` `phonecall` `phonemessage` `prometheus` `prometheus-alert` `prometheus-alertmanager-webhook` `weixin` `weixinsdk` `zabbix`
     Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等
 
-*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) ⭐: 54426 ⌨️: JavaScript `diagram-editor` `electron-app` `graphics` `javascript-applications`
+*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) ⭐: 54427 ⌨️: JavaScript `diagram-editor` `electron-app` `graphics` `javascript-applications`
     Official electron build of draw.io
 
 *   [tumobi/nideshop](https://github.com/tumobi/nideshop) ⭐: 5620 ⌨️: JavaScript `api` `b2c` `min-program` `mysql` `nideshop` `nodejs` `shopping` `thinkjs` `weapp` `wechat-app`
@@ -317,7 +318,7 @@
 *   [chfree/think-swagger-ui-vuele](https://github.com/chfree/think-swagger-ui-vuele) ⭐: 234 ⌨️: JavaScript
     swagger ui vuele
 
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) ⭐: 26084 ⌨️: JavaScript `nginx` `nginx-proxy`
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) ⭐: 26086 ⌨️: JavaScript `nginx` `nginx-proxy`
     Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
 *   [ygs-code/vue](https://github.com/ygs-code/vue) ⭐: 7084 ⌨️: JavaScript
@@ -635,7 +636,7 @@
 *   [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) ⭐: 19445 ⌨️: JavaScript
     The Reactive Extensions for JavaScript
 
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) ⭐: 42476 ⌨️: JavaScript `browser` `editor` `monaco-editor` `typescript` `vscode`
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) ⭐: 42477 ⌨️: JavaScript `browser` `editor` `monaco-editor` `typescript` `vscode`
     A browser based code editor
 
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐: 82832 ⌨️: JavaScript `app` `apple` `application` `apps` `awesome` `awesome-list` `awesome-lists` `awesome-mac` `desktop-app` `desktop-application` `desktop-apps` `list` `mac` `mac-osx` `macos` `macos-app` `macos-apps` `macosx` `software`
@@ -969,7 +970,7 @@
 *   [raychenfj/vue-uweb](https://github.com/raychenfj/vue-uweb) ⭐: 169 ⌨️: JavaScript `statistics` `vue-plugin` `vuejs`
     vue 友盟统计埋点插件
 
-*   [juliangarnier/anime](https://github.com/juliangarnier/anime) ⭐: 60307 ⌨️: JavaScript `animation` `anime` `canvas` `css` `javascript` `javascript-library` `svg`
+*   [juliangarnier/anime](https://github.com/juliangarnier/anime) ⭐: 60308 ⌨️: JavaScript `animation` `anime` `canvas` `css` `javascript` `javascript-library` `svg`
     JavaScript animation engine
 
 *   [raphaelli/WorkUtils](https://github.com/raphaelli/WorkUtils) ⭐: 2 ⌨️: JavaScript `asp-net` `aspnet-mvc` `dotnet` `layui`
@@ -1837,7 +1838,7 @@
 *   [nocobase/nocobase](https://github.com/nocobase/nocobase) ⭐: 15556 ⌨️: TypeScript `admin-dashboard` `airtable` `app-builder` `crm` `crud` `developer-tools` `internal-tool` `internal-tools` `low-code` `low-code-development-platform` `low-code-framework` `low-code-platform` `lowcode` `no-code` `no-code-framework` `no-code-platform` `nocode` `salesforce` `self-hosted` `workflows`
     NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 
-*   [langgenius/dify](https://github.com/langgenius/dify) ⭐: 96758 ⌨️: TypeScript `agent` `ai` `automation` `backend-as-a-service` `gemini` `genai` `gpt` `gpt-4` `llm` `llmops` `low-code` `mcp` `nextjs` `no-code` `openai` `orchestration` `python` `rag` `workflow`
+*   [langgenius/dify](https://github.com/langgenius/dify) ⭐: 96759 ⌨️: TypeScript `agent` `ai` `automation` `backend-as-a-service` `gemini` `genai` `gpt` `gpt-4` `llm` `llmops` `low-code` `mcp` `nextjs` `no-code` `openai` `orchestration` `python` `rag` `workflow`
     Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 
 *   [14790897/paper-ai](https://github.com/14790897/paper-ai) ⭐: 1181 ⌨️: TypeScript `ai` `paper`
@@ -1846,7 +1847,7 @@
 *   [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) ⭐: 5568 ⌨️: TypeScript `clipboard` `color-picker` `cross-platform` `electron` `image-editing` `image-editor` `linux` `live-text` `macos` `ocr` `paddleocr` `recorder` `screen-capture` `screen-recorder` `screenshot` `search` `search-photos` `translate` `translator` `windows`
     截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS
 
-*   [readest/readest](https://github.com/readest/readest) ⭐: 7625 ⌨️: TypeScript `android` `cross-platform` `ebook` `ebook-reader` `epub` `foliate` `ios` `nextjs` `reader` `sync` `tauri` `tauri2` `tts`
+*   [readest/readest](https://github.com/readest/readest) ⭐: 7626 ⌨️: TypeScript `android` `cross-platform` `ebook` `ebook-reader` `epub` `foliate` `ios` `nextjs` `reader` `sync` `tauri` `tauri2` `tts`
     Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 
 *   [syhily/astro-uploader](https://github.com/syhily/astro-uploader) ⭐: 18 ⌨️: TypeScript `astro` `opendal` `s3`
@@ -1861,13 +1862,13 @@
 *   [C4illin/ConvertX](https://github.com/C4illin/ConvertX) ⭐: 1812 ⌨️: TypeScript `bun` `conversion` `convert` `converter` `document-conversion` `elysia` `file-conversion` `file-converter` `hacktoberfest` `pdf-converter` `self-hosted` `tailwindcss` `typescript`
     💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 
-*   [immich-app/immich](https://github.com/immich-app/immich) ⭐: 65729 ⌨️: TypeScript `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` `mobile-app` `nestjs` `nodejs` `photo-gallery` `photos` `photos-management` `self-hosted` `svelte` `sveltekit` `typescript` `videos`
+*   [immich-app/immich](https://github.com/immich-app/immich) ⭐: 65730 ⌨️: TypeScript `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` `mobile-app` `nestjs` `nodejs` `photo-gallery` `photos` `photos-management` `self-hosted` `svelte` `sveltekit` `typescript` `videos`
     High performance self-hosted photo and video management solution.
 
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) ⭐: 25462 ⌨️: TypeScript `ai` `anthropic` `artifacts` `assistant-api` `aws` `azure` `chatgpt` `chatgpt-clone` `claude` `clone` `dall-e-3` `deepseek` `gemini` `google` `librechat` `o1` `openai` `plugins` `vision` `webui`
     Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 
-*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) ⭐: 12352 ⌨️: TypeScript `clash` `clash-meta` `electron` `mihomo`
+*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) ⭐: 12354 ⌨️: TypeScript `clash` `clash-meta` `electron` `mihomo`
     :electron: Another Mihomo GUI.
 
 *   [oomeow/clash-verge-self](https://github.com/oomeow/clash-verge-self) ⭐: 9 ⌨️: TypeScript
@@ -1882,7 +1883,7 @@
 *   [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐: 27840 ⌨️: TypeScript `crm` `crm-system` `customer` `good-first-issue` `graphql` `hacktoberfest` `javascript` `marketing` `monorepo` `nestjs` `open-source` `postgresql` `react` `reactjs` `sales` `typescript` `web`
     Building a modern alternative to Salesforce, powered by the community.
 
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐: 57812 ⌨️: TypeScript `clash` `clash-meta` `clash-verge` `linux` `mac` `mihomo` `tauri-app` `windows`
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐: 57813 ⌨️: TypeScript `clash` `clash-meta` `clash-verge` `linux` `mac` `mihomo` `tauri-app` `windows`
     A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 *   [RedJue/git-commit-plugin](https://github.com/RedJue/git-commit-plugin) ⭐: 204 ⌨️: TypeScript `commit` `git` `hacktoberfest` `specification` `vscode-extension`
@@ -1909,7 +1910,7 @@
 *   [vastxie/Happy-ChatGPT](https://github.com/vastxie/Happy-ChatGPT) ⭐: 826 ⌨️: TypeScript
     ChatGPT 国粹版，和 GPT 一起学习地道的中国话吧
 
-*   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) ⭐: 8547 ⌨️: TypeScript `cross-platform` `desktop-app` `electron` `javascript` `macos` `toolkit` `utools` `windows`
+*   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) ⭐: 8548 ⌨️: TypeScript `cross-platform` `desktop-app` `electron` `javascript` `macos` `toolkit` `utools` `windows`
     🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 
 *   [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) ⭐: 3348 ⌨️: TypeScript `computer-vision` `deep-learning` `detection` `image-annotation` `labeling-photos` `labeling-tool` `landmark-detection` `object-detection` `pascal-voc` `posenet-model` `ssd-model` `tagging`
@@ -1993,7 +1994,7 @@
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) ⭐: 94588 ⌨️: TypeScript `ant-design` `antd` `design-systems` `react` `typescript` `ui-kit` `ui-library`
     An enterprise-class UI design language and React UI library
 
-*   [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) ⭐: 4680 ⌨️: TypeScript `golang` `gqlgen` `graphql` `kanban-board` `project-management` `react` `typescript`
+*   [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) ⭐: 4681 ⌨️: TypeScript `golang` `gqlgen` `graphql` `kanban-board` `project-management` `react` `typescript`
     An open source project management tool with Kanban boards
 
 *   [phodal/clean-frontend](https://github.com/phodal/clean-frontend) ⭐: 832 ⌨️: TypeScript
@@ -2035,7 +2036,7 @@
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) ⭐: 43913 ⌨️: TypeScript `electron` `javascript` `music-player` `vue`
     一个基于 electron 的音乐软件
 
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐: 93493 ⌨️: TypeScript `iptv` `m3u` `playlist` `streams` `tv`
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐: 93497 ⌨️: TypeScript `iptv` `m3u` `playlist` `streams` `tv`
     Collection of publicly available IPTV channels from all over the world
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) ⭐: 19961 ⌨️: TypeScript `classical-chinese` `esoteric-language` `programming-language` `wenyan-lang`
@@ -2149,7 +2150,7 @@
 *   [prismake/typegql](https://github.com/prismake/typegql) ⭐: 425 ⌨️: TypeScript `api` `decorators` `graphql` `graphql-api` `graphql-js` `graphql-schema` `graphql-server` `graphql-tools` `schema` `typeorm` `typescript`
     Create GraphQL schema with TypeScript classes.
 
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) ⭐: 25054 ⌨️: TypeScript `electron` `hosts` `hostseditor` `hostsfile` `switch-hosts` `switchhosts`
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) ⭐: 25055 ⌨️: TypeScript `electron` `hosts` `hostseditor` `hostsfile` `switch-hosts` `switchhosts`
     Switch hosts quickly!
 
 *   [any86/any-rule](https://github.com/any86/any-rule) ⭐: 8631 ⌨️: TypeScript `awsome` `express` `regex` `regexp` `zheng-ze`
@@ -2188,7 +2189,7 @@
 *   [doggy8088/ng-validators](https://github.com/doggy8088/ng-validators) ⭐: 3 ⌨️: TypeScript
     提供 Angular 7+ 專案使用進行表單欄位驗證
 
-*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) ⭐: 26135 ⌨️: TypeScript
+*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) ⭐: 26136 ⌨️: TypeScript
     人人都能用英语
 
 *   [ever-co/ever-demand](https://github.com/ever-co/ever-demand) ⭐: 1790 ⌨️: TypeScript `angular` `commerce` `commerce-platform` `e-commerce` `ecommerce` `ecommerce-platform` `framework` `graphql` `headless` `ionic` `javascript` `marketplace` `multivendor` `nodejs` `on-demand` `platform` `shop` `shopping-website` `storefront` `typescript`
@@ -2547,7 +2548,7 @@
 *   [antvis/G2](https://github.com/antvis/G2) ⭐: 12298 ⌨️: TypeScript `animation` `canvas` `chart` `grammar` `graphics` `hacktoberfest` `interaction` `svg` `visualization` `webgl`
     📊 The concise and progressive visualization grammar.
 
-*   [antvis/G6](https://github.com/antvis/G6) ⭐: 11480 ⌨️: TypeScript `data-visualization` `graph` `graph-analytics` `graph-drawing` `graph-visualization` `hacktoberfest` `network` `tree` `visual-analytics` `visualization`
+*   [antvis/G6](https://github.com/antvis/G6) ⭐: 11479 ⌨️: TypeScript `data-visualization` `graph` `graph-analytics` `graph-drawing` `graph-visualization` `hacktoberfest` `network` `tree` `visual-analytics` `visualization`
     ♾ A Graph Visualization Framework in JavaScript.
 
 *   [ng-alain/delon](https://github.com/ng-alain/delon) ⭐: 679 ⌨️: TypeScript `angular` `angular-components` `angular-scaffolding` `g2` `ng-admin` `ng-alain` `ng-zorro` `scaffold` `scaffold-framework` `scaffold-template` `scaffolding`
@@ -2813,7 +2814,7 @@
 *   [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) ⭐: 354 ⌨️: C#
     Source only package that exposes newer APIs, .net features, and C# features to older runtimes.
 
-*   [lepoco/wpfui](https://github.com/lepoco/wpfui) ⭐: 8347 ⌨️: C# `csharp` `dotnet` `fluent` `mica` `theme` `ui` `windows-10` `windows-11` `wpf` `wpf-controls` `wpf-ui` `xaml`
+*   [lepoco/wpfui](https://github.com/lepoco/wpfui) ⭐: 8348 ⌨️: C# `csharp` `dotnet` `fluent` `mica` `theme` `ui` `windows-10` `windows-11` `wpf` `wpf-controls` `wpf-ui` `xaml`
     WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
 
 *   [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) ⭐: 2283 ⌨️: C# `clean` `csharp` `ddd` `design-patterns` `domain-driven-design` `dotnet` `dotnet-core` `enum` `hacktoberfest`
@@ -3390,7 +3391,7 @@
 *   [mikoskinen/Blazor.Animate](https://github.com/mikoskinen/Blazor.Animate) ⭐: 290 ⌨️: C# `animate` `animation` `blazor`
     Easily add fade, slide and zoom-effects into your Blazor applications.
 
-*   [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) ⭐: 2310 ⌨️: C# `csharp` `dotnet` `ef6` `efcore` `entity-framework` `entity-framework-core` `entityframework`
+*   [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) ⭐: 2311 ⌨️: C# `csharp` `dotnet` `ef6` `efcore` `entity-framework` `entity-framework-core` `entityframework`
     Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
 
 *   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) ⭐: 8564 ⌨️: C# `c-sharp` `chinese-characters` `converter` `dotnet` `dotnet-core` `ime`
@@ -5157,7 +5158,7 @@
 *   [cnblogs/EnyimMemcachedCore](https://github.com/cnblogs/EnyimMemcachedCore) ⭐: 166 ⌨️: C# `csharp` `donet` `memcached`
     .NET Memcached client. Available on https://www.nuget.org/packages/EnyimMemcachedCore
 
-*   [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) ⭐: 6508 ⌨️: C# `color-picker` `control` `csharp` `flipclock` `gif` `propertygrid` `relativepanel` `wpf` `wpf-controls` `wpf-ui` `xaml`
+*   [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) ⭐: 6509 ⌨️: C# `color-picker` `control` `csharp` `flipclock` `gif` `propertygrid` `relativepanel` `wpf` `wpf-controls` `wpf-ui` `xaml`
     Contains some simple and commonly used WPF controls
 
 *   [mcintyre321/ValueOf](https://github.com/mcintyre321/ValueOf) ⭐: 915 ⌨️: C# `ddd` `domain-model` `valueobject`
@@ -5380,7 +5381,7 @@
 *   [HenriqueCaires/ZabbixApi](https://github.com/HenriqueCaires/ZabbixApi) ⭐: 36 ⌨️: C#
     C# Zabbix Api to retrieve and modify the configuration of Zabbix
 
-*   [nhibernate/nhibernate-core](https://github.com/nhibernate/nhibernate-core) ⭐: 2146 ⌨️: C# `c-sharp` `criteria-api` `dotnet` `dotnet-core` `dotnet-core2` `linq` `linq-provider` `nhibernate` `nhibernate-developers` `object-relational-mapper` `orm`
+*   [nhibernate/nhibernate-core](https://github.com/nhibernate/nhibernate-core) ⭐: 2147 ⌨️: C# `c-sharp` `criteria-api` `dotnet` `dotnet-core` `dotnet-core2` `linq` `linq-provider` `nhibernate` `nhibernate-developers` `object-relational-mapper` `orm`
     NHibernate Object Relational Mapper
 
 *   [exceptionless/Exceptionless.Net](https://github.com/exceptionless/Exceptionless.Net) ⭐: 564 ⌨️: C# `asp-net` `asp-net-core` `c-sharp` `crash-reporting` `crash-reporting-tool` `error-reporting` `error-stack-trace` `exception-handler` `exceptionfilter` `exceptionless` `exceptions` `logging` `logging-library` `unhandled-exceptions` `wcf` `webforms` `winforms` `wpf`
@@ -7803,7 +7804,7 @@
 *   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) ⭐: 27558 ⌨️: C#
     .NET debugger and assembly editor
 
-*   [ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐: 32336 ⌨️: C# `capture` `color-picker` `csharp` `dropbox` `file-sharing` `file-upload` `ftp` `gif` `gif-recorder` `image-annotation` `imgur` `ocr` `productivity` `region-capture` `screen-capture` `screen-recorder` `screenshot` `share` `sharex` `url-shortener`
+*   [ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐: 32337 ⌨️: C# `capture` `color-picker` `csharp` `dropbox` `file-sharing` `file-upload` `ftp` `gif` `gif-recorder` `image-annotation` `imgur` `ocr` `productivity` `region-capture` `screen-capture` `screen-recorder` `screenshot` `share` `sharex` `url-shortener`
     ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 
 *   [geffzhang/NanoFabric](https://github.com/geffzhang/NanoFabric) ⭐: 1469 ⌨️: C#
@@ -8477,7 +8478,7 @@
 *   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) ⭐: 3555 ⌨️: Python `awesome` `profile` `profile-page` `profile-readme` `readme` `wakatime`
     This GitHub action helps to add cool dev metrics to your github profile Readme
 
-*   [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) ⭐: 7463 ⌨️: Python `pywxdump` `wechat` `wx` `wxdump` `wxexport`
+*   [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) ⭐: 7464 ⌨️: Python `pywxdump` `wechat` `wx` `wxdump` `wxexport`
     获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
 
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐: 152321 ⌨️: Python `ai` `ai-art` `deep-learning` `diffusion` `gradio` `image-generation` `image2image` `img2img` `pytorch` `stable-diffusion` `text2image` `torch` `txt2img` `unstable` `upscaling` `web`
@@ -8486,7 +8487,7 @@
 *   [Suwmlee/ikaros](https://github.com/Suwmlee/ikaros) ⭐: 459 ⌨️: Python `docker` `flask` `media`
     打通下载软件与媒体服务，安心享受影片
 
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) ⭐: 64211 ⌨️: Python `chatbot` `chatbots` `chatgpt` `chatgpt-4` `chatgpt-api` `chatgpt-free` `chatgpt4` `deepseek` `deepseek-api` `deepseek-r1` `gpt` `gpt-4` `gpt-4o` `gpt4` `gpt4-api` `language-model` `openai` `openai-api` `openai-chatgpt` `reverse-engineering`
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) ⭐: 64212 ⌨️: Python `chatbot` `chatbots` `chatgpt` `chatgpt-4` `chatgpt-api` `chatgpt-free` `chatgpt4` `deepseek` `deepseek-api` `deepseek-r1` `gpt` `gpt-4` `gpt-4o` `gpt4` `gpt4-api` `language-model` `openai` `openai-api` `openai-chatgpt` `reverse-engineering`
     The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 
 *   [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) ⭐: 5677 ⌨️: Python `apifree` `chatgpt` `chatgpt-api` `chatgpt-clone` `freegpt` `freegpt4` `gpt-4` `gpt-4-api` `gpt-4-free` `gpt-free` `gpt-interface` `gpt3` `gpt3-api` `gpt3-turbo` `gpt4` `gpt4all` `gptfree` `jailbreak` `language-model` `website`
@@ -8549,7 +8550,7 @@
 *   [wuranxu/pity](https://github.com/wuranxu/pity) ⭐: 674 ⌨️: Python `aiohttp` `apitest` `autotest` `ddt` `fastapi` `http` `httprunner` `mysql` `postgresql` `python3` `react` `testplatform` `yapi`
     🎉一个持续迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
 
-*   [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐: 27350 ⌨️: Python `angular` `archiving` `django` `dms` `document-management` `document-management-system` `machine-learning` `ocr` `optical-character-recognition` `pdf`
+*   [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐: 27351 ⌨️: Python `angular` `archiving` `django` `dms` `document-management` `document-management-system` `machine-learning` `ocr` `optical-character-recognition` `pdf`
     A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 
 *   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) ⭐: 25624 ⌨️: Python `dns` `github` `hosts`
@@ -8799,13 +8800,13 @@
 *   [olajowon/loggrove](https://github.com/olajowon/loggrove) ⭐: 218 ⌨️: Python
     Loggrove是对本地、远程日志文件进行 分页阅读、实时阅读、关键词匹配、统计、监控、钉钉告警、Highcharts图表展示 的 Web 平台服务，并包含 用户认证、LDAP认证、操作审计 等基础服务。
 
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐: 339161 ⌨️: Python `api` `apis` `dataset` `development` `free` `list` `lists` `open-source` `public` `public-api` `public-apis` `resources` `software`
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐: 339160 ⌨️: Python `api` `apis` `dataset` `development` `free` `list` `lists` `open-source` `public` `public-api` `public-apis` `resources` `software`
     A collective list of free APIs
 
 *   [zhaoyingjun/chatbot](https://github.com/zhaoyingjun/chatbot) ⭐: 3574 ⌨️: Python `ai` `chatbot` `nlp-machine-learning` `python` `pytorch` `seq2seq-chatbot` `seqgan` `seqgan-tensorflow` `tensorflow2`
     ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。
 
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐: 299046 ⌨️: Python `design` `design-patterns` `design-system` `development` `interview` `interview-practice` `interview-questions` `programming` `python` `system` `web` `web-application` `webapp`
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐: 299047 ⌨️: Python `design` `design-patterns` `design-system` `development` `interview` `interview-practice` `interview-questions` `programming` `python` `system` `web` `web-application` `webapp`
     Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 *   [aneesha/RAKE](https://github.com/aneesha/RAKE) ⭐: 974 ⌨️: Python
@@ -8814,7 +8815,7 @@
 *   [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) ⭐: 8876 ⌨️: Python `cron` `cron-jobs` `devops` `django` `monitoring` `ops`
     Open-source cron job and background task monitoring service, written in Python & Django
 
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) ⭐: 108947 ⌨️: Python `awesome` `github` `hellogithub` `python`
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) ⭐: 108948 ⌨️: Python `awesome` `github` `hellogithub` `python`
     :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 *   [vnpy/vnpy](https://github.com/vnpy/vnpy) ⭐: 29565 ⌨️: Python `algotrading` `finance` `fintech` `investment` `python` `quant` `trading` `vnpy`
@@ -8887,7 +8888,7 @@
 *   [build-admin/buildadmin](https://github.com/build-admin/buildadmin) ⭐: 1642 ⌨️: Vue `admin` `element-plus` `php` `thinkphp8` `typescript` `vite` `vue3` `workerman`
     可视化生成CRUD代码、内置WEB终端、workerman常驻内存运行支持，技术栈为Vue3.x(setup)+ThinkPHP8+TypeScript+Vite+Pinia+Element Plus，自适应多端，同时提供Web和Server端、自动注册路由、无限级菜单权限节点、全局数据回收站、字段级修改保护等等，是集颜值、实用、敏捷于一身的管理系统。
 
-*   [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) ⭐: 3571 ⌨️: Vue `anki-flashcards` `anki-to-pdf` `excel-to-anki` `markdown-to-anki` `mindmap-to-anki` `pdf-to-anki` `pdf-toolbox` `pdf-watermark` `word-to-anki`
+*   [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) ⭐: 3572 ⌨️: Vue `anki-flashcards` `anki-to-pdf` `excel-to-anki` `markdown-to-anki` `mindmap-to-anki` `pdf-to-anki` `pdf-toolbox` `pdf-watermark` `word-to-anki`
     PDF Guru Anki是一款以PDF为中心的多功能办公学习工具箱软件，包含四大板块功能：PDF实用工具箱、Anki制卡神器、Anki最强辅助、视频笔记神器，软件功能众多且强大，熟练运用可以大幅提高办公和学习效率，绝对是您不可多得的效率神器。人生苦短，我用Guru!
 
 *   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) ⭐: 2013 ⌨️: Vue `clash` `gui` `typescript` `vite6` `vue3` `wails`
@@ -8902,7 +8903,7 @@
 *   [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) ⭐: 1584 ⌨️: Vue `arco-design` `arco-design-pro` `pro` `vue` `vuejs` `vuejs3`
     An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
 
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) ⭐: 29737 ⌨️: Vue `converter` `developer-productivity` `developer-tools` `frontend` `javascript` `productivity` `tool` `tools` `typescript` `vuejs` `website`
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) ⭐: 29738 ⌨️: Vue `converter` `developer-productivity` `developer-tools` `frontend` `javascript` `productivity` `tool` `tools` `typescript` `vuejs` `website`
     Collection of handy online tools for developers, with great UX.
 
 *   [SXX19950910/manifest-design](https://github.com/SXX19950910/manifest-design) ⭐: 204 ⌨️: Vue `canvas` `design-system` `draggable` `javascript` `manifest` `plugin` `print` `templates` `vue`
@@ -8986,7 +8987,7 @@
 *   [cc-worker/Vue-FlowChart](https://github.com/cc-worker/Vue-FlowChart) ⭐: 54 ⌨️: Vue `elementui` `flowchart` `gojs` `vue` `webpack`
     Vue + ElementUI + Webpack 集成GoJS的流程图插件，基本实现了流程图的增、删、改，及节点复杂关联
 
-*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) ⭐: 12346 ⌨️: Vue `css` `mp-weixin` `scss` `uniapp` `vue` `vue2`
+*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) ⭐: 12347 ⌨️: Vue `css` `mp-weixin` `scss` `uniapp` `vue` `vue2`
     鲜亮的高饱和色彩，专注视觉的小程序组件库
 
 *   [levy9527/nuxt-element-dashboard](https://github.com/levy9527/nuxt-element-dashboard) ⭐: 45 ⌨️: Vue `admin-dashboard` `element-ui` `nuxtjs` `vue`
@@ -9220,7 +9221,7 @@
 *   [FreezingArts/Litiaotiao-Backup-MyRule](https://github.com/FreezingArts/Litiaotiao-Backup-MyRule) ⭐: 376 ⌨️:\
     李跳跳app和自用规则备份
 
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) ⭐: 61839 ⌨️:\
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) ⭐: 61841 ⌨️:\
     科技爱好者周刊，每周五发布
 
 *   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) ⭐: 4645 ⌨️:  `acl` `acl4ssr` `clash` `gfwlist`
@@ -9345,7 +9346,7 @@
 *   [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ⭐: 10729 ⌨️:  `awesome-list` `framework` `isomorphic` `javascript` `nextjs` `reactjs` `routing` `server-side-rendering` `tutorials` `universal`
     :notebook\_with\_decorative\_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) ⭐: 37772 ⌨️:  `ai` `algorithms-and-data-structures` `backend` `developer-tools` `development` `frontend` `github` `java` `javascript` `kubernetes` `linux` `markdown` `open-source` `python` `tutorials` `web`
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) ⭐: 37773 ⌨️:  `ai` `algorithms-and-data-structures` `backend` `developer-tools` `development` `frontend` `github` `java` `javascript` `kubernetes` `linux` `markdown` `open-source` `python` `tutorials` `web`
     坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 *   [TideSec/Tide](https://github.com/TideSec/Tide) ⭐: 891 ⌨️:\
@@ -9443,7 +9444,7 @@
 *   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) ⭐: 35445 ⌨️:\
     955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) ⭐: 271756 ⌨️:\
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) ⭐: 271757 ⌨️:\
     Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 *   [logpai/awesome-log-analysis](https://github.com/logpai/awesome-log-analysis) ⭐: 760 ⌨️:  `aiops` `anamoly-detection` `bug-finding` `failure-diagnosis` `fault-localization` `log-analysis`
@@ -9515,7 +9516,7 @@
 *   [jiangfengming/webpack-and-spa-guide](https://github.com/jiangfengming/webpack-and-spa-guide) ⭐: 1635 ⌨️:\
     Webpack 4 和单页应用入门
 
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐: 360141 ⌨️:  `awesome` `awesome-list` `lists` `resources` `unicorns`
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐: 360142 ⌨️:  `awesome` `awesome-list` `lists` `resources` `unicorns`
     😎 Awesome lists about all kinds of interesting topics
 
 *   [fritx/awesome-wechat](https://github.com/fritx/awesome-wechat) ⭐: 634 ⌨️:  `awesome` `wechat`
@@ -9893,7 +9894,7 @@
 *   [brillout/awesome-angular-components](https://github.com/brillout/awesome-angular-components) ⭐: 3219 ⌨️:  `angular-component` `angular-components` `angular-library` `angular2-component` `angular2-components` `angular2-directive` `angular2-library` `angular2-modal` `angular2-toaster` `devarchy` `ng2`
     Catalog of Angular 2+ Components & Libraries
 
-*   [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) ⭐: 22033 ⌨️:  `android-studio` `clion` `datagrip` `gogland` `intellij` `intellij-idea` `java` `jetbrains` `phpstorm` `pycharm` `rubymine` `tutorial` `webstorm`
+*   [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) ⭐: 22034 ⌨️:  `android-studio` `clion` `datagrip` `gogland` `intellij` `intellij-idea` `java` `jetbrains` `phpstorm` `pycharm` `rubymine` `tutorial` `webstorm`
     IntelliJ IDEA 简体中文专题教程
 
 *   [osbzr/gooderp\_addons](https://github.com/osbzr/gooderp_addons) ⭐: 1335 ⌨️:  `accounting` `china` `erp` `finance` `fork` `odoo` `project` `python` `scm`
@@ -9943,7 +9944,7 @@
 *   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) ⭐: 16492 ⌨️: Java `java` `kcp` `private-server` `server`
     A server software reimplementation for a certain anime game.
 
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐: 58508 ⌨️: Java `docker` `java` `pdf` `pdf-converter` `pdf-editor` `pdf-manipulation` `pdf-merger` `pdf-ocr` `pdf-tools` `pdf-web-apps` `pdfmerger`
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐: 58509 ⌨️: Java `docker` `java` `pdf` `pdf-converter` `pdf-editor` `pdf-manipulation` `pdf-merger` `pdf-ocr` `pdf-tools` `pdf-web-apps` `pdfmerger`
     \#1 Locally hosted web application that allows you to perform various operations on PDF files
 
 *   [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) ⭐: 2530 ⌨️: Java `java` `jna` `spring` `springboot` `wechat`
@@ -10018,7 +10019,7 @@
 *   [provectus/kafka-ui](https://github.com/provectus/kafka-ui) ⭐: 10736 ⌨️: Java `apache-kafka` `big-data` `cluster-management` `event-streaming` `hacktoberfest` `kafka` `kafka-brokers` `kafka-client` `kafka-cluster` `kafka-connect` `kafka-manager` `kafka-producer` `kafka-streams` `kafka-ui` `opensource` `streaming-data` `streams` `web-ui`
     Open-Source Web UI for Apache Kafka Management
 
-*   [dataease/dataease](https://github.com/dataease/dataease) ⭐: 20072 ⌨️: Java `apache-doris` `business-intelligence` `data-analysis` `data-visualization` `echarts` `kettle` `superset` `tableau`
+*   [dataease/dataease](https://github.com/dataease/dataease) ⭐: 20073 ⌨️: Java `apache-doris` `business-intelligence` `data-analysis` `data-visualization` `echarts` `kettle` `superset` `tableau`
     🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 
 *   [knightliao/CanalX](https://github.com/knightliao/CanalX) ⭐: 205 ⌨️: Java
@@ -10194,7 +10195,7 @@
 *   [vsloong/Sunshine](https://github.com/vsloong/Sunshine) ⭐: 83 ⌨️: Java `campus` `school`
     一款服务于高校师生的信息查询类工具app，包括课表、考试、成绩、网费、饭卡消费、借书以及图书信息查询等功能。只需后台提供相应格式的数据即可方便对接，开发者简单修改app信息即可使用。
 
-*   [alipay/SoloPi](https://github.com/alipay/SoloPi) ⭐: 5941 ⌨️: Java `adb` `android` `arkts` `automated-testing` `automation` `harmony` `mobile-testing` `test-automation` `ui-testing`
+*   [alipay/SoloPi](https://github.com/alipay/SoloPi) ⭐: 5940 ⌨️: Java `adb` `android` `arkts` `automated-testing` `automation` `harmony` `mobile-testing` `test-automation` `ui-testing`
     SoloPi 自动化测试工具
 
 *   [siaorg/sia-gateway](https://github.com/siaorg/sia-gateway) ⭐: 791 ⌨️: Java
@@ -10902,7 +10903,7 @@
 *   [iqbal-lab-org/pandora](https://github.com/iqbal-lab-org/pandora) ⭐: 116 ⌨️: C++
     Pan-genome inference and genotyping with long noisy or short accurate reads
 
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐: 79921 ⌨️: C++ `ggml` `llama`
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐: 79922 ⌨️: C++ `ggml` `llama`
     LLM inference in C/C++
 
 *   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) ⭐: 6253 ⌨️: C++ `chatglm` `chatgpt` `gemini` `hook` `robot` `wechat`
@@ -11416,7 +11417,7 @@
 *   [3xxx/engineercms](https://github.com/3xxx/engineercms) ⭐: 1383 ⌨️: Go `cms` `engineer-management` `engineers` `hydraulic-informatization` `ipad` `projectmanage`
     工程师知识管理系统：基于golang语言（beego框架），支持分布式文件存储minio集群部署。engineercms为土木工程师基于web的知识管理系统。管理个人、工程项目资料，业主—设计—监理—施工方均从平台获得资料。支持提取码分享文件、onlyoffice实时文档协作，在线利用mindoc创作你的书籍，阅览PDF文件。手机端配套小程序，微信搜索“设计与管理”即可呼出小程序。
 
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) ⭐: 45993 ⌨️: Go `golang` `http-proxy` `proxy` `shadowsocks` `socks` `socks5` `v2ray` `vmess`
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) ⭐: 45994 ⌨️: Go `golang` `http-proxy` `proxy` `shadowsocks` `socks` `socks5` `v2ray` `vmess`
     A platform for building proxies to bypass network restrictions.
 
 *   [tietang/zebra](https://github.com/tietang/zebra) ⭐: 41 ⌨️: Go `api-gateway` `configuration` `consul` `discovery` `distributed` `eure` `eureka` `gateway` `k8s` `kubernetes` `router` `zuul`
@@ -11449,7 +11450,7 @@
 *   [ouqiang/delay-queue](https://github.com/ouqiang/delay-queue) ⭐: 1191 ⌨️: Go `delay-queue` `delayed-job` `delayqueue` `golang` `redis`
     延迟队列
 
-*   [shirou/gopsutil](https://github.com/shirou/gopsutil) ⭐: 11134 ⌨️: Go `go` `golang` `system-information`
+*   [shirou/gopsutil](https://github.com/shirou/gopsutil) ⭐: 11135 ⌨️: Go `go` `golang` `system-information`
     psutil for golang
 
 *   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) ⭐: 5528 ⌨️: Go `blueking` `cmdb` `devops-tools` `golang` `microservice` `rest-api`
@@ -11541,7 +11542,7 @@
 *   [unknwon/go-fundamental-programming](https://github.com/unknwon/go-fundamental-programming) ⭐: 9088 ⌨️: Go
     《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
 
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐: 143547 ⌨️: Go `awesome` `awesome-list` `go` `golang` `golang-library` `hacktoberfest`
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐: 143549 ⌨️: Go `awesome` `awesome-list` `go` `golang` `golang-library` `hacktoberfest`
     A curated list of awesome Go frameworks, libraries and software
 
 *   [agiledragon/ddd-sample-in-golang](https://github.com/agiledragon/ddd-sample-in-golang) ⭐: 28 ⌨️: Go
@@ -12045,7 +12046,7 @@
 *   [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) ⭐: 1548 ⌨️: C `in-memory` `redis` `redisql` `rust` `sql` `sqlite3`
     Redis module that provides a completely functional SQL database
 
-*   [Tencent/xLua](https://github.com/Tencent/xLua) ⭐: 9650 ⌨️: C `csharp` `lua` `unity` `unity3d` `xlua`
+*   [Tencent/xLua](https://github.com/Tencent/xLua) ⭐: 9651 ⌨️: C `csharp` `lua` `unity` `unity3d` `xlua`
     xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
 
 *   [Baidu-AIP/speech-vad-demo](https://github.com/Baidu-AIP/speech-vad-demo) ⭐: 340 ⌨️: C `speech` `vad` `webrtc` `webrtc-vad`
