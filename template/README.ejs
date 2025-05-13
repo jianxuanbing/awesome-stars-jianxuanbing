@@ -38,14 +38,25 @@ function formatDateTime(input) {
 ## 🏠 Contents
 
 <% for(let [language, repositories] of stars) { %>
-- [<%= language.replace(/\s/g, " ") %> (<%= repositories.length %>)](#<%= language.replace(/\s/g, " ") %>)
+- [<%= language.replace(/\s/g, " ") %> (<%= repositories.length %>)](#<%= language.replace(/\s/g, " ") -%>)
 <% } %>
 
 <% for(let [language, repositories] of stars) { %>
 ## <%= language %>
-|  | Name 	|  Description 	| Author  	|  Stars 	| Topic | Last Update |
+| No. | Name | Description | Author | Stars | Topic | Last Update |
 |---	|---	|---	|---	|---	|--- |--- |
-<% for (let i = 0; i < repositories.length; i++) { const repo = repositories[i]; %>| <%= i + 1 -%> |  [<%= repo.full_name -%>](<%= repo.html_url -%>) | <%= repo.description -%> | <%= repo.owner?.login -%> | ⭐<%= repo.stargazers_count -%> | <% for(let topic of repo.topics ) { %>`<%= topic %>` <% } %> | <%= formatDateTime(repo.updated_at) -%> | <% } %>
+<% for (let i = 0; i < repositories.length; i++) { 
+    const repo = repositories[i]; 
+    const name = repo.full_name;
+    const url = repo.html_url;
+    const desc = repo.description?.replace(/\r?\n|\|/g, ' ') || '';  // 去除换行与管道符
+    const author = repo.owner?.login || '';
+    const stars = repo.stargazers_count;
+    const topics = repo.topics.map(t => `\`${t}\``).join(' ');
+    const updated = formatDateTime(repo.updated_at);
+%>
+| <%= i + 1 %> |  [<%= name %>](<%= url %>) | <%= desc %> | <%= author %> | ⭐<%= starts %> | <%= topics %> | <%= updated %> |
+<% } %>
 
 **[⬆ Back to Index](#-contents)**
 
