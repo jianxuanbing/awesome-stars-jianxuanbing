@@ -1,4 +1,10 @@
 <%
+function formatDateTime(input) {
+  const d = new Date(input);
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')} ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}:${String(d.getSeconds()).padStart(2, '0')}`;
+}
+%>
+<%
   // 计算 star 总数
   let count = 0;
   for (let [, repositories] of stars) {
@@ -37,10 +43,16 @@
 
 <% for(let [language, repositories] of stars) { %>
 ## <%= language %>
-    <% for(let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) ⭐: <%= repo.stargazers_count %> ⌨️: <%= repo.language %> <% for(let topic of repo.topics ) { %>`<%= topic %>` <% } %>
-    <%= repo.description %>
-    <% } %>
+|  | Name 	|  Description 	| Author  	|  Stars 	| Topic | Last Update |
+|---	|---	|---	|---	|---	|--- |--- |
+<% for (let i = 0; i < repositories.length; i++) {
+    const repo = repositories[i];    
+%>
+| <%= i + 1 -%> |  [<%= repo.full_name -%>](<%= repo.html_url -%>) | <%= repo.description -%> | <%= repo.owner?.login -%> | ⭐<%= repo.stargazers_count -%> | <% for(let topic of repo.topics ) { %>`<%= topic %>` <% } %> | <%= formatDateTime(repo.updated_at) -%> |
+<% } %>
+
+**[⬆ Back to Index](#-contents)**
+
 <% } %>
 
 ## Thanks
