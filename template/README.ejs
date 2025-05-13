@@ -45,11 +45,7 @@ function formatDateTime(input) {
 ## <%= language %>
 |  | Name 	|  Description 	| Author  	|  Stars 	| Topic | Last Update |
 |---	|---	|---	|---	|---	|--- |--- |
-<% for (let i = 0; i < repositories.length; i++) {
-    const repo = repositories[i];    
-%>
-| <%= i + 1 -%> |  [<%= repo.full_name -%>](<%= repo.html_url -%>) | <%= repo.description -%> | <%= repo.owner?.login -%> | ⭐<%= repo.stargazers_count -%> | <% for(let topic of repo.topics ) { %>`<%= topic %>` <% } %> | <%= formatDateTime(repo.updated_at) -%> |
-<% } %>
+<% for (let i = 0; i < repositories.length; i++) { const repo = repositories[i]; %>| <%= i + 1 -%> |  [<%= repo.full_name -%>](<%= repo.html_url -%>) | <%= repo.description -%> | <%= repo.owner?.login -%> | ⭐<%= repo.stargazers_count -%> | <% for(let topic of repo.topics ) { %>`<%= topic %>` <% } %> | <%= formatDateTime(repo.updated_at) -%> | <% } %>
 
 **[⬆ Back to Index](#-contents)**
 
