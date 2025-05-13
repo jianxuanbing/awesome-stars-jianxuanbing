@@ -14,11 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Awesome generator
-        uses: simonecorsi/mawesome@latest
+        uses: simonecorsi/mawesome@v2
         with:
           api-token: ${{ secrets.ACCESS_TOKEN }}
           github-name: "github-actions[bot]"
           github-email: "github-actions[bot]@users.noreply.github.com"
           template-path: "template/README.ejs"
-        env:
-          USERNAME: ${{ github.repository_owner }}
