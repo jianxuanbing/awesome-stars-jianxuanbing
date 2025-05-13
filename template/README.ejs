@@ -4,6 +4,7 @@
   for (let [, repositories] of stars) {
     count += repositories.length;
   }
+  let date = `${new Date().getDate()}--${new Date().getMonth() + 1}--${new Date().getFullYear()}`;
 %>
 
 <div align="center">
@@ -21,7 +22,9 @@
 <% if (count) {														-%>
 ![Total](https://img.shields.io/badge/Total-<%= count %>-green.svg)
 <% }															    -%>
-
+<% if (date) {														-%>
+![Updated](https://img.shields.io/badge/Updated-<%= date %>-blue.svg)
+<% }															    -%>
 
 🤩 我的star列表，每天凌晨自动更新 🤩
 </div><br>
