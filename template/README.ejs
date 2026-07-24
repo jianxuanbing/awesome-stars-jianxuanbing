@@ -1,16 +1,87 @@
 <%
+const MAX_ITEMS_PER_LANGUAGE = 50;
+const MAX_DESCRIPTION_LENGTH = 160;
+const MAX_TOPICS = 5;
+
 function formatDateTime(input) {
-  const d = new Date(input);
-  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')} ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}:${String(d.getSeconds()).padStart(2, '0')}`;
-}
-%>
-<%
-  // 计算 star 总数
-  let count = 0;
-  for (let [, repositories] of stars) {
-    count += repositories.length;
+  const date = new Date(input);
+
+  if (Number.isNaN(date.getTime())) {
+    return '';
   }
-  let date = `${new Date().getDate()}--${new Date().getMonth() + 1}--${new Date().getFullYear()}`;
+
+  return [
+    date.getFullYear(),
+    String(date.getMonth() + 1).padStart(2, '0'),
+    String(date.getDate()).padStart(2, '0')
+  ].join('-') + ' ' + [
+    String(date.getHours()).padStart(2, '0'),
+    String(date.getMinutes()).padStart(2, '0'),
+    String(date.getSeconds()).padStart(2, '0')
+  ].join(':');
+}
+
+function cleanText(input, maxLength = MAX_DESCRIPTION_LENGTH) {
+  const value = String(input || '')
+    .replace(/\r?\n/g, ' ')
+    .replace(/\|/g, '\\|')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (value.length <= maxLength) {
+    return value;
+  }
+
+  return `${value.slice(0, maxLength - 1)}…`;
+}
+
+function createAnchor(value) {
+  return `language-${Array.from(String(value))
+    .map(character => character.codePointAt(0).toString(16))
+    .join('-')}`;
+}
+
+/**
+ * 仓库排序规则：
+ * 1. Star 数量降序；
+ * 2. Star 数相同时，按最后更新时间降序。
+ */
+function sortRepositories(repositories) {
+  return [...repositories].sort((left, right) => {
+    const leftStars = Number(left.stargazers_count || 0);
+    const rightStars = Number(right.stargazers_count || 0);
+
+    if (rightStars !== leftStars) {
+      return rightStars - leftStars;
+    }
+
+    const leftUpdatedAt = new Date(left.updated_at || 0).getTime();
+    const rightUpdatedAt = new Date(right.updated_at || 0).getTime();
+
+    return rightUpdatedAt - leftUpdatedAt;
+  });
+}
+
+function getDisplayedRepositories(repositories) {
+  return sortRepositories(repositories)
+    .slice(0, MAX_ITEMS_PER_LANGUAGE);
+}
+
+let totalCount = 0;
+let displayedCount = 0;
+
+for (const [, repositories] of stars) {
+  totalCount += repositories.length;
+  displayedCount += Math.min(
+    repositories.length,
+    MAX_ITEMS_PER_LANGUAGE
+  );
+}
+
+const generatedAt = formatDateTime(updatedAt || Date.now());
+const badgeDate = generatedAt.substring(0, 10);
 %>
 
 <div align="center">
@@ -18,53 +89,110 @@ function formatDateTime(input) {
 # awesome-stars-jianxuanbing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Auth](https://img.shields.io/badge/Auth-jianxuanbing-ff69b4?logo=github)](https://github.com/jianxuanbing)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/jianxuanbing/awesome-stars-jianxuanbing?logo=Undertale)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing/stargazers)
-[![HitCount](https://views.whatilearened.today/views/github/jianxuanbing/awesome-stars-jianxuanbing.svg)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing)
-[![GitHub license](https://img.shields.io/github/license/jianxuanbing/awesome-stars-jianxuanbing)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing/blob/main/LICENSE)
-[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B1%AA%E8%81%8AdotNET%E5%BC%80%E5%8F%91-71f9fe?logo=WeChat)](https://www.jcebing.com)
-[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E7%8E%84%E5%86%B0%E5%B0%8F%E7%AA%9D-d7b1bf?logo=Blogger)](https://www.jcebing.com)
-[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing#readme)
-<% if (count) {														-%>
-![Total](https://img.shields.io/badge/Total-<%= count %>-green.svg)
-<% }															    -%>
-<% if (date) {														-%>
-![Updated](https://img.shields.io/badge/Updated-<%= date %>-blue.svg)
-<% }															    -%>
+[![Author](https://img.shields.io/badge/Author-jianxuanbing-ff69b4?logo=github)](https://github.com/jianxuanbing)
+[![Repository Stars](https://img.shields.io/github/stars/jianxuanbing/awesome-stars-jianxuanbing?logo=github)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing/stargazers)
+[![License](https://img.shields.io/github/license/jianxuanbing/awesome-stars-jianxuanbing)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing/blob/main/LICENSE)
+[![Total](https://img.shields.io/badge/Total-<%= totalCount %>-green.svg)](./data.json)
+[![Updated](https://img.shields.io/badge/Updated-<%= badgeDate %>-blue.svg)](./data.json)
 
-🤩 我的star列表，每天凌晨自动更新 🤩
-</div><br>
+🤩 我的 GitHub Star 列表，每天自动更新。
 
-## 🏠 Contents
+README 按语言分类展示，每个分类最多展示 **<%= MAX_ITEMS_PER_LANGUAGE %>** 条。
 
-<% for(let [language, repositories] of stars) { %>
-- [<%= language.replace(/\s/g, " ") %> (<%= repositories.length %>)](#<%= language.replace(/\s/g, " ") -%>)
+排序规则：优先按 **Star 数量降序**，Star 数相同时按 **最后更新时间降序**。
+
+[查看完整 JSON 数据](./data.json)
+
+</div>
+
+## 📊 概览
+
+| 项目 | 数量 |
+|---|---:|
+| Star 总数 | <%= totalCount %> |
+| 语言分类 | <%= stars.length %> |
+| README 展示数量 | <%= displayedCount %> |
+| 每类最多展示 | <%= MAX_ITEMS_PER_LANGUAGE %> |
+| 最后更新 | <%= generatedAt %> |
+
+## 🏠 分类目录
+
+<% for (const [language, repositories] of stars) { -%>
+- [<%= language %>（<%= repositories.length %>）](#<%= createAnchor(language) %>)
+<% } -%>
+
+---
+
+<%
+for (const [language, repositories] of stars) {
+  const displayedRepositories = getDisplayedRepositories(repositories);
+  const hiddenCount =
+    repositories.length - displayedRepositories.length;
+%>
+
+<a id="<%= createAnchor(language) %>"></a>
+
+## <%= language %>（<%= repositories.length %>）
+
+<% if (hiddenCount > 0) { -%>
+> 当前按 Star 数量和更新时间展示前
+> <%= displayedRepositories.length %> 条，
+> 还有 <%= hiddenCount %> 条未在 README 中展开。
+> [查看完整数据](./data.json)
+<% } else { -%>
+> 当前分类共 <%= repositories.length %> 条，已全部展示。
 <% } %>
 
-<% for(let [language, repositories] of stars) { %>
-## <%= language %>
+| No. | Repository | Description | Stars | Topics | Updated |
+|---:|---|---|---:|---|---|
+<%
+for (
+  let index = 0;
+  index < displayedRepositories.length;
+  index++
+) {
+  const repository = displayedRepositories[index];
+  const name = repository.full_name;
+  const url = repository.html_url;
+  const description = cleanText(repository.description);
+  const starCount = Number(repository.stargazers_count || 0);
 
-| No. | Name | Description | Author | Stars | Topic | Last Update |
-|---	|---	|---	|---	|---	|--- |--- |
-<% for (let i = 0; i < repositories.length; i++) { 
-    const repo = repositories[i]; 
-    const name = repo.full_name;
-    const url = repo.html_url;
-    const desc = repo.description?.replace(/\r?\n|\|/g, ' ') || '';  // 去除换行与管道符
-    const author = repo.owner?.login || '';
-    const stars = repo.stargazers_count;
-    const topics = repo.topics.map(t => `\`${t}\``).join(' ');
-    const updated = formatDateTime(repo.updated_at);
-    const isHot = (Date.now() - new Date(repo.updated_at).getTime()) / (1000 * 3600 * 24) <= 30;
-    const fire = isHot ? '🔥 ' : '';
-    const line = `| ${i + 1} | [${name}](${url}) | ${fire}${desc} | ${author} | ⭐ ${stars} | ${topics} | ${updated} |`;
-%><%- line %>
+  const topics = (repository.topics || [])
+    .slice(0, MAX_TOPICS)
+    .map(topic => `\`${cleanText(topic, 30)}\``)
+    .join(' ');
+
+  const updated = formatDateTime(repository.updated_at);
+
+  const updatedAtTime =
+    new Date(repository.updated_at || 0).getTime();
+
+  const activeDays = Number.isNaN(updatedAtTime)
+    ? Number.MAX_SAFE_INTEGER
+    : (Date.now() - updatedAtTime) / (1000 * 60 * 60 * 24);
+
+  const activeMark = activeDays <= 30 ? '🔥 ' : '';
+-%>
+| <%= index + 1 %> | [<%= name %>](<%= url %>) | <%= activeMark %><%- description %> | ⭐ <%= starCount %> | <%- topics %> | <%= updated %> |
 <% } %>
 
-**[⬆ Back to Index](#-contents)**
+[⬆ 返回分类目录](#-分类目录)
+
+---
 
 <% } %>
+
+## 数据说明
+
+- README 每个语言分类最多展示 50 条记录。
+- 分类内优先按 Star 数量从高到低排列。
+- Star 数量相同时，按仓库最后更新时间从新到旧排列。
+- 最近 30 天内更新的仓库会显示 🔥 标记。
+- 每个仓库最多展示 5 个 Topics。
+- 完整 Star 数据保存在 [`data.json`](./data.json)。
+- 数据每天由 GitHub Actions 自动重新生成。
 
 ## Thanks
 
-- generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
+Generated with
+[jianxuanbing/mawesome](https://github.com/jianxuanbing/mawesome).
