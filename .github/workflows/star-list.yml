@@ -1,20 +1,37 @@
 name: Update awesome list
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
+  
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/star-list.yml'
+      - 'template/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-awesome-list
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v2
-      - name: Awesome generator
-        uses: jianxuanbing/mawesome@latest
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      
+      - name: Generate awesome list
+        uses: jianxuanbing/mawesome@main
         with:
           api-token: ${{ secrets.ACCESS_TOKEN }}
           github-name: "github-actions[bot]"
