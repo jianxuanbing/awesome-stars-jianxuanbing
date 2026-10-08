@@ -7,7 +7,7 @@
 [![Repository Stars](https://img.shields.io/github/stars/jianxuanbing/awesome-stars-jianxuanbing?logo=github)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing/stargazers)
 [![License](https://img.shields.io/github/license/jianxuanbing/awesome-stars-jianxuanbing)](https://github.com/jianxuanbing/awesome-stars-jianxuanbing/blob/main/LICENSE)
 [![Total](https://img.shields.io/badge/Total-4277-green.svg)](./data.json)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-07-blue.svg)](./data.json)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-08-blue.svg)](./data.json)
 
 🤩 我的 GitHub Star 列表，每天自动更新。
 
@@ -27,7 +27,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 | 语言分类 | 62 |
 | README 展示数量 | 835 |
 | 每类最多展示 | 50 |
-| 最后更新 | 2026-10-07 03:16:28 |
+| 最后更新 | 2026-10-08 03:31:59 |
 
 ## 🏠 分类目录
 
@@ -107,56 +107,56 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 🔥 Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | ⭐ 159053 | `agent` `ai` `context-engineering` `deepseek` `interview` | 2026-10-07 03:04:46 |
-| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | ⭐ 156915 | `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin` | 2026-10-07 03:12:45 |
-| 3 | [airbnb/javascript](https://github.com/airbnb/javascript) | 🔥 JavaScript Style Guide | ⭐ 148297 | `arrow-functions` `es2015` `es2016` `es2017` `es2018` | 2026-10-06 19:02:40 |
-| 4 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 🔥 Coding articles to level up your development skills | ⭐ 129323 | `astro` `awesome-list` `css` `education` `es6-javascript` | 2026-10-07 00:53:40 |
-| 5 | [axios/axios](https://github.com/axios/axios) | 🔥 Promise based HTTP client for the browser and node.js | ⭐ 109324 | `hacktoberfest` `http-client` `javascript` `nodejs` `promise` | 2026-10-07 03:03:07 |
-| 6 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | 🔥 The iconic SVG, font, and CSS toolkit | ⭐ 76952 | `css` `font` `fontawesome` `icons` `svg-icons` | 2026-10-06 19:56:09 |
-| 7 | [typicode/json-server](https://github.com/typicode/json-server) | 🔥 Get a full fake REST API with zero coding in less than 30 seconds (seriously) | ⭐ 75716 | `api` `fake` `frontend` `json` `mock` | 2026-10-06 18:13:46 |
-| 8 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | 🔥 JavaScript animation engine | ⭐ 73395 | `animation` `anime` `canvas` `css` `javascript` | 2026-10-07 02:56:42 |
-| 9 | [byoungd/up](https://github.com/byoungd/up) | 🔥 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth. | ⭐ 67540 | `ai-literacy` `chinese` `english-learning` `lifelong-learning` `open-education` | 2026-10-07 03:13:43 |
-| 10 | [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) | 🔥 Official electron build of draw.io | ⭐ 63410 | `diagram-editor` `electron-app` `graphics` `javascript-applications` | 2026-10-07 00:39:53 |
-| 11 | [adam-p/markdown-here](https://github.com/adam-p/markdown-here) | 🔥 Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | ⭐ 60267 |  | 2026-10-06 17:56:15 |
-| 12 | [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 🔥 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权… | ⭐ 57647 |  | 2026-10-06 18:28:36 |
-| 13 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | 🔥 PDF Reader in JavaScript | ⭐ 53985 |  | 2026-10-06 21:05:43 |
-| 14 | [prettier/prettier](https://github.com/prettier/prettier) | 🔥 Prettier is an opinionated code formatter. | ⭐ 52395 | `angular` `ast` `css` `flow` `formatter` | 2026-10-07 00:58:14 |
-| 15 | [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 🔥 Semantic is a UI component framework based around useful principles from natural language. | ⭐ 51018 | `button` `css-framework` `dropdown` `flexbox` `popup` | 2026-10-06 17:58:07 |
-| 16 | [iamkun/dayjs](https://github.com/iamkun/dayjs) | 🔥 ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | ⭐ 48665 | `date` `date-formatting` `datetime` `dayjs` `moment` | 2026-10-07 02:03:43 |
-| 17 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 🔥 A browser based code editor | ⭐ 46844 | `browser` `editor` `monaco-editor` `typescript` `vscode` | 2026-10-07 02:37:39 |
-| 18 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 🔥 A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | ⭐ 45045 | `desktop` `edex-ui` `electron` `linux` `macos` | 2026-10-07 01:01:46 |
-| 19 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 🔥 A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 | ⭐ 44647 | `batch-processing` `batch-script` `code-free` `crawler` `data-collection` | 2026-10-07 01:43:31 |
-| 20 | [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) | 🔥 The zero configuration build tool for the web. 📦🚀 | ⭐ 44014 | `assets` `build-tool` `commonjs` `compiler` `css` | 2026-10-06 18:14:54 |
-| 21 | [dcloudio/uni-app](https://github.com/dcloudio/uni-app) | 🔥 A cross-platform framework using Vue.js | ⭐ 41616 | `android` `cross-platform` `crossplatform` `hbuilderx` `ios` | 2026-10-06 08:52:17 |
-| 22 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | 🔥 The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry | ⭐ 41471 | `javascript` `npm` `package-manager` `yarn` | 2026-10-06 17:38:54 |
-| 23 | [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | 🔥 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac. | ⭐ 34788 | `redis` `redis-client` `redis-cluster` `redis-desktop-manager` `redis-gui` | 2026-10-06 21:00:18 |
+| 1 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 🔥 Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | ⭐ 159071 | `agent` `ai` `context-engineering` `deepseek` `interview` | 2026-10-08 03:24:44 |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 🔥 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | ⭐ 157698 | `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin` | 2026-10-08 03:28:02 |
+| 3 | [airbnb/javascript](https://github.com/airbnb/javascript) | 🔥 JavaScript Style Guide | ⭐ 148294 | `arrow-functions` `es2015` `es2016` `es2017` `es2018` | 2026-10-08 02:57:30 |
+| 4 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 🔥 Coding articles to level up your development skills | ⭐ 129337 | `astro` `awesome-list` `css` `education` `es6-javascript` | 2026-10-08 03:08:22 |
+| 5 | [axios/axios](https://github.com/axios/axios) | 🔥 Promise based HTTP client for the browser and node.js | ⭐ 109349 | `hacktoberfest` `http-client` `javascript` `nodejs` `promise` | 2026-10-08 02:15:39 |
+| 6 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | 🔥 The iconic SVG, font, and CSS toolkit | ⭐ 76953 | `css` `font` `fontawesome` `icons` `svg-icons` | 2026-10-07 18:16:53 |
+| 7 | [typicode/json-server](https://github.com/typicode/json-server) | 🔥 Get a full fake REST API with zero coding in less than 30 seconds (seriously) | ⭐ 75717 | `api` `fake` `frontend` `json` `mock` | 2026-10-08 02:07:52 |
+| 8 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | 🔥 JavaScript animation engine | ⭐ 73410 | `animation` `anime` `canvas` `css` `javascript` | 2026-10-08 03:31:06 |
+| 9 | [byoungd/up](https://github.com/byoungd/up) | 🔥 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth. | ⭐ 67725 | `ai-literacy` `chinese` `english-learning` `lifelong-learning` `open-education` | 2026-10-08 03:28:08 |
+| 10 | [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) | 🔥 Official electron build of draw.io | ⭐ 63420 | `diagram-editor` `electron-app` `graphics` `javascript-applications` | 2026-10-08 03:09:22 |
+| 11 | [adam-p/markdown-here](https://github.com/adam-p/markdown-here) | 🔥 Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | ⭐ 60263 |  | 2026-10-08 03:21:32 |
+| 12 | [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 🔥 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权… | ⭐ 57650 |  | 2026-10-08 01:33:48 |
+| 13 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | 🔥 PDF Reader in JavaScript | ⭐ 53987 |  | 2026-10-08 03:12:15 |
+| 14 | [prettier/prettier](https://github.com/prettier/prettier) | 🔥 Prettier is an opinionated code formatter. | ⭐ 52416 | `angular` `ast` `css` `flow` `formatter` | 2026-10-08 00:40:44 |
+| 15 | [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 🔥 Semantic is a UI component framework based around useful principles from natural language. | ⭐ 51020 | `button` `css-framework` `dropdown` `flexbox` `popup` | 2026-10-07 22:00:13 |
+| 16 | [iamkun/dayjs](https://github.com/iamkun/dayjs) | 🔥 ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | ⭐ 48667 | `date` `date-formatting` `datetime` `dayjs` `moment` | 2026-10-07 18:51:10 |
+| 17 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 🔥 A browser based code editor | ⭐ 46848 | `browser` `editor` `monaco-editor` `typescript` `vscode` | 2026-10-07 23:05:41 |
+| 18 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 🔥 A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | ⭐ 45044 | `desktop` `edex-ui` `electron` `linux` `macos` | 2026-10-08 03:11:09 |
+| 19 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 🔥 A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 | ⭐ 44660 | `batch-processing` `batch-script` `code-free` `crawler` `data-collection` | 2026-10-08 03:25:16 |
+| 20 | [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) | 🔥 The zero configuration build tool for the web. 📦🚀 | ⭐ 44013 | `assets` `build-tool` `commonjs` `compiler` `css` | 2026-10-07 12:06:52 |
+| 21 | [dcloudio/uni-app](https://github.com/dcloudio/uni-app) | 🔥 A cross-platform framework using Vue.js | ⭐ 41619 | `android` `cross-platform` `crossplatform` `hbuilderx` `ios` | 2026-10-08 03:16:26 |
+| 22 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | 🔥 The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry | ⭐ 41470 | `javascript` `npm` `package-manager` `yarn` | 2026-10-07 10:57:10 |
+| 23 | [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | 🔥 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac. | ⭐ 34787 | `redis` `redis-client` `redis-cluster` `redis-desktop-manager` `redis-gui` | 2026-10-08 02:40:00 |
 | 24 | [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) | 🔥 :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard: | ⭐ 34106 | `clipboard` `javascript` | 2026-10-06 13:14:41 |
-| 25 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | 🔥 Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ | ⭐ 32145 |  | 2026-10-06 17:47:35 |
-| 26 | [ascoders/weekly](https://github.com/ascoders/weekly) | 🔥 前端精读周刊。帮你理解最前沿、实用的技术。 | ⭐ 31323 | `awesome` `frontend` `weekly` | 2026-10-07 03:08:05 |
+| 25 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | 🔥 Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ | ⭐ 32145 |  | 2026-10-08 01:28:30 |
+| 26 | [ascoders/weekly](https://github.com/ascoders/weekly) | 🔥 前端精读周刊。帮你理解最前沿、实用的技术。 | ⭐ 31349 | `awesome` `frontend` `weekly` | 2026-10-08 03:18:42 |
 | 27 | [layui/layui](https://github.com/layui/layui) | 🔥 一套遵循浏览器原生态开发模式的 Web UI 组件库。 | ⭐ 30581 | `component-library` `css` `html` `javascript` `layui` | 2026-10-04 02:54:36 |
-| 28 | [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) | 🔥 A lightweight JavaScript library for creating particles | ⭐ 30206 |  | 2026-10-06 20:14:45 |
-| 29 | [vuejs/vue-cli](https://github.com/vuejs/vue-cli) | 🔥 🛠️ webpack-based tooling for Vue.js Development | ⭐ 29522 |  | 2026-10-06 17:56:51 |
-| 30 | [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) | 🔥 Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. | ⭐ 29030 | `hacktoberfest` `oas` `open-source` `openapi` `openapi-specification` | 2026-10-06 16:41:45 |
-| 31 | [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | 🔥 Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容 | ⭐ 28584 | `anytls` `chinese-localization` `clash` `hysteria2` `mihomo` | 2026-10-07 02:19:09 |
-| 32 | [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) | 🔥 A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web | ⭐ 28424 | `book` `cb7` `cbr` `cbt` `cbz` | 2026-10-07 02:49:30 |
-| 33 | [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) | 🔥 分流规则、重写写规则及脚本。 | ⭐ 28136 |  | 2026-10-07 02:49:43 |
-| 34 | [YMFE/yapi](https://github.com/YMFE/yapi) | 🔥 YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | ⭐ 27712 | `api` `api-management` `api-manager` `api-test` | 2026-10-06 17:56:54 |
-| 35 | [badges/shields](https://github.com/badges/shields) | 🔥 Concise, consistent, and legible badges in SVG and raster format | ⭐ 27239 | `badge` `badge-maker` `github` `hacktoberfest` `metadata` | 2026-10-06 17:55:32 |
-| 36 | [codemirror/codemirror5](https://github.com/codemirror/codemirror5) | 🔥 In-browser code editor (version 5, legacy) | ⭐ 27217 |  | 2026-10-06 17:59:27 |
-| 37 | [winstonjs/winston](https://github.com/winstonjs/winston) | 🔥 A logger for just about everything. | ⭐ 24524 |  | 2026-10-06 13:13:18 |
-| 38 | [vercel/pkg](https://github.com/vercel/pkg) | 🔥 Package your Node.js project into an executable | ⭐ 24328 | `binaries` `cli` `compiler` `nodejs` | 2026-10-06 05:59:23 |
-| 39 | [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 🔥 中国程序员容易发音错误的单词 | ⭐ 23318 | `chinese-programmers` `documentation` `pronunciation` `spelling` | 2026-10-06 17:57:01 |
-| 40 | [ovity/octotree](https://github.com/ovity/octotree) | 🔥 GitHub on steroids | ⭐ 23278 | `browser-extension` `chrome` `code-files` `code-review` `edge` | 2026-10-06 09:39:45 |
+| 28 | [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) | 🔥 A lightweight JavaScript library for creating particles | ⭐ 30200 |  | 2026-10-08 01:50:30 |
+| 29 | [vuejs/vue-cli](https://github.com/vuejs/vue-cli) | 🔥 🛠️ webpack-based tooling for Vue.js Development | ⭐ 29520 |  | 2026-10-07 10:57:10 |
+| 30 | [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) | 🔥 Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. | ⭐ 29029 | `hacktoberfest` `oas` `open-source` `openapi` `openapi-specification` | 2026-10-08 00:31:18 |
+| 31 | [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | 🔥 Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容 | ⭐ 28582 | `anytls` `chinese-localization` `clash` `hysteria2` `mihomo` | 2026-10-08 02:43:56 |
+| 32 | [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) | 🔥 A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web | ⭐ 28433 | `book` `cb7` `cbr` `cbt` `cbz` | 2026-10-08 03:12:30 |
+| 33 | [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) | 🔥 分流规则、重写写规则及脚本。 | ⭐ 28146 |  | 2026-10-08 03:09:59 |
+| 34 | [YMFE/yapi](https://github.com/YMFE/yapi) | 🔥 YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | ⭐ 27711 | `api` `api-management` `api-manager` `api-test` | 2026-10-07 10:21:07 |
+| 35 | [badges/shields](https://github.com/badges/shields) | 🔥 Concise, consistent, and legible badges in SVG and raster format | ⭐ 27246 | `badge` `badge-maker` `github` `hacktoberfest` `metadata` | 2026-10-07 23:44:17 |
+| 36 | [codemirror/codemirror5](https://github.com/codemirror/codemirror5) | 🔥 In-browser code editor (version 5, legacy) | ⭐ 27216 |  | 2026-10-07 13:29:26 |
+| 37 | [winstonjs/winston](https://github.com/winstonjs/winston) | 🔥 A logger for just about everything. | ⭐ 24522 |  | 2026-10-07 10:57:04 |
+| 38 | [vercel/pkg](https://github.com/vercel/pkg) | 🔥 Package your Node.js project into an executable | ⭐ 24326 | `binaries` `cli` `compiler` `nodejs` | 2026-10-08 03:20:32 |
+| 39 | [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 🔥 中国程序员容易发音错误的单词 | ⭐ 23318 | `chinese-programmers` `documentation` `pronunciation` `spelling` | 2026-10-07 16:10:22 |
+| 40 | [ovity/octotree](https://github.com/ovity/octotree) | 🔥 GitHub on steroids | ⭐ 23278 | `browser-extension` `chrome` `code-files` `code-review` `edge` | 2026-10-08 03:05:35 |
 | 41 | [vuejs/vuepress](https://github.com/vuejs/vuepress) | 🔥 📝 Minimalistic Vue-powered static site generator | ⭐ 22726 | `blog-engine` `docs-generator` `seo` `static-site-generator` `vue` | 2026-10-06 05:21:20 |
-| 42 | [typicode/lowdb](https://github.com/typicode/lowdb) | 🔥 Simple and fast JSON database | ⭐ 22582 | `database` `electron` `embeddable` `embedded-database` `javascript` | 2026-10-06 17:55:36 |
+| 42 | [typicode/lowdb](https://github.com/typicode/lowdb) | 🔥 Simple and fast JSON database | ⭐ 22580 | `database` `electron` `embeddable` `embedded-database` `javascript` | 2026-10-07 10:57:00 |
 | 43 | [Tencent/wepy](https://github.com/Tencent/wepy) | 🔥 小程序组件化开发框架 - 已归档 | ⭐ 22538 | `weapp` `wepy` | 2026-10-06 23:59:00 |
-| 44 | [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) | 🔥 微信小程序商城，微信小程序微店 | ⭐ 21842 |  | 2026-10-06 19:25:21 |
-| 45 | [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) | 🔥 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 | ⭐ 20985 | `address` `administrative-divisions` `area` `china` `city` | 2026-10-07 02:59:38 |
-| 46 | [chokcoco/iCSS](https://github.com/chokcoco/iCSS) | 🔥 不止于 CSS | ⭐ 20660 | `css` `css3` | 2026-10-03 11:44:22 |
-| 47 | [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) | 🔥 Vue drag-and-drop component based on Sortable.js | ⭐ 20569 | `component` `drag-and-drop` `vue` | 2026-10-02 04:17:00 |
-| 48 | [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) | 🔥 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 | ⭐ 20235 | `mini` `mpvue` `vue` `weapp` `wxmp` | 2026-10-04 15:13:57 |
-| 49 | [nuysoft/Mock](https://github.com/nuysoft/Mock) | 🔥 A simulation data generator | ⭐ 19571 |  | 2026-09-29 11:44:45 |
-| 50 | [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | 🔥 The Reactive Extensions for JavaScript | ⭐ 19325 |  | 2026-10-02 01:20:05 |
+| 44 | [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) | 🔥 微信小程序商城，微信小程序微店 | ⭐ 21842 |  | 2026-10-07 08:16:48 |
+| 45 | [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) | 🔥 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 | ⭐ 20985 | `address` `administrative-divisions` `area` `china` `city` | 2026-10-08 03:16:01 |
+| 46 | [chokcoco/iCSS](https://github.com/chokcoco/iCSS) | 🔥 不止于 CSS | ⭐ 20660 | `css` `css3` | 2026-10-08 03:12:21 |
+| 47 | [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) | 🔥 Vue drag-and-drop component based on Sortable.js | ⭐ 20567 | `component` `drag-and-drop` `vue` | 2026-10-07 10:57:11 |
+| 48 | [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) | 🔥 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 | ⭐ 20234 | `mini` `mpvue` `vue` `weapp` `wxmp` | 2026-10-07 06:40:33 |
+| 49 | [nuysoft/Mock](https://github.com/nuysoft/Mock) | 🔥 A simulation data generator | ⭐ 19570 |  | 2026-10-07 03:19:23 |
+| 50 | [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | 🔥 The Reactive Extensions for JavaScript | ⭐ 19324 |  | 2026-10-07 04:12:53 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -173,56 +173,56 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 🔥 A curated list of awesome Go frameworks, libraries and software | ⭐ 187277 | `awesome` `awesome-list` `go` `golang` `golang-library` | 2026-10-07 03:11:54 |
-| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 🔥 Production-Grade Container Scheduling and Management | ⭐ 128345 | `cncf` `containers` `go` `kubernetes` | 2026-10-07 03:01:44 |
-| 3 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 🔥 TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | ⭐ 111370 | `javascript` `language` `typechecker` `typescript` | 2026-10-07 02:50:39 |
-| 4 | [fatedier/frp](https://github.com/fatedier/frp) | 🔥 A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | ⭐ 109755 | `expose` `firewall` `frp` `go` `http-proxy` | 2026-10-07 02:39:48 |
-| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 🔥 The Prometheus monitoring system and time series database. | ⭐ 66404 | `alerting` `graphing` `hacktoberfest` `metrics` `monitoring` | 2026-10-07 00:39:58 |
-| 6 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 🔥 Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry a… | ⭐ 58341 | `bitbucket` `cicd` `devops` `docker-registry-v2` `git` | 2026-10-07 02:37:04 |
-| 7 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 🔥 Go implementation of the Ethereum protocol | ⭐ 51392 | `blockchain` `ethereum` `geth` `go` `p2p` | 2026-10-07 01:05:20 |
-| 8 | [AlistGo/alist](https://github.com/AlistGo/alist) | 🔥 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 | ⭐ 50263 | `file-server` `gin` `golang` `onedrive` `solidjs` | 2026-10-07 02:53:39 |
-| 9 | [gogs/gogs](https://github.com/gogs/gogs) | 🔥 The painless way to host your own Git service | ⭐ 47859 | `docker` `git` `go` `gogs` `mysql` | 2026-10-07 03:04:00 |
-| 10 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 🔥 Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) | ⭐ 47523 | `ech` `fail2ban` `http` `hysteria2` `mixed` | 2026-10-07 02:34:08 |
-| 11 | [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) | 🔥 A platform for building proxies to bypass network restrictions. | ⭐ 46927 | `golang` `http-proxy` `proxy` `shadowsocks` `socks` | 2026-10-06 17:56:42 |
-| 12 | [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 🔥 A golang ebook intro how to build a web with golang | ⭐ 43888 |  | 2026-10-06 20:18:16 |
-| 13 | [pingcap/tidb](https://github.com/pingcap/tidb) | 🔥 TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data si… | ⭐ 40631 | `agent` `agent-context` `agent-memory` `agentic` `ai` | 2026-10-06 23:23:27 |
-| 14 | [istio/istio](https://github.com/istio/istio) | 🔥 Connect, secure, control, and observe services. | ⭐ 38427 | `api-management` `circuit-breaker` `consul` `enforce-policies` `envoy` | 2026-10-06 19:33:46 |
-| 15 | [hashicorp/vault](https://github.com/hashicorp/vault) | 🔥 A tool for secrets management, encryption as a service, and privileged access management | ⭐ 36345 | `go` `secrets` `vault` | 2026-10-07 03:05:33 |
-| 16 | [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 🔥 《The Way to Go》中文译本，中文正式名《Go 入门指南》 | ⭐ 35018 | `book` `go` `translation` `tutorial` | 2026-10-06 17:56:27 |
-| 17 | [ehang-io/nps](https://github.com/ehang-io/nps) | 🔥 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, po… | ⭐ 34246 | `dns` `firewall` `go` `gzip` `http` | 2026-10-07 02:02:42 |
-| 18 | [k3s-io/k3s](https://github.com/k3s-io/k3s) | 🔥 Lightweight Kubernetes | ⭐ 34148 | `k8s` `kubernetes` | 2026-10-07 03:07:01 |
-| 19 | [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | 🔥 ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解 | ⭐ 33813 | `acm-icpc` `algorithm` `algorithm-competitions` `algorithms` `algorithms-and-data-structures` | 2026-10-07 03:00:37 |
-| 20 | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | 🔥 A cloud-native Go microservices framework with cli tool for productivity. | ⭐ 33365 | `ai-native` `ai-native-development` `cloud-native` `code-generation` `framework` | 2026-10-06 14:22:05 |
-| 21 | [iawia002/lux](https://github.com/iawia002/lux) | 🔥 👾 Fast and simple video download library and CLI tool written in Go | ⭐ 31745 | `bilibili` `crawler` `download` `downloader` `go` | 2026-10-07 02:02:02 |
-| 22 | [goharbor/harbor](https://github.com/goharbor/harbor) | 🔥 An open source trusted cloud native registry project that stores, signs, and scans content. | ⭐ 29502 | `cloud-native` `cncf` `cncf-project` `container` `container-management` | 2026-10-06 23:57:27 |
-| 23 | [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) | 🔥 🌩 Self-hosted file management and sharing system, supports multiple storage providers | ⭐ 28801 | `cloud` `cloud-storage` `cloudreve` `file` `file-manager` | 2026-10-06 20:41:23 |
-| 24 | [dapr/dapr](https://github.com/dapr/dapr) | 🔥 Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. | ⭐ 26131 | `containers` `event-driven` `kubernetes` `microservice` `microservices` | 2026-10-06 19:58:50 |
-| 25 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | 🔥 Your ultimate Go microservices framework for the cloud-native era. | ⭐ 25963 | `ai` `architecture` `cloud-native` `framework` `generate` | 2026-10-06 14:38:04 |
-| 26 | [nsqio/nsq](https://github.com/nsqio/nsq) | 🔥 A realtime distributed messaging platform | ⭐ 25769 | `distributed-systems` `go` `message-queue` `messaging` `nsq` | 2026-10-07 03:14:45 |
-| 27 | [kataras/iris](https://github.com/kataras/iris) | 🔥 The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket: | ⭐ 25560 | `dependency-injection` `go` `golang` `http2` `iris` | 2026-10-07 00:35:08 |
-| 28 | [navidrome/navidrome](https://github.com/navidrome/navidrome) | 🔥 🎧 Your Personal Streaming Service | ⭐ 24006 | `airsonic` `madsonic` `media-server` `music` `music-server` | 2026-10-07 02:18:33 |
-| 29 | [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | 🔥 The most customisable and low-latency cross platform/shell prompt renderer | ⭐ 23554 | `bash` `cmd` `fish` `fish-shell` `git` | 2026-10-06 21:24:19 |
-| 30 | [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 🔥 CNCF Jaeger, a Distributed Tracing Platform | ⭐ 23268 | `cncf` `distributed-tracing` `hacktoberfest` `jaeger` `observability` | 2026-10-06 22:08:30 |
-| 31 | [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | 🔥 Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. | ⭐ 21031 | `gcp` `gke` `google-cloud` `grpc` `istio` | 2026-10-06 18:13:38 |
-| 32 | [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | 🔥 :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) | ⭐ 20094 | `asm` `book` `cgo` `cloud` `go` | 2026-10-06 17:57:13 |
-| 33 | [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) | 🔥 Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficie… | ⭐ 19579 | `ip-address` `ip-address-database` `ip-address-location` `ip-location` `ip-lookup` | 2026-10-06 08:07:28 |
-| 34 | [google/cadvisor](https://github.com/google/cadvisor) | 🔥 Analyzes resource usage and performance characteristics of running containers. | ⭐ 19470 |  | 2026-10-06 20:46:13 |
-| 35 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 🔥 Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | ⭐ 17848 | `golang` `hacktoberfest` `influxdb` `json` `kafka` | 2026-10-06 17:19:37 |
-| 36 | [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 🔥 The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ | ⭐ 17059 | `agent-skills` `ai` `cloud-native` `cncf` `devops` | 2026-10-06 17:57:18 |
-| 37 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 🔥 IM Chat OpenClaw | ⭐ 16680 | `chat` `im` `messaging` `messenger` `openclaw` | 2026-10-06 17:57:51 |
-| 38 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🔥 BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: http… | ⭐ 15861 | `dovecot` `email` `email-marketing` `mail` `mailserver` | 2026-10-06 23:48:45 |
-| 39 | [dgraph-io/badger](https://github.com/dgraph-io/badger) | 🔥 Fast key-value DB in Go. | ⭐ 15782 | `database` `document-database` `go` `golang` `key-value` | 2026-10-06 14:05:46 |
-| 40 | [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) | 🔥 Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication | ⭐ 15693 |  | 2026-10-06 19:08:32 |
-| 41 | [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 🔥 Kubernetes IN Docker - local clusters for testing Kubernetes | ⭐ 15529 | `docker` `golang` `k8s-sig-testing` `kubeadm` `kubernetes` | 2026-10-06 18:14:58 |
-| 42 | [fish2018/pansou](https://github.com/fish2018/pansou) | 🔥 PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv | ⭐ 14811 |  | 2026-10-06 17:23:23 |
-| 43 | [bytebase/bytebase](https://github.com/bytebase/bytebase) | 🔥 Database governance built for humans and agents — controlling changes and access across every major database. | ⭐ 14537 | `cicd` `data-governance` `data-masking` `data-security` `database-access` | 2026-10-07 02:26:33 |
-| 44 | [coredns/coredns](https://github.com/coredns/coredns) | 🔥 CoreDNS is a DNS server that chains plugins | ⭐ 14361 | `cncf` `coredns` `dns-server` `go` `plugin` | 2026-10-06 19:40:23 |
-| 45 | [thanos-io/thanos](https://github.com/thanos-io/thanos) | 🔥 Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. | ⭐ 14230 | `cncf` `go` `google-cloud-storage` `hacktoberfest` `high-availability` | 2026-10-06 08:53:58 |
-| 46 | [ccfos/nightingale](https://github.com/ccfos/nightingale) | 🔥 Nightingale is to monitoring and alerting what Grafana is to visualization. | ⭐ 13317 | `alerting` `ccf` `metrics` `monitoring` `nightingale` | 2026-10-05 09:01:14 |
-| 47 | [golang/dep](https://github.com/golang/dep) | 🔥 Go dependency management tool experiment (deprecated) | ⭐ 12726 | `dependency-manager` `golang` `package-manager` `toolchain` | 2026-10-03 15:17:36 |
-| 48 | [shirou/gopsutil](https://github.com/shirou/gopsutil) | 🔥 psutil for golang | ⭐ 11930 | `go` `golang` `system-information` | 2026-10-06 03:02:24 |
-| 49 | [grafana/pyroscope](https://github.com/grafana/pyroscope) | 🔥 Continuous Profiling Platform. Debug performance issues down to a single line of code | ⭐ 11691 | `continuous-profiling` `developer-tools` `devops` `find-bottlenecks` `golang` | 2026-10-06 20:19:02 |
-| 50 | [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) | 🔥 为互联网IT人打造的中文版awesome-go | ⭐ 11561 | `awesome` `golang` | 2026-10-06 17:56:59 |
+| 1 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 🔥 A curated list of awesome Go frameworks, libraries and software | ⭐ 187430 | `awesome` `awesome-list` `go` `golang` `golang-library` | 2026-10-08 03:28:28 |
+| 2 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 🔥 Production-Grade Container Scheduling and Management | ⭐ 128377 | `cncf` `containers` `go` `kubernetes` | 2026-10-08 03:11:47 |
+| 3 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 🔥 TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | ⭐ 111391 | `javascript` `language` `typechecker` `typescript` | 2026-10-08 03:23:51 |
+| 4 | [fatedier/frp](https://github.com/fatedier/frp) | 🔥 A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | ⭐ 109775 | `expose` `firewall` `frp` `go` `http-proxy` | 2026-10-08 03:12:20 |
+| 5 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 🔥 The Prometheus monitoring system and time series database. | ⭐ 66418 | `alerting` `graphing` `hacktoberfest` `metrics` `monitoring` | 2026-10-08 03:10:40 |
+| 6 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | 🔥 Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry a… | ⭐ 58354 | `bitbucket` `cicd` `devops` `docker-registry-v2` `git` | 2026-10-08 03:14:28 |
+| 7 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | 🔥 Go implementation of the Ethereum protocol | ⭐ 51390 | `blockchain` `ethereum` `geth` `go` `p2p` | 2026-10-08 03:07:26 |
+| 8 | [AlistGo/alist](https://github.com/AlistGo/alist) | 🔥 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 | ⭐ 50263 | `file-server` `gin` `golang` `onedrive` `solidjs` | 2026-10-08 02:34:44 |
+| 9 | [gogs/gogs](https://github.com/gogs/gogs) | 🔥 The painless way to host your own Git service | ⭐ 47861 | `docker` `git` `go` `gogs` `mysql` | 2026-10-07 17:39:25 |
+| 10 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 🔥 Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) | ⭐ 47581 | `ech` `fail2ban` `http` `hysteria2` `mixed` | 2026-10-08 03:28:46 |
+| 11 | [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) | 🔥 A platform for building proxies to bypass network restrictions. | ⭐ 46925 | `golang` `http-proxy` `proxy` `shadowsocks` `socks` | 2026-10-07 18:59:56 |
+| 12 | [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 🔥 A golang ebook intro how to build a web with golang | ⭐ 43889 |  | 2026-10-07 11:18:58 |
+| 13 | [pingcap/tidb](https://github.com/pingcap/tidb) | 🔥 TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data si… | ⭐ 40632 | `agent` `agent-context` `agent-memory` `agentic` `ai` | 2026-10-08 02:52:10 |
+| 14 | [istio/istio](https://github.com/istio/istio) | 🔥 Connect, secure, control, and observe services. | ⭐ 38428 | `api-management` `circuit-breaker` `consul` `enforce-policies` `envoy` | 2026-10-08 02:28:51 |
+| 15 | [hashicorp/vault](https://github.com/hashicorp/vault) | 🔥 A tool for secrets management, encryption as a service, and privileged access management | ⭐ 36350 | `go` `secrets` `vault` | 2026-10-08 02:51:16 |
+| 16 | [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 🔥 《The Way to Go》中文译本，中文正式名《Go 入门指南》 | ⭐ 35016 | `book` `go` `translation` `tutorial` | 2026-10-07 16:33:13 |
+| 17 | [ehang-io/nps](https://github.com/ehang-io/nps) | 🔥 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, po… | ⭐ 34252 | `dns` `firewall` `go` `gzip` `http` | 2026-10-08 02:45:32 |
+| 18 | [k3s-io/k3s](https://github.com/k3s-io/k3s) | 🔥 Lightweight Kubernetes | ⭐ 34149 | `k8s` `kubernetes` | 2026-10-08 00:18:17 |
+| 19 | [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | 🔥 ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解 | ⭐ 33812 | `acm-icpc` `algorithm` `algorithm-competitions` `algorithms` `algorithms-and-data-structures` | 2026-10-07 21:52:50 |
+| 20 | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | 🔥 A cloud-native Go microservices framework with cli tool for productivity. | ⭐ 33366 | `ai-native` `ai-native-development` `cloud-native` `code-generation` `framework` | 2026-10-08 01:56:48 |
+| 21 | [iawia002/lux](https://github.com/iawia002/lux) | 🔥 👾 Fast and simple video download library and CLI tool written in Go | ⭐ 31748 | `bilibili` `crawler` `download` `downloader` `go` | 2026-10-08 03:21:37 |
+| 22 | [goharbor/harbor](https://github.com/goharbor/harbor) | 🔥 An open source trusted cloud native registry project that stores, signs, and scans content. | ⭐ 29511 | `cloud-native` `cncf` `cncf-project` `container` `container-management` | 2026-10-08 01:45:20 |
+| 23 | [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) | 🔥 🌩 Self-hosted file management and sharing system, supports multiple storage providers | ⭐ 28803 | `cloud` `cloud-storage` `cloudreve` `file` `file-manager` | 2026-10-08 03:13:53 |
+| 24 | [dapr/dapr](https://github.com/dapr/dapr) | 🔥 Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. | ⭐ 26133 | `containers` `event-driven` `kubernetes` `microservice` `microservices` | 2026-10-07 18:24:47 |
+| 25 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | 🔥 Your ultimate Go microservices framework for the cloud-native era. | ⭐ 25966 | `ai` `architecture` `cloud-native` `framework` `generate` | 2026-10-08 03:07:57 |
+| 26 | [nsqio/nsq](https://github.com/nsqio/nsq) | 🔥 A realtime distributed messaging platform | ⭐ 25769 | `distributed-systems` `go` `message-queue` `messaging` `nsq` | 2026-10-07 10:57:11 |
+| 27 | [kataras/iris](https://github.com/kataras/iris) | 🔥 The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket: | ⭐ 25562 | `dependency-injection` `go` `golang` `http2` `iris` | 2026-10-07 15:22:04 |
+| 28 | [navidrome/navidrome](https://github.com/navidrome/navidrome) | 🔥 🎧 Your Personal Streaming Service | ⭐ 24025 | `airsonic` `madsonic` `media-server` `music` `music-server` | 2026-10-08 02:36:49 |
+| 29 | [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | 🔥 The most customisable and low-latency cross platform/shell prompt renderer | ⭐ 23563 | `bash` `cmd` `fish` `fish-shell` `git` | 2026-10-08 00:09:31 |
+| 30 | [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 🔥 CNCF Jaeger, a Distributed Tracing Platform | ⭐ 23269 | `cncf` `distributed-tracing` `hacktoberfest` `jaeger` `observability` | 2026-10-08 03:14:34 |
+| 31 | [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | 🔥 Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. | ⭐ 21032 | `gcp` `gke` `google-cloud` `grpc` `istio` | 2026-10-07 16:38:39 |
+| 32 | [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | 🔥 :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) | ⭐ 20092 | `asm` `book` `cgo` `cloud` `go` | 2026-10-07 16:33:56 |
+| 33 | [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) | 🔥 Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficie… | ⭐ 19579 | `ip-address` `ip-address-database` `ip-address-location` `ip-location` `ip-lookup` | 2026-10-07 14:47:36 |
+| 34 | [google/cadvisor](https://github.com/google/cadvisor) | 🔥 Analyzes resource usage and performance characteristics of running containers. | ⭐ 19471 |  | 2026-10-07 21:30:33 |
+| 35 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 🔥 Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | ⭐ 17851 | `golang` `hacktoberfest` `influxdb` `json` `kafka` | 2026-10-07 16:33:33 |
+| 36 | [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 🔥 The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ | ⭐ 17060 | `agent-skills` `ai` `cloud-native` `cncf` `devops` | 2026-10-07 10:54:33 |
+| 37 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 🔥 IM Chat OpenClaw | ⭐ 16681 | `chat` `im` `messaging` `messenger` `openclaw` | 2026-10-08 03:00:36 |
+| 38 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🔥 BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: http… | ⭐ 15862 | `dovecot` `email` `email-marketing` `mail` `mailserver` | 2026-10-07 22:42:46 |
+| 39 | [dgraph-io/badger](https://github.com/dgraph-io/badger) | 🔥 Fast key-value DB in Go. | ⭐ 15781 | `database` `document-database` `go` `golang` `key-value` | 2026-10-07 10:53:40 |
+| 40 | [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) | 🔥 Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication | ⭐ 15696 |  | 2026-10-07 23:59:25 |
+| 41 | [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 🔥 Kubernetes IN Docker - local clusters for testing Kubernetes | ⭐ 15535 | `docker` `golang` `k8s-sig-testing` `kubeadm` `kubernetes` | 2026-10-07 21:02:49 |
+| 42 | [fish2018/pansou](https://github.com/fish2018/pansou) | 🔥 PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv | ⭐ 14815 |  | 2026-10-08 02:29:07 |
+| 43 | [bytebase/bytebase](https://github.com/bytebase/bytebase) | 🔥 Database governance built for humans and agents — controlling changes and access across every major database. | ⭐ 14537 | `cicd` `data-governance` `data-masking` `data-security` `database-access` | 2026-10-08 03:07:43 |
+| 44 | [coredns/coredns](https://github.com/coredns/coredns) | 🔥 CoreDNS is a DNS server that chains plugins | ⭐ 14361 | `cncf` `coredns` `dns-server` `go` `plugin` | 2026-10-07 19:18:12 |
+| 45 | [thanos-io/thanos](https://github.com/thanos-io/thanos) | 🔥 Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. | ⭐ 14228 | `cncf` `go` `google-cloud-storage` `hacktoberfest` `high-availability` | 2026-10-07 10:57:15 |
+| 46 | [ccfos/nightingale](https://github.com/ccfos/nightingale) | 🔥 Nightingale is to monitoring and alerting what Grafana is to visualization. | ⭐ 13320 | `alerting` `ccf` `metrics` `monitoring` `nightingale` | 2026-10-08 00:19:07 |
+| 47 | [golang/dep](https://github.com/golang/dep) | 🔥 Go dependency management tool experiment (deprecated) | ⭐ 12725 | `dependency-manager` `golang` `package-manager` `toolchain` | 2026-10-07 18:17:29 |
+| 48 | [shirou/gopsutil](https://github.com/shirou/gopsutil) | 🔥 psutil for golang | ⭐ 11929 | `go` `golang` `system-information` | 2026-10-07 07:31:48 |
+| 49 | [grafana/pyroscope](https://github.com/grafana/pyroscope) | 🔥 Continuous Profiling Platform. Debug performance issues down to a single line of code | ⭐ 11693 | `continuous-profiling` `developer-tools` `devops` `find-bottlenecks` `golang` | 2026-10-08 00:24:44 |
+| 50 | [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) | 🔥 为互联网IT人打造的中文版awesome-go | ⭐ 11561 | `awesome` `golang` | 2026-10-08 02:40:46 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -239,56 +239,56 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 🔥 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | ⭐ 456867 | `careers` `certification` `community` `curriculum` `d3` | 2026-10-07 03:07:59 |
-| 2 | [microsoft/vscode](https://github.com/microsoft/vscode) | 🔥 Visual Studio Code | ⭐ 193590 | `editor` `electron` `microsoft` `typescript` `visual-studio-code` | 2026-10-07 02:20:34 |
-| 3 | [langgenius/dify](https://github.com/langgenius/dify) | 🔥 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move… | ⭐ 157974 | `agent` `agentic-ai` `agentic-framework` `agentic-workflow` `ai` | 2026-10-07 02:17:31 |
-| 4 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 🔥 Curated coding interview preparation materials for busy software engineers | ⭐ 143132 | `algorithm` `algorithm-interview` `algorithm-interview-questions` `algorithms` `behavioral-interviews` | 2026-10-06 23:46:07 |
-| 5 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 🔥 Collection of publicly available IPTV channels from all over the world | ⭐ 140424 | `iptv` `m3u` `playlist` `streams` `tv` | 2026-10-07 03:08:40 |
-| 6 | [immich-app/immich](https://github.com/immich-app/immich) | 🔥 High performance self-hosted photo and video management solution. | ⭐ 115692 | `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` | 2026-10-07 02:52:59 |
-| 7 | [earendil-works/pi](https://github.com/earendil-works/pi) | 🔥 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | ⭐ 112993 |  | 2026-10-07 03:11:34 |
-| 8 | [angular/angular](https://github.com/angular/angular) | 🔥 Deliver web apps with confidence 🚀 | ⭐ 101014 | `angular` `javascript` `pwa` `typescript` `web` | 2026-10-07 01:35:08 |
-| 9 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 🔥 An enterprise-class UI design language and React UI library | ⭐ 99696 | `ant-design` `antd` `design-systems` `react` `typescript` | 2026-10-07 01:00:22 |
-| 10 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 🔥 #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | ⭐ 93690 | `docker` `hacktoberfest` `java` `pdf` `pdf-converter` | 2026-10-07 03:08:50 |
-| 11 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 🔥 Model Context Protocol Servers | ⭐ 91049 |  | 2026-10-07 02:59:40 |
-| 12 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 🔥 Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia | ⭐ 80579 | `api` `api-client` `api-rest` `api-testing` `developer-tools` | 2026-10-06 19:40:57 |
-| 13 | [coder/code-server](https://github.com/coder/code-server) | 🔥 VS Code in the browser | ⭐ 79554 | `browser-ide` `dev-tools` `development-environment` `ide` `remote-work` | 2026-10-07 02:22:32 |
-| 14 | [grafana/grafana](https://github.com/grafana/grafana) | 🔥 The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elastic… | ⭐ 77119 | `alerting` `analytics` `business-intelligence` `dashboard` `data-visualization` | 2026-10-07 03:02:45 |
-| 15 | [nestjs/nest](https://github.com/nestjs/nest) | 🔥 A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 | ⭐ 76796 | `framework` `hacktoberfest` `javascript` `javascript-framework` `microservices` | 2026-10-07 03:13:05 |
-| 16 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 Spec-driven development (SDD) for AI coding assistants. | ⭐ 71182 | `ai` `context-engineering` `engineering` `planning` `prd` | 2026-10-07 03:05:07 |
-| 17 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | ⭐ 65210 | `airtable` `airtable-alternative` `automatic-api` `hacktoberfest` `low-code` | 2026-10-07 02:17:37 |
-| 18 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 🔥 The full-stack Vue framework. | ⭐ 60923 | `csr` `framework` `full-stack` `hacktoberfest` `hybrid` | 2026-10-07 03:05:23 |
-| 19 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 🔥 The open alternative to Salesforce, designed for AI. | ⭐ 57996 | `crm` `crm-system` `customer` `good-first-issue` `graphql` | 2026-10-07 02:56:42 |
-| 20 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | 🔥 A full-featured download manager. | ⭐ 56152 | `aria2` `bt` `download` `electron` `linux` | 2026-10-07 03:03:47 |
-| 21 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 🔥 一个基于 Electron 的音乐软件 | ⭐ 54226 | `electron` `javascript` `music-player` `vue` | 2026-10-07 03:05:49 |
-| 22 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 🔥 The repository for high quality TypeScript type definitions. | ⭐ 51451 | `definition` `dts` `hacktoberfest` `types` `typescript` | 2026-10-07 03:08:02 |
-| 23 | [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) | 🔥 :traffic\_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具 | ⭐ 51199 | `minapp` `miniprogram` `wechat` `wechat-weapp` `wxapp` | 2026-10-06 17:57:02 |
-| 24 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 🔥 Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. | ⭐ 50782 | `canvas` `collaboration` `design` `diagram` `drawing` | 2026-10-07 01:00:41 |
-| 25 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 🔥 An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 | ⭐ 46655 | `agentic-ai` `ai-agent` `knowledge-base` `local-first` `markdown` | 2026-10-07 03:01:06 |
-| 26 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 🔥 🧡 Everything is RSSible | ⭐ 46428 | `bilibili` `douban` `dribbble` `instagram` `lofter` | 2026-10-07 02:03:35 |
-| 27 | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 🔥 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, … | ⭐ 45347 | `ai` `anthropic` `artifacts` `aws` `azure` | 2026-10-07 02:44:24 |
-| 28 | [hexojs/hexo](https://github.com/hexojs/hexo) | 🔥 A fast, simple & powerful blog framework, powered by Node.js. | ⭐ 41778 | `hacktoberfest` `hexo` `javascript` `nodejs` `static-site-generator` | 2026-10-07 01:14:08 |
-| 29 | [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) | 🔥 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | ⭐ 38832 | `admin` `ant-design` `antd` `antv` `boilerplate` | 2026-10-07 01:12:43 |
-| 30 | [portainer/portainer](https://github.com/portainer/portainer) | 🔥 Making Docker and Kubernetes management easy. | ⭐ 38622 | `docker` `docker-compose` `docker-container` `docker-deployment` `docker-image` | 2026-10-07 03:06:04 |
-| 31 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 🔥 人人都能用英语 | ⭐ 38604 |  | 2026-10-07 01:52:52 |
-| 32 | [NervJS/taro](https://github.com/NervJS/taro) | 🔥 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 | ⭐ 37710 | `javascript` `jquery` `nerv` `nervjs` `react` | 2026-10-06 17:22:14 |
-| 33 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 🔥 One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control. | ⭐ 37575 |  | 2026-10-07 02:50:05 |
-| 34 | [typeorm/typeorm](https://github.com/typeorm/typeorm) | 🔥 TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more. | ⭐ 36662 | `active-record` `cockroachdb` `data-mapper` `database` `hacktoberfest` | 2026-10-06 17:55:47 |
-| 35 | [nativefier/nativefier](https://github.com/nativefier/nativefier) | 🔥 Make any web page a desktop application | ⭐ 35246 | `desktop-application` `electron` `linux` `macos` `nodejs` | 2026-10-06 22:49:17 |
-| 36 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 🔥 Docker container for managing Nginx proxy hosts with a simple, powerful interface | ⭐ 34329 | `nginx` `nginx-proxy` | 2026-10-07 02:26:51 |
-| 37 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you … | ⭐ 33346 | `acp` `agent-team` `ai` `ai-agent` `chat` | 2026-10-07 02:29:22 |
-| 38 | [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) | 🔥 A completely customizable framework for building rich text editors. (Currently in beta.) | ⭐ 31753 | `browser` `editor` `framework` `javascript` `react` | 2026-10-06 13:15:09 |
-| 39 | [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) | 🔥 A reactive programming library for JavaScript | ⭐ 31693 | `javascript` `rxjs` | 2026-10-06 17:52:48 |
-| 40 | [transloadit/uppy](https://github.com/transloadit/uppy) | 🔥 The next open source file uploader for web browsers :dog: | ⭐ 31013 | `dropbox` `encoding` `file-uploader` `file-uploads` `files` | 2026-10-06 23:57:47 |
-| 41 | [labring/FastGPT](https://github.com/labring/FastGPT) | 🔥 FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, an… | ⭐ 29784 | `agent` `claude` `deepseek` `llm` `mcp` | 2026-10-07 00:47:26 |
-| 42 | [element-plus/element-plus](https://github.com/element-plus/element-plus) | 🔥 🎉 A Vue.js 3 UI Library made by Element team | ⭐ 27798 | `component-library` `element-plus` `element-ui` `vue` `vue-components` | 2026-10-06 02:55:13 |
-| 43 | [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) | 🔥 :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2,… | ⭐ 27315 | `aliyun-oss` `cloudflare-r2` `dsh-plugin` `electron` `electron-app` | 2026-10-07 02:49:29 |
-| 44 | [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) | 🔥 Switch hosts quickly! | ⭐ 27261 | `electron` `hosts` `hostseditor` `hostsfile` `switch-hosts` | 2026-10-06 12:38:28 |
-| 45 | [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) | 🔥 :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） | ⭐ 26820 | `acm-icpc` `acm-icpc-handbook` `algorithms` `competitive-programming` `data-structures` | 2026-10-07 02:51:30 |
-| 46 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | 🔥 :electron: Another Mihomo GUI. | ⭐ 26713 | `clash` `clash-meta` `electron` `mihomo` | 2026-10-07 01:54:29 |
+| 1 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 🔥 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | ⭐ 456914 | `careers` `certification` `community` `curriculum` `d3` | 2026-10-08 03:24:03 |
+| 2 | [microsoft/vscode](https://github.com/microsoft/vscode) | 🔥 Visual Studio Code | ⭐ 193638 | `editor` `electron` `microsoft` `typescript` `visual-studio-code` | 2026-10-08 03:10:55 |
+| 3 | [langgenius/dify](https://github.com/langgenius/dify) | 🔥 Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move… | ⭐ 158051 | `agent` `agentic-ai` `agentic-framework` `agentic-workflow` `ai` | 2026-10-08 03:21:31 |
+| 4 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 🔥 Curated coding interview preparation materials for busy software engineers | ⭐ 143139 | `algorithm` `algorithm-interview` `algorithm-interview-questions` `algorithms` `behavioral-interviews` | 2026-10-07 23:35:07 |
+| 5 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 🔥 Collection of publicly available IPTV channels from all over the world | ⭐ 140506 | `iptv` `m3u` `playlist` `streams` `tv` | 2026-10-08 03:16:00 |
+| 6 | [immich-app/immich](https://github.com/immich-app/immich) | 🔥 High performance self-hosted photo and video management solution. | ⭐ 115744 | `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` | 2026-10-08 03:19:30 |
+| 7 | [earendil-works/pi](https://github.com/earendil-works/pi) | 🔥 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | ⭐ 113235 |  | 2026-10-08 03:28:03 |
+| 8 | [angular/angular](https://github.com/angular/angular) | 🔥 Deliver web apps with confidence 🚀 | ⭐ 101019 | `angular` `javascript` `pwa` `typescript` `web` | 2026-10-07 22:49:11 |
+| 9 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 🔥 An enterprise-class UI design language and React UI library | ⭐ 99704 | `ant-design` `antd` `design-systems` `react` `typescript` | 2026-10-08 02:26:27 |
+| 10 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 🔥 #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | ⭐ 93748 | `docker` `hacktoberfest` `java` `pdf` `pdf-converter` | 2026-10-08 03:23:23 |
+| 11 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 🔥 Model Context Protocol Servers | ⭐ 91069 |  | 2026-10-08 02:20:47 |
+| 12 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 🔥 Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia | ⭐ 80584 | `api` `api-client` `api-rest` `api-testing` `developer-tools` | 2026-10-07 23:43:36 |
+| 13 | [coder/code-server](https://github.com/coder/code-server) | 🔥 VS Code in the browser | ⭐ 79556 | `browser-ide` `dev-tools` `development-environment` `ide` `remote-work` | 2026-10-08 01:40:50 |
+| 14 | [grafana/grafana](https://github.com/grafana/grafana) | 🔥 The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elastic… | ⭐ 77129 | `alerting` `analytics` `business-intelligence` `dashboard` `data-visualization` | 2026-10-08 02:44:21 |
+| 15 | [nestjs/nest](https://github.com/nestjs/nest) | 🔥 A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 | ⭐ 76794 | `framework` `hacktoberfest` `javascript` `javascript-framework` `microservices` | 2026-10-08 00:24:48 |
+| 16 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 Spec-driven development (SDD) for AI coding assistants. | ⭐ 71283 | `ai` `context-engineering` `engineering` `planning` `prd` | 2026-10-08 03:25:50 |
+| 17 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | ⭐ 65213 | `airtable` `airtable-alternative` `automatic-api` `hacktoberfest` `low-code` | 2026-10-08 00:33:32 |
+| 18 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 🔥 The full-stack Vue framework. | ⭐ 60925 | `csr` `framework` `full-stack` `hacktoberfest` `hybrid` | 2026-10-08 02:59:16 |
+| 19 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 🔥 The open alternative to Salesforce, designed for AI. | ⭐ 58053 | `crm` `crm-system` `customer` `good-first-issue` `graphql` | 2026-10-08 03:15:23 |
+| 20 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | 🔥 A full-featured download manager. | ⭐ 56182 | `aria2` `bt` `download` `electron` `linux` | 2026-10-08 03:14:41 |
+| 21 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 🔥 一个基于 Electron 的音乐软件 | ⭐ 54253 | `electron` `javascript` `music-player` `vue` | 2026-10-08 03:24:43 |
+| 22 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 🔥 The repository for high quality TypeScript type definitions. | ⭐ 51456 | `definition` `dts` `hacktoberfest` `types` `typescript` | 2026-10-08 03:05:25 |
+| 23 | [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) | 🔥 :traffic\_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具 | ⭐ 51197 | `minapp` `miniprogram` `wechat` `wechat-weapp` `wxapp` | 2026-10-08 02:46:23 |
+| 24 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 🔥 Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. | ⭐ 50800 | `canvas` `collaboration` `design` `diagram` `drawing` | 2026-10-08 02:55:11 |
+| 25 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 🔥 An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 | ⭐ 46668 | `agentic-ai` `ai-agent` `knowledge-base` `local-first` `markdown` | 2026-10-08 03:12:32 |
+| 26 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 🔥 🧡 Everything is RSSible | ⭐ 46441 | `bilibili` `douban` `dribbble` `instagram` `lofter` | 2026-10-08 03:18:32 |
+| 27 | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 🔥 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, … | ⭐ 45388 | `ai` `anthropic` `artifacts` `aws` `azure` | 2026-10-08 03:28:27 |
+| 28 | [hexojs/hexo](https://github.com/hexojs/hexo) | 🔥 A fast, simple & powerful blog framework, powered by Node.js. | ⭐ 41776 | `hacktoberfest` `hexo` `javascript` `nodejs` `static-site-generator` | 2026-10-08 02:30:28 |
+| 29 | [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) | 🔥 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | ⭐ 38832 | `admin` `ant-design` `antd` `antv` `boilerplate` | 2026-10-08 03:13:46 |
+| 30 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 🔥 人人都能用英语 | ⭐ 38622 |  | 2026-10-08 03:26:24 |
+| 31 | [portainer/portainer](https://github.com/portainer/portainer) | 🔥 Making Docker and Kubernetes management easy. | ⭐ 38620 | `docker` `docker-compose` `docker-container` `docker-deployment` `docker-image` | 2026-10-08 03:04:19 |
+| 32 | [NervJS/taro](https://github.com/NervJS/taro) | 🔥 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 | ⭐ 37710 | `javascript` `jquery` `nerv` `nervjs` `react` | 2026-10-07 22:41:36 |
+| 33 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 🔥 One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control. | ⭐ 37586 |  | 2026-10-08 01:17:16 |
+| 34 | [typeorm/typeorm](https://github.com/typeorm/typeorm) | 🔥 TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more. | ⭐ 36664 | `active-record` `cockroachdb` `data-mapper` `database` `hacktoberfest` | 2026-10-07 22:32:47 |
+| 35 | [nativefier/nativefier](https://github.com/nativefier/nativefier) | 🔥 Make any web page a desktop application | ⭐ 35242 | `desktop-application` `electron` `linux` `macos` `nodejs` | 2026-10-08 03:20:09 |
+| 36 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 🔥 Docker container for managing Nginx proxy hosts with a simple, powerful interface | ⭐ 34339 | `nginx` `nginx-proxy` | 2026-10-08 03:09:33 |
+| 37 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 🔥 Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you … | ⭐ 33365 | `acp` `agent-team` `ai` `ai-agent` `chat` | 2026-10-08 03:27:58 |
+| 38 | [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) | 🔥 A completely customizable framework for building rich text editors. (Currently in beta.) | ⭐ 31754 | `browser` `editor` `framework` `javascript` `react` | 2026-10-08 00:18:22 |
+| 39 | [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) | 🔥 A reactive programming library for JavaScript | ⭐ 31694 | `javascript` `rxjs` | 2026-10-07 19:24:24 |
+| 40 | [transloadit/uppy](https://github.com/transloadit/uppy) | 🔥 The next open source file uploader for web browsers :dog: | ⭐ 31016 | `dropbox` `encoding` `file-uploader` `file-uploads` `files` | 2026-10-07 23:17:48 |
+| 41 | [labring/FastGPT](https://github.com/labring/FastGPT) | 🔥 FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, an… | ⭐ 29786 | `agent` `claude` `deepseek` `llm` `mcp` | 2026-10-08 03:23:32 |
+| 42 | [element-plus/element-plus](https://github.com/element-plus/element-plus) | 🔥 🎉 A Vue.js 3 UI Library made by Element team | ⭐ 27800 | `component-library` `element-plus` `element-ui` `vue` `vue-components` | 2026-10-08 03:24:54 |
+| 43 | [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) | 🔥 :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2,… | ⭐ 27320 | `aliyun-oss` `cloudflare-r2` `dsh-plugin` `electron` `electron-app` | 2026-10-08 01:56:55 |
+| 44 | [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) | 🔥 Switch hosts quickly! | ⭐ 27264 | `electron` `hosts` `hostseditor` `hostsfile` `switch-hosts` | 2026-10-08 02:50:08 |
+| 45 | [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) | 🔥 :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） | ⭐ 26826 | `acm-icpc` `acm-icpc-handbook` `algorithms` `competitive-programming` `data-structures` | 2026-10-08 03:20:44 |
+| 46 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | 🔥 :electron: Another Mihomo GUI. | ⭐ 26733 | `clash` `clash-meta` `electron` `mihomo` | 2026-10-08 03:28:49 |
 | 47 | [akveo/ngx-admin](https://github.com/akveo/ngx-admin) | 🔥 Customizable admin dashboard template based on Angular 10+ | ⭐ 25680 | `admin` `admin-dashboard` `admin-template` `admin-ui` `angular-dashboard-template` | 2026-10-06 13:15:06 |
-| 48 | [angular/components](https://github.com/angular/components) | 🔥 Component infrastructure and Material Design components for Angular | ⭐ 25034 | `angular` `angular-components` `material` `material-design` | 2026-10-06 17:56:57 |
-| 49 | [readest/readest](https://github.com/readest/readest) | 🔥 Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to… | ⭐ 24913 | `calibre` `calibre-plugin` `cross-platform` `crosspoint-plugin` `ebook` | 2026-10-07 02:53:04 |
-| 50 | [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) | 🔥 ⚙️ Browser devtools extension for debugging Vue.js applications. | ⭐ 24681 |  | 2026-10-06 14:06:01 |
+| 48 | [angular/components](https://github.com/angular/components) | 🔥 Component infrastructure and Material Design components for Angular | ⭐ 25033 | `angular` `angular-components` `material` `material-design` | 2026-10-08 02:08:40 |
+| 49 | [readest/readest](https://github.com/readest/readest) | 🔥 Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to… | ⭐ 24945 | `calibre` `calibre-plugin` `cross-platform` `crosspoint-plugin` `ebook` | 2026-10-08 02:16:07 |
+| 50 | [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) | 🔥 ⚙️ Browser devtools extension for debugging Vue.js applications. | ⭐ 24679 |  | 2026-10-07 10:57:07 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -305,56 +305,56 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 🔥 A collective list of free APIs | ⭐ 486583 | `api` `apis` `dataset` `development` `free` | 2026-10-07 03:12:27 |
-| 2 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 🔥 :books: Freely available programming books | ⭐ 398609 | `books` `education` `hacktoberfest` `list` `resource` | 2026-10-07 03:14:43 |
-| 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 🔥 Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. | ⭐ 373417 | `design` `design-patterns` `design-system` `development` `interview` | 2026-10-07 03:10:48 |
-| 4 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 🔥 A feature-rich command-line audio/video downloader | ⭐ 196016 | `cli` `downloader` `python` `sponsorblock` `youtube-dl` | 2026-10-07 03:08:45 |
-| 5 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 🔥 :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | ⭐ 180490 | `awesome` `github` `hellogithub` `python` | 2026-10-07 03:14:35 |
-| 6 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 🔥 Stable Diffusion web UI | ⭐ 165197 | `ai` `ai-art` `deep-learning` `diffusion` `gradio` | 2026-10-07 02:23:28 |
-| 7 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 🔥 User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | ⭐ 154107 | `ai` `llm` `llm-ui` `llm-webui` `llms` | 2026-10-07 02:56:13 |
-| 8 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 🔥 Command-line program to download videos from YouTube.com and other video sites | ⭐ 141438 |  | 2026-10-07 03:04:13 |
-| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 🔥 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | ⭐ 128878 | `ai-video-generator` `content-creation` `ffmpeg` `instagram-reels` `llm` | 2026-10-07 03:11:53 |
-| 10 | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 🔥 Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualiza… | ⭐ 84788 | `ansible` `aws` `azure` `coding` `containers` | 2026-10-07 01:27:32 |
-| 11 | [fighting41love/funNLP](https://github.com/fighting41love/funNLP) | 🔥 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种… | ⭐ 83716 |  | 2026-10-07 02:16:53 |
-| 12 | [apache/superset](https://github.com/apache/superset) | 🔥 Apache Superset is a Data Visualization and Data Exploration Platform | ⭐ 75058 | `analytics` `apache` `apache-superset` `asf` `bi` | 2026-10-07 02:21:16 |
-| 13 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 🔥 The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3 | ⭐ 66758 | `chatbot` `chatbots` `chatgpt` `chatgpt-4` `chatgpt-api` | 2026-10-07 03:04:46 |
-| 14 | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 🔥 Deepfakes Software For All | ⭐ 57564 | `deep-face-swap` `deep-learning` `deep-neural-networks` `deepface` `deepfakes` | 2026-10-06 20:09:01 |
-| 15 | [soimort/you-get](https://github.com/soimort/you-get) | 🔥 :arrow\_double\_down: Dumb downloader that scrapes the web | ⭐ 56867 |  | 2026-10-06 17:38:26 |
-| 16 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | ⭐ 52606 | `agent` `agent-memory` `ai-agent` `book` `coding-agent` | 2026-10-07 03:08:59 |
-| 17 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 🔥 A community-supported supercharged document management system: scan, index and archive all your documents | ⭐ 46333 | `ai` `angular` `archiving` `django` `dms` | 2026-10-07 02:41:12 |
-| 18 | [vnpy/vnpy](https://github.com/vnpy/vnpy) | 🔥 基于Python的开源量化交易平台开发框架 | ⭐ 45733 | `algotrading` `finance` `fintech` `investment` `python` | 2026-10-07 03:09:45 |
-| 19 | [chubin/cheat.sh](https://github.com/chubin/cheat.sh) | 🔥 the only cheat sheet you need | ⭐ 41793 | `cheatsheet` `cli` `command-line` `curl` `documentation` | 2026-10-06 17:59:44 |
-| 20 | [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) | 🔥 ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 | ⭐ 40937 |  | 2026-10-06 11:07:18 |
-| 21 | [wshobson/agents](https://github.com/wshobson/agents) | 🔥 Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi | ⭐ 40252 | `agent-skills` `agentic-ai` `ai-agents` `anthropic` `antigravity` | 2026-10-07 01:16:14 |
-| 22 | [frappe/erpnext](https://github.com/frappe/erpnext) | 🔥 Free and Open Source Enterprise Resource Planning (ERP) | ⭐ 39857 | `accounting` `asset-management` `crm` `distribution` `erp` | 2026-10-07 02:43:47 |
-| 23 | [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | 🔥 Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local know… | ⭐ 38674 | `chatbot` `chatchat` `chatglm` `chatgpt` `embedding` | 2026-10-06 17:30:19 |
-| 24 | [hankcs/HanLP](https://github.com/hankcs/HanLP) | 🔥 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理 | ⭐ 36506 | `dependency-parser` `hanlp` `named-entity-recognition` `natural-language-processing` `nlp` | 2026-10-07 00:00:03 |
-| 25 | [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) | 🔥 A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. | ⭐ 34676 | `honkai-star-rail` `mihomo` `python` `star-rail-api` | 2026-10-07 03:07:10 |
-| 26 | [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) | 🔥 JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to sec… | ⭐ 31718 | `ai` `bastion-host` `codex` `cyberark` `django` | 2026-10-06 16:12:13 |
-| 27 | [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | 🔥 :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） | ⭐ 29955 | `dns` `github` `hosts` | 2026-10-07 02:31:01 |
-| 28 | [getredash/redash](https://github.com/getredash/redash) | 🔥 Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. | ⭐ 28830 | `analytics` `athena` `bi` `bigquery` `business-intelligence` | 2026-10-06 17:56:29 |
-| 29 | [titanwings/distilly](https://github.com/titanwings/distilly) | 🔥 Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. | ⭐ 25342 | `agent-skills` `agentic-ai` `ai-agent` `ai-agents` `ai-assistants` | 2026-10-07 02:41:40 |
-| 30 | [Vonng/ddia](https://github.com/Vonng/ddia) | 🔥 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 | ⭐ 23798 | `book` `database` `ddia` `distributed-systems` | 2026-10-06 23:48:34 |
-| 31 | [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) | 🔥 Python ProxyPool for web spider | ⭐ 23751 | `crawler` `http` `proxy` `redis` `spider` | 2026-10-07 01:23:01 |
-| 32 | [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | 🔥 ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 | ⭐ 21600 | `cnn` `demo` `docker` `face-recognition` `fastapi` | 2026-10-07 03:02:50 |
-| 33 | [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) | 🔥 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. | ⭐ 21290 | `awesome` `awesome-list` `chat` `chatgpt` `free` | 2026-10-07 02:57:48 |
-| 34 | [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) | 🔥 :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等 | ⭐ 19781 | `python` `python-spider` `python3` `webspider` | 2026-10-06 17:57:06 |
-| 35 | [tanweai/pua](https://github.com/tanweai/pua) | 🔥 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement. | ⭐ 19710 | `agency` `agent` `pip` `pua` | 2026-10-06 17:57:26 |
-| 36 | [lss233/kirara-ai](https://github.com/lss233/kirara-ai) | 🔥 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | | ⭐ 19061 | `bard` `bot` `chatglm-6b` `chatgpt` `deepseek` | 2026-10-07 03:03:45 |
-| 37 | [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) | 🔥 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享 | ⭐ 16273 | `bot` `movies` `telegram-bot` `tv-shows` `yyets` | 2026-10-06 17:59:47 |
-| 38 | [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) | 🔥 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 | ⭐ 16229 | `163mail-login` `bilibili-login` `douban-spider` `facebook-login` `github-login` | 2026-10-06 17:57:25 |
-| 39 | [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) | 🔥 SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended! | ⭐ 15122 | `deprecated` | 2026-10-06 17:21:48 |
-| 40 | [pjialin/py12306](https://github.com/pjialin/py12306) | 🔥 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理 | ⭐ 14967 |  | 2026-10-06 17:57:25 |
-| 41 | [youfou/wxpy](https://github.com/youfou/wxpy) | 🔥 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ | ⭐ 14259 | `api` `wechat` `weixin` | 2026-09-30 01:20:10 |
-| 42 | [MorvanZhou/tutorials](https://github.com/MorvanZhou/tutorials) | 🔥 机器学习相关教程 | ⭐ 13053 | `machine-learning` `multiprocessing` `neural-network` `numpy` `python` | 2026-10-06 08:04:12 |
-| 43 | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) | 🔥 A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback supp… | ⭐ 12201 |  | 2026-10-06 17:25:37 |
-| 44 | [coleifer/peewee](https://github.com/coleifer/peewee) | 🔥 a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio | ⭐ 11995 | `asyncio` `dank` `fastapi` `flask` `gametight` | 2026-10-06 17:12:11 |
+| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 🔥 A collective list of free APIs | ⭐ 486802 | `api` `apis` `dataset` `development` `free` | 2026-10-08 03:24:33 |
+| 2 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 🔥 :books: Freely available programming books | ⭐ 398667 | `books` `education` `hacktoberfest` `list` `resource` | 2026-10-08 03:22:43 |
+| 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 🔥 Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. | ⭐ 373545 | `design` `design-patterns` `design-system` `development` `interview` | 2026-10-08 03:28:19 |
+| 4 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 🔥 A feature-rich command-line audio/video downloader | ⭐ 196227 | `cli` `downloader` `python` `sponsorblock` `youtube-dl` | 2026-10-08 03:16:22 |
+| 5 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 🔥 :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | ⭐ 180672 | `awesome` `github` `hellogithub` `python` | 2026-10-08 03:28:35 |
+| 6 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 🔥 Stable Diffusion web UI | ⭐ 165211 | `ai` `ai-art` `deep-learning` `diffusion` `gradio` | 2026-10-08 03:29:54 |
+| 7 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 🔥 User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | ⭐ 154175 | `ai` `llm` `llm-ui` `llm-webui` `llms` | 2026-10-08 03:19:46 |
+| 8 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 🔥 Command-line program to download videos from YouTube.com and other video sites | ⭐ 141448 |  | 2026-10-08 01:25:25 |
+| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 🔥 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | ⭐ 129158 | `ai-video-generator` `content-creation` `ffmpeg` `instagram-reels` `llm` | 2026-10-08 03:30:20 |
+| 10 | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 🔥 Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualiza… | ⭐ 84800 | `ansible` `aws` `azure` `coding` `containers` | 2026-10-08 02:11:39 |
+| 11 | [fighting41love/funNLP](https://github.com/fighting41love/funNLP) | 🔥 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种… | ⭐ 83744 |  | 2026-10-08 03:12:25 |
+| 12 | [apache/superset](https://github.com/apache/superset) | 🔥 Apache Superset is a Data Visualization and Data Exploration Platform | ⭐ 75064 | `analytics` `apache` `apache-superset` `asf` `bi` | 2026-10-08 02:02:45 |
+| 13 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 🔥 The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3 | ⭐ 66767 | `chatbot` `chatbots` `chatgpt` `chatgpt-4` `chatgpt-api` | 2026-10-08 03:29:55 |
+| 14 | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 🔥 Deepfakes Software For All | ⭐ 57568 | `deep-face-swap` `deep-learning` `deep-neural-networks` `deepface` `deepfakes` | 2026-10-08 03:19:09 |
+| 15 | [soimort/you-get](https://github.com/soimort/you-get) | 🔥 :arrow\_double\_down: Dumb downloader that scrapes the web | ⭐ 56869 |  | 2026-10-07 16:30:24 |
+| 16 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 🔥 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | ⭐ 52810 | `agent` `agent-memory` `ai-agent` `book` `coding-agent` | 2026-10-08 03:30:16 |
+| 17 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 🔥 A community-supported supercharged document management system: scan, index and archive all your documents | ⭐ 46359 | `ai` `angular` `archiving` `django` `dms` | 2026-10-08 03:28:49 |
+| 18 | [vnpy/vnpy](https://github.com/vnpy/vnpy) | 🔥 基于Python的开源量化交易平台开发框架 | ⭐ 45754 | `algotrading` `finance` `fintech` `investment` `python` | 2026-10-08 03:10:41 |
+| 19 | [chubin/cheat.sh](https://github.com/chubin/cheat.sh) | 🔥 the only cheat sheet you need | ⭐ 41794 | `cheatsheet` `cli` `command-line` `curl` `documentation` | 2026-10-08 03:21:50 |
+| 20 | [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) | 🔥 ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 | ⭐ 40934 |  | 2026-10-08 03:29:55 |
+| 21 | [wshobson/agents](https://github.com/wshobson/agents) | 🔥 Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi | ⭐ 40287 | `agent-skills` `agentic-ai` `ai-agents` `anthropic` `antigravity` | 2026-10-08 03:16:59 |
+| 22 | [frappe/erpnext](https://github.com/frappe/erpnext) | 🔥 Free and Open Source Enterprise Resource Planning (ERP) | ⭐ 39883 | `accounting` `asset-management` `crm` `distribution` `erp` | 2026-10-08 03:24:23 |
+| 23 | [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | 🔥 Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local know… | ⭐ 38673 | `chatbot` `chatchat` `chatglm` `chatgpt` `embedding` | 2026-10-08 03:24:24 |
+| 24 | [hankcs/HanLP](https://github.com/hankcs/HanLP) | 🔥 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理 | ⭐ 36505 | `dependency-parser` `hanlp` `named-entity-recognition` `natural-language-processing` `nlp` | 2026-10-08 01:19:53 |
+| 25 | [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) | 🔥 A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. | ⭐ 34700 | `honkai-star-rail` `mihomo` `python` `star-rail-api` | 2026-10-08 03:29:53 |
+| 26 | [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) | 🔥 JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to sec… | ⭐ 31721 | `ai` `bastion-host` `codex` `cyberark` `django` | 2026-10-08 03:22:25 |
+| 27 | [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | 🔥 :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） | ⭐ 29957 | `dns` `github` `hosts` | 2026-10-08 03:11:18 |
+| 28 | [getredash/redash](https://github.com/getredash/redash) | 🔥 Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. | ⭐ 28832 | `analytics` `athena` `bi` `bigquery` `business-intelligence` | 2026-10-08 02:33:40 |
+| 29 | [titanwings/distilly](https://github.com/titanwings/distilly) | 🔥 Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. | ⭐ 25381 | `agent-skills` `agentic-ai` `ai-agent` `ai-agents` `ai-assistants` | 2026-10-08 03:28:29 |
+| 30 | [Vonng/ddia](https://github.com/Vonng/ddia) | 🔥 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 | ⭐ 23800 | `book` `database` `ddia` `distributed-systems` | 2026-10-08 00:33:47 |
+| 31 | [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) | 🔥 Python ProxyPool for web spider | ⭐ 23753 | `crawler` `http` `proxy` `redis` `spider` | 2026-10-07 15:01:21 |
+| 32 | [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | 🔥 ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 | ⭐ 21602 | `cnn` `demo` `docker` `face-recognition` `fastapi` | 2026-10-07 15:05:42 |
+| 33 | [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) | 🔥 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. | ⭐ 21299 | `awesome` `awesome-list` `chat` `chatgpt` `free` | 2026-10-08 01:02:15 |
+| 34 | [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) | 🔥 :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等 | ⭐ 19784 | `python` `python-spider` `python3` `webspider` | 2026-10-07 10:52:59 |
+| 35 | [tanweai/pua](https://github.com/tanweai/pua) | 🔥 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement. | ⭐ 19710 | `agency` `agent` `pip` `pua` | 2026-10-08 03:13:45 |
+| 36 | [lss233/kirara-ai](https://github.com/lss233/kirara-ai) | 🔥 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | | ⭐ 19065 | `bard` `bot` `chatglm-6b` `chatgpt` `deepseek` | 2026-10-08 03:25:01 |
+| 37 | [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) | 🔥 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享 | ⭐ 16275 | `bot` `movies` `telegram-bot` `tv-shows` `yyets` | 2026-10-08 02:42:24 |
+| 38 | [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) | 🔥 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 | ⭐ 16229 | `163mail-login` `bilibili-login` `douban-spider` `facebook-login` `github-login` | 2026-10-08 00:36:05 |
+| 39 | [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) | 🔥 SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended! | ⭐ 15122 | `deprecated` | 2026-10-07 16:10:48 |
+| 40 | [pjialin/py12306](https://github.com/pjialin/py12306) | 🔥 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理 | ⭐ 14969 |  | 2026-10-07 17:27:07 |
+| 41 | [youfou/wxpy](https://github.com/youfou/wxpy) | 🔥 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ | ⭐ 14258 | `api` `wechat` `weixin` | 2026-10-07 12:17:10 |
+| 42 | [MorvanZhou/tutorials](https://github.com/MorvanZhou/tutorials) | 🔥 机器学习相关教程 | ⭐ 13054 | `machine-learning` `multiprocessing` `neural-network` `numpy` `python` | 2026-10-07 05:27:21 |
+| 43 | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) | 🔥 A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback supp… | ⭐ 12212 |  | 2026-10-08 03:27:03 |
+| 44 | [coleifer/peewee](https://github.com/coleifer/peewee) | 🔥 a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio | ⭐ 11994 | `asyncio` `dank` `fastapi` `flask` `gametight` | 2026-10-07 20:57:52 |
 | 45 | [meolu/walle-web](https://github.com/meolu/walle-web) | 🔥 walle - 瓦力 Devops开源项目代码部署平台 | ⭐ 11991 | `cd` `deployer` `devops` `devops-tools` `git` | 2026-10-06 13:11:49 |
-| 46 | [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | 🔥 NAS媒体库自动化管理工具 | ⭐ 11835 |  | 2026-10-07 01:19:52 |
-| 47 | [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) | 🔥 :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。 | ⭐ 11691 | `chinese` `chinese-characters` `chinese-language` `chinese-nlp` `chinese-simplified` | 2026-10-05 11:29:38 |
-| 48 | [yutiansut/QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) | 🔥 QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案 | ⭐ 11258 | `quant` | 2026-10-07 00:49:43 |
+| 46 | [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | 🔥 NAS媒体库自动化管理工具 | ⭐ 11843 |  | 2026-10-08 01:29:06 |
+| 47 | [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) | 🔥 :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。 | ⭐ 11691 | `chinese` `chinese-characters` `chinese-language` `chinese-nlp` `chinese-simplified` | 2026-10-07 10:20:41 |
+| 48 | [yutiansut/QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) | 🔥 QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案 | ⭐ 11259 | `quant` | 2026-10-07 09:45:11 |
 | 49 | [vipstone/faceai](https://github.com/vipstone/faceai) | 🔥 一款入门级的人脸、视频、文字检测以及识别的项目. | ⭐ 11092 | `dlib` `keras` `opencv` `tensorflow` `tesseract-ocr` | 2026-10-06 08:54:49 |
-| 50 | [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) | 🔥 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码） | ⭐ 10832 | `amazing` `gif` `mcp` `picture` `qr` | 2026-10-06 17:55:16 |
+| 50 | [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) | 🔥 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码） | ⭐ 10833 | `amazing` `gif` `mcp` `picture` `qr` | 2026-10-08 01:44:42 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -371,56 +371,56 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 🔥 😎 Awesome lists about all kinds of interesting topics \[NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | ⭐ 515674 | `awesome` `awesome-list` `lists` `resources` `unicorns` | 2026-10-07 03:12:13 |
-| 2 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 🔥 A complete computer science study plan to become a software engineer. | ⭐ 362469 | `algorithm` `algorithms` `coding-interview` `coding-interviews` `computer-science` | 2026-10-07 03:12:37 |
-| 3 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | 🔥 Repo for counting stars and contributing. Press F to pay respect to glorious developers. | ⭐ 277266 |  | 2026-10-07 01:48:22 |
-| 4 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 🔥 :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | ⭐ 186387 | `algorithm` `computer-science` `cpp` `interview` `java` | 2026-10-07 02:38:53 |
-| 5 | [github/gitignore](https://github.com/github/gitignore) | 🔥 A collection of useful .gitignore templates | ⭐ 176033 | `git` `gitignore` | 2026-10-07 00:23:52 |
-| 6 | [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 🔥 :books: 免费的计算机编程类中文书籍，欢迎投稿 | ⭐ 119251 | `android` `angular` `books` `free` `ios` | 2026-10-07 02:09:21 |
-| 7 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 🔥 科技爱好者周刊，每周五发布 | ⭐ 105260 |  | 2026-10-07 03:11:22 |
-| 8 | [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | 🔥 :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY] | ⭐ 67023 | `awesome` `awesome-list` `javascript` `list` `node` | 2026-10-07 01:37:57 |
-| 9 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 🔥 ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 | ⭐ 63060 | `chat-gpt` `chatgpt` `chatgpt3` `chatgpt4` `gpt` | 2026-10-07 03:02:55 |
-| 10 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 🔥 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | ⭐ 61654 | `china` `indie` `indie-developer` | 2026-10-07 02:32:09 |
-| 11 | [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) | 🔥 后端架构师技术图谱 | ⭐ 60849 |  | 2026-10-06 17:57:16 |
-| 12 | [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | 🔥 A list of cool features of Git and GitHub. | ⭐ 59500 | `awesome` `awesome-list` `git` `github` `list` | 2026-10-07 02:52:24 |
-| 13 | [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | 🔥 A curated list of awesome Android UI/UX libraries | ⭐ 57848 | `android` `awesome` `ui` | 2026-10-07 02:39:11 |
-| 14 | [ngosang/trackerslist](https://github.com/ngosang/trackerslist) | 🔥 Updated list of public BitTorrent trackers | ⭐ 55280 | `bittorrent` `bittorrent-tracker` `bittorrent-trackers` `http` `list` | 2026-10-07 01:24:55 |
-| 15 | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | 🔥 A curated list of awesome frameworks, libraries and software for the Java programming language. | ⭐ 49184 | `awesome` `awesome-list` | 2026-10-07 03:10:03 |
-| 16 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 🔥 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. | ⭐ 48087 | `ai` `algorithms-and-data-structures` `backend` `developer-tools` `development` | 2026-10-07 03:12:20 |
-| 17 | [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) | 🔥 Learn regex the easy way | ⭐ 46099 | `learn-regex` `regex` `regular-expression` | 2026-10-07 01:48:49 |
-| 18 | [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) | 🔥 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 | ⭐ 36992 | `interview` `java` `java8` `jvm` `mysql` | 2026-10-06 23:30:46 |
-| 19 | [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) | 🔥 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) | ⭐ 36408 |  | 2026-10-06 17:55:44 |
-| 20 | [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) | 🔥 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs | ⭐ 36353 | `angular` `bun` `csv` `data` `database` | 2026-10-07 02:42:02 |
-| 21 | [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 🔥 leaked prompts of GPTs | ⭐ 32048 |  | 2026-10-06 18:37:44 |
-| 22 | [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 🔥 网易云音乐 Node.js API service | ⭐ 30244 | `api` `apis` `cloudmusic` `javascript` `neteasecloud` | 2026-10-07 03:06:04 |
-| 23 | [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 🔥 A complete daily plan for studying to become a machine learning engineer. | ⭐ 28871 | `artificial-intelligence` `deep-learning` `machine-learning` `machine-learning-algorithms` `software-engineer` | 2026-10-06 20:59:22 |
-| 24 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | 🔥 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 | ⭐ 28681 | `adblock` `adguard` `anticensorship` `chinalist` `clash` | 2026-10-07 02:01:14 |
-| 25 | [qianguyihao/Web](https://github.com/qianguyihao/Web) | 🔥 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。 | ⭐ 28679 | `css` `front-end` `html` `javascript` | 2026-10-07 00:20:32 |
-| 26 | [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | 🔥 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】 | ⭐ 23416 | `telegram` `telegram-api` `telegram-bot` `telegram-bot-api` `telegram-bots` | 2026-10-07 01:55:11 |
+| 1 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 🔥 😎 Awesome lists about all kinds of interesting topics \[NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | ⭐ 516158 | `awesome` `awesome-list` `lists` `resources` `unicorns` | 2026-10-08 03:27:24 |
+| 2 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 🔥 A complete computer science study plan to become a software engineer. | ⭐ 362508 | `algorithm` `algorithms` `coding-interview` `coding-interviews` `computer-science` | 2026-10-08 03:27:06 |
+| 3 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | 🔥 Repo for counting stars and contributing. Press F to pay respect to glorious developers. | ⭐ 277275 |  | 2026-10-08 03:12:27 |
+| 4 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 🔥 :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | ⭐ 186400 | `algorithm` `computer-science` `cpp` `interview` `java` | 2026-10-08 02:06:49 |
+| 5 | [github/gitignore](https://github.com/github/gitignore) | 🔥 A collection of useful .gitignore templates | ⭐ 176043 | `git` `gitignore` | 2026-10-08 03:19:51 |
+| 6 | [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 🔥 :books: 免费的计算机编程类中文书籍，欢迎投稿 | ⭐ 119265 | `android` `angular` `books` `free` `ios` | 2026-10-08 03:31:06 |
+| 7 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 🔥 科技爱好者周刊，每周五发布 | ⭐ 105340 |  | 2026-10-08 03:19:55 |
+| 8 | [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | 🔥 :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY] | ⭐ 67030 | `awesome` `awesome-list` `javascript` `list` `node` | 2026-10-08 01:19:43 |
+| 9 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 🔥 ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 | ⭐ 63133 | `chat-gpt` `chatgpt` `chatgpt3` `chatgpt4` `gpt` | 2026-10-08 03:29:55 |
+| 10 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 🔥 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | ⭐ 61680 | `china` `indie` `indie-developer` | 2026-10-08 03:27:25 |
+| 11 | [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) | 🔥 后端架构师技术图谱 | ⭐ 60848 |  | 2026-10-08 02:36:43 |
+| 12 | [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | 🔥 A list of cool features of Git and GitHub. | ⭐ 59514 | `awesome` `awesome-list` `git` `github` `list` | 2026-10-08 02:19:03 |
+| 13 | [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | 🔥 A curated list of awesome Android UI/UX libraries | ⭐ 57862 | `android` `awesome` `ui` | 2026-10-08 02:58:16 |
+| 14 | [ngosang/trackerslist](https://github.com/ngosang/trackerslist) | 🔥 Updated list of public BitTorrent trackers | ⭐ 55291 | `bittorrent` `bittorrent-tracker` `bittorrent-trackers` `http` `list` | 2026-10-07 22:47:52 |
+| 15 | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | 🔥 A curated list of awesome frameworks, libraries and software for the Java programming language. | ⭐ 49191 | `awesome` `awesome-list` | 2026-10-08 02:47:45 |
+| 16 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 🔥 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. | ⭐ 48103 | `ai` `algorithms-and-data-structures` `backend` `developer-tools` `development` | 2026-10-08 03:28:27 |
+| 17 | [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) | 🔥 Learn regex the easy way | ⭐ 46098 | `learn-regex` `regex` `regular-expression` | 2026-10-08 02:57:07 |
+| 18 | [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) | 🔥 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 | ⭐ 36993 | `interview` `java` `java8` `jvm` `mysql` | 2026-10-08 01:57:07 |
+| 19 | [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) | 🔥 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) | ⭐ 36408 |  | 2026-10-07 08:32:15 |
+| 20 | [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) | 🔥 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs | ⭐ 36352 | `angular` `bun` `csv` `data` `database` | 2026-10-07 19:46:01 |
+| 21 | [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 🔥 leaked prompts of GPTs | ⭐ 32047 |  | 2026-10-07 22:42:15 |
+| 22 | [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 🔥 网易云音乐 Node.js API service | ⭐ 30243 | `api` `apis` `cloudmusic` `javascript` `neteasecloud` | 2026-10-07 18:00:54 |
+| 23 | [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 🔥 A complete daily plan for studying to become a machine learning engineer. | ⭐ 28873 | `artificial-intelligence` `deep-learning` `machine-learning` `machine-learning-algorithms` `software-engineer` | 2026-10-08 00:31:32 |
+| 24 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | 🔥 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 | ⭐ 28698 | `adblock` `adguard` `anticensorship` `chinalist` `clash` | 2026-10-08 03:12:31 |
+| 25 | [qianguyihao/Web](https://github.com/qianguyihao/Web) | 🔥 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。 | ⭐ 28682 | `css` `front-end` `html` `javascript` | 2026-10-07 14:33:48 |
+| 26 | [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) | 🔥 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】 | ⭐ 23431 | `telegram` `telegram-api` `telegram-bot` `telegram-bot-api` `telegram-bots` | 2026-10-08 02:14:07 |
 | 27 | [lensapp/lens](https://github.com/lensapp/lens) | 🔥 Lens - The way the world runs Kubernetes | ⭐ 23239 | `cloud-native` `containers` `devops` `kubernetes` `kubernetes-dashboard` | 2026-10-06 19:07:54 |
 | 28 | [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) | 🔥 IntelliJ IDEA 简体中文专题教程 | ⭐ 22041 | `android-studio` `clion` `datagrip` `gogland` `intellij` | 2026-10-06 18:28:48 |
-| 29 | [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 🔥 健康学习到150岁 - 人体系统调优不完全指南 | ⭐ 21871 |  | 2026-10-07 03:05:45 |
-| 30 | [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) | 🔥 A collection of awesome .NET libraries, tools, frameworks and software | ⭐ 21644 | `awesome` `awesome-list` `clr` `csharp` `dotnet` | 2026-10-06 20:37:56 |
-| 31 | [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) | 🔥 Security Guide for Developers | ⭐ 21096 | `api` `books` `security` `security-book` `security-checklist` | 2026-10-05 06:12:18 |
-| 32 | [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 🔥 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules … | ⭐ 20825 | `adblock` `adguard` `anticensorship` `chinalist` `dnsmasq` | 2026-10-06 18:37:45 |
-| 33 | [programthink/books](https://github.com/programthink/books) | 🔥 【编程随想】收藏的电子书清单（多个学科，含下载链接） | ⭐ 20287 |  | 2026-10-06 11:24:59 |
-| 34 | [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) | 🔥 Roadmap to becoming an ASP.NET Core developer in 2026 | ⭐ 19659 | `asp-net-core` `aspnet-core` `aspnetcore` `blazor` `csharp` | 2026-10-07 01:31:00 |
-| 35 | [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) | 🔥 Roadmap to becoming a Go developer in 2020 | ⭐ 18421 | `go` `golang` `roadmap` | 2026-10-03 02:05:30 |
-| 36 | [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) | 🔥 Free resources for learning Full Stack Web Development | ⭐ 18377 |  | 2026-10-07 03:01:11 |
-| 37 | [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 🔥 Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, al… | ⭐ 18229 | `algorithms` `blog` `interview` `javascript` `react` | 2026-10-06 17:57:15 |
-| 38 | [getlantern/download](https://github.com/getlantern/download) | 🔥 Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw | ⭐ 17830 | `accelerator` `censorship` `censorship-circumvention` `gfw` `lantern` | 2026-10-06 17:56:50 |
-| 39 | [reactnativecn/react-native-guide](https://github.com/reactnativecn/react-native-guide) | 🔥 React Native指南汇集了各类react-native学习资源、开源App和组件 | ⭐ 17821 |  | 2026-10-06 17:56:38 |
-| 40 | [dotnet/corefx](https://github.com/dotnet/corefx) | 🔥 This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime | ⭐ 17461 | `coreclr` `corefx` `csharp` `dotnet` `dotnet-core` | 2026-10-06 21:39:28 |
-| 41 | [xx025/carrot](https://github.com/xx025/carrot) | 🔥 AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源 | ⭐ 17205 | `ai` `chat` `chatgpt` `openai` | 2026-10-07 03:11:03 |
-| 42 | [fangzesheng/free-api](https://github.com/fangzesheng/free-api) | 🔥 收集免费的接口服务,做一个api的搬运工 | ⭐ 16270 | `api` `freeapi` | 2026-10-06 17:57:28 |
+| 29 | [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 🔥 健康学习到150岁 - 人体系统调优不完全指南 | ⭐ 21876 |  | 2026-10-08 02:25:59 |
+| 30 | [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) | 🔥 A collection of awesome .NET libraries, tools, frameworks and software | ⭐ 21647 | `awesome` `awesome-list` `clr` `csharp` `dotnet` | 2026-10-08 02:26:35 |
+| 31 | [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) | 🔥 Security Guide for Developers | ⭐ 21099 | `api` `books` `security` `security-book` `security-checklist` | 2026-10-07 20:35:06 |
+| 32 | [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 🔥 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules … | ⭐ 20831 | `adblock` `adguard` `anticensorship` `chinalist` `dnsmasq` | 2026-10-08 02:51:53 |
+| 33 | [programthink/books](https://github.com/programthink/books) | 🔥 【编程随想】收藏的电子书清单（多个学科，含下载链接） | ⭐ 20289 |  | 2026-10-07 18:32:59 |
+| 34 | [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) | 🔥 Roadmap to becoming an ASP.NET Core developer in 2026 | ⭐ 19660 | `asp-net-core` `aspnet-core` `aspnetcore` `blazor` `csharp` | 2026-10-07 21:41:45 |
+| 35 | [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) | 🔥 Roadmap to becoming a Go developer in 2020 | ⭐ 18423 | `go` `golang` `roadmap` | 2026-10-07 11:10:29 |
+| 36 | [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) | 🔥 Free resources for learning Full Stack Web Development | ⭐ 18378 |  | 2026-10-08 00:18:15 |
+| 37 | [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 🔥 Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, al… | ⭐ 18230 | `algorithms` `blog` `interview` `javascript` `react` | 2026-10-07 16:05:18 |
+| 38 | [getlantern/download](https://github.com/getlantern/download) | 🔥 Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw | ⭐ 17831 | `accelerator` `censorship` `censorship-circumvention` `gfw` `lantern` | 2026-10-07 14:20:52 |
+| 39 | [reactnativecn/react-native-guide](https://github.com/reactnativecn/react-native-guide) | 🔥 React Native指南汇集了各类react-native学习资源、开源App和组件 | ⭐ 17822 |  | 2026-10-07 06:33:26 |
+| 40 | [dotnet/corefx](https://github.com/dotnet/corefx) | 🔥 This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime | ⭐ 17460 | `coreclr` `corefx` `csharp` `dotnet` `dotnet-core` | 2026-10-07 10:57:07 |
+| 41 | [xx025/carrot](https://github.com/xx025/carrot) | 🔥 AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源 | ⭐ 17205 | `ai` `chat` `chatgpt` `openai` | 2026-10-07 15:02:23 |
+| 42 | [fangzesheng/free-api](https://github.com/fangzesheng/free-api) | 🔥 收集免费的接口服务,做一个api的搬运工 | ⭐ 16270 | `api` `freeapi` | 2026-10-07 15:41:32 |
 | 43 | [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) | 🔥 :trollface:Git的奇技淫巧 | ⭐ 15861 | `cheatsheet` `git` `github` | 2026-10-06 18:39:42 |
-| 44 | [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) | 🔥 Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。 | ⭐ 15672 |  | 2026-10-06 17:56:44 |
-| 45 | [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) | 🔥 【大厂面试专栏】一份Java程序员需要的技术指南，这里有面试题、系统架构、职场锦囊、主流中间件等，让你成为更牛的自己！ | ⭐ 14738 | `dubbo` `es6` `git` `hbase` `java` | 2026-10-06 08:52:14 |
-| 46 | [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | 🔥 程序员应该访问的最佳网站中文版 | ⭐ 13723 |  | 2026-10-06 17:57:07 |
-| 47 | [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) | 🔥 :books: 极客时间电子书 | ⭐ 13393 |  | 2026-10-06 23:10:32 |
-| 48 | [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) | 🔥 A curated list of awesome things related to NestJS 😎 | ⭐ 13164 | `awesome` `awesome-list` `list` `nestjs` | 2026-10-06 20:29:44 |
-| 49 | [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) | 🔥 Collection of awesome podcasts | ⭐ 13113 | `awesome` `awesome-list` `awesome-lists` `podcast` `software` | 2026-10-06 20:29:54 |
-| 50 | [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) | 🔥 中文技术文档的写作规范 | ⭐ 13002 |  | 2026-10-07 03:15:57 |
+| 44 | [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) | 🔥 Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。 | ⭐ 15670 |  | 2026-10-07 22:46:45 |
+| 45 | [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) | 🔥 【大厂面试专栏】一份Java程序员需要的技术指南，这里有面试题、系统架构、职场锦囊、主流中间件等，让你成为更牛的自己！ | ⭐ 14736 | `dubbo` `es6` `git` `hbase` `java` | 2026-10-08 01:57:23 |
+| 46 | [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | 🔥 程序员应该访问的最佳网站中文版 | ⭐ 13724 |  | 2026-10-08 03:04:17 |
+| 47 | [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) | 🔥 :books: 极客时间电子书 | ⭐ 13394 |  | 2026-10-07 14:07:20 |
+| 48 | [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) | 🔥 A curated list of awesome things related to NestJS 😎 | ⭐ 13167 | `awesome` `awesome-list` `list` `nestjs` | 2026-10-08 01:03:25 |
+| 49 | [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) | 🔥 Collection of awesome podcasts | ⭐ 13118 | `awesome` `awesome-list` `awesome-lists` `podcast` `software` | 2026-10-08 01:03:27 |
+| 50 | [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) | 🔥 中文技术文档的写作规范 | ⭐ 13004 |  | 2026-10-08 02:45:13 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -434,31 +434,31 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [torvalds/linux](https://github.com/torvalds/linux) | 🔥 Linux kernel source tree | ⭐ 251302 |  | 2026-10-07 03:10:58 |
-| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — … | ⭐ 73350 |  | 2026-10-07 03:14:01 |
-| 3 | [nginx/nginx](https://github.com/nginx/nginx) | 🔥 The official NGINX Open Source repository. | ⭐ 31804 | `content-cache` `http` `http2` `http3` `https` | 2026-10-07 01:56:35 |
-| 4 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | 🔥 Lean's LEDE source | ⭐ 31593 | `lede` `lua` `openwrt-feed` `openwrt-package` `openwrt-zh-cn` | 2026-10-06 19:54:01 |
-| 5 | [facebook/zstd](https://github.com/facebook/zstd) | 🔥 Zstandard - Fast real-time compression algorithm | ⭐ 27989 |  | 2026-10-07 03:02:34 |
+| 1 | [torvalds/linux](https://github.com/torvalds/linux) | 🔥 Linux kernel source tree | ⭐ 251425 |  | 2026-10-08 03:30:49 |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — … | ⭐ 73419 |  | 2026-10-08 03:30:08 |
+| 3 | [nginx/nginx](https://github.com/nginx/nginx) | 🔥 The official NGINX Open Source repository. | ⭐ 31802 | `content-cache` `http` `http2` `http3` `https` | 2026-10-08 02:26:28 |
+| 4 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | 🔥 Lean's LEDE source | ⭐ 31593 | `lede` `lua` `openwrt-feed` `openwrt-package` `openwrt-zh-cn` | 2026-10-07 18:53:08 |
+| 5 | [facebook/zstd](https://github.com/facebook/zstd) | 🔥 Zstandard - Fast real-time compression algorithm | ⭐ 27996 |  | 2026-10-08 01:23:31 |
 | 6 | [microsoftarchive/redis](https://github.com/microsoftarchive/redis) | 🔥 Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorte… | ⭐ 21004 |  | 2026-10-02 19:55:24 |
-| 7 | [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | 🔥 A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 | ⭐ 19981 | `architecture` `awesome` `harmonyos` `huawei` `iot` | 2026-10-06 21:46:38 |
+| 7 | [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | 🔥 A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 | ⭐ 19981 | `architecture` `awesome` `harmonyos` `huawei` `iot` | 2026-10-08 01:02:18 |
 | 8 | [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) | 🔥 Embed the Power of Lua into NGINX HTTP servers | ⭐ 11785 |  | 2026-10-06 17:12:09 |
-| 9 | [Tencent/xLua](https://github.com/Tencent/xLua) | 🔥 xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. | ⭐ 10199 | `csharp` `lua` `unity` `unity3d` `xlua` | 2026-10-06 17:56:48 |
+| 9 | [Tencent/xLua](https://github.com/Tencent/xLua) | 🔥 xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. | ⭐ 10200 | `csharp` `lua` `unity` `unity3d` `xlua` | 2026-10-07 06:05:28 |
 | 10 | [huangzworks/redis-3.0-annotated](https://github.com/huangzworks/redis-3.0-annotated) | 🔥 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 | ⭐ 10137 |  | 2026-09-29 10:30:35 |
-| 11 | [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) | 🔥 QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式 | ⭐ 8008 | `qrcode` `qrcode-android` `qrcode-generator` `qrcode-scanner` | 2026-10-06 08:51:07 |
+| 11 | [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) | 🔥 QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式 | ⭐ 8007 | `qrcode` `qrcode-android` `qrcode-generator` `qrcode-scanner` | 2026-10-07 08:33:48 |
 | 12 | [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) | 🔥 从零开始的 JSON 库教程 | ⭐ 7914 |  | 2026-10-06 17:39:02 |
-| 13 | [sabrogden/Ditto](https://github.com/sabrogden/Ditto) | 🔥 Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at … | ⭐ 7264 | `clipboard` `clipboard-manager` | 2026-10-07 00:03:40 |
-| 14 | [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) | 🔥 Nintendo 3DS "Custom Firmware" | ⭐ 6754 | `3ds` `custom-firmware` `homebrew` `nintendo-3ds` | 2026-10-06 23:46:58 |
-| 15 | [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) | 🔥 Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy | ⭐ 6597 | `c` `cybersecurity` `http3` `httpproxy` `linux` | 2026-10-06 20:13:59 |
-| 16 | [Meituan-Dianping/SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) | 🔥 输入SQL，输出索引优化建议 | ⭐ 5614 |  | 2026-09-29 00:59:22 |
+| 13 | [sabrogden/Ditto](https://github.com/sabrogden/Ditto) | 🔥 Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at … | ⭐ 7266 | `clipboard` `clipboard-manager` | 2026-10-07 17:01:46 |
+| 14 | [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) | 🔥 Nintendo 3DS "Custom Firmware" | ⭐ 6756 | `3ds` `custom-firmware` `homebrew` `nintendo-3ds` | 2026-10-08 00:40:58 |
+| 15 | [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) | 🔥 Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy | ⭐ 6601 | `c` `cybersecurity` `http3` `httpproxy` `linux` | 2026-10-08 02:14:33 |
+| 16 | [Meituan-Dianping/SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) | 🔥 输入SQL，输出索引优化建议 | ⭐ 5612 |  | 2026-10-07 10:16:48 |
 | 17 | [acassen/keepalived](https://github.com/acassen/keepalived) | 🔥 Keepalived | ⭐ 4717 | `bfd` `c` `daemon` `high-availability` `infrastructure` | 2026-10-06 15:22:04 |
 | 18 | [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) | 🔥 Protect yourself against DNS poisoning in China. | ⭐ 3604 |  | 2026-10-06 10:55:38 |
-| 19 | [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) | 🔥 GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11… | ⭐ 3513 | `borderless` `compatiblity` `d3d9` `ddraw` `directdraw` | 2026-10-07 00:45:45 |
+| 19 | [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) | 🔥 GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11… | ⭐ 3515 | `borderless` `compatiblity` `d3d9` `ddraw` `directdraw` | 2026-10-07 14:41:57 |
 | 20 | [yitter/IdGenerator](https://github.com/yitter/IdGenerator) | 🔥 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它… | ⭐ 3214 | `c` `c-sharp` `delphi` `dotnet` `go` | 2026-10-05 05:17:37 |
-| 21 | [bb-qq/r8152](https://github.com/bb-qq/r8152) | 🔥 Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters | ⭐ 3101 | `driver` `kernel-module` `synology` `synology-nas` `synology-package` | 2026-10-07 00:56:01 |
+| 21 | [bb-qq/r8152](https://github.com/bb-qq/r8152) | 🔥 Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters | ⭐ 3099 | `driver` `kernel-module` `synology` `synology-nas` `synology-package` | 2026-10-07 05:31:37 |
 | 22 | [EZLippi/WebBench](https://github.com/EZLippi/WebBench) | 🔥 Webbench是Radim Kolar在1997年写的一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。官网地址:http://home.tiscali.cz/~cz210552/we… | ⭐ 2792 |  | 2026-10-01 15:32:24 |
 | 23 | [arkdb/inception](https://github.com/arkdb/inception) | 🔥 一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具 | ⭐ 1874 | `inception` `mariadb` `mysql` | 2026-09-24 09:46:56 |
 | 24 | [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) | 🔥 Redis module that provides a completely functional SQL database | ⭐ 1546 | `in-memory` `redis` `redisql` `rust` `sql` | 2026-09-20 05:38:06 |
-| 25 | [xland/DraftDepot](https://github.com/xland/DraftDepot) | 🔥 DraftDepot 稿仓 | ⭐ 1337 |  | 2026-10-05 15:08:33 |
+| 25 | [xland/DraftDepot](https://github.com/xland/DraftDepot) | 🔥 DraftDepot 稿仓 | ⭐ 1338 |  | 2026-10-08 00:11:59 |
 | 26 | [amerkoleci/Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) | 🔥 .NET bindings for Direct3D12, Direct3D11, WIC, Direct2D1, XInput, XAudio, X3DAudio, DXC, Direct3D9 and DirectInput. | ⭐ 1244 | `direct3d` `direct3d11` `direct3d12` `dotnet` `dotnetcore` | 2026-10-05 21:38:25 |
 | 27 | [session-replay-tools/cetus](https://github.com/session-replay-tools/cetus) | 🔥 Cetus is high-performance middleware designed to provide transparent routing between your application and backend MySQL servers. | ⭐ 1242 | `database` `distributed` `horizontal-scalable` `middleware` `mysql` | 2026-10-06 14:32:43 |
 | 28 | [Meituan-Dianping/MyFlash](https://github.com/Meituan-Dianping/MyFlash) | 🔥 flashback mysql data to any point | ⭐ 1181 |  | 2026-09-24 09:49:28 |
@@ -490,23 +490,23 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 🔥 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ⭐ 139301 | `awesome-list` `free-for-developers` | 2026-10-07 02:54:47 |
-| 2 | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) | 🔥 A Clash Client For OpenWrt | ⭐ 27695 | `clash` `luci` `mihomo` `openclash` `openwrt` | 2026-10-06 19:47:04 |
-| 3 | [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 🔥 🐧 A list of awesome Linux softwares | ⭐ 25621 | `applications` `awesome-list` `cli-app` `cross-platform` `desktop-environment` | 2026-10-07 00:46:44 |
-| 4 | [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 🔥 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充 | ⭐ 20786 | `architecture` `architecture-guidelines` `architecture-of-internet-prod…` `chatgpt` `dall-e-3` | 2026-10-06 17:57:17 |
-| 5 | [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) | 🔥 全国各省市停贷通知汇总 | ⭐ 20351 |  | 2026-10-06 17:55:45 |
-| 6 | [twitter/twemoji](https://github.com/twitter/twemoji) | 🔥 Emoji for everyone. https://twemoji.twitter.com/ | ⭐ 17801 | `emoji` `twemoji` | 2026-10-06 14:00:58 |
-| 7 | [microsoft/dotnet](https://github.com/microsoft/dotnet) | 🔥 This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many t… | ⭐ 15109 |  | 2026-10-07 00:40:00 |
-| 8 | [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) | 🔥 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. ) | ⭐ 14695 | `agent-pool` `crawler` `example` `fund` `multithreading` | 2026-10-06 19:37:23 |
-| 9 | [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) | 🔥 :page\_facing\_up: A curated list of awesome Angular resources | ⭐ 10080 | `angular` `angular-components` `angular10` `angular11` `angular2` | 2026-10-06 17:56:47 |
+| 1 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 🔥 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ⭐ 139363 | `awesome-list` `free-for-developers` | 2026-10-08 03:26:26 |
+| 2 | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) | 🔥 A Clash Client For OpenWrt | ⭐ 27708 | `clash` `luci` `mihomo` `openclash` `openwrt` | 2026-10-08 00:46:12 |
+| 3 | [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 🔥 🐧 A list of awesome Linux softwares | ⭐ 25625 | `applications` `awesome-list` `cli-app` `cross-platform` `desktop-environment` | 2026-10-07 21:51:33 |
+| 4 | [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 🔥 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充 | ⭐ 20787 | `architecture` `architecture-guidelines` `architecture-of-internet-prod…` `chatgpt` `dall-e-3` | 2026-10-07 05:55:50 |
+| 5 | [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) | 🔥 全国各省市停贷通知汇总 | ⭐ 20348 |  | 2026-10-08 03:17:07 |
+| 6 | [twitter/twemoji](https://github.com/twitter/twemoji) | 🔥 Emoji for everyone. https://twemoji.twitter.com/ | ⭐ 17801 | `emoji` `twemoji` | 2026-10-07 19:05:17 |
+| 7 | [microsoft/dotnet](https://github.com/microsoft/dotnet) | 🔥 This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many t… | ⭐ 15110 |  | 2026-10-07 09:01:42 |
+| 8 | [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) | 🔥 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. ) | ⭐ 14697 | `agent-pool` `crawler` `example` `fund` `multithreading` | 2026-10-07 09:54:27 |
+| 9 | [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) | 🔥 :page\_facing\_up: A curated list of awesome Angular resources | ⭐ 10079 | `angular` `angular-components` `angular10` `angular11` `angular2` | 2026-10-08 01:04:10 |
 | 10 | [sohutv/cachecloud](https://github.com/sohutv/cachecloud) | 🔥 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redi… | ⭐ 9027 | `cachecloud` `java` `jedis` `lettuce` `redis` | 2026-10-06 13:11:47 |
-| 11 | [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) | 🔥 :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用 | ⭐ 8590 | `activiti` `bootstrap` `bootstrap-table` `druid` `hplus` | 2026-10-06 11:43:41 |
-| 12 | [digoal/blog](https://github.com/digoal/blog) | 🔥 AI,Opensource,Database,Business,Finance,Minds. git clone --depth 1 https://github.com/digoal/blog | ⭐ 8587 | `database` `enterprisedb` `gpdb` `greenplum` `hawq` | 2026-10-06 12:32:22 |
+| 11 | [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) | 🔥 :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用 | ⭐ 8592 | `activiti` `bootstrap` `bootstrap-table` `druid` `hplus` | 2026-10-08 03:17:42 |
+| 12 | [digoal/blog](https://github.com/digoal/blog) | 🔥 AI,Opensource,Database,Business,Finance,Minds. git clone --depth 1 https://github.com/digoal/blog | ⭐ 8587 | `database` `enterprisedb` `gpdb` `greenplum` `hawq` | 2026-10-08 02:25:33 |
 | 13 | [phodal/growth-ebook](https://github.com/phodal/growth-ebook) | 🔥 Growth Engineering: The Definitive Guide。全栈增长工程师指南 | ⭐ 7812 | `back-end` `book` `ebook` `free-book` `freebook` | 2026-10-06 17:56:47 |
 | 14 | [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) | 🔥 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid: | ⭐ 6843 | `front-end-interview` `interview` `interview-preparation` `interview-questions` | 2026-10-05 11:26:15 |
-| 15 | [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) | 🔥 OpenPower工作组收集汇总的医院开放数据 | ⭐ 6708 |  | 2026-10-02 06:28:10 |
-| 16 | [talebook/talebook](https://github.com/talebook/talebook) | 🔥 一个简单好用的个人书库 | ⭐ 5823 |  | 2026-10-07 02:46:27 |
-| 17 | [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) | 🔥 好软分享 | ⭐ 4903 |  | 2026-10-06 08:38:55 |
+| 15 | [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) | 🔥 OpenPower工作组收集汇总的医院开放数据 | ⭐ 6707 |  | 2026-10-07 07:13:05 |
+| 16 | [talebook/talebook](https://github.com/talebook/talebook) | 🔥 一个简单好用的个人书库 | ⭐ 5827 |  | 2026-10-08 01:18:31 |
+| 17 | [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) | 🔥 好软分享 | ⭐ 4904 |  | 2026-10-08 02:42:39 |
 | 18 | [hiddendevj/Crawler\_Illegal\_Cases\_In\_China](https://github.com/hiddendevj/Crawler_Illegal_Cases_In_China) | 🔥 Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 | ⭐ 4738 | `china` `crawler` `law` | 2026-10-04 02:06:16 |
 | 19 | [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) | 🔥 A curated list of awesome Webpack resources, libraries and tools | ⭐ 4673 | `awesome` `awesome-list` `documentation` `list` `webpack` | 2026-10-05 08:41:11 |
 | 20 | [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) | 🔥 Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution | ⭐ 4587 | `knife4j` `openapi2` `openapi3` `springdoc-openapi` `springfox-swagger2` | 2026-10-06 17:57:05 |
@@ -521,9 +521,9 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 | 29 | [kujian/frontendDaily](https://github.com/kujian/frontendDaily) | 🔥 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。 | ⭐ 2385 | `awesome` `awesome-list` `css` `daily` `frontend` | 2026-09-16 14:07:19 |
 | 30 | [anbang/javascript-notes](https://github.com/anbang/javascript-notes) | 🔥 JavaScript 学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，… | ⭐ 2261 |  | 2026-09-21 12:09:01 |
 | 31 | [mritd/dockerfile](https://github.com/mritd/dockerfile) | 🔥 some personally made dockerfile | ⭐ 2054 | `alpine` `docker` `dockerfiles` `elasticsearch` `filebeat` | 2026-10-02 15:18:53 |
-| 32 | [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) | 🔥 📖 一款专注于阅读的博客园主题 | ⭐ 2049 | `cnblogs` `cnblogs-theme` `silence` | 2026-09-25 13:18:43 |
+| 32 | [esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) | 🔥 📖 一款专注于阅读的博客园主题 | ⭐ 2048 | `cnblogs` `cnblogs-theme` `silence` | 2026-10-07 10:16:48 |
 | 33 | [onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui) | 🔥 Nginx GUI Manager | ⭐ 1681 |  | 2026-10-02 15:14:56 |
-| 34 | [tanjiti/sec\_profile](https://github.com/tanjiti/sec_profile) | 🔥 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等) | ⭐ 1622 |  | 2026-10-06 01:32:01 |
+| 34 | [tanjiti/sec\_profile](https://github.com/tanjiti/sec_profile) | 🔥 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等) | ⭐ 1622 |  | 2026-10-08 00:37:13 |
 | 35 | [wx-chevalier/DistributedSystem-Notes](https://github.com/wx-chevalier/DistributedSystem-Notes) | 🔥 :books: 深入浅出分布式基础架构，Linux 与操作系统篇 | 分布式系统篇 | 分布式计算篇 | 数据库篇 | 网络篇 | 虚拟化与编排篇 | 大数据与云计算篇 | ⭐ 1572 | `distributed-computing` `distributed-systems` `maintainance` `network` `operatingsystem` | 2026-10-05 08:59:14 |
 | 36 | [ZhangBohan/http-api-design-ZH\_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) | 🔥 HTTP API 设计指南(http-api-design-ZH\_CN)，翻译自https://github.com/interagent/http-api-design | ⭐ 1472 | `api` `chinese-translation` `docs` `http` `rest-api` | 2026-09-28 14:09:22 |
 | 37 | [jiji262/wooyun\_articles](https://github.com/jiji262/wooyun_articles) | 🔥 drops.wooyun.org 乌云Drops文章备份 | ⭐ 1082 |  | 2026-09-25 13:17:15 |
@@ -537,7 +537,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 | 45 | [click33/Sa-Admin](https://github.com/click33/Sa-Admin) | 🔥 一个无需脚手架即可直接运行的后台模板，流畅、易上手、提高生产力 | ⭐ 503 |  | 2026-09-17 02:10:27 |
 | 46 | [rdkmaster/jigsaw](https://github.com/rdkmaster/jigsaw) | Jigsaw七巧板 provides a set of web components based on Angular5/8/9+. The main purpose of Jigsaw is to help the application developers to construct complex & inte… | ⭐ 480 | `angular` `bigdata` `component` `jigsaw` `jigsaw-seed` | 2026-09-04 20:37:31 |
 | 47 | [ym2011/SecurityMind](https://github.com/ym2011/SecurityMind) | 🔥 share experience towards for information management, brainstorming and so on. | ⭐ 443 |  | 2026-10-05 06:08:31 |
-| 48 | [qfdk/EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) | 🔥 A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io | ⭐ 423 | `docker` `docker-admin` `hacktoberfest` `portainer` `react` | 2026-09-27 07:06:53 |
+| 48 | [qfdk/EasyDockerWeb](https://github.com/qfdk/EasyDockerWeb) | 🔥 A simple Web Ui for Docker using xterm.js, Node.js, dockerode and Socket.io | ⭐ 423 | `docker` `docker-admin` `hacktoberfest` `portainer` `react` | 2026-10-07 12:32:02 |
 | 49 | [mengkunsoft/OneQRCode](https://github.com/mengkunsoft/OneQRCode) | 🔥 📱 微信、支付宝、QQ 三合一收款二维码（单文件版） | ⭐ 395 | `pay` `qrcode` | 2026-10-04 16:59:58 |
 | 50 | [arminreiter/FeedReader](https://github.com/arminreiter/FeedReader) | C# RSS and ATOM Feed reader library. Supports RSS 0.91, 0.92, 1.0, 2.0 and ATOM. Tested with multiple languages and feeds. | ⭐ 329 | `atom` `atom-feed` `atom-reader` `feed-reader` `rss` | 2026-08-28 09:10:30 |
 
@@ -553,7 +553,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [buchidonggua/dg-ai-notes](https://github.com/buchidonggua/dg-ai-notes) | 🔥  | ⭐ 3280 | `ai-agent` `learning-notes` `pi-agent` `python` `tutorial` | 2026-10-07 03:12:42 |
+| 1 | [buchidonggua/dg-ai-notes](https://github.com/buchidonggua/dg-ai-notes) | 🔥  | ⭐ 3287 | `ai-agent` `learning-notes` `pi-agent` `python` `tutorial` | 2026-10-08 03:15:40 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -570,52 +570,52 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 🔥 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 | ⭐ 62618 | `algorithm` `cpp` `go` `interview` `java` | 2026-10-07 02:18:37 |
-| 2 | [pyenv/pyenv](https://github.com/pyenv/pyenv) | 🔥 Simple Python version management | ⭐ 45127 | `python` `shell` | 2026-10-07 02:54:06 |
-| 3 | [233boy/v2ray](https://github.com/233boy/v2ray) | 🔥 最好用的 V2Ray 一键安装脚本 & 管理脚本 | ⭐ 29694 | `shell-script` `v2ray` `vmess` | 2026-10-06 18:12:05 |
-| 4 | [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) | 🔥 :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 | ⭐ 28391 |  | 2026-10-07 02:57:35 |
-| 5 | [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | 🔥 Fish shell like syntax highlighting for Zsh. | ⭐ 23018 | `screenshot` `shell` `syntax-highlighting` `zsh` `zsh-syntax-highlighting` | 2026-10-07 03:00:42 |
-| 6 | [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 🔥 Xray、Tuic、hysteria2、sing-box 八合一一键脚本 | ⭐ 22012 | `cloudflare` `grpc-cloudflare` `httpupgrade` `hysteria2` `nginx` | 2026-10-07 03:14:16 |
-| 7 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🔥 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话… | ⭐ 21081 | `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese` | 2026-10-07 02:54:01 |
-| 8 | [deviantony/docker-elk](https://github.com/deviantony/docker-elk) | 🔥 The Elastic stack (ELK) powered by Docker and Compose. | ⭐ 18390 | `docker` `docker-compose` `elasticsearch` `elk` `kibana` | 2026-10-06 15:54:38 |
-| 9 | [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | 🔥 A curated list for awesome kubernetes sources :ship::tada: | ⭐ 16111 | `aws` `azure` `books` `cloud-providers` `deploy-kubernetes` | 2026-10-06 20:46:32 |
-| 10 | [nodesource/distributions](https://github.com/nodesource/distributions) | 🔥 NodeSource Node.js Binary Distributions | ⭐ 13848 | `javascript` `linux` `node` `nodejs` `runtime` | 2026-10-06 01:35:46 |
-| 11 | [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | 🔥 Run sing-box/mihomo as client in shell | ⭐ 13559 |  | 2026-10-07 02:01:20 |
-| 12 | [xykt/IPQuality](https://github.com/xykt/IPQuality) | 🔥 IP质量检测脚本 - IP Quality Check Script | ⭐ 10602 |  | 2026-10-07 02:56:04 |
-| 13 | [getsentry/self-hosted](https://github.com/getsentry/self-hosted) | 🔥 Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept | ⭐ 9597 | `docker` `docker-compose` `fair-source` `hacktoberfest` `on-premise` | 2026-10-07 01:00:40 |
+| 1 | [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 🔥 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 | ⭐ 62624 | `algorithm` `cpp` `go` `interview` `java` | 2026-10-08 03:19:36 |
+| 2 | [pyenv/pyenv](https://github.com/pyenv/pyenv) | 🔥 Simple Python version management | ⭐ 45124 | `python` `shell` | 2026-10-07 17:10:49 |
+| 3 | [233boy/v2ray](https://github.com/233boy/v2ray) | 🔥 最好用的 V2Ray 一键安装脚本 & 管理脚本 | ⭐ 29696 | `shell-script` `v2ray` `vmess` | 2026-10-08 03:10:47 |
+| 4 | [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) | 🔥 :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 | ⭐ 28392 |  | 2026-10-07 10:21:40 |
+| 5 | [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | 🔥 Fish shell like syntax highlighting for Zsh. | ⭐ 23022 | `screenshot` `shell` `syntax-highlighting` `zsh` `zsh-syntax-highlighting` | 2026-10-07 19:39:14 |
+| 6 | [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 🔥 Xray、Tuic、hysteria2、sing-box 八合一一键脚本 | ⭐ 22021 | `cloudflare` `grpc-cloudflare` `httpupgrade` `hysteria2` `nginx` | 2026-10-07 23:24:31 |
+| 7 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🔥 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话… | ⭐ 21107 | `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese` | 2026-10-08 03:02:37 |
+| 8 | [deviantony/docker-elk](https://github.com/deviantony/docker-elk) | 🔥 The Elastic stack (ELK) powered by Docker and Compose. | ⭐ 18385 | `docker` `docker-compose` `elasticsearch` `elk` `kibana` | 2026-10-07 23:24:15 |
+| 9 | [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | 🔥 A curated list for awesome kubernetes sources :ship::tada: | ⭐ 16111 | `aws` `azure` `books` `cloud-providers` `deploy-kubernetes` | 2026-10-07 06:58:11 |
+| 10 | [nodesource/distributions](https://github.com/nodesource/distributions) | 🔥 NodeSource Node.js Binary Distributions | ⭐ 13849 | `javascript` `linux` `node` `nodejs` `runtime` | 2026-10-08 02:45:28 |
+| 11 | [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | 🔥 Run sing-box/mihomo as client in shell | ⭐ 13562 |  | 2026-10-08 02:54:31 |
+| 12 | [xykt/IPQuality](https://github.com/xykt/IPQuality) | 🔥 IP质量检测脚本 - IP Quality Check Script | ⭐ 10620 |  | 2026-10-08 03:21:14 |
+| 13 | [getsentry/self-hosted](https://github.com/getsentry/self-hosted) | 🔥 Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept | ⭐ 9599 | `docker` `docker-compose` `fair-source` `hacktoberfest` `on-premise` | 2026-10-07 20:42:30 |
 | 14 | [wulabing/Xray\_onekey](https://github.com/wulabing/Xray_onekey) | 🔥 Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 | ⭐ 9249 | `nginx` `tls` `v2ray` `vless` `vmess` | 2026-10-06 13:14:41 |
-| 15 | [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) | 🔥 《Java 程序员眼中的 Linux》 | ⭐ 8713 | `centos` `elasticsearch` `fastdfs` `gitlab` `jenkins` | 2026-10-05 15:29:25 |
-| 16 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | 🔥 GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 | ⭐ 7782 | `almalinux` `alpine` `archlinux` `armbian` `centos` | 2026-10-06 17:56:55 |
-| 17 | [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) | 🔥 和我一步步部署 kubernetes 集群 | ⭐ 7522 | `containerd` `coredns` `docker` `docker-registry` `efk` | 2026-10-06 02:15:28 |
+| 15 | [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) | 🔥 《Java 程序员眼中的 Linux》 | ⭐ 8711 | `centos` `elasticsearch` `fastdfs` `gitlab` `jenkins` | 2026-10-07 10:21:52 |
+| 16 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | 🔥 GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 | ⭐ 7782 | `almalinux` `alpine` `archlinux` `armbian` `centos` | 2026-10-07 15:20:46 |
+| 17 | [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) | 🔥 和我一步步部署 kubernetes 集群 | ⭐ 7523 | `containerd` `coredns` `docker` `docker-registry` `efk` | 2026-10-08 01:57:15 |
 | 18 | [marcan/takeover.sh](https://github.com/marcan/takeover.sh) | 🔥 Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to. | ⭐ 7325 |  | 2026-10-06 15:13:16 |
-| 19 | [oracle/docker-images](https://github.com/oracle/docker-images) | 🔥 Official source of container configurations, images, and examples for Oracle products and projects | ⭐ 6997 | `coherence-ce` `docker` `docker-images` `dockerfile` `dockerfiles` | 2026-10-06 16:33:54 |
+| 19 | [oracle/docker-images](https://github.com/oracle/docker-images) | 🔥 Official source of container configurations, images, and examples for Oracle products and projects | ⭐ 6996 | `coherence-ce` `docker` `docker-images` `dockerfile` `dockerfiles` | 2026-10-07 07:31:33 |
 | 20 | [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) | 🔥 Dockerfile for Apache Kafka | ⭐ 6956 |  | 2026-10-04 16:54:27 |
 | 21 | [jenv/jenv](https://github.com/jenv/jenv) | 🔥 Manage your Java environment | ⭐ 6663 |  | 2026-09-29 07:08:52 |
-| 22 | [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) | 🔥 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：Naiveproxy、AnyTLS、Any-reality、Vless-xhttp-reality-visio… | ⭐ 5855 | `anytls` `argo` `cloudflared` `docker-image` `hysteria2` | 2026-10-06 23:32:49 |
-| 23 | [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) | 🔥 rules-dat for mihomo | ⭐ 5284 |  | 2026-10-07 00:28:26 |
-| 24 | [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) | 🔥 This tool is used to install `pyenv` and friends. | ⭐ 4130 |  | 2026-10-01 00:32:57 |
-| 25 | [badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) | 🔥  | ⭐ 4046 |  | 2026-10-01 03:16:17 |
+| 22 | [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) | 🔥 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：Naiveproxy、AnyTLS、Any-reality、Vless-xhttp-reality-visio… | ⭐ 5861 | `anytls` `argo` `cloudflared` `docker-image` `hysteria2` | 2026-10-07 23:38:11 |
+| 23 | [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) | 🔥 rules-dat for mihomo | ⭐ 5287 |  | 2026-10-08 01:13:27 |
+| 24 | [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) | 🔥 This tool is used to install `pyenv` and friends. | ⭐ 4130 |  | 2026-10-07 05:36:01 |
+| 25 | [badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) | 🔥  | ⭐ 4047 |  | 2026-10-07 20:03:02 |
 | 26 | [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) | 🔥 保存微信历史版本 | ⭐ 3319 |  | 2026-10-06 17:31:13 |
-| 27 | [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) | 🔥 🔎 互联网内推信息（社招、校招、实习） | ⭐ 2998 |  | 2026-10-07 03:02:04 |
-| 28 | [233boy/Xray](https://github.com/233boy/Xray) | 🔥 最好用的 Xray 一键安装脚本 & 管理脚本 | ⭐ 2736 | `xray` | 2026-10-06 21:45:26 |
+| 27 | [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) | 🔥 🔎 互联网内推信息（社招、校招、实习） | ⭐ 2997 |  | 2026-10-08 03:11:16 |
+| 28 | [233boy/Xray](https://github.com/233boy/Xray) | 🔥 最好用的 Xray 一键安装脚本 & 管理脚本 | ⭐ 2737 | `xray` | 2026-10-07 14:05:52 |
 | 29 | [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) | 🔥 Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查 | ⭐ 2106 | `check` `linux` `rkhunter` `shell-script` | 2026-10-05 17:33:02 |
 | 30 | [aqzt/kjyw](https://github.com/aqzt/kjyw) | 🔥 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等... | ⭐ 1869 | `devops` | 2026-10-06 13:12:45 |
 | 31 | [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) | 🔥 自由·负责·克制 去广告 Hosts 项目 | ⭐ 1761 | `ad` `adblock` `banad` `host` `hosts` | 2026-10-06 17:56:56 |
-| 32 | [coding/WebIDE](https://github.com/coding/WebIDE) | Coding WebIDE Community Edition | ⭐ 1727 | `docker` `ide` `java-8` `web-ide` | 2026-08-13 07:59:33 |
+| 32 | [coding/WebIDE](https://github.com/coding/WebIDE) | 🔥 Coding WebIDE Community Edition | ⭐ 1726 | `docker` `ide` `java-8` `web-ide` | 2026-10-07 10:19:07 |
 | 33 | [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) | 🔥 This project contains a Docker image meant to facilitate the deployment of Nacos . | ⭐ 1711 |  | 2026-10-02 15:15:03 |
 | 34 | [jasonGeng88/blog](https://github.com/jasonGeng88/blog) | 🔥 随写工作中遇到的问题、学习的心得，于己总结回顾，与他分享讨论。。。 | ⭐ 1368 |  | 2026-10-02 15:14:44 |
-| 35 | [k8spatterns/examples](https://github.com/k8spatterns/examples) | 🔥 Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud Native Applications", Second Edition | ⭐ 1087 |  | 2026-09-29 15:15:04 |
+| 35 | [k8spatterns/examples](https://github.com/k8spatterns/examples) | 🔥 Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud Native Applications", Second Edition | ⭐ 1089 |  | 2026-10-07 20:29:06 |
 | 36 | [devmentors/DNC-DShop](https://github.com/devmentors/DNC-DShop) |  | ⭐ 1017 |  | 2026-08-12 08:59:01 |
 | 37 | [caison/java-knowledge-mind-map](https://github.com/caison/java-knowledge-mind-map) | 🔥 【🌱🌱Java服务端知识技能图谱】用思维脑图梳理汇总Java服务端知识技能 | ⭐ 905 | `architecture` `cache` `database` `dubbo` `hashmap-concurrenthashmap` | 2026-09-08 15:59:04 |
 | 38 | [xuexb/learn-nginx](https://github.com/xuexb/learn-nginx) | Nginx 入门指南 | ⭐ 870 | `cors` `nginx` `proxy` `rewrite` | 2026-07-19 20:11:52 |
 | 39 | [maxfields2000/dockerjenkins\_tutorial](https://github.com/maxfields2000/dockerjenkins_tutorial) | 🔥 A repository for items learned in my Getting Started with Jenkins and Docker tutorial series | ⭐ 722 |  | 2026-10-06 17:56:57 |
 | 40 | [udacity/CarND-Advanced-Lane-Lines](https://github.com/udacity/CarND-Advanced-Lane-Lines) | 🔥  | ⭐ 502 |  | 2026-10-01 13:38:04 |
 | 41 | [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) | 🔥 Shell入门教程（Shell tutorial book） | ⭐ 458 | `shell` `shell-script` `shellscript` `tutorial` | 2026-09-26 09:04:31 |
-| 42 | [repo-sync/github-sync](https://github.com/repo-sync/github-sync) | 🔥 ⤵️ A GitHub Action for syncing current repository with remote | ⭐ 447 | `action` `fork` `github-action` `sync` | 2026-09-23 22:06:02 |
+| 42 | [repo-sync/github-sync](https://github.com/repo-sync/github-sync) | 🔥 ⤵️ A GitHub Action for syncing current repository with remote | ⭐ 446 | `action` `fork` `github-action` `sync` | 2026-10-07 12:28:01 |
 | 43 | [Mountain-Buzhou/Interview-Book](https://github.com/Mountain-Buzhou/Interview-Book) | It's not just interview questions, it's an engineer's career path. | ⭐ 439 |  | 2026-08-23 03:59:31 |
 | 44 | [Azure/container-service-for-azure-china](https://github.com/Azure/container-service-for-azure-china) | 🔥 Container Service for Azure China | ⭐ 424 | `aks-engine` `kubernetes` | 2026-09-22 13:00:06 |
-| 45 | [key-networks/ztncui-aio](https://github.com/key-networks/ztncui-aio) | 🔥 Licensed Under AGPL v3 | ⭐ 420 |  | 2026-10-04 09:26:15 |
-| 46 | [gangz1o/clash4docker](https://github.com/gangz1o/clash4docker) | 🔥 🐳🐱Docker Clash: 主流协议平台全兼容，内置精美UI面板，一键部署，世界触手可及。✨ | ⭐ 419 |  | 2026-10-05 15:25:30 |
+| 45 | [gangz1o/clash4docker](https://github.com/gangz1o/clash4docker) | 🔥 🐳🐱Docker Clash: 主流协议平台全兼容，内置精美UI面板，一键部署，世界触手可及。✨ | ⭐ 420 |  | 2026-10-07 13:12:46 |
+| 46 | [key-networks/ztncui-aio](https://github.com/key-networks/ztncui-aio) | 🔥 Licensed Under AGPL v3 | ⭐ 420 |  | 2026-10-04 09:26:15 |
 | 47 | [SwallOwDili/yapi](https://github.com/SwallOwDili/yapi) | 🔥 Docker for YApi 一键部署YApi | ⭐ 304 | `docker-yapi` `yapi` `yapi-deploy` | 2026-09-11 10:40:07 |
 | 48 | [d4rkstar/kong-konga-keycloak](https://github.com/d4rkstar/kong-konga-keycloak) | short tutorial to install kong, keycloak and konga in docker and test API authentication | ⭐ 300 |  | 2026-06-03 06:43:04 |
 | 49 | [xykt/ScriptMenu](https://github.com/xykt/ScriptMenu) | 🔥 XY系列脚本交互菜单 - Interactive Menu for XY Scripts (IPQuality/NetQuality | ⭐ 164 |  | 2026-10-03 05:10:34 |
@@ -633,25 +633,25 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 🔥 A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | ⭐ 149561 | `clash` `clash-meta` `clash-verge` `linux` `mac` | 2026-10-07 03:07:59 |
-| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io | ⭐ 140539 | `ai-tools` `claude-code` `codex` `desktop-app` `grok` | 2026-10-07 03:12:10 |
-| 3 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 🔥 An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | ⭐ 125289 | `android` `anydesk` `dart` `flatpak` `flutter` | 2026-10-07 03:12:33 |
-| 4 | [denoland/deno](https://github.com/denoland/deno) | 🔥 A modern runtime for JavaScript and TypeScript. | ⭐ 108662 | `deno` `javascript` `rust` `typescript` | 2026-10-07 00:58:13 |
-| 5 | [t8y2/dbx](https://github.com/t8y2/dbx) | 🔥 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built… | ⭐ 24937 | `ai` `cli` `clickhouse` `database` `database-client` | 2026-10-07 03:09:22 |
+| 1 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 🔥 A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | ⭐ 149800 | `clash` `clash-meta` `clash-verge` `linux` `mac` | 2026-10-08 03:27:54 |
+| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io | ⭐ 141013 | `ai-tools` `claude-code` `codex` `desktop-app` `grok` | 2026-10-08 03:30:17 |
+| 3 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 🔥 An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | ⭐ 125382 | `android` `anydesk` `dart` `flatpak` `flutter` | 2026-10-08 03:29:35 |
+| 4 | [denoland/deno](https://github.com/denoland/deno) | 🔥 A modern runtime for JavaScript and TypeScript. | ⭐ 108692 | `deno` `javascript` `rust` `typescript` | 2026-10-08 00:26:46 |
+| 5 | [t8y2/dbx](https://github.com/t8y2/dbx) | 🔥 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built… | ⭐ 25080 | `ai` `cli` `clickhouse` `database` `database-client` | 2026-10-08 03:29:13 |
 | 6 | [redox-os/redox](https://github.com/redox-os/redox) | 🔥 Mirror of https://gitlab.redox-os.org/redox-os/redox | ⭐ 16606 | `bsd` `freebsd` `gnu` `gnu-hurd` `linux` | 2026-10-07 03:04:09 |
-| 7 | [rust-lang/cargo](https://github.com/rust-lang/cargo) | 🔥 The Rust package manager | ⭐ 15561 | `cargo` `package-manager` `rust` | 2026-10-07 01:38:00 |
-| 8 | [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | 🔥 Clash Nyanpasu～(∠・ω< )⌒☆​ | ⭐ 13220 | `clash` `clash-meta` `clash-nyanpasu` `clash-rs` `material-you` | 2026-10-07 00:57:14 |
-| 9 | [perspective-dev/perspective](https://github.com/perspective-dev/perspective) | 🔥 A data visualization and analytics component, especially well-suited for large and/or streaming datasets. | ⭐ 11278 | `analytics` `apache-arrow` `bi` `business-intelligence` `charts` | 2026-10-07 00:46:27 |
-| 10 | [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) | 🔥 Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform … | ⭐ 8892 | `containers` `cri` `cri-o` `docker` `firecracker` | 2026-10-06 21:26:17 |
-| 11 | [visioncortex/vtracer](https://github.com/visioncortex/vtracer) | 🔥 Raster to Vector Graphics Converter | ⭐ 7222 | `image-procesing` `rust` `svg` `vector-graphics` | 2026-10-07 01:05:51 |
-| 12 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 🔥 A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations. | ⭐ 6244 | `fulltext` `geospatial` `gis` `inverted-index` `redis` | 2026-10-06 14:28:09 |
-| 13 | [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) | 🔥 The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on th… | ⭐ 6088 | `agent` `agent-team` `ai` `claude` `claude-code` | 2026-10-06 23:32:55 |
-| 14 | [quinn-rs/quinn](https://github.com/quinn-rs/quinn) | 🔥 Async-friendly QUIC implementation in Rust | ⭐ 5283 | `hacktoberfest` `protocol` `quic` `rust` | 2026-10-06 17:59:20 |
+| 7 | [rust-lang/cargo](https://github.com/rust-lang/cargo) | 🔥 The Rust package manager | ⭐ 15566 | `cargo` `package-manager` `rust` | 2026-10-08 01:03:58 |
+| 8 | [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | 🔥 Clash Nyanpasu～(∠・ω< )⌒☆​ | ⭐ 13221 | `clash` `clash-meta` `clash-nyanpasu` `clash-rs` `material-you` | 2026-10-08 01:43:28 |
+| 9 | [perspective-dev/perspective](https://github.com/perspective-dev/perspective) | 🔥 A data visualization and analytics component, especially well-suited for large and/or streaming datasets. | ⭐ 11280 | `analytics` `apache-arrow` `bi` `business-intelligence` `charts` | 2026-10-07 09:20:39 |
+| 10 | [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) | 🔥 Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform … | ⭐ 8896 | `containers` `cri` `cri-o` `docker` `firecracker` | 2026-10-08 02:12:03 |
+| 11 | [visioncortex/vtracer](https://github.com/visioncortex/vtracer) | 🔥 Raster to Vector Graphics Converter | ⭐ 7229 | `image-procesing` `rust` `svg` `vector-graphics` | 2026-10-08 03:15:13 |
+| 12 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 🔥 A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations. | ⭐ 6244 | `fulltext` `geospatial` `gis` `inverted-index` `redis` | 2026-10-07 16:16:30 |
+| 13 | [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) | 🔥 The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on th… | ⭐ 6096 | `agent` `agent-team` `ai` `claude` `claude-code` | 2026-10-08 00:53:00 |
+| 14 | [quinn-rs/quinn](https://github.com/quinn-rs/quinn) | 🔥 Async-friendly QUIC implementation in Rust | ⭐ 5283 | `hacktoberfest` `protocol` `quic` `rust` | 2026-10-08 00:43:03 |
 | 15 | [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) | 🔥 Distributed stream processing engine in Rust | ⭐ 5048 | `data` `data-stream-processing` `dev-tools` `infrastructure` `kafka` | 2026-10-06 18:22:22 |
-| 16 | [xintaofei/codeg](https://github.com/xintaofei/codeg) | 🔥 Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or D… | ⭐ 3828 | `acp` `ade` `agent` `claude-code` `code-generation` | 2026-10-07 03:11:20 |
+| 16 | [spacering-net/codeg](https://github.com/spacering-net/codeg) | 🔥 Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or D… | ⭐ 3845 | `acp` `ade` `agent` `claude-code` `code-generation` | 2026-10-08 02:57:21 |
 | 17 | [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) | 🔥 JWT lib in rust | ⭐ 2098 | `jsonwebtoken` `jwt` `rust` | 2026-10-06 17:58:15 |
 | 18 | [tarka/xcp](https://github.com/tarka/xcp) | 🔥 An extended `cp` | ⭐ 931 | `command-line` `copy-files` `linux` `solid-state-disks` `sparse-files` | 2026-09-29 01:33:24 |
-| 19 | [NIyueeE/ds-free-api](https://github.com/NIyueeE/ds-free-api) | 🔥 DeepSeek网页端API代理，支持OpenAI与Anthropic兼容接口 | OpenAI & Anthropic compatible API proxy for DeepSeek web | ⭐ 777 | `api` `api-proxy` `claude-api` `deepseek-api` `freeapi` | 2026-10-07 03:11:57 |
+| 19 | [NIyueeE/ds-free-api](https://github.com/NIyueeE/ds-free-api) | 🔥 DeepSeek网页端API代理，支持OpenAI与Anthropic兼容接口 | OpenAI & Anthropic compatible API proxy for DeepSeek web | ⭐ 782 | `api` `api-proxy` `claude-api` `deepseek-api` `freeapi` | 2026-10-08 01:45:31 |
 | 20 | [dontpanic92/OpenPAL3](https://github.com/dontpanic92/OpenPAL3) | 🔥 仙三开源版 - The efforts to create an open-source implementation of Chinese Paladin 3 | ⭐ 583 | `game` `game-engine` `open-source` `pal` `pal3` | 2026-10-03 18:25:10 |
 | 21 | [glademiller/openapiv3](https://github.com/glademiller/openapiv3) | 🔥 Rust Open API v3 Structs and Enums for easy deserialization with serde | ⭐ 204 |  | 2026-10-02 01:56:53 |
 | 22 | [Matthias247/futures-intrusive](https://github.com/Matthias247/futures-intrusive) | 🔥 Synchronization primitives for Futures and async/await based on intrusive collections | ⭐ 191 | `async` `async-await` `futures-rs` `multithreading` `rust` | 2026-09-13 06:03:23 |
@@ -673,35 +673,35 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | 🔥 :tada: A magical vue admin https://panjiachen.github.io/vue-element-admin | ⭐ 90161 | `admin` `admin-dashboard` `admin-template` `axios` `dashboard` | 2026-10-07 00:18:13 |
-| 2 | [ElemeFE/element](https://github.com/ElemeFE/element) | 🔥 A Vue.js 2.0 UI Toolkit for Web | ⭐ 54031 | `components` `element-ui` `javascript` `ui-kit` `vue` | 2026-10-06 17:58:18 |
-| 3 | [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) | 🔥 Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用 | ⭐ 40997 | `es2015` `flex` `sass` `vue` `vue-router` | 2026-10-06 17:29:58 |
-| 4 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | 🔥 Collection of handy online tools for developers, with great UX. | ⭐ 40778 | `converter` `developer-productivity` `developer-tools` `frontend` `javascript` | 2026-10-07 02:46:59 |
-| 5 | [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | 🔥 A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast! | ⭐ 33556 | `admin-template` `ant-design` `element-plus` `monorepo` `naive-ui` | 2026-10-07 03:12:40 |
-| 6 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 🔥 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: | ⭐ 33354 | `electron` `javascript` `linux` `mac` `macos` | 2026-10-07 02:47:40 |
-| 7 | [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 🔥 用 Express 和 Vue3 搭建的 ChatGPT 演示网页 | ⭐ 31421 |  | 2026-10-07 03:06:06 |
-| 8 | [iview/iview](https://github.com/iview/iview) | 🔥 A high quality UI Toolkit built on Vue.js 2.0 | ⭐ 23754 | `components` `css` `design-systems` `frontend` `iview` | 2026-10-04 19:18:20 |
-| 9 | [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) | 🔥 🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜 | ⭐ 21674 | `ant` `ant-design` `antd` `antd-vue` `css` | 2026-10-06 23:25:25 |
-| 10 | [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) | 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） | ⭐ 20659 | `admin` `element-plus` `esm` `pinia` `tailwindcss` | 2026-10-06 07:53:17 |
-| 11 | [iview/iview-admin](https://github.com/iview/iview-admin) | 🔥 Vue 2.0 admin management system template based on iView | ⭐ 16349 | `admin` `admin-template` `axios` `iview` `vue` | 2026-10-03 09:24:27 |
-| 12 | [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) | 🔥 A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统 | ⭐ 13604 | `element-ui` `less` `vue` `vue-cli` `vue-router` | 2026-10-06 17:29:59 |
-| 13 | [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) | 🔥 鲜亮的高饱和色彩，专注视觉的小程序组件库 | ⭐ 12374 | `css` `mp-weixin` `scss` `uniapp` `vue` | 2026-09-30 01:46:30 |
-| 14 | [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) | 🔥 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro! (vue2) | ⭐ 10932 | `admin` `ant-design` `antd` `antd-pro` `css` | 2026-10-03 09:15:18 |
-| 15 | [crmeb/CRMEB](https://github.com/crmeb/CRMEB) | 🔥 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议 | ⭐ 9397 | `b2c` `form-create` `ivewui` `o2o` `php` | 2026-10-06 14:33:29 |
-| 16 | [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) | 🔥 PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editi… | ⭐ 9369 | `ai` `aippt` `office` `office-powerpoint` `online-powerpoint` | 2026-10-06 08:53:17 |
+| 1 | [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | 🔥 :tada: A magical vue admin https://panjiachen.github.io/vue-element-admin | ⭐ 90158 | `admin` `admin-dashboard` `admin-template` `axios` `dashboard` | 2026-10-08 03:30:19 |
+| 2 | [ElemeFE/element](https://github.com/ElemeFE/element) | 🔥 A Vue.js 2.0 UI Toolkit for Web | ⭐ 54032 | `components` `element-ui` `javascript` `ui-kit` `vue` | 2026-10-08 03:18:50 |
+| 3 | [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) | 🔥 Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用 | ⭐ 40994 | `es2015` `flex` `sass` `vue` `vue-router` | 2026-10-08 03:12:21 |
+| 4 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | 🔥 Collection of handy online tools for developers, with great UX. | ⭐ 40787 | `converter` `developer-productivity` `developer-tools` `frontend` `javascript` | 2026-10-08 02:33:31 |
+| 5 | [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | 🔥 A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast! | ⭐ 33558 | `admin-template` `ant-design` `element-plus` `monorepo` `naive-ui` | 2026-10-08 03:19:31 |
+| 6 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 🔥 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: | ⭐ 33354 | `electron` `javascript` `linux` `mac` `macos` | 2026-10-08 03:11:26 |
+| 7 | [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 🔥 用 Express 和 Vue3 搭建的 ChatGPT 演示网页 | ⭐ 31420 |  | 2026-10-07 14:52:08 |
+| 8 | [iview/iview](https://github.com/iview/iview) | 🔥 A high quality UI Toolkit built on Vue.js 2.0 | ⭐ 23752 | `components` `css` `design-systems` `frontend` `iview` | 2026-10-07 10:18:14 |
+| 9 | [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) | 🔥 🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜 | ⭐ 21674 | `ant` `ant-design` `antd` `antd-vue` `css` | 2026-10-07 11:11:14 |
+| 10 | [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) | 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） | ⭐ 20664 | `admin` `element-plus` `esm` `pinia` `tailwindcss` | 2026-10-08 02:37:48 |
+| 11 | [iview/iview-admin](https://github.com/iview/iview-admin) | 🔥 Vue 2.0 admin management system template based on iView | ⭐ 16347 | `admin` `admin-template` `axios` `iview` `vue` | 2026-10-07 10:17:58 |
+| 12 | [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) | 🔥 A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统 | ⭐ 13604 | `element-ui` `less` `vue` `vue-cli` `vue-router` | 2026-10-07 22:41:30 |
+| 13 | [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) | 🔥 鲜亮的高饱和色彩，专注视觉的小程序组件库 | ⭐ 12372 | `css` `mp-weixin` `scss` `uniapp` `vue` | 2026-10-07 12:18:39 |
+| 14 | [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) | 🔥 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro! (vue2) | ⭐ 10930 | `admin` `ant-design` `antd` `antd-pro` `css` | 2026-10-07 10:17:47 |
+| 15 | [crmeb/CRMEB](https://github.com/crmeb/CRMEB) | 🔥 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议 | ⭐ 9398 | `b2c` `form-create` `ivewui` `o2o` `php` | 2026-10-07 08:08:12 |
+| 16 | [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) | 🔥 PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editi… | ⭐ 9370 | `ai` `aippt` `office` `office-powerpoint` `online-powerpoint` | 2026-10-07 14:38:18 |
 | 17 | [museui/muse-ui](https://github.com/museui/muse-ui) | 🔥 Material Design UI library for Vuejs 2.0 | ⭐ 8133 | `material` `muse-ui` `vue` `vue2` `vuejs2` | 2026-10-06 11:07:03 |
-| 18 | [thinkgem/jeesite](https://github.com/thinkgem/jeesite) | 🔥 👍Java 低代码, 轻量级, Spring Boot, MyBatis, Flowable, TypeScript, Vue, Antdv, 包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流、Spring Cloud 微服务等。 | ⭐ 8051 |  | 2026-10-06 02:17:11 |
+| 18 | [thinkgem/jeesite](https://github.com/thinkgem/jeesite) | 🔥 👍Java 低代码, 轻量级, Spring Boot, MyBatis, Flowable, TypeScript, Vue, Antdv, 包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流、Spring Cloud 微服务等。 | ⭐ 8051 |  | 2026-10-07 14:50:07 |
 | 19 | [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) | 🔥 admin template based on vuejs2 and element. | ⭐ 6554 |  | 2026-09-28 02:35:08 |
 | 20 | [GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making) | 🔥 A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。） | ⭐ 5565 |  | 2026-10-05 17:31:55 |
-| 21 | [ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen) | 🔥 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink. | ⭐ 4451 |  | 2026-10-06 19:14:51 |
-| 22 | [keleus/BewlyCat](https://github.com/keleus/BewlyCat) | 🔥 BewlyCat——基于BewlyBewly开发的Bilibili拓展 | ⭐ 4372 | `bewlybewly` `bili` `bilibili` | 2026-10-06 23:34:23 |
-| 23 | [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz) | 🔥 👏vue后台管理框架👏 | ⭐ 4322 | `admin` `admin-dashboard` `admin-template` `admin-tool` `admin-ui` | 2026-10-06 04:23:16 |
+| 21 | [ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen) | 🔥 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink. | ⭐ 4449 |  | 2026-10-08 03:22:06 |
+| 22 | [keleus/BewlyCat](https://github.com/keleus/BewlyCat) | 🔥 BewlyCat——基于BewlyBewly开发的Bilibili拓展 | ⭐ 4379 | `bewlybewly` `bili` `bilibili` | 2026-10-08 02:06:55 |
+| 23 | [herozhou/vue-framework-wz](https://github.com/herozhou/vue-framework-wz) | 🔥 👏vue后台管理框架👏 | ⭐ 4321 | `admin` `admin-dashboard` `admin-template` `admin-tool` `admin-ui` | 2026-10-07 04:05:31 |
 | 24 | [euvl/vue-js-modal](https://github.com/euvl/vue-js-modal) | 🔥 Easy to use, highly customizable Vue.js modal library. | ⭐ 4311 | `vue` `vue-js-modal` `vue-modal` `vue-plugin` `vuejs` | 2026-09-28 08:26:29 |
 | 25 | [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) | 🔥 PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。 | ⭐ 4227 | `ai-flashcards` `anki-flashcards` `anki-to-pdf` `excel-to-anki` `markdown-to-anki` | 2026-10-06 09:17:50 |
 | 26 | [stylefeng/Guns](https://github.com/stylefeng/Guns) | 🔥 Guns是一个现代化的Java应用开发框架，基于主流技术Spring Boot3 + Vue3 + JDK17，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本。 | ⭐ 3977 | `beetl` `gun` `guns` `jwt` `mybatis` | 2026-10-07 01:47:14 |
 | 27 | [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) | 🔥 Vue3 Component for draggable and resizable elements. | ⭐ 3583 | `component` `draggable` `resizable` `vuejs3` | 2026-09-26 14:32:32 |
 | 28 | [dingyong0214/ThorUI-uniapp](https://github.com/dingyong0214/ThorUI-uniapp) | 🔥 ThorUI组件库，轻量、简洁的移动端组件库。组件文档地址：https://thorui.cn/doc | ⭐ 2782 | `component` `components` `demo-app` `template` `uni-app` | 2026-10-04 09:24:14 |
-| 29 | [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) | 🔥 Mobile application for Audiobookshelf | ⭐ 2757 | `android` `audiobooks` `audiobookshelf` `ios` | 2026-10-06 15:57:38 |
+| 29 | [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) | 🔥 Mobile application for Audiobookshelf | ⭐ 2758 | `android` `audiobooks` `audiobookshelf` `ios` | 2026-10-07 13:14:05 |
 | 30 | [ydcss/vue-ydui](https://github.com/ydcss/vue-ydui) | 🔥 A mobile components Library with Vue2.js. 一只基于Vue2.x的移动端组件库。 | ⭐ 2725 | `backtop` `component` `datetime` `dialog` `mobile` | 2026-09-26 18:20:57 |
 | 31 | [maomao1996/Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) | 🔥 🎵 基于 Vue 的在线音乐播放器 Online music player | ⭐ 2683 | `mmplayer` `music` `music-player` `vue` `vue-cli` | 2026-10-03 11:45:46 |
 | 32 | [mirari/v-viewer](https://github.com/mirari/v-viewer) | 🔥 Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js | ⭐ 2639 | `gallery` `image` `img` `picture` `viewer` | 2026-09-22 01:53:15 |
@@ -711,17 +711,17 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 | 36 | [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) | 🔥 WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy. Available for Windows, Mac, Linux or online. | ⭐ 2174 | `calendar` `linux` `macos` `productivity` `task-manager` | 2026-10-06 10:00:00 |
 | 37 | [sl1673495/vue-netease-music](https://github.com/sl1673495/vue-netease-music) | 🔥 🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Player | ⭐ 2166 | `better-scroll` `javascript` `music-player` `netease-cloud-music` `netease-music` | 2026-10-02 15:14:53 |
 | 38 | [ratiw/vuetable-2](https://github.com/ratiw/vuetable-2) | 🔥 data table simplify! -- datatable component for Vue 2.x. See documentation at | ⭐ 2140 | `component` `datatable` `pagination-components` `vue` | 2026-10-02 06:40:09 |
-| 39 | [a54552239/pearProject](https://github.com/a54552239/pearProject) | 🔥 pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作 | ⭐ 1850 | `admin` `ant-design` `jwt` `php` `project-management` | 2026-10-06 08:52:26 |
+| 39 | [a54552239/pearProject](https://github.com/a54552239/pearProject) | 🔥 pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作 | ⭐ 1849 | `admin` `ant-design` `jwt` `php` `project-management` | 2026-10-07 10:19:50 |
 | 40 | [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) | 🔥 An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design. | ⭐ 1819 | `arco-design` `arco-design-pro` `pro` `vue` `vuejs` | 2026-09-30 06:37:29 |
 | 41 | [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) | Creative Tim Paper Dashboard made for Vue | ⭐ 1790 |  | 2026-08-11 18:02:18 |
-| 42 | [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) | 🔥 A modern web client for Jellyfin based on Vue | ⭐ 1709 | `client` `jellyfin` `vite` `vue` `vuejs` | 2026-10-07 02:59:02 |
+| 42 | [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) | 🔥 A modern web client for Jellyfin based on Vue | ⭐ 1709 | `client` `jellyfin` `vite` `vue` `vuejs` | 2026-10-07 19:41:56 |
 | 43 | [useryangtao/vue-wechat](https://github.com/useryangtao/vue-wechat) | 用Vue.js开发微信app | ⭐ 1676 | `vue` `vue-cli` `vue-router` `vuex` `wechat` | 2026-08-07 11:53:44 |
 | 44 | [starsliao/TenSunS](https://github.com/starsliao/TenSunS) | 🔥 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资… | ⭐ 1640 | `blackbox-exporter` `consul` `node-exporter` `prometheus` | 2026-10-05 14:39:23 |
 | 45 | [HongqingCao/GitDataV](https://github.com/HongqingCao/GitDataV) | 🔥 基于Vue框架构建的github数据可视化平台 | ⭐ 1600 | `axios` `vuejs` | 2026-10-06 11:07:43 |
 | 46 | [myide/see](https://github.com/myide/see) | 🔥 基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核\&SQL优化的Web平台 | ⭐ 1480 | `django` `inception` `mysql` `soar` `sqladvisor` | 2026-09-30 10:27:51 |
 | 47 | [KuangPF/mpvue-weui](https://github.com/KuangPF/mpvue-weui) | 🔥 用 vue 写小程序，基于 mpvue 框架重写 weui。 | ⭐ 1442 | `mpvue` `vue` `weui` `weui-wxss` `wxapp` | 2026-09-28 03:40:03 |
 | 48 | [TrilonIO/aspnetcore-Vue-starter](https://github.com/TrilonIO/aspnetcore-Vue-starter) | 🔥 *NEW* Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more! By @TrilonIO | ⭐ 1196 | `aspnet` `aspnetcore` `dotnet-template` `ssr` `trilon` | 2026-09-18 09:44:57 |
-| 49 | [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) | 🔥 Stripe Checkout & Elements for Vue.js | ⭐ 1125 | `hacktoberfest` `javascript` `nuxt-demo` `payment` `plugin` | 2026-10-02 07:12:20 |
+| 49 | [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) | 🔥 Stripe Checkout & Elements for Vue.js | ⭐ 1126 | `hacktoberfest` `javascript` `nuxt-demo` `payment` `plugin` | 2026-10-08 01:12:09 |
 | 50 | [LeCoupa/vuedarkmode](https://github.com/LeCoupa/vuedarkmode) | 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do. | ⭐ 1083 | `bootstrap` `components` `darkmode` `design-system` `nuxtjs` | 2026-06-02 00:52:45 |
 
 [⬆ 返回分类目录](#-分类目录)
@@ -736,10 +736,10 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) | 🔥 \[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini:… | ⭐ 18570 | `backtest` `bitcoin` `blockchain` `deep-learning` `fintech` | 2026-10-07 02:35:14 |
-| 2 | [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) | 🔥 One has no future if one couldn't teach themself. | ⭐ 17434 |  | 2026-10-07 01:51:00 |
-| 3 | [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) | 🔥 wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译 | ⭐ 12704 |  | 2026-10-06 08:32:51 |
-| 4 | [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) | 🔥 Code for Tensorflow Machine Learning Cookbook | ⭐ 6237 | `classification` `cnn` `genetic-algorithm` `kmeans-clustering` `linear-regression` | 2026-10-06 08:52:14 |
+| 1 | [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) | 🔥 \[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini:… | ⭐ 18576 | `backtest` `bitcoin` `blockchain` `deep-learning` `fintech` | 2026-10-08 02:25:41 |
+| 2 | [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) | 🔥 One has no future if one couldn't teach themself. | ⭐ 17439 |  | 2026-10-07 12:49:34 |
+| 3 | [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) | 🔥 wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译 | ⭐ 12703 |  | 2026-10-07 03:48:32 |
+| 4 | [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) | 🔥 Code for Tensorflow Machine Learning Cookbook | ⭐ 6238 | `classification` `cnn` `genetic-algorithm` `kmeans-clustering` `linear-regression` | 2026-10-07 22:41:24 |
 | 5 | [iphysresearch/TOP250movie\_douban](https://github.com/iphysresearch/TOP250movie_douban) | 🔥 TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型 | ⭐ 1023 | `project` | 2026-10-03 09:58:48 |
 | 6 | [YJango/Tensorflow-eager-execution](https://github.com/YJango/Tensorflow-eager-execution) | 🔥 使用 tensorflow eager execution 的机器学习全新教程 | ⭐ 108 |  | 2026-09-21 18:04:36 |
 | 7 | [dgg/nmoneys](https://github.com/dgg/nmoneys) | .Net implementation of Money Value Object | ⭐ 82 | `bson` `currency` `entity-framework` `iso-standard` `iso4217` | 2026-06-25 06:55:29 |
@@ -760,56 +760,56 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 🔥 A C# port of shadowsocks | ⭐ 59545 | `c-sharp` `proxy` `shadowsocks` | 2026-10-06 17:56:24 |
-| 2 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 🔥 The Free Software Media System - Server Backend & API | ⭐ 57853 | `csharp` `dotnet` `hacktoberfest` `jellyfin` | 2026-10-07 02:53:14 |
-| 3 | [files-community/Files](https://github.com/files-community/Files) | 🔥 A modern file manager that helps users organize their files and folders. | ⭐ 45833 | `alternatives` `csharp` `customization` `developer-tools` `dotnet` | 2026-10-07 02:53:34 |
-| 4 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | 🔥 ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploadi… | ⭐ 39910 | `avalonia` `capture` `color-picker` `csharp` `dropbox` | 2026-10-07 02:34:44 |
-| 5 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 🔥 :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） | ⭐ 38889 | `hex-editor` `patch` `pc` `qq` `revoke` | 2026-10-06 20:30:23 |
-| 6 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 🔥 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | ⭐ 38464 | `aspnetcore` `dotnet` `hacktoberfest` `help-wanted` | 2026-10-06 21:36:55 |
-| 7 | [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | 🔥 A Swiss Army knife for developers. | ⭐ 32061 | `blazor` `cross-platform` `csharp` `desktop` `desktop-app` | 2026-10-06 15:43:46 |
-| 8 | [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) | 🔥 Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI | ⭐ 31624 | `android` `app-framework` `avalonia` `avaloniaui` `browser` | 2026-10-07 02:55:52 |
-| 9 | [microsoft/calculator](https://github.com/microsoft/calculator) | 🔥 Windows Calculator: A simple yet powerful calculator that ships with Windows | ⭐ 31067 | `cpp` `csharp` `uwp` `windows` `windows-10` | 2026-10-07 02:55:36 |
-| 10 | [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | 🔥 .NET debugger and assembly editor | ⭐ 29670 |  | 2026-10-07 01:59:46 |
-| 11 | [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 🔥 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. | ⭐ 27746 | `editor` `gif` `recorder` `sketchboard` `video` | 2026-10-06 19:33:18 |
-| 12 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 🔥 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 | ⭐ 27077 | `android-app` `avalonia` `avaloniaui` `cross-platform` `crossplatform` | 2026-10-06 23:17:05 |
-| 13 | [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | 🔥 .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform! | ⭐ 26346 | `c-sharp` `decompile` `decompiler` `decompiler-engine` `dotnet` | 2026-10-07 02:58:01 |
+| 1 | [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 🔥 A C# port of shadowsocks | ⭐ 59545 | `c-sharp` `proxy` `shadowsocks` | 2026-10-08 03:02:16 |
+| 2 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 🔥 The Free Software Media System - Server Backend & API | ⭐ 57887 | `csharp` `dotnet` `hacktoberfest` `jellyfin` | 2026-10-08 03:03:06 |
+| 3 | [files-community/Files](https://github.com/files-community/Files) | 🔥 A modern file manager that helps users organize their files and folders. | ⭐ 45854 | `alternatives` `csharp` `customization` `developer-tools` `dotnet` | 2026-10-08 03:12:26 |
+| 4 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | 🔥 ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploadi… | ⭐ 39921 | `avalonia` `capture` `color-picker` `csharp` `dropbox` | 2026-10-08 01:53:21 |
+| 5 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 🔥 :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） | ⭐ 38895 | `hex-editor` `patch` `pc` `qq` `revoke` | 2026-10-07 16:01:12 |
+| 6 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 🔥 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | ⭐ 38466 | `aspnetcore` `dotnet` `hacktoberfest` `help-wanted` | 2026-10-08 02:39:17 |
+| 7 | [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | 🔥 A Swiss Army knife for developers. | ⭐ 32062 | `blazor` `cross-platform` `csharp` `desktop` `desktop-app` | 2026-10-08 01:08:30 |
+| 8 | [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) | 🔥 Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI | ⭐ 31626 | `android` `app-framework` `avalonia` `avaloniaui` `browser` | 2026-10-08 02:24:38 |
+| 9 | [microsoft/calculator](https://github.com/microsoft/calculator) | 🔥 Windows Calculator: A simple yet powerful calculator that ships with Windows | ⭐ 31070 | `cpp` `csharp` `uwp` `windows` `windows-10` | 2026-10-08 01:29:22 |
+| 10 | [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | 🔥 .NET debugger and assembly editor | ⭐ 29671 |  | 2026-10-07 20:37:48 |
+| 11 | [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 🔥 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. | ⭐ 27750 | `editor` `gif` `recorder` `sketchboard` `video` | 2026-10-08 02:41:48 |
+| 12 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 🔥 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 | ⭐ 27080 | `android-app` `avalonia` `avaloniaui` `cross-platform` `crossplatform` | 2026-10-08 03:21:50 |
+| 13 | [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | 🔥 .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform! | ⭐ 26412 | `c-sharp` `decompile` `decompiler` `decompiler-engine` `dotnet` | 2026-10-08 03:04:27 |
 | 14 | [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | 🔥 Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure K… | ⭐ 24300 | `ddd` `ddd-patterns` `docker` `microservices` `netcore` | 2026-10-06 09:36:17 |
-| 15 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 🔥 Lean Algorithmic Trading Engine by QuantConnect (Python, C#) | ⭐ 21886 | `algorithm` `algorithmic-trading-engine` `c-sharp` `finance` `forex` | 2026-10-07 03:06:15 |
-| 16 | [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | 🔥 :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software | ⭐ 21399 | `awesome` `awesome-list` `csharp` `dotnet-core` `list` | 2026-10-06 20:27:50 |
-| 17 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 🔥 The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. | ⭐ 20708 | `csharp` `hacktoberfest` `roslyn` `visual-basic` `visual-studio` | 2026-10-07 02:53:56 |
-| 18 | [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | 🔥 Clean Architecture Solution Template for ASP.NET Core | ⭐ 20627 | `angular` `asp-net` `aspire` `clean-architecture` `dotnet` | 2026-10-06 22:50:24 |
-| 19 | [bitwarden/server](https://github.com/bitwarden/server) | 🔥 Bitwarden infrastructure/backend (API, database, Docker, etc). | ⭐ 20242 | `api` `aspnet` `aspnetcore` `bitwarden` `csharp` | 2026-10-06 20:46:38 |
-| 20 | [ppy/osu](https://github.com/ppy/osu) | 🔥 rhythm is just a *click* away! | ⭐ 19228 | `beatmap` `catch` `game` `mania` `osu` | 2026-10-07 02:09:58 |
-| 21 | [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | 🔥 Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10 | ⭐ 18510 | `architecture` `clean-architecture` `csharp` `ddd` `domain-driven-design` | 2026-10-06 23:12:56 |
-| 22 | [DapperLib/Dapper](https://github.com/DapperLib/Dapper) | 🔥 Dapper - a simple object mapper for .Net | ⭐ 18395 | `ado-net` `dapper` `sql` | 2026-10-06 22:07:27 |
-| 23 | [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | 🔥 Google's Material Design in XAML & WPF, for C# & VB.Net. | ⭐ 16272 | `c-sharp` `design` `dragablz` `hacktoberfest` `hacktoberfest2020` | 2026-10-05 07:55:58 |
-| 24 | [Jackett/Jackett](https://github.com/Jackett/Jackett) | 🔥 API Support for your favorite torrent trackers | ⭐ 16160 | `api` `couchpotato` `duckietv` `hacktoberfest` `indexer` | 2026-10-07 01:01:34 |
-| 25 | [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) | 🔥 \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported. | ⭐ 16129 | `command-line` `downloader` `m3u8` `m3u8-downloader` `m3u8-parser` | 2026-10-07 01:54:00 |
-| 26 | [dotnet/efcore](https://github.com/dotnet/efcore) | 🔥 EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. | ⭐ 14800 | `aspnet-product` `c-sharp` `database` `dotnet-core` `dotnet-framework` | 2026-10-06 05:44:32 |
-| 27 | [abpframework/abp](https://github.com/abpframework/abp) | 🔥 Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of… | ⭐ 14442 | `abp` `angular` `architecture` `aspnet` `aspnet-core` | 2026-10-07 02:57:47 |
-| 28 | [App-vNext/Polly](https://github.com/App-vNext/Polly) | 🔥 Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Is… | ⭐ 14244 | `circuit-breaker` `circuit-breaker-pattern` `dotnet` `fault-handler` `resilience` | 2026-10-06 18:31:12 |
-| 29 | [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) | 🔥 QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a… | ⭐ 14193 | `c-sharp` `dotnet-core` `export` `generation` `html` | 2026-10-07 03:06:06 |
-| 30 | [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | 🔥 Full Modular Monolith application with Domain-Driven Design approach. | ⭐ 14058 | `architecture` `clean-architecture` `clean-code` `cqrs` `ddd` | 2026-10-06 23:15:35 |
-| 31 | [nilaoda/BBDown](https://github.com/nilaoda/BBDown) | 🔥 Bilibili Downloader. 一个命令行式哔哩哔哩下载器. | ⭐ 13874 | `downloader` | 2026-10-06 17:38:22 |
-| 32 | [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 🔥 一键自动化 下载、安装、激活 Office 的利器。 | ⭐ 12814 | `access` `email` `excel` `kms` `lync` | 2026-10-07 02:02:34 |
-| 33 | [dotnet/csharplang](https://github.com/dotnet/csharplang) | 🔥 The official repo for the design of the C# programming language | ⭐ 12718 | `csharp` `language-design` | 2026-10-06 19:59:22 |
-| 34 | [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | 🔥 ASP.NET Boilerplate - Web Application Framework | ⭐ 11999 | `abp` `architecture` `aspnet` `aspnet-core` `aspnetcore` | 2026-10-06 23:27:15 |
-| 35 | [LuckyPennySoftware/MediatR](https://github.com/LuckyPennySoftware/MediatR) | 🔥 Simple, unambitious mediator implementation in .NET | ⭐ 11858 | `hacktoberfest` | 2026-10-07 03:14:03 |
-| 36 | [chocolatey/choco](https://github.com/chocolatey/choco) | 🔥 Chocolatey - the package manager for Windows | ⭐ 11537 | `c-sharp` `chocolatey` `hacktoberfest` `package-management` `package-manager` | 2026-10-06 09:18:36 |
-| 37 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 🔥 Powerful .NET library for benchmarking | ⭐ 11506 | `benchmark` `benchmarking` `c-sharp` `csharp` `dotnet` | 2026-10-07 00:39:59 |
-| 38 | [mono/mono](https://github.com/mono/mono) | 🔥 Mono open source ECMA CLI, C# and .NET implementation. | ⭐ 11471 | `android` `csharp` `dotnet` `garbage-collector` `ios` | 2026-10-06 17:38:20 |
-| 39 | [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) | 🔥 Cross Platform Terminal UI toolkit for .NET | ⭐ 11249 | `console` `console-application` `cross-platform` `csharp` `curses` | 2026-10-07 00:26:50 |
-| 40 | [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | 🔥 mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. | ⭐ 11144 | `c-sharp` `mremoteng` `multi-protocol` `rdp` `remote-access` | 2026-10-06 15:59:26 |
-| 41 | [dotnet/orleans](https://github.com/dotnet/orleans) | 🔥 Cloud Native application framework for .NET | ⭐ 10895 | `actor-model` `actors` `cloud-computing` `cloud-native` `concurrency` | 2026-10-06 23:40:49 |
+| 15 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 🔥 Lean Algorithmic Trading Engine by QuantConnect (Python, C#) | ⭐ 21900 | `algorithm` `algorithmic-trading-engine` `c-sharp` `finance` `forex` | 2026-10-08 01:57:55 |
+| 16 | [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | 🔥 :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software | ⭐ 21400 | `awesome` `awesome-list` `csharp` `dotnet-core` `list` | 2026-10-08 01:02:13 |
+| 17 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 🔥 The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. | ⭐ 20713 | `csharp` `hacktoberfest` `roslyn` `visual-basic` `visual-studio` | 2026-10-08 03:09:56 |
+| 18 | [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | 🔥 Clean Architecture Solution Template for ASP.NET Core | ⭐ 20632 | `angular` `asp-net` `aspire` `clean-architecture` `dotnet` | 2026-10-07 21:41:35 |
+| 19 | [bitwarden/server](https://github.com/bitwarden/server) | 🔥 Bitwarden infrastructure/backend (API, database, Docker, etc). | ⭐ 20245 | `api` `aspnet` `aspnetcore` `bitwarden` `csharp` | 2026-10-08 03:00:01 |
+| 20 | [ppy/osu](https://github.com/ppy/osu) | 🔥 rhythm is just a *click* away! | ⭐ 19238 | `beatmap` `catch` `game` `mania` `osu` | 2026-10-08 02:56:08 |
+| 21 | [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | 🔥 Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10 | ⭐ 18510 | `architecture` `clean-architecture` `csharp` `ddd` `domain-driven-design` | 2026-10-07 21:41:38 |
+| 22 | [DapperLib/Dapper](https://github.com/DapperLib/Dapper) | 🔥 Dapper - a simple object mapper for .Net | ⭐ 18398 | `ado-net` `dapper` `sql` | 2026-10-08 03:24:58 |
+| 23 | [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | 🔥 Google's Material Design in XAML & WPF, for C# & VB.Net. | ⭐ 16273 | `c-sharp` `design` `dragablz` `hacktoberfest` `hacktoberfest2020` | 2026-10-07 21:27:36 |
+| 24 | [Jackett/Jackett](https://github.com/Jackett/Jackett) | 🔥 API Support for your favorite torrent trackers | ⭐ 16169 | `api` `couchpotato` `duckietv` `hacktoberfest` `indexer` | 2026-10-08 00:20:24 |
+| 25 | [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) | 🔥 \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported. | ⭐ 16131 | `command-line` `downloader` `m3u8` `m3u8-downloader` `m3u8-parser` | 2026-10-07 13:30:14 |
+| 26 | [dotnet/efcore](https://github.com/dotnet/efcore) | 🔥 EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. | ⭐ 14800 | `aspnet-product` `c-sharp` `database` `dotnet-core` `dotnet-framework` | 2026-10-08 00:20:32 |
+| 27 | [abpframework/abp](https://github.com/abpframework/abp) | 🔥 Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of… | ⭐ 14443 | `abp` `angular` `architecture` `aspnet` `aspnet-core` | 2026-10-08 03:24:17 |
+| 28 | [App-vNext/Polly](https://github.com/App-vNext/Polly) | 🔥 Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Is… | ⭐ 14245 | `circuit-breaker` `circuit-breaker-pattern` `dotnet` `fault-handler` `resilience` | 2026-10-07 18:37:10 |
+| 29 | [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) | 🔥 QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a… | ⭐ 14194 | `c-sharp` `dotnet-core` `export` `generation` `html` | 2026-10-07 08:48:31 |
+| 30 | [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | 🔥 Full Modular Monolith application with Domain-Driven Design approach. | ⭐ 14059 | `architecture` `clean-architecture` `clean-code` `cqrs` `ddd` | 2026-10-07 17:15:42 |
+| 31 | [nilaoda/BBDown](https://github.com/nilaoda/BBDown) | 🔥 Bilibili Downloader. 一个命令行式哔哩哔哩下载器. | ⭐ 13873 | `downloader` | 2026-10-07 17:58:10 |
+| 32 | [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 🔥 一键自动化 下载、安装、激活 Office 的利器。 | ⭐ 12825 | `access` `email` `excel` `kms` `lync` | 2026-10-08 03:20:46 |
+| 33 | [dotnet/csharplang](https://github.com/dotnet/csharplang) | 🔥 The official repo for the design of the C# programming language | ⭐ 12721 | `csharp` `language-design` | 2026-10-07 16:45:42 |
+| 34 | [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | 🔥 ASP.NET Boilerplate - Web Application Framework | ⭐ 11998 | `abp` `architecture` `aspnet` `aspnet-core` `aspnetcore` | 2026-10-08 02:39:27 |
+| 35 | [LuckyPennySoftware/MediatR](https://github.com/LuckyPennySoftware/MediatR) | 🔥 Simple, unambitious mediator implementation in .NET | ⭐ 11858 | `hacktoberfest` | 2026-10-07 20:40:39 |
+| 36 | [chocolatey/choco](https://github.com/chocolatey/choco) | 🔥 Chocolatey - the package manager for Windows | ⭐ 11537 | `c-sharp` `chocolatey` `hacktoberfest` `package-management` `package-manager` | 2026-10-08 01:16:04 |
+| 37 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 🔥 Powerful .NET library for benchmarking | ⭐ 11506 | `benchmark` `benchmarking` `c-sharp` `csharp` `dotnet` | 2026-10-07 20:12:50 |
+| 38 | [mono/mono](https://github.com/mono/mono) | 🔥 Mono open source ECMA CLI, C# and .NET implementation. | ⭐ 11470 | `android` `csharp` `dotnet` `garbage-collector` `ios` | 2026-10-07 17:59:13 |
+| 39 | [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) | 🔥 Cross Platform Terminal UI toolkit for .NET | ⭐ 11252 | `console` `console-application` `cross-platform` `csharp` `curses` | 2026-10-08 00:09:11 |
+| 40 | [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | 🔥 mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. | ⭐ 11143 | `c-sharp` `mremoteng` `multi-protocol` `rdp` `remote-access` | 2026-10-07 20:45:42 |
+| 41 | [dotnet/orleans](https://github.com/dotnet/orleans) | 🔥 Cloud Native application framework for .NET | ⭐ 10895 | `actor-model` `actors` `cloud-computing` `cloud-native` `concurrency` | 2026-10-08 03:30:10 |
 | 42 | [MathewSachin/Captura](https://github.com/MathewSachin/Captura) | 🔥 Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes | ⭐ 10848 | `capture` `chocolatey` `dotnet` `gif` `keystrokes` | 2026-10-05 10:02:56 |
-| 43 | [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) | 🔥 ”深蓝词库转换“ 一款开源免费的输入法词库转换程序 | ⭐ 10406 | `c-sharp` `chinese-characters` `converter` `dotnet` `dotnet-core` | 2026-10-07 02:53:14 |
-| 44 | [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) | 🔥 Practical samples of ASP.NET Core 11, 10, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects. | ⭐ 10406 | `asp-net-core` `aspnet-core` `aspnetcore` `dotnet-core` `hacktoberfest` | 2026-10-05 17:14:42 |
-| 45 | [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) | 🔥 .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework | ⭐ 10263 | `browser` `c-plus-plus` `c-sharp` `cefsharp` `framework` | 2026-10-04 22:35:47 |
-| 46 | [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) | 🔥 ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. | ⭐ 10158 | `asp-net` `asp-net-core` `aspnet` `aspnetcore` `cart` | 2026-10-06 18:43:37 |
-| 47 | [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) | 🔥 An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required | ⭐ 10148 | `background-jobs` `background-thread` `background-worker` `dotnet` `dotnet-core` | 2026-10-06 21:16:10 |
-| 48 | [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) | 🔥 Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities | ⭐ 9917 | `hacktoberfest` `localization` | 2026-10-06 13:27:03 |
-| 49 | [quasar/Quasar](https://github.com/quasar/Quasar) | 🔥 Remote Administration Tool for Windows | ⭐ 9901 | `administration` `c-sharp` `dotnet` `mono` `net` | 2026-10-06 17:56:32 |
-| 50 | [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | 🔥 A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort. | ⭐ 9833 | `c-sharp` `hacktoberfest` `mahapps` `metro` `modern` | 2026-10-06 18:09:03 |
+| 43 | [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) | 🔥 ”深蓝词库转换“ 一款开源免费的输入法词库转换程序 | ⭐ 10408 | `c-sharp` `chinese-characters` `converter` `dotnet` `dotnet-core` | 2026-10-08 02:19:25 |
+| 44 | [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) | 🔥 Practical samples of ASP.NET Core 11, 10, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects. | ⭐ 10407 | `asp-net-core` `aspnet-core` `aspnetcore` `dotnet-core` `hacktoberfest` | 2026-10-07 20:41:47 |
+| 45 | [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) | 🔥 .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework | ⭐ 10264 | `browser` `c-plus-plus` `c-sharp` `cefsharp` `framework` | 2026-10-07 10:33:59 |
+| 46 | [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) | 🔥 ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. | ⭐ 10156 | `asp-net` `asp-net-core` `aspnet` `aspnetcore` `cart` | 2026-10-07 15:31:47 |
+| 47 | [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) | 🔥 An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required | ⭐ 10148 | `background-jobs` `background-thread` `background-worker` `dotnet` `dotnet-core` | 2026-10-07 18:32:41 |
+| 48 | [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) | 🔥 Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities | ⭐ 9918 | `hacktoberfest` `localization` | 2026-10-08 02:07:18 |
+| 49 | [quasar/Quasar](https://github.com/quasar/Quasar) | 🔥 Remote Administration Tool for Windows | ⭐ 9902 | `administration` `c-sharp` `dotnet` `mono` `net` | 2026-10-08 01:35:16 |
+| 50 | [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | 🔥 A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort. | ⭐ 9834 | `c-sharp` `hacktoberfest` `mahapps` `metro` `modern` | 2026-10-08 03:09:24 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -826,28 +826,28 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) | 🔥 Firefly III: a personal finances manager | ⭐ 24839 | `accounting` `budget` `budgeting` `budgets` `cash-flow` | 2026-10-07 00:39:49 |
-| 2 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 🔥 Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving … | ⭐ 21929 | `analytics` `growth` `hacktoberfest` `intranet` `log` | 2026-10-06 23:15:41 |
-| 3 | [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 🔥 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate | ⭐ 18669 |  | 2026-10-06 17:56:51 |
+| 1 | [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) | 🔥 Firefly III: a personal finances manager | ⭐ 24842 | `accounting` `budget` `budgeting` `budgets` `cash-flow` | 2026-10-07 20:27:19 |
+| 2 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 🔥 Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving … | ⭐ 21934 | `analytics` `growth` `hacktoberfest` `intranet` `log` | 2026-10-08 03:02:02 |
+| 3 | [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 🔥 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate | ⭐ 18668 |  | 2026-10-07 10:23:26 |
 | 4 | [erusev/parsedown](https://github.com/erusev/parsedown) | 🔥 Better Markdown Parser in PHP | ⭐ 15054 | `markdown` `markdown-parser` `parser` `php` | 2026-10-06 17:57:24 |
-| 5 | [walkor/workerman](https://github.com/walkor/workerman) | 🔥 An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. | ⭐ 11552 | `asynchronous` `event-driven` `high-performance` `php` `socket` | 2026-10-06 18:36:51 |
-| 6 | [kanboard/kanboard](https://github.com/kanboard/kanboard) | 🔥 Kanban project management software | ⭐ 9895 | `agile` `kanban` `kanboard` `project-management` `self-hosted` | 2026-10-07 03:01:14 |
-| 7 | [vrana/adminer](https://github.com/vrana/adminer) | 🔥 Database management in a single PHP file | ⭐ 7917 | `database` `mariadb` `mssql` `mysql` `php` | 2026-10-06 22:36:05 |
-| 8 | [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) | 🔥 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡 | ⭐ 5756 |  | 2026-10-06 22:15:16 |
+| 5 | [walkor/workerman](https://github.com/walkor/workerman) | 🔥 An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. | ⭐ 11551 | `asynchronous` `event-driven` `high-performance` `php` `socket` | 2026-10-07 12:26:32 |
+| 6 | [kanboard/kanboard](https://github.com/kanboard/kanboard) | 🔥 Kanban project management software | ⭐ 9899 | `agile` `kanban` `kanboard` `project-management` `self-hosted` | 2026-10-08 01:14:16 |
+| 7 | [vrana/adminer](https://github.com/vrana/adminer) | 🔥 Database management in a single PHP file | ⭐ 7918 | `database` `mariadb` `mssql` `mysql` `php` | 2026-10-07 14:16:10 |
+| 8 | [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) | 🔥 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡 | ⭐ 5760 |  | 2026-10-07 17:53:08 |
 | 9 | [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) | 🔥 Postman汉化中文版 | ⭐ 5631 | `chinese` `postman` | 2026-10-05 17:33:31 |
-| 10 | [kuaifan/dootask](https://github.com/kuaifan/dootask) | 🔥 DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。 | ⭐ 5587 | `dootask` `project-management` `project-manager` `remote-work` `task-management-system` | 2026-10-06 08:53:30 |
+| 10 | [kuaifan/dootask](https://github.com/kuaifan/dootask) | 🔥 DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。 | ⭐ 5586 | `dootask` `project-management` `project-manager` `remote-work` `task-management-system` | 2026-10-07 06:31:19 |
 | 11 | [yansongda/pay](https://github.com/yansongda/pay) | 🔥 可能是我用过的最优雅的 Alipay/WeChat/Douyin/Unipay/江苏银行 的支付 SDK 扩展包了 | ⭐ 5370 | `alipay` `douyin` `laravel-pay` `pay` `payment` | 2026-10-02 18:52:28 |
 | 12 | [fecshop/yii2\_fecshop](https://github.com/fecshop/yii2_fecshop) | 🔥 yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等 | ⭐ 5260 | `b2c` `cart` `ecommerce` `fecmall` `fecshop` | 2026-10-03 15:05:28 |
-| 13 | [zyx0814/dzzoffice](https://github.com/zyx0814/dzzoffice) | 🔥 dzzoffice | ⭐ 4050 |  | 2026-10-05 19:05:25 |
-| 14 | [craftcms/cms](https://github.com/craftcms/cms) | 🔥 Build bespoke content experiences with Craft. | ⭐ 3611 | `cms` `content-management` `craft3` `craft4` `craftcms` | 2026-10-07 02:45:38 |
+| 13 | [zyx0814/dzzoffice](https://github.com/zyx0814/dzzoffice) | 🔥 dzzoffice | ⭐ 4051 |  | 2026-10-07 10:20:29 |
+| 14 | [craftcms/cms](https://github.com/craftcms/cms) | 🔥 Build bespoke content experiences with Craft. | ⭐ 3611 | `cms` `content-management` `craft3` `craft4` `craftcms` | 2026-10-07 17:37:38 |
 | 15 | [owner888/phpspider](https://github.com/owner888/phpspider) | 🔥 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序 | ⭐ 3461 | `php` `phpspider` | 2026-10-01 10:51:56 |
-| 16 | [espocrm/espocrm](https://github.com/espocrm/espocrm) | 🔥 EspoCRM – Open Source CRM Application | ⭐ 3444 | `calendar` `contacts` `crm` `crm-platform` `crm-system` | 2026-10-06 20:37:24 |
-| 17 | [guanguans/favorite-link](https://github.com/guanguans/favorite-link) | 🔥 ❤️ 每天收集喜欢的开源项目。 | ⭐ 3347 | `awesome` `awesome-links` `awesome-list` `awesome-lists` `feed` | 2026-10-06 19:33:57 |
+| 16 | [espocrm/espocrm](https://github.com/espocrm/espocrm) | 🔥 EspoCRM – Open Source CRM Application | ⭐ 3451 | `calendar` `contacts` `crm` `crm-platform` `crm-system` | 2026-10-08 02:25:59 |
+| 17 | [guanguans/favorite-link](https://github.com/guanguans/favorite-link) | 🔥 ❤️ 每天收集喜欢的开源项目。 | ⭐ 3348 | `awesome` `awesome-links` `awesome-list` `awesome-lists` `feed` | 2026-10-08 01:35:26 |
 | 18 | [overtrue/easy-sms](https://github.com/overtrue/easy-sms) | 🔥 📲 一款多渠道的短信发送轮子 | ⭐ 3339 | `php-sms` `sms` `sms-client` `sms-gateway` | 2026-10-04 21:21:51 |
 | 19 | [TIGERB/easy-tips](https://github.com/TIGERB/easy-tips) | 🔥 A little Tips in my Code Career with Go\&PHP 🥳🥳🥳 | ⭐ 2710 | `go` `go-patterns` `golang` `linux-commands` `mysql` | 2026-10-02 03:29:11 |
-| 20 | [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) | 🔥 Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously gi… | ⭐ 2604 | `hacktoberfest` `laravel` `multi-domain` `multi-tenancy` `multi-tenant` | 2026-10-01 19:35:53 |
+| 20 | [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) | 🔥 Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously gi… | ⭐ 2604 | `hacktoberfest` `laravel` `multi-domain` `multi-tenancy` `multi-tenant` | 2026-10-08 00:53:13 |
 | 21 | [mylxsw/wizard](https://github.com/mylxsw/wizard) | 🔥 Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。 | ⭐ 2268 | `api` `doc` `laravel` `markdown` `openapi` | 2026-10-06 08:51:55 |
-| 22 | [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) | 🔥 Open source alternative frontend for TikTok made using PHP | ⭐ 2145 | `alternative-frontends` `php` `proxitok` `tiktok` `tiktok-scraper` | 2026-10-06 06:33:19 |
+| 22 | [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) | 🔥 Open source alternative frontend for TikTok made using PHP | ⭐ 2146 | `alternative-frontends` `php` `proxitok` `tiktok` `tiktok-scraper` | 2026-10-07 05:27:45 |
 | 23 | [TideSec/WDScanner](https://github.com/TideSec/WDScanner) | 🔥 WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。 | ⭐ 2100 |  | 2026-10-05 17:33:04 |
 | 24 | [helloxz/imgurl](https://github.com/helloxz/imgurl) | 🔥 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro | ⭐ 1762 | `imgurl` `markdown` `php` `xiaoz` | 2026-10-01 08:51:24 |
 | 25 | [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2) | 🔥 一个基于 Yii2 高级框架的快速开发应用引擎 | ⭐ 1705 | `admin` `alipay` `api` `cmf` `cms` | 2026-09-30 06:58:29 |
@@ -892,56 +892,56 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 🔥 Design patterns implemented in Java | ⭐ 94756 | `awesome-list` `design-patterns` `hacktoberfest` `java` `principles` | 2026-10-07 00:17:09 |
-| 2 | [macrozheng/mall](https://github.com/macrozheng/mall) | 🔥 mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内… | ⭐ 84865 | `docker` `elasticsearch` `elk` `java` `mongodb` | 2026-10-06 18:18:20 |
-| 3 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | 🔥 Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | ⭐ 81562 | `framework` `java` `spring` `spring-boot` | 2026-10-07 02:54:47 |
-| 4 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | 🔥 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | ⭐ 79139 | `advanced-java` `distributed-search-engine` `distributed-systems` `doocs` `dubbo` | 2026-10-06 17:56:35 |
-| 5 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 🔥 Free and Open Source, Distributed, RESTful Search Engine | ⭐ 78202 | `elasticsearch` `java` `search-engine` | 2026-10-07 02:28:18 |
-| 6 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) | 🔥 Spring Framework | ⭐ 60275 | `spring` `spring-framework` `spring-mvc` | 2026-10-07 01:50:31 |
-| 7 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 🔥 Free universal database tool and SQL client | ⭐ 51967 | `ai` `database` `databricks` `db2` `dbeaver` | 2026-10-07 00:14:48 |
-| 8 | [skylot/jadx](https://github.com/skylot/jadx) | 🔥 Dex to Java decompiler | ⭐ 50761 | `android` `decompiler` `dex` `java` | 2026-10-07 00:49:57 |
-| 9 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 🔥 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-… | ⭐ 48093 | `activiti` `agent` `ai` `antd` `claude-code` | 2026-10-06 19:26:47 |
-| 10 | [apache/dubbo](https://github.com/apache/dubbo) | 🔥 The java implementation of Apache Dubbo. An RPC and microservice framework. | ⭐ 41579 | `distributed-systems` `dubbo` `framework` `grpc` `http` | 2026-10-07 02:56:21 |
-| 11 | [halo-dev/halo](https://github.com/halo-dev/halo) | 🔥 Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 | ⭐ 39931 | `blog` `blog-engine` `cms` `content-management-system` `halo` | 2026-10-06 15:10:25 |
-| 12 | [alibaba/arthas](https://github.com/alibaba/arthas) | 🔥 Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas | ⭐ 37569 | `agent` `alibaba` `arthas` `classloader` `diagnosis` | 2026-10-07 01:24:20 |
-| 13 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 🔥 A browser automation framework and ecosystem. | ⭐ 34522 | `dotnet` `java` `javascript` `python` `ruby` | 2026-10-06 20:02:07 |
-| 14 | [apache/kafka](https://github.com/apache/kafka) | 🔥 Apache Kafka - A distributed event streaming platform | ⭐ 33917 | `java` `kafka` `scala` `streaming` | 2026-10-07 02:55:36 |
-| 15 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel) | 🔥 快速、简洁、解决大文件内存溢出的java处理Excel工具 | ⭐ 33611 | `excel` `java` `jxl` `oom` `poi` | 2026-10-06 12:07:09 |
-| 16 | [alibaba/nacos](https://github.com/alibaba/nacos) | 🔥 an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. | ⭐ 33418 | `a2a-registry` `agent` `ai-registry` `configuration-management` `distributed-configuration` | 2026-10-07 03:03:10 |
-| 17 | [binarywang/WxJava](https://github.com/binarywang/WxJava) | 🔥 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 | ⭐ 33139 | `cp` `hacktoberfest` `java` `miniapp` `miniprogram` | 2026-10-05 11:41:21 |
-| 18 | [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) | 🔥 A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） | ⭐ 30601 | `cron` `distributed` `glue` `java` `job` | 2026-10-06 02:47:02 |
-| 19 | [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | 🔥 about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 | ⭐ 30479 | `docker` `docker-composer` `fastdfs` `java` `mongodb` | 2026-10-06 19:24:39 |
-| 20 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | 🔥 Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | ⭐ 29816 | `config-management` `configuration-management` `distributed-configuration` `microservices` `spring-boot` | 2026-10-07 02:55:48 |
-| 21 | [alibaba/canal](https://github.com/alibaba/canal) | 🔥 阿里巴巴 MySQL binlog 增量订阅&消费组件 | ⭐ 29740 |  | 2026-10-06 13:56:45 |
-| 22 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 🔥 Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. | ⭐ 29172 | `alibaba` `alibaba-middleware` `alibaba-oss` `aliyun` `circuit-breaker` | 2026-10-06 13:12:42 |
-| 23 | [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 🔥 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc | ⭐ 28941 | `learning` `shiro` `spring-boot` `spring-boot-learning` `spring-cloud` | 2026-10-06 13:13:24 |
-| 24 | [alibaba/druid](https://github.com/alibaba/druid) | 🔥 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池 | ⭐ 28169 |  | 2026-10-07 02:56:07 |
-| 25 | [lenve/vhr](https://github.com/lenve/vhr) | 🔥 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 | ⭐ 28046 |  | 2026-10-06 19:22:14 |
-| 26 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 🔥 Jenkins automation server | ⭐ 26623 | `cicd` `continuous-delivery` `continuous-deployment` `continuous-integration` `devops` | 2026-10-07 01:37:33 |
-| 27 | [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) | 🔥 ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 | ⭐ 26591 |  | 2026-10-07 01:39:03 |
-| 28 | [apache/incubator-seata](https://github.com/apache/incubator-seata) | 🔥 :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. | ⭐ 26008 | `at` `consistency` `distributed-transaction` `microservice` `saga` | 2026-10-06 15:56:21 |
-| 29 | [apache/skywalking](https://github.com/apache/skywalking) | 🔥 APM, Application Performance Monitoring System | ⭐ 24968 | `apm` `dapper` `distributed-tracing` `ebpf` `logging` | 2026-10-07 01:42:22 |
-| 30 | [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | 🔥 http下载工具，基于http代理，支持多连接分块下载 | ⭐ 24640 |  | 2026-10-06 17:39:14 |
-| 31 | [dataease/dataease](https://github.com/dataease/dataease) | 🔥 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | ⭐ 24589 | `apache-doris` `business-intelligence` `data-analysis` `data-visualization` `echarts` | 2026-10-07 03:11:27 |
-| 32 | [alibaba/Sentinel](https://github.com/alibaba/Sentinel) | 🔥 A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | ⭐ 23144 | `alibaba` `circuit-breaker` `cloud-native` `java` `microservice` | 2026-10-05 09:00:04 |
-| 33 | [oracle/graal](https://github.com/oracle/graal) | 🔥 GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 | ⭐ 21729 | `aot` `compiler` `graalvm` `java` | 2026-10-06 23:31:52 |
-| 34 | [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | 🔥 Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, an… | ⭐ 21506 | `16k` `android` `exoplayer` `ffmpeg` `gsy` | 2026-10-05 09:52:50 |
-| 35 | [apache/shardingsphere](https://github.com/apache/shardingsphere) | 🔥 Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. | ⭐ 20804 | `bigdata` `data-encryption` `data-pipeline` `database` `database-cluster` | 2026-10-07 02:56:13 |
-| 36 | [didi/DoKit](https://github.com/didi/DoKit) | 🔥 一款面向泛前端产品研发全生命周期的效率平台。 | ⭐ 20420 | `android` `ios` `miniapp` `mockgps` `monitoring` | 2026-09-28 18:25:40 |
-| 37 | [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) | 🔥 ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、MES… | ⭐ 19593 | `dubbo` `elasticsearch` `mall` `mysql` `nacos` | 2026-10-06 08:52:38 |
-| 38 | [dromara/Sa-Token](https://github.com/dromara/Sa-Token) | 🔥 ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名 | ⭐ 19064 | `aouth2` `authorization` `java` `springcloud` `sso` | 2026-10-06 08:41:03 |
-| 39 | [antlr/antlr4](https://github.com/antlr/antlr4) | 🔥 ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. | ⭐ 19024 | `antlr` `antlr4` `cpp` `csharp` `dart` | 2026-10-06 17:56:43 |
-| 40 | [dianping/cat](https://github.com/dianping/cat) | 🔥 CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 | ⭐ 18940 | `apm` `distributed` `java` `metrics` `monitoring` | 2026-10-06 17:21:23 |
-| 41 | [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) | 🔥 🏆 Real-Time no-code, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码… | ⭐ 18400 | `baas` `clickhouse` `crud` `databricks` `elasticsearch` | 2026-10-06 23:51:53 |
+| 1 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 🔥 Design patterns implemented in Java | ⭐ 94763 | `awesome-list` `design-patterns` `hacktoberfest` `java` `principles` | 2026-10-08 02:32:58 |
+| 2 | [macrozheng/mall](https://github.com/macrozheng/mall) | 🔥 mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内… | ⭐ 84866 | `docker` `elasticsearch` `elk` `java` `mongodb` | 2026-10-08 03:30:30 |
+| 3 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | 🔥 Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | ⭐ 81565 | `framework` `java` `spring` `spring-boot` | 2026-10-08 02:39:44 |
+| 4 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | 🔥 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | ⭐ 79139 | `advanced-java` `distributed-search-engine` `distributed-systems` `doocs` `dubbo` | 2026-10-08 03:12:25 |
+| 5 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 🔥 Free and Open Source, Distributed, RESTful Search Engine | ⭐ 78207 | `elasticsearch` `java` `search-engine` | 2026-10-08 01:34:40 |
+| 6 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) | 🔥 Spring Framework | ⭐ 60281 | `spring` `spring-framework` `spring-mvc` | 2026-10-08 03:13:30 |
+| 7 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 🔥 Free universal database tool and SQL client | ⭐ 51979 | `ai` `database` `databricks` `db2` `dbeaver` | 2026-10-08 02:48:17 |
+| 8 | [skylot/jadx](https://github.com/skylot/jadx) | 🔥 Dex to Java decompiler | ⭐ 50774 | `android` `decompiler` `dex` `java` | 2026-10-08 01:48:26 |
+| 9 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 🔥 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-… | ⭐ 48105 | `activiti` `agent` `ai` `antd` `claude-code` | 2026-10-08 02:35:27 |
+| 10 | [apache/dubbo](https://github.com/apache/dubbo) | 🔥 The java implementation of Apache Dubbo. An RPC and microservice framework. | ⭐ 41580 | `distributed-systems` `dubbo` `framework` `grpc` `http` | 2026-10-07 23:15:29 |
+| 11 | [halo-dev/halo](https://github.com/halo-dev/halo) | 🔥 Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 | ⭐ 39932 | `blog` `blog-engine` `cms` `content-management-system` `halo` | 2026-10-08 03:12:24 |
+| 12 | [alibaba/arthas](https://github.com/alibaba/arthas) | 🔥 Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas | ⭐ 37570 | `agent` `alibaba` `arthas` `classloader` `diagnosis` | 2026-10-08 03:28:40 |
+| 13 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 🔥 A browser automation framework and ecosystem. | ⭐ 34522 | `dotnet` `java` `javascript` `python` `ruby` | 2026-10-08 02:08:53 |
+| 14 | [apache/kafka](https://github.com/apache/kafka) | 🔥 Apache Kafka - A distributed event streaming platform | ⭐ 33920 | `java` `kafka` `scala` `streaming` | 2026-10-08 01:36:07 |
+| 15 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel) | 🔥 快速、简洁、解决大文件内存溢出的java处理Excel工具 | ⭐ 33609 | `excel` `java` `jxl` `oom` `poi` | 2026-10-08 01:35:01 |
+| 16 | [alibaba/nacos](https://github.com/alibaba/nacos) | 🔥 an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. | ⭐ 33418 | `a2a-registry` `agent` `ai-registry` `configuration-management` `distributed-configuration` | 2026-10-08 01:34:53 |
+| 17 | [binarywang/WxJava](https://github.com/binarywang/WxJava) | 🔥 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 | ⭐ 33140 | `cp` `hacktoberfest` `java` `miniapp` `miniprogram` | 2026-10-08 03:12:42 |
+| 18 | [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) | 🔥 A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） | ⭐ 30602 | `cron` `distributed` `glue` `java` `job` | 2026-10-07 08:57:53 |
+| 19 | [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | 🔥 about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 | ⭐ 30473 | `docker` `docker-composer` `fastdfs` `java` `mongodb` | 2026-10-08 01:44:38 |
+| 20 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | 🔥 Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | ⭐ 29815 | `config-management` `configuration-management` `distributed-configuration` `microservices` `spring-boot` | 2026-10-08 01:19:54 |
+| 21 | [alibaba/canal](https://github.com/alibaba/canal) | 🔥 阿里巴巴 MySQL binlog 增量订阅&消费组件 | ⭐ 29739 |  | 2026-10-07 10:18:05 |
+| 22 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 🔥 Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. | ⭐ 29170 | `alibaba` `alibaba-middleware` `alibaba-oss` `aliyun` `circuit-breaker` | 2026-10-08 01:57:29 |
+| 23 | [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 🔥 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc | ⭐ 28939 | `learning` `shiro` `spring-boot` `spring-boot-learning` `spring-cloud` | 2026-10-07 09:15:32 |
+| 24 | [alibaba/druid](https://github.com/alibaba/druid) | 🔥 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池 | ⭐ 28168 |  | 2026-10-07 10:22:26 |
+| 25 | [lenve/vhr](https://github.com/lenve/vhr) | 🔥 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 | ⭐ 28044 |  | 2026-10-07 06:20:47 |
+| 26 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 🔥 Jenkins automation server | ⭐ 26628 | `cicd` `continuous-delivery` `continuous-deployment` `continuous-integration` `devops` | 2026-10-08 03:20:36 |
+| 27 | [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) | 🔥 ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 | ⭐ 26588 |  | 2026-10-08 03:02:34 |
+| 28 | [apache/incubator-seata](https://github.com/apache/incubator-seata) | 🔥 :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. | ⭐ 26009 | `at` `consistency` `distributed-transaction` `microservice` `saga` | 2026-10-08 02:04:35 |
+| 29 | [apache/skywalking](https://github.com/apache/skywalking) | 🔥 APM, Application Performance Monitoring System | ⭐ 24967 | `apm` `dapper` `distributed-tracing` `ebpf` `logging` | 2026-10-08 02:46:17 |
+| 30 | [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | 🔥 http下载工具，基于http代理，支持多连接分块下载 | ⭐ 24639 |  | 2026-10-07 23:15:33 |
+| 31 | [dataease/dataease](https://github.com/dataease/dataease) | 🔥 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | ⭐ 24593 | `apache-doris` `business-intelligence` `data-analysis` `data-visualization` `echarts` | 2026-10-08 03:29:27 |
+| 32 | [alibaba/Sentinel](https://github.com/alibaba/Sentinel) | 🔥 A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | ⭐ 23146 | `alibaba` `circuit-breaker` `cloud-native` `java` `microservice` | 2026-10-08 01:22:17 |
+| 33 | [oracle/graal](https://github.com/oracle/graal) | 🔥 GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 | ⭐ 21726 | `aot` `compiler` `graalvm` `java` | 2026-10-07 16:45:12 |
+| 34 | [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | 🔥 Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, an… | ⭐ 21506 | `16k` `android` `exoplayer` `ffmpeg` `gsy` | 2026-10-08 02:50:46 |
+| 35 | [apache/shardingsphere](https://github.com/apache/shardingsphere) | 🔥 Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. | ⭐ 20804 | `bigdata` `data-encryption` `data-pipeline` `database` `database-cluster` | 2026-10-07 13:15:47 |
+| 36 | [didi/DoKit](https://github.com/didi/DoKit) | 🔥 一款面向泛前端产品研发全生命周期的效率平台。 | ⭐ 20422 | `android` `ios` `miniapp` `mockgps` `monitoring` | 2026-10-08 03:04:19 |
+| 37 | [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) | 🔥 ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、MES… | ⭐ 19594 | `dubbo` `elasticsearch` `mall` `mysql` `nacos` | 2026-10-08 02:41:30 |
+| 38 | [dromara/Sa-Token](https://github.com/dromara/Sa-Token) | 🔥 ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名 | ⭐ 19065 | `aouth2` `authorization` `java` `springcloud` `sso` | 2026-10-08 01:57:13 |
+| 39 | [antlr/antlr4](https://github.com/antlr/antlr4) | 🔥 ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. | ⭐ 19026 | `antlr` `antlr4` `cpp` `csharp` `dart` | 2026-10-07 13:46:07 |
+| 40 | [dianping/cat](https://github.com/dianping/cat) | 🔥 CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 | ⭐ 18941 | `apm` `distributed` `java` `metrics` `monitoring` | 2026-10-07 22:41:13 |
+| 41 | [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) | 🔥 🏆 Real-Time no-code, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码… | ⭐ 18399 | `baas` `clickhouse` `crud` `databricks` `elasticsearch` | 2026-10-07 06:18:44 |
 | 42 | [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) | 🔥 《史上最简单的Spring Cloud教程源码》 | ⭐ 17905 | `consul` `eureka` `feign` `finchley` `gateway` | 2026-10-04 15:39:52 |
-| 43 | [ben-manes/caffeine](https://github.com/ben-manes/caffeine) | 🔥 A high performance caching library for Java | ⭐ 17880 |  | 2026-10-07 02:54:33 |
-| 44 | [justauth/JustAuth](https://github.com/justauth/JustAuth) | 🔥 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverf… | ⭐ 17526 | `googlelogin` `justauth` `oauth2` `qqlogin` `weixinlogin` | 2026-10-06 13:32:30 |
-| 45 | [questdb/questdb](https://github.com/questdb/questdb) | 🔥 QuestDB is a high performance, open-source, time-series database | ⭐ 17424 | `apache-arrow` `capital-markets` `database` `historian` `kdb` | 2026-10-06 21:57:05 |
-| 46 | [alibaba/DataX](https://github.com/alibaba/DataX) | 🔥 DataX是阿里云DataWorks数据集成的开源版本。 | ⭐ 17364 |  | 2026-10-02 15:14:17 |
-| 47 | [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) | 🔥 大数据入门指南 :star: | ⭐ 16978 | `azkaban` `big-data` `bigdata` `flume` `hadoop` | 2026-10-06 18:21:11 |
-| 48 | [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) | 🔥 A server software reimplementation for a certain anime game. | ⭐ 16824 | `java` `kcp` `private-server` `server` | 2026-10-06 22:47:19 |
-| 49 | [shuzheng/zheng](https://github.com/shuzheng/zheng) | 🔥 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。 | ⭐ 16639 | `activemq` `alioss` `druid` `dubbo` `ehcache` | 2026-10-06 08:52:41 |
-| 50 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 🔥 Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code | ⭐ 14507 | `airflow` `azkaban` `cloud-native` `data-pipelines` `job-scheduler` | 2026-10-06 02:57:38 |
+| 43 | [ben-manes/caffeine](https://github.com/ben-manes/caffeine) | 🔥 A high performance caching library for Java | ⭐ 17880 |  | 2026-10-07 18:20:28 |
+| 44 | [justauth/JustAuth](https://github.com/justauth/JustAuth) | 🔥 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverf… | ⭐ 17526 | `googlelogin` `justauth` `oauth2` `qqlogin` `weixinlogin` | 2026-10-07 09:18:47 |
+| 45 | [questdb/questdb](https://github.com/questdb/questdb) | 🔥 QuestDB is a high performance, open-source, time-series database | ⭐ 17432 | `apache-arrow` `capital-markets` `database` `historian` `kdb` | 2026-10-08 03:11:37 |
+| 46 | [alibaba/DataX](https://github.com/alibaba/DataX) | 🔥 DataX是阿里云DataWorks数据集成的开源版本。 | ⭐ 17363 |  | 2026-10-08 02:15:58 |
+| 47 | [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) | 🔥 大数据入门指南 :star: | ⭐ 16982 | `azkaban` `big-data` `bigdata` `flume` `hadoop` | 2026-10-08 03:25:56 |
+| 48 | [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) | 🔥 A server software reimplementation for a certain anime game. | ⭐ 16823 | `java` `kcp` `private-server` `server` | 2026-10-08 02:30:30 |
+| 49 | [shuzheng/zheng](https://github.com/shuzheng/zheng) | 🔥 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。 | ⭐ 16640 | `activemq` `alioss` `druid` `dubbo` `ehcache` | 2026-10-07 15:21:43 |
+| 50 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 🔥 Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code | ⭐ 14511 | `airflow` `azkaban` `cloud-native` `data-pipelines` `job-scheduler` | 2026-10-08 03:21:33 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -955,7 +955,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) | 🔥 Dockerized version of Nexus Repo Manager 3 | ⭐ 1652 | `nexus-repository` `repository` `repository-management` | 2026-10-04 11:40:09 |
+| 1 | [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) | 🔥 Dockerized version of Nexus Repo Manager 3 | ⭐ 1651 | `nexus-repository` `repository` `repository-management` | 2026-10-07 18:17:22 |
 | 2 | [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) | Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, G… | ⭐ 96 | `argocd` `aws` `ci` `ci-cd` `ci-cd-pipeline` | 2026-07-27 22:19:41 |
 
 [⬆ 返回分类目录](#-分类目录)
@@ -970,38 +970,38 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 🔥 LLM inference in C/C++ | ⭐ 130527 | `ggml` | 2026-10-07 03:11:46 |
-| 2 | [microsoft/terminal](https://github.com/microsoft/terminal) | 🔥 The new Windows Terminal and the original Windows console host, all in the same place! | ⭐ 105089 | `cmd` `command-line` `console` `contributions-welcome` `good-first-issue` | 2026-10-07 02:00:22 |
-| 3 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 🔥 ClickHouse® is a real-time analytics database management system | ⭐ 50273 | `ai` `analytics` `big-data` `clickhouse` `cloud-native` | 2026-10-07 00:45:43 |
-| 4 | [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) | 🔥  | ⭐ 23230 |  | 2026-10-06 20:59:14 |
-| 5 | [microsoft/CNTK](https://github.com/microsoft/CNTK) | 🔥 Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit | ⭐ 17589 | `c-plus-plus` `c-sharp` `cntk` `cognitive-toolkit` `deep-learning` | 2026-10-06 08:55:49 |
-| 6 | [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) | 🔥 :heart:中国科学技术大学课程资源 | ⭐ 16306 | `computer-science` `course` `share` `ustc` | 2026-10-06 13:07:25 |
-| 7 | [vnotex/vnote](https://github.com/vnotex/vnote) | 🔥 A pleasant note-taking platform in native C++. | ⭐ 12996 | `editor` `markdown` `mathjax` `note` `note-taking` | 2026-10-06 08:51:34 |
-| 8 | [EOSIO/eos](https://github.com/EOSIO/eos) | 🔥 An open source smart contract platform | ⭐ 11167 | `eosio` | 2026-09-30 13:56:49 |
+| 1 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 🔥 LLM inference in C/C++ | ⭐ 130624 | `ggml` | 2026-10-08 03:20:07 |
+| 2 | [microsoft/terminal](https://github.com/microsoft/terminal) | 🔥 The new Windows Terminal and the original Windows console host, all in the same place! | ⭐ 105099 | `cmd` `command-line` `console` `contributions-welcome` `good-first-issue` | 2026-10-08 02:42:03 |
+| 3 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 🔥 ClickHouse® is a real-time analytics database management system | ⭐ 50288 | `ai` `analytics` `big-data` `clickhouse` `cloud-native` | 2026-10-08 02:53:41 |
+| 4 | [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) | 🔥  | ⭐ 23230 |  | 2026-10-07 08:14:23 |
+| 5 | [microsoft/CNTK](https://github.com/microsoft/CNTK) | 🔥 Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit | ⭐ 17588 | `c-plus-plus` `c-sharp` `cntk` `cognitive-toolkit` `deep-learning` | 2026-10-07 13:17:02 |
+| 6 | [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) | 🔥 :heart:中国科学技术大学课程资源 | ⭐ 16308 | `computer-science` `course` `share` `ustc` | 2026-10-07 15:25:17 |
+| 7 | [vnotex/vnote](https://github.com/vnotex/vnote) | 🔥 A pleasant note-taking platform in native C++. | ⭐ 12997 | `editor` `markdown` `mathjax` `note` `note-taking` | 2026-10-08 02:45:59 |
+| 8 | [EOSIO/eos](https://github.com/EOSIO/eos) | 🔥 An open source smart contract platform | ⭐ 11166 | `eosio` | 2026-10-07 10:56:53 |
 | 9 | [TarsCloud/Tars](https://github.com/TarsCloud/Tars) | 🔥 Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via … | ⭐ 10081 | `high-availability` `high-performance` `microservice` `rpc-framework` `tars` | 2026-10-01 13:48:30 |
-| 10 | [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) | 🔥 Library for conversion between Traditional and Simplified Chinese | ⭐ 10036 | `chinese` `chinese-conversion` `chinese-translation` `simplified-chinese` `traditional-chinese` | 2026-10-06 16:53:48 |
-| 11 | [scylladb/seastar](https://github.com/scylladb/seastar) | 🔥 High performance server-side application framework | ⭐ 9386 | `aio` `async` `c-plus-plus` `dpdk` `seastar` | 2026-10-05 20:01:05 |
-| 12 | [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) | 🔥 Wechat Chat History Exporter 微信聊天记录导出备份程序 | ⭐ 8510 | `backup` `chat` `dump` `export` `friend` | 2026-10-07 00:04:39 |
-| 13 | [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | 🔥 WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications. | ⭐ 8497 | `cpp` `csharp` `desktop` `fluent-design` `uwp` | 2026-10-06 19:43:04 |
-| 14 | [sass/node-sass](https://github.com/sass/node-sass) | 🔥 :rainbow: Node.js bindings to libsass | ⭐ 8447 | `libsass` `node-sass` `sass-files` `scss` `scss-files` | 2026-10-05 00:00:53 |
+| 10 | [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) | 🔥 Library for conversion between Traditional and Simplified Chinese | ⭐ 10037 | `chinese` `chinese-conversion` `chinese-translation` `simplified-chinese` `traditional-chinese` | 2026-10-08 00:39:06 |
+| 11 | [scylladb/seastar](https://github.com/scylladb/seastar) | 🔥 High performance server-side application framework | ⭐ 9388 | `aio` `async` `c-plus-plus` `dpdk` `seastar` | 2026-10-07 15:20:32 |
+| 12 | [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) | 🔥 Wechat Chat History Exporter 微信聊天记录导出备份程序 | ⭐ 8512 | `backup` `chat` `dump` `export` `friend` | 2026-10-07 14:45:48 |
+| 13 | [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | 🔥 WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications. | ⭐ 8505 | `cpp` `csharp` `desktop` `fluent-design` `uwp` | 2026-10-07 23:21:32 |
+| 14 | [sass/node-sass](https://github.com/sass/node-sass) | 🔥 :rainbow: Node.js bindings to libsass | ⭐ 8446 | `libsass` `node-sass` `sass-files` `scss` `scss-files` | 2026-10-07 11:55:59 |
 | 15 | [weolar/miniblink49](https://github.com/weolar/miniblink49) | 🔥 a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef | ⭐ 7829 | `blink` `chromium` `electron` `nodejs` | 2026-10-06 05:54:28 |
-| 16 | [idea4good/GuiLite](https://github.com/idea4good/GuiLite) | 🔥 ✔️The smallest header-only GUI library(4 KLOC) for all platforms | ⭐ 7773 | `c` `cpp` `cross-platform` `display` `docker` | 2026-10-06 23:53:33 |
-| 17 | [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) | 🔥 High performance, multi-platform VNC client and server | ⭐ 7536 |  | 2026-10-06 19:08:34 |
-| 18 | [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) | 🔥 微信HOOK、微信机器人 wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK | ⭐ 7214 | `wechat` `wechatapi` `wechatrobot` `wxhook` | 2026-10-04 09:42:24 |
-| 19 | [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) | 🔥 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook. | ⭐ 6802 | `chatglm` `chatgpt` `gemini` `hook` `robot` | 2026-10-04 10:24:13 |
-| 20 | [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) | 🔥 MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BAS… | ⭐ 6703 |  | 2026-10-06 10:12:25 |
-| 21 | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 🔥 Jellyfin Desktop Client | ⭐ 5842 | `jellyfin` `jellyfin-client` | 2026-10-07 02:11:04 |
+| 16 | [idea4good/GuiLite](https://github.com/idea4good/GuiLite) | 🔥 ✔️The smallest header-only GUI library(4 KLOC) for all platforms | ⭐ 7775 | `c` `cpp` `cross-platform` `display` `docker` | 2026-10-07 23:49:31 |
+| 17 | [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) | 🔥 High performance, multi-platform VNC client and server | ⭐ 7542 |  | 2026-10-07 23:44:08 |
+| 18 | [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) | 🔥 微信HOOK、微信机器人 wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK | ⭐ 7215 | `wechat` `wechatapi` `wechatrobot` `wxhook` | 2026-10-07 22:59:19 |
+| 19 | [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) | 🔥 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook. | ⭐ 6804 | `chatglm` `chatgpt` `gemini` `hook` `robot` | 2026-10-08 03:03:00 |
+| 20 | [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) | 🔥 MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BAS… | ⭐ 6706 |  | 2026-10-07 21:57:44 |
+| 21 | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 🔥 Jellyfin Desktop Client | ⭐ 5842 | `jellyfin` `jellyfin-client` | 2026-10-07 23:11:03 |
 | 22 | [tjanczuk/edge](https://github.com/tjanczuk/edge) | 🔥 Run .NET and Node.js code in-process on Windows, MacOS, and Linux | ⭐ 5430 |  | 2026-09-22 01:53:55 |
-| 23 | [kuroni/bongocat-osu](https://github.com/kuroni/bongocat-osu) | 🔥 An osu! Bongo Cat overlay | ⭐ 2464 |  | 2026-10-03 17:12:07 |
-| 24 | [Greedysky/TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) | 🔥 TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux. | ⭐ 2448 | `amiga` `chiptune` `music-player` `qmmp` `qmmp-plugin` | 2026-10-06 10:12:13 |
+| 23 | [kuroni/bongocat-osu](https://github.com/kuroni/bongocat-osu) | 🔥 An osu! Bongo Cat overlay | ⭐ 2463 |  | 2026-10-08 03:08:42 |
+| 24 | [Greedysky/TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) | 🔥 TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux. | ⭐ 2449 | `amiga` `chiptune` `music-player` `qmmp` `qmmp-plugin` | 2026-10-08 00:56:03 |
 | 25 | [apache/kudu](https://github.com/apache/kudu) | 🔥 Mirror of Apache Kudu | ⭐ 1914 | `big-data` `cplusplus` `kudu` | 2026-10-07 02:01:40 |
 | 26 | [wh201906/SerialTest](https://github.com/wh201906/SerialTest) | 🔥 Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发… | ⭐ 1662 | `android` `bluetooth` `bluetooth-le` `f-droid` `linux` | 2026-10-05 22:31:44 |
 | 27 | [tojocky/node-printer](https://github.com/tojocky/node-printer) | 🔥 Native node.js printer | ⭐ 1571 |  | 2026-10-03 07:19:08 |
 | 28 | [cinience/RedisStudio](https://github.com/cinience/RedisStudio) | 🔥 RedisStudio Redis GUI client(tool) for windows | ⭐ 1544 |  | 2026-09-25 11:50:29 |
 | 29 | [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) | 🔥 PDF4QT is an open-source PDF toolkit for Windows and Linux, combining powerful desktop applications, command-line tools and a modern MIT-licensed C++/Qt PDF en… | ⭐ 1497 | `pdf` `pdf-editor` `pdf-viewer` | 2026-10-06 16:24:38 |
-| 30 | [tensor-compiler/taco](https://github.com/tensor-compiler/taco) | 🔥 The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs | ⭐ 1369 | `code-generator` `library` `linear-algebra` `sparse` `tensor` | 2026-10-04 22:06:52 |
+| 30 | [tensor-compiler/taco](https://github.com/tensor-compiler/taco) | 🔥 The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs | ⭐ 1368 | `code-generator` `library` `linear-algebra` `sparse` `tensor` | 2026-10-07 04:24:13 |
 | 31 | [dreamlayers/em-dosbox](https://github.com/dreamlayers/em-dosbox) | 🔥 An Emscripten port of DOSBox | ⭐ 1291 | `dos` `dosbox` `emscripten` `emulator` `emulators` | 2026-10-05 11:10:28 |
-| 32 | [Komet/MediaElch](https://github.com/Komet/MediaElch) | 🔥 Media Manager for Kodi | ⭐ 1112 |  | 2026-10-04 11:47:15 |
+| 32 | [Komet/MediaElch](https://github.com/Komet/MediaElch) | 🔥 Media Manager for Kodi | ⭐ 1113 |  | 2026-10-07 19:36:24 |
 | 33 | [OracleChain/EOSDevHelper](https://github.com/OracleChain/EOSDevHelper) | A desktop EOS wallet for developer. | ⭐ 257 |  | 2026-06-24 06:43:05 |
 | 34 | [itleaks/eos-contract](https://github.com/itleaks/eos-contract) | 🔥 Tutorial on writing smart contracts on EOS EOS智能合约教程,从零开始学习EOS智能合约, DApp安全漏洞(security)及攻击实践(EOS Contract)(Powered by Itleaks) | ⭐ 163 | `contract-security` `eos` `eos-contract` `eos-contracts` `eos-security` | 2026-09-08 09:35:03 |
 | 35 | [iqbal-lab-org/pandora](https://github.com/iqbal-lab-org/pandora) | Pan-genome inference and genotyping with long noisy or short accurate reads | ⭐ 120 |  | 2026-09-03 19:07:19 |
@@ -1024,17 +1024,17 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | 🔥 翻墙-科学上网 | ⭐ 53956 | `brook` `daze` `fanqiang` `goflyway` `lightsocks` | 2026-10-07 00:08:47 |
-| 2 | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 🔥 A rule-based tunnel for Android. | ⭐ 47236 |  | 2026-10-07 02:44:21 |
-| 3 | [gedoor/legado](https://github.com/gedoor/legado) | 🔥 Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。 | ⭐ 47113 |  | 2026-10-07 02:35:21 |
-| 4 | [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) | 🔥 Android TV Client for Jellyfin | ⭐ 4597 | `android` `android-tv` `java` `jellyfin` `kotlin` | 2026-10-06 14:07:30 |
+| 1 | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | 🔥 翻墙-科学上网 | ⭐ 53980 | `brook` `daze` `fanqiang` `goflyway` `lightsocks` | 2026-10-08 02:25:16 |
+| 2 | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 🔥 A rule-based tunnel for Android. | ⭐ 47292 |  | 2026-10-08 03:29:16 |
+| 3 | [gedoor/legado](https://github.com/gedoor/legado) | 🔥 Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。 | ⭐ 47110 |  | 2026-10-08 03:29:51 |
+| 4 | [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) | 🔥 Android TV Client for Jellyfin | ⭐ 4602 | `android` `android-tv` `java` `jellyfin` `kotlin` | 2026-10-08 02:47:04 |
 | 5 | [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) | 🔥 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源 | ⭐ 4034 | `acg` `android` `android-application` `bangumi` `cartoon` | 2026-10-06 10:12:08 |
 | 6 | [caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake) | 🔥 MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe | ⭐ 2849 | `baidu` `exoplayer` `material-design` `meidaplayer` `music` | 2026-10-07 02:31:05 |
-| 7 | [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) | 🔥 Android Client for Jellyfin | ⭐ 2795 | `android` `java` `jellyfin` `kotlin` | 2026-10-06 12:03:53 |
+| 7 | [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) | 🔥 Android Client for Jellyfin | ⭐ 2797 | `android` `java` `jellyfin` `kotlin` | 2026-10-07 15:02:26 |
 | 8 | [gallonyin/worktool](https://github.com/gallonyin/worktool) | 🔥 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理企业微信机器人 | ⭐ 2722 |  | 2026-10-06 06:43:38 |
 | 9 | [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) | 🔥 Libraries for running GraphQL in Kotlin | ⭐ 1805 | `federation` `graphql` `graphql-client` `graphql-java` `graphql-plugin` | 2026-10-05 17:58:10 |
 | 10 | [orbit/orbit](https://github.com/orbit/orbit) | 🔥 Orbit - Virtual actor framework for building distributed systems | ⭐ 1731 | `actor-model` `actors` `distributed-actors` `distributed-systems` `grains` | 2026-10-06 13:17:32 |
-| 11 | [AutoAccountingOrg/AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) | 🔥 你的每一笔账单都值得记录！ | ⭐ 938 |  | 2026-10-06 06:00:43 |
+| 11 | [AutoAccountingOrg/AutoAccounting](https://github.com/AutoAccountingOrg/AutoAccounting) | 🔥 你的每一笔账单都值得记录！ | ⭐ 939 |  | 2026-10-07 03:23:09 |
 | 12 | [leavesCZY/Monitor](https://github.com/leavesCZY/Monitor) | 🔥 一个适用于 OkHttp / Retrofit 的可视化抓包工具 | ⭐ 310 | `network-monitoring` `okhttp-interceptor` `okttp-monitoring` | 2026-09-20 08:56:02 |
 | 13 | [hectorqin/reader-legado](https://github.com/hectorqin/reader-legado) | 🔥 Reader 使用的legado核心和其它开源库，欢迎大家提交pr | ⭐ 156 |  | 2026-09-27 02:56:58 |
 | 14 | [Ray-Eldath/Avalon](https://github.com/Ray-Eldath/Avalon) | :robot: A scalable multi-function group robot for QQ and Discord. 多功能、可扩展的群机器人，支持QQ和Discord。 | ⭐ 88 | `coolq` `coolq-http-api` `discord-bot` `java` `kotlin` | 2026-07-15 22:06:15 |
@@ -1054,11 +1054,11 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) | 🔥 A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架 | ⭐ 6259 | `javascript` `micro-frontend` `microapp` `webcomponents` | 2026-09-30 20:34:33 |
-| 2 | [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) | 🔥 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site | ⭐ 3983 | `editor` `flowchart` `gantt-diagram` `markdown` `sequence-diagram` | 2026-10-06 12:46:33 |
+| 1 | [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) | 🔥 A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架 | ⭐ 6260 | `javascript` `micro-frontend` `microapp` `webcomponents` | 2026-10-07 22:41:50 |
+| 2 | [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) | 🔥 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site | ⭐ 3984 | `editor` `flowchart` `gantt-diagram` `markdown` `sequence-diagram` | 2026-10-08 01:54:45 |
 | 3 | [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) | 🔥 🍭 Cnblogs theme \_ Basic theme : SimpleMemory | ⭐ 3712 | `cnblogs` | 2026-10-06 17:57:20 |
-| 4 | [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) | 🔥 Turn your Telegram Channel into a MicroBlog. | ⭐ 2092 | `astro` `blog` `hacktoberfest` `microblog` `telegram` | 2026-10-06 10:11:54 |
-| 5 | [smartping/smartping](https://github.com/smartping/smartping) | 🔥 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能 | ⭐ 1896 | `echarts` `golang` `ping` | 2026-09-30 07:36:31 |
+| 4 | [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) | 🔥 Turn your Telegram Channel into a MicroBlog. | ⭐ 2093 | `astro` `blog` `hacktoberfest` `microblog` `telegram` | 2026-10-08 00:56:19 |
+| 5 | [smartping/smartping](https://github.com/smartping/smartping) | 🔥 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能 | ⭐ 1895 | `echarts` `golang` `ping` | 2026-10-07 15:57:16 |
 | 6 | [egotong/nows](https://github.com/egotong/nows) | 🔥 毒鸡汤 | ⭐ 1416 |  | 2026-09-28 07:54:16 |
 | 7 | [kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O) | 🎉 A clean and delicate Jekyll theme. Jekyll博客主题 | ⭐ 926 | `blog` `blog-theme` `jekyll-themes` | 2026-08-07 09:14:14 |
 | 8 | [chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao) | 🔥  | ⭐ 835 |  | 2026-10-06 13:47:39 |
@@ -1090,11 +1090,11 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) | 🔥 Kuboard v4 官方文档（zh/en 双语）：Kuboard 是基于 Kubernetes 的微服务管理界面。本仓库为 v4 版本文档站源码，涵盖安装升级、集群管理、工作负载、网络、存储、Kuboard MCP 等。 | ⭐ 25247 | `docker` `k8s` `kubernetes` `kubernetes-kuboard` | 2026-10-07 02:28:30 |
+| 1 | [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) | 🔥 Kuboard v4 官方文档（zh/en 双语）：Kuboard 是基于 Kubernetes 的微服务管理界面。本仓库为 v4 版本文档站源码，涵盖安装升级、集群管理、工作负载、网络、存储、Kuboard MCP 等。 | ⭐ 25247 | `docker` `k8s` `kubernetes` `kubernetes-kuboard` | 2026-10-08 01:47:54 |
 | 2 | [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) | 🔥 Official container images for .NET | ⭐ 4874 |  | 2026-10-06 16:29:35 |
 | 3 | [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) | 🔥 《从Docker到Kubernetes进阶课程》在线文档 | ⭐ 1867 | `course` `docker` `elasticsearch` `gitlab` `jenkins` | 2026-10-02 19:56:40 |
 | 4 | [paunin/PostDock](https://github.com/paunin/PostDock) | PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment | ⭐ 1126 | `cluster` `docker` `failover` `kubernetes` `pgpool` | 2026-06-03 15:03:41 |
-| 5 | [RICwang/docker-wechat](https://github.com/RICwang/docker-wechat) | 🔥 在docker里运行wechat，可以通过web或者VNC访问wechat | ⭐ 990 |  | 2026-10-04 08:48:33 |
+| 5 | [RICwang/docker-wechat](https://github.com/RICwang/docker-wechat) | 🔥 在docker里运行wechat，可以通过web或者VNC访问wechat | ⭐ 991 |  | 2026-10-08 02:36:26 |
 | 6 | [apache/skywalking-docker](https://github.com/apache/skywalking-docker) | SkyWalking Docker file archive for all official releases | ⭐ 265 | `apm` `dapper` `distributed-tracing` `observability` `service-mesh` | 2026-02-12 16:31:46 |
 | 7 | [fabiocicerchia/nginx-lua](https://github.com/fabiocicerchia/nginx-lua) | 🔥 Latest Nginx with LUA support based on AlmaLinux, Alpine Linux, Amazon Linux, Debian, Fedora, and Ubuntu. | ⭐ 226 | `container` `docker` `lua` `luajit` `nginx` | 2026-10-06 06:05:08 |
 | 8 | [revomatico/docker-kong-oidc](https://github.com/revomatico/docker-kong-oidc) | Kong + OIDC plugins | ⭐ 118 | `docker` `gateway` `kong` `kong-oidc` `proxy` | 2026-03-13 13:25:23 |
@@ -1119,10 +1119,10 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🔥  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | ⭐ 115548 | `app` `apple` `application` `apps` `awesome` | 2026-10-07 03:12:23 |
-| 2 | [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 🔥 Next Generation of ShadowsocksX | ⭐ 32872 | `kcptun` `macos` `shadowsocks` `shadowsocksx-ng` `swift` | 2026-10-06 16:30:49 |
-| 3 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | 🔥 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Tran… | ⭐ 14851 | `app` `baidu` `bing` `deepl` `dictionary` | 2026-10-07 02:32:13 |
-| 4 | [tw93/MiaoYan](https://github.com/tw93/MiaoYan) | 🔥 ⛷ Lightweight Markdown app to help you write great sentences. | ⭐ 8666 | `editor` `local-first` `macos` `markdown` `markdown-editor` | 2026-10-07 00:41:24 |
+| 1 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🔥  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | ⭐ 115621 | `app` `apple` `application` `apps` `awesome` | 2026-10-08 03:21:16 |
+| 2 | [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 🔥 Next Generation of ShadowsocksX | ⭐ 32870 | `kcptun` `macos` `shadowsocks` `shadowsocksx-ng` `swift` | 2026-10-07 14:52:01 |
+| 3 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | 🔥 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Tran… | ⭐ 14865 | `app` `baidu` `bing` `deepl` `dictionary` | 2026-10-08 03:22:50 |
+| 4 | [tw93/MiaoYan](https://github.com/tw93/MiaoYan) | 🔥 ⛷ Lightweight Markdown app to help you write great sentences. | ⭐ 8669 | `editor` `local-first` `macos` `markdown` `markdown-editor` | 2026-10-07 22:41:45 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1136,17 +1136,17 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 🔥 Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The l… | ⭐ 77167 | `blog` `confluence-alternative` `content-management` `content-services` `documentation` | 2026-10-07 01:57:47 |
-| 2 | [chen08209/FlClash](https://github.com/chen08209/FlClash) | 🔥 A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | ⭐ 54592 | `clash` `clash-meta` `flutter` `hysteria` `multi-platform` | 2026-10-07 02:57:37 |
-| 3 | [alibaba/flutter-go](https://github.com/alibaba/flutter-go) | 🔥 flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | ⭐ 23634 | `dart` `flutter` `flutter-demo` `flutter-doc` | 2026-10-06 23:58:19 |
-| 4 | [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) | 🔥 Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个… | ⭐ 15498 | `android` `cross-platform` `dart` `dartlang` `flutter` | 2026-10-07 03:10:17 |
-| 5 | [simplezhli/flutter\_deer](https://github.com/simplezhli/flutter_deer) | 🔥 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI de… | ⭐ 8623 | `amap` `android` `chart` `citypicker` `customview` | 2026-10-05 16:15:44 |
-| 6 | [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) | 🔥 FlutterDemo合集，今天你fu了吗 | ⭐ 7190 | `flutter` `flutter-demo` | 2026-10-01 05:18:30 |
-| 7 | [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) | 🔥 A comic browser，support Android / iOS / MacOS / Windows / Linux. | ⭐ 5461 | `acg` `comic` `cosplay` `flutter` `hentai` | 2026-10-06 17:51:18 |
+| 1 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 🔥 Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The l… | ⭐ 77182 | `blog` `confluence-alternative` `content-management` `content-services` `documentation` | 2026-10-08 03:12:35 |
+| 2 | [chen08209/FlClash](https://github.com/chen08209/FlClash) | 🔥 A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | ⭐ 54728 | `clash` `clash-meta` `flutter` `hysteria` `multi-platform` | 2026-10-08 03:15:42 |
+| 3 | [alibaba/flutter-go](https://github.com/alibaba/flutter-go) | 🔥 flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | ⭐ 23634 | `dart` `flutter` `flutter-demo` `flutter-doc` | 2026-10-07 10:18:59 |
+| 4 | [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) | 🔥 Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个… | ⭐ 15499 | `android` `cross-platform` `dart` `dartlang` `flutter` | 2026-10-07 06:59:36 |
+| 5 | [simplezhli/flutter\_deer](https://github.com/simplezhli/flutter_deer) | 🔥 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI de… | ⭐ 8622 | `amap` `android` `chart` `citypicker` `customview` | 2026-10-07 08:23:50 |
+| 6 | [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) | 🔥 FlutterDemo合集，今天你fu了吗 | ⭐ 7189 | `flutter` `flutter-demo` | 2026-10-07 10:11:09 |
+| 7 | [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) | 🔥 A comic browser，support Android / iOS / MacOS / Windows / Linux. | ⭐ 5465 | `acg` `comic` `cosplay` `flutter` `hentai` | 2026-10-07 14:52:14 |
 | 8 | [sass/dart-sass](https://github.com/sass/dart-sass) | 🔥 The reference implementation of Sass, written in Dart. | ⭐ 4226 | `css-preprocessor` `dart` `dart-sass` `sass` | 2026-10-06 22:31:35 |
 | 9 | [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter) | 🔥 A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package. | ⭐ 3269 | `client` `dart` `flutter` `graphql` | 2026-10-06 10:32:10 |
 | 10 | [shichunlei/flutter\_app](https://github.com/shichunlei/flutter_app) | 🔥 🔥🔥🔥本项目包括各种基本控件使用（Text、TextField、Icon、Image、Listview、Gridview、Picker、Stepper、Dialog、Slider、Row、Appbar、Sizebox、BottomSheet、Chip、Dismissible、FlutterLogo、Check、… | ⭐ 2698 | `api` `dart` `dialog` `douban-movie` `flutter` | 2026-09-24 09:51:01 |
-| 11 | [media-kit/media-kit](https://github.com/media-kit/media-kit) | 🔥 A cross-platform video player & audio player for Flutter & Dart. | ⭐ 1830 | `android` `audio` `audio-player` `c` `cpp` | 2026-10-06 12:33:49 |
+| 11 | [media-kit/media-kit](https://github.com/media-kit/media-kit) | 🔥 A cross-platform video player & audio player for Flutter & Dart. | ⭐ 1831 | `android` `audio` `audio-player` `c` `cpp` | 2026-10-07 13:09:39 |
 | 12 | [xiaojia21190/ZY\_Player\_flutter](https://github.com/xiaojia21190/ZY_Player_flutter) | 🔥 影视 漫画 小说 听书 | ⭐ 179 |  | 2026-10-06 13:47:32 |
 | 13 | [Im-Kevin/rare\_print](https://github.com/Im-Kevin/rare_print) | Flutter Print Lib | ⭐ 15 |  | 2024-11-21 08:44:59 |
 
@@ -1162,10 +1162,10 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [dotnet/core](https://github.com/dotnet/core) | 🔥 .NET news, announcements, release notes, and more! | ⭐ 22038 | `dotnet` `dotnet-core` | 2026-10-06 23:41:12 |
+| 1 | [dotnet/core](https://github.com/dotnet/core) | 🔥 .NET news, announcements, release notes, and more! | ⭐ 22038 | `dotnet` `dotnet-core` | 2026-10-08 01:07:28 |
 | 2 | [dotnet/blazor](https://github.com/dotnet/blazor) | 🔥 Blazor moved to https://github.com/dotnet/aspnetcore | ⭐ 9256 |  | 2026-10-06 17:39:16 |
-| 3 | [jenkinsci/docker](https://github.com/jenkinsci/docker) | 🔥 Docker official jenkins repo | ⭐ 7656 | `docker` `hacktoberfest` `jenkins` | 2026-10-06 13:24:27 |
-| 4 | [k8gege/K8tools](https://github.com/k8gege/K8tools) | 🔥 K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbr… | ⭐ 6227 | `0day` `brute-force` `bypass` `crack` `database` | 2026-10-06 17:57:26 |
+| 3 | [jenkinsci/docker](https://github.com/jenkinsci/docker) | 🔥 Docker official jenkins repo | ⭐ 7658 | `docker` `hacktoberfest` `jenkins` | 2026-10-07 22:30:57 |
+| 4 | [k8gege/K8tools](https://github.com/k8gege/K8tools) | 🔥 K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbr… | ⭐ 6229 | `0day` `brute-force` `bypass` `crack` `database` | 2026-10-07 06:55:50 |
 | 5 | [denverdino/k8s-for-docker-desktop](https://github.com/denverdino/k8s-for-docker-desktop) | 🔥 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。 | ⭐ 5034 | `china` `docker` `helm` `istio` `k8s` | 2026-10-03 11:45:55 |
 | 6 | [FelixSelter/JEnv-for-Windows](https://github.com/FelixSelter/JEnv-for-Windows) | 🔥 Change your current Java version with one line | ⭐ 925 |  | 2026-10-02 15:14:17 |
 | 7 | [jenkinsci/docker-inbound-agent](https://github.com/jenkinsci/docker-inbound-agent) | 🔥 \[Deprecated & ingrated in docker-agent] Docker image for a Jenkins agent which can connect to Jenkins using TCP or Websocket protocols | ⭐ 478 | `agent` `docker` `docker-image` `hacktoberfest` `jenkins` | 2026-09-30 07:41:57 |
@@ -1187,7 +1187,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [nvm-windows/nvm](https://github.com/nvm-windows/nvm) | 🔥 The Node.js version manager for Windows. | ⭐ 47869 | `install` `node` `node-js` `nodejs` `nvm` | 2026-10-07 02:43:26 |
+| 1 | [nvm-windows/nvm](https://github.com/nvm-windows/nvm) | 🔥 The Node.js version manager for Windows. | ⭐ 47875 | `install` `node` `node-js` `nodejs` `nvm` | 2026-10-08 03:13:26 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1201,7 +1201,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) | 🔥 pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, a… | ⭐ 7409 | `pyenv` `pyenv-alternative` `pyenv-for-windows` `pyenv-win` `pyenv-windows` | 2026-10-06 14:50:18 |
+| 1 | [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) | 🔥 pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, a… | ⭐ 7410 | `pyenv` `pyenv-alternative` `pyenv-for-windows` `pyenv-win` `pyenv-windows` | 2026-10-07 23:51:12 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1215,7 +1215,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) | 🔥 PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐 | ⭐ 2439 | `bilibili` `potplayer` `potplayer-extension` | 2026-10-06 10:29:11 |
+| 1 | [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) | 🔥 PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐 | ⭐ 2440 | `bilibili` `potplayer` `potplayer-extension` | 2026-10-07 15:40:47 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1229,8 +1229,8 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [Kong/kong](https://github.com/Kong/kong) | 🔥 🦍 The API and AI Gateway | ⭐ 44246 | `ai` `ai-gateway` `api-gateway` `api-management` `apis` | 2026-10-06 18:21:29 |
-| 2 | [apache/apisix](https://github.com/apache/apisix) | 🔥 The Cloud-Native API Gateway and AI Gateway | ⭐ 17201 | `ai-gateway` `api` `api-gateway` `api-management` `apisix` | 2026-10-06 19:25:34 |
+| 1 | [Kong/kong](https://github.com/Kong/kong) | 🔥 🦍 The API and AI Gateway | ⭐ 44248 | `ai` `ai-gateway` `api-gateway` `api-management` `apis` | 2026-10-08 02:23:36 |
+| 2 | [apache/apisix](https://github.com/apache/apisix) | 🔥 The Cloud-Native API Gateway and AI Gateway | ⭐ 17203 | `ai-gateway` `api` `api-gateway` `api-management` `apisix` | 2026-10-07 22:41:42 |
 | 3 | [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) | 🔥 Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets | ⭐ 6067 |  | 2026-10-04 03:30:41 |
 | 4 | [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) | 🔥 A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards. | ⭐ 5979 |  | 2026-10-05 08:59:06 |
 | 5 | [orlabs/orange](https://github.com/orlabs/orange) | 🔥 OpenResty/Nginx Gateway for API Monitoring and Management. | ⭐ 2306 | `api` `gateway` `lor` `monitoring` `nginx` | 2026-09-08 09:34:29 |
@@ -1252,8 +1252,8 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [penpot/penpot](https://github.com/penpot/penpot) | 🔥 Penpot: The open-source design platform for Product teams that need scalable collaboration. | ⭐ 60766 | `clojure` `clojurescript` `design` `prototyping` `ui` | 2026-10-07 03:08:07 |
-| 2 | [metabase/metabase](https://github.com/metabase/metabase) | 🔥 The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart: | ⭐ 49557 | `analytics` `bi` `business-intelligence` `businessintelligence` `clojure` | 2026-10-07 03:06:39 |
+| 1 | [penpot/penpot](https://github.com/penpot/penpot) | 🔥 Penpot: The open-source design platform for Product teams that need scalable collaboration. | ⭐ 60796 | `clojure` `clojurescript` `design` `prototyping` `ui` | 2026-10-08 02:54:30 |
+| 2 | [metabase/metabase](https://github.com/metabase/metabase) | 🔥 The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart: | ⭐ 49569 | `analytics` `bi` `business-intelligence` `businessintelligence` `clojure` | 2026-10-08 02:02:40 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1267,8 +1267,8 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss) | 🔥 A UI library by WeChat official design team, includes the most useful widgets/modules. | ⭐ 15276 | `weui` `wxss` | 2026-10-06 23:59:28 |
-| 2 | [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) | 🔥 一套高质量的微信小程序 UI 组件库 | ⭐ 6598 | `components` `iview` `ui-design` `ui-kit` `weapp` | 2026-10-02 19:56:37 |
+| 1 | [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss) | 🔥 A UI library by WeChat official design team, includes the most useful widgets/modules. | ⭐ 15274 | `weui` `wxss` | 2026-10-07 16:12:58 |
+| 2 | [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) | 🔥 一套高质量的微信小程序 UI 组件库 | ⭐ 6597 | `components` `iview` `ui-design` `ui-kit` `weapp` | 2026-10-07 16:12:45 |
 | 3 | [util-core/Util.Generator](https://github.com/util-core/Util.Generator) | Util应用框架配套代码生成器 | ⭐ 37 |  | 2025-07-08 05:55:37 |
 
 [⬆ 返回分类目录](#-分类目录)
@@ -1298,12 +1298,12 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 🔥 :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby | ⭐ 51707 | `blog-engine` `jekyll` `liquid` `markdown` `ruby` | 2026-10-06 17:56:35 |
-| 2 | [greatghoul/remote-working](https://github.com/greatghoul/remote-working) | 🔥 收集整理远程工作相关的资料 | ⭐ 11769 | `china` `freelancer` `remote-work` `remote-workers` `soho` | 2026-10-06 17:56:28 |
+| 1 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 🔥 :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby | ⭐ 51706 | `blog-engine` `jekyll` `liquid` `markdown` `ruby` | 2026-10-08 02:51:39 |
+| 2 | [greatghoul/remote-working](https://github.com/greatghoul/remote-working) | 🔥 收集整理远程工作相关的资料 | ⭐ 11772 | `china` `freelancer` `remote-work` `remote-workers` `soho` | 2026-10-08 01:21:21 |
 | 3 | [github/gemoji](https://github.com/github/gemoji) | 🔥 Emoji images and names. | ⭐ 4535 | `emoji` `ruby` `rubygem` `unicode` | 2026-10-06 17:22:16 |
-| 4 | [cloudfoundry/bosh](https://github.com/cloudfoundry/bosh) | 🔥 Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. | ⭐ 2079 |  | 2026-10-07 00:40:58 |
-| 5 | [ossf/best-practices-badge](https://github.com/ossf/best-practices-badge) | 🔥 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge) | ⭐ 1364 | `badge` `best-practices` `floss` `foss` `open-source` | 2026-10-06 15:34:52 |
-| 6 | [tryzealot/zealot](https://github.com/tryzealot/zealot) | 🔥 Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps | 开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | ⭐ 1356 | `adhoc` `android` `appstoreconnect` `deployment` `distribution` | 2026-10-06 17:57:25 |
+| 4 | [cloudfoundry/bosh](https://github.com/cloudfoundry/bosh) | 🔥 Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. | ⭐ 2079 |  | 2026-10-07 15:01:32 |
+| 5 | [ossf/best-practices-badge](https://github.com/ossf/best-practices-badge) | 🔥 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge) | ⭐ 1366 | `badge` `best-practices` `floss` `foss` `open-source` | 2026-10-07 15:49:42 |
+| 6 | [tryzealot/zealot](https://github.com/tryzealot/zealot) | 🔥 Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps | 开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | ⭐ 1355 | `adhoc` `android` `appstoreconnect` `deployment` `distribution` | 2026-10-08 00:32:19 |
 | 7 | [soulteary/Home-Network-Note](https://github.com/soulteary/Home-Network-Note) | 🔥 🚧 持续更新 🚧 记录搭建兼顾学习娱乐的家用网络环境的过程，折腾过的一些软硬件小经验。 | ⭐ 1216 | `electric` `home` `home-network` `homelab` `nas` | 2026-09-30 03:56:02 |
 | 8 | [TideSec/FuzzScanner](https://github.com/TideSec/FuzzScanner) | 🔥 一个主要用于信息搜集的工具集，主要是用于对网站子域名、开放端口、端口指纹、c段地址、敏感目录等信息进行批量搜集。 | ⭐ 1006 |  | 2026-10-02 15:14:44 |
 | 9 | [saberma/china\_sms](https://github.com/saberma/china_sms) | 中国各个短信平台 Ruby 接口，现支持云片网、推立方、亿美软通、短信宝、畅友网络 | ⭐ 467 |  | 2026-08-09 01:15:46 |
@@ -1334,9 +1334,9 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 🔥 Master programming by recreating your favorite technologies from scratch. | ⭐ 551895 | `awesome-list` `free` `programming` `tutorial-code` `tutorial-exercises` | 2026-10-07 03:09:06 |
-| 2 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 🔥 Crack LeetCode, not only how, but also why. | ⭐ 136086 | `algorithms` `computer-science` `data-structures` `dynamic-programming` `dynamic-programming-algorithm` | 2026-10-06 21:08:32 |
-| 3 | [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) | 🔥 Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux | ⭐ 37078 | `bash` `chrome` `chrome-extension` `command-line` `gh-pages` | 2026-10-06 17:56:59 |
+| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 🔥 Master programming by recreating your favorite technologies from scratch. | ⭐ 552073 | `awesome-list` `free` `programming` `tutorial-code` `tutorial-exercises` | 2026-10-08 03:28:57 |
+| 2 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 🔥 Crack LeetCode, not only how, but also why. | ⭐ 136083 | `algorithms` `computer-science` `data-structures` `dynamic-programming` `dynamic-programming-algorithm` | 2026-10-08 03:12:30 |
+| 3 | [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) | 🔥 Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux | ⭐ 37085 | `bash` `chrome` `chrome-extension` `command-line` `gh-pages` | 2026-10-08 03:12:21 |
 | 4 | [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) | 🔥 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。 | ⭐ 4385 |  | 2026-10-01 13:43:07 |
 
 [⬆ 返回分类目录](#-分类目录)
@@ -1394,7 +1394,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [janeczku/calibre-web](https://github.com/janeczku/calibre-web) | 🔥 :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database | ⭐ 18338 | `calibre` `ebook` `ebook-manager` `epub` `mobi` | 2026-10-07 03:11:23 |
+| 1 | [janeczku/calibre-web](https://github.com/janeczku/calibre-web) | 🔥 :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database | ⭐ 18348 | `calibre` `ebook` `ebook-manager` `epub` `mobi` | 2026-10-08 01:35:23 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1408,7 +1408,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | 🔥 A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. | ⭐ 60853 | `css-questions` `front-end` `html-questions` `interview-questions` `interview-test` | 2026-10-06 18:13:48 |
+| 1 | [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | 🔥 A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. | ⭐ 60851 | `css-questions` `front-end` `html-questions` `interview-questions` `interview-test` | 2026-10-07 18:23:08 |
 | 2 | [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) | 🔥 A compilation of sites with dumb password rules. | ⭐ 3022 | `hacktoberfest` `passwords` `security` | 2026-10-05 15:53:35 |
 
 [⬆ 返回分类目录](#-分类目录)
@@ -1423,7 +1423,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) | 🔥 Free Chat SDK (IM SDK) — 1,000 MAU/month free forever with push notifications & no concurrency limits. Build in-app messaging with chat API, UIKit & send messa… | ⭐ 2747 | `android` `chat-api` `chat-sdk` `chat-ui-components` `chat-uikit` | 2026-10-06 14:10:35 |
+| 1 | [TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK) | 🔥 Free Chat SDK (IM SDK) — 1,000 MAU/month free forever with push notifications & no concurrency limits. Build in-app messaging with chat API, UIKit & send messa… | ⭐ 2748 | `android` `chat-api` `chat-sdk` `chat-ui-components` `chat-uikit` | 2026-10-07 05:35:56 |
 | 2 | [TKkk-iOSer/WeChatPlugin-iOS](https://github.com/TKkk-iOSer/WeChatPlugin-iOS) | 🔥  | ⭐ 1862 | `dylib` `ios` `theos` `tweak` `wechat` | 2026-09-24 09:49:12 |
 | 3 | [lefex/iWeChat](https://github.com/lefex/iWeChat) | 🔥 从 0 开始解刨一个 App，以微信为例 | ⭐ 1829 |  | 2026-09-28 13:00:55 |
 | 4 | [X140Yu/WEWTweak](https://github.com/X140Yu/WEWTweak) | 🥳 企业微信 Mac Tweak | ⭐ 88 |  | 2025-04-27 14:56:15 |
@@ -1455,7 +1455,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
 | 1 | [geocompass/pg-coordtransform](https://github.com/geocompass/pg-coordtransform) | 🔥 基于PostgreSQL+PostGIS的火星坐标系、百度坐标系、WGS84坐标系、CGCS2000坐标系的转换函数 | ⭐ 486 |  | 2026-10-02 19:55:32 |
-| 2 | [cybertec-postgresql/ora\_migrator](https://github.com/cybertec-postgresql/ora_migrator) | 🔥 Tools for Oracle to PostgreSQL migration | ⭐ 122 |  | 2026-09-07 09:39:35 |
+| 2 | [cybertec-postgresql/ora\_migrator](https://github.com/cybertec-postgresql/ora_migrator) | Tools for Oracle to PostgreSQL migration | ⭐ 122 |  | 2026-09-07 09:39:35 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1485,7 +1485,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [WICG/file-system-access](https://github.com/WICG/file-system-access) | 🔥 Expose the file system on the user’s device, so Web apps can interoperate with the user’s native applications. | ⭐ 711 | `shipping-chromium` | 2026-10-04 07:26:09 |
+| 1 | [WICG/file-system-access](https://github.com/WICG/file-system-access) | 🔥 Expose the file system on the user’s device, so Web apps can interoperate with the user’s native applications. | ⭐ 712 | `shipping-chromium` | 2026-10-07 10:45:14 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1499,7 +1499,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [ocaml/ocaml](https://github.com/ocaml/ocaml) | 🔥 The core OCaml system: compilers, runtime system, base libraries | ⭐ 6599 | `compiler` `functional-language` `ocaml` | 2026-10-06 21:08:52 |
+| 1 | [ocaml/ocaml](https://github.com/ocaml/ocaml) | 🔥 The core OCaml system: compilers, runtime system, base libraries | ⭐ 6600 | `compiler` `functional-language` `ocaml` | 2026-10-07 15:19:32 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1513,9 +1513,9 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [golang-standards/project-layout](https://github.com/golang-standards/project-layout) | 🔥 Standard Go Project Layout | ⭐ 56675 | `go` `golang` `project-structure` `project-template` `standards` | 2026-10-07 02:51:59 |
-| 2 | [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) | 🔥 Google 开源项目风格指南 (中文版) | ⭐ 10985 |  | 2026-10-06 17:56:25 |
-| 3 | [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) | 🔥 Kubernetes Handbook （Kubernetes指南） https://kubernetes.feisky.xyz | ⭐ 5525 | `books` `cloud-native` `containers` `docker` `gitbook` | 2026-10-05 08:59:38 |
+| 1 | [golang-standards/project-layout](https://github.com/golang-standards/project-layout) | 🔥 Standard Go Project Layout | ⭐ 56679 | `go` `golang` `project-structure` `project-template` `standards` | 2026-10-07 19:08:28 |
+| 2 | [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) | 🔥 Google 开源项目风格指南 (中文版) | ⭐ 10987 |  | 2026-10-07 23:44:01 |
+| 3 | [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) | 🔥 Kubernetes Handbook （Kubernetes指南） https://kubernetes.feisky.xyz | ⭐ 5524 | `books` `cloud-native` `containers` `docker` `gitbook` | 2026-10-08 03:09:18 |
 | 4 | [servicemesher/istio-handbook](https://github.com/servicemesher/istio-handbook) | 🔥 Istio服务网格进阶实战 | ⭐ 1759 | `gitbook` `istio` `service-mesh` | 2026-10-05 09:00:38 |
 | 5 | [servicemesher/envoy](https://github.com/servicemesher/envoy) | Envoy proxy中文文档 - https://www.servicemesher.com/envoy/ | ⭐ 560 | `envoyproxy` `gitbook` `service-mesh` | 2026-06-05 06:24:01 |
 | 6 | [big-data-europe/docker-hbase](https://github.com/big-data-europe/docker-hbase) |  | ⭐ 250 |  | 2026-06-05 23:45:12 |
@@ -1533,7 +1533,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | 🔥 The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes | ⭐ 32270 | `ms-dos` | 2026-10-06 22:24:12 |
+| 1 | [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | 🔥 The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes | ⭐ 32269 | `ms-dos` | 2026-10-07 09:29:58 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1561,8 +1561,8 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [phodal/github](https://github.com/phodal/github) | 🔥 GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. | ⭐ 11250 | `book` `books` `github` `github-books` `open-source` | 2026-10-06 17:56:37 |
-| 2 | [huangyz0918/Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) | 🔥 Open source tutorial & information collector for hackintosh installation. | ⭐ 3982 | `apple` `apple-hardware` `bootloader` `clover` `hackintosh` | 2026-10-03 15:13:40 |
+| 1 | [phodal/github](https://github.com/phodal/github) | 🔥 GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. | ⭐ 11252 | `book` `books` `github` `github-books` `open-source` | 2026-10-07 21:50:09 |
+| 2 | [huangyz0918/Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) | 🔥 Open source tutorial & information collector for hackintosh installation. | ⭐ 3981 | `apple` `apple-hardware` `bootloader` `clover` `hackintosh` | 2026-10-07 10:20:15 |
 | 3 | [studyzy/LearnEnglishBySubtitle](https://github.com/studyzy/LearnEnglishBySubtitle) | 🔥 深蓝英文字幕助手，是一款学习英语的辅助工具，可以通过记录用户的词汇量，然后对英文字幕中不认识的单词进行注释，做到摆脱中文字幕看懂美剧英剧。 | ⭐ 441 |  | 2026-10-03 07:32:46 |
 
 [⬆ 返回分类目录](#-分类目录)
@@ -1577,8 +1577,8 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 🔥 AdminLTE - Free admin dashboard template based on Bootstrap 5 | ⭐ 45640 | `admin` `admin-dashboard` `admin-dashboard-template` `admin-dashboard-ui` `admin-panel` | 2026-10-07 01:00:43 |
-| 2 | [tabler/tabler](https://github.com/tabler/tabler) | 🔥 Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL. | ⭐ 41821 | `admin-dashboard` `adminpanel` `boilerplate-template` `bootstrap` `bootstrap4-theme` | 2026-10-07 02:48:36 |
+| 1 | [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 🔥 AdminLTE - Free admin dashboard template based on Bootstrap 5 | ⭐ 45643 | `admin` `admin-dashboard` `admin-dashboard-template` `admin-dashboard-ui` `admin-panel` | 2026-10-08 02:30:10 |
+| 2 | [tabler/tabler](https://github.com/tabler/tabler) | 🔥 Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL. | ⭐ 41830 | `admin-dashboard` `adminpanel` `boilerplate-template` `bootstrap` `bootstrap4-theme` | 2026-10-08 02:36:08 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1622,7 +1622,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) | 🔥 Deploy a Production Ready Kubernetes Cluster | ⭐ 18782 | `ansible` `aws` `bare-metal` `gce` `hacktoberfest` | 2026-10-06 10:54:21 |
+| 1 | [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) | 🔥 Deploy a Production Ready Kubernetes Cluster | ⭐ 18782 | `ansible` `aws` `bare-metal` `gce` `hacktoberfest` | 2026-10-08 02:44:29 |
 | 2 | [easzlab/kubeasz](https://github.com/easzlab/kubeasz) | 🔥 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响 | ⭐ 11432 | `ansible` `calico` `cilium` `docker` `etcd` | 2026-10-06 23:01:45 |
 
 [⬆ 返回分类目录](#-分类目录)
@@ -1637,7 +1637,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [oracle-samples/db-sample-schemas](https://github.com/oracle-samples/db-sample-schemas) | 🔥 Oracle Database Sample Schemas | ⭐ 958 | `database` `oracle` `samples` `sql` | 2026-10-02 22:55:02 |
+| 1 | [oracle-samples/db-sample-schemas](https://github.com/oracle-samples/db-sample-schemas) | 🔥 Oracle Database Sample Schemas | ⭐ 959 | `database` `oracle` `samples` `sql` | 2026-10-07 13:59:32 |
 | 2 | [agebullhu/AgebullDesigner](https://github.com/agebullhu/AgebullDesigner) | 开源的模型设计与代码生成工具 | ⭐ 13 |  | 2019-09-29 13:38:18 |
 
 [⬆ 返回分类目录](#-分类目录)
@@ -1694,7 +1694,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | 🔥 Browser compatibility data for Web technologies as displayed on MDN | ⭐ 5759 | `compat` `compatibility` `data` `dataset` `json` | 2026-10-06 21:04:53 |
+| 1 | [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) | 🔥 Browser compatibility data for Web technologies as displayed on MDN | ⭐ 5760 | `compat` `compatibility` `data` `dataset` `json` | 2026-10-07 19:23:52 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1722,7 +1722,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 🔥 OpenZeppelin Contracts is a library for secure smart contract development. | ⭐ 27267 | `ethereum` `evm` `security` `smart-contracts` `solidity` | 2026-10-06 22:54:43 |
+| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 🔥 OpenZeppelin Contracts is a library for secure smart contract development. | ⭐ 27265 | `ethereum` `evm` `security` `smart-contracts` `solidity` | 2026-10-07 15:49:05 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1736,7 +1736,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [Azure/autorest](https://github.com/Azure/autorest) | 🔥 OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | ⭐ 4795 | `azure` `code-generator` `csharp` `golang` `java` | 2026-10-03 20:21:29 |
+| 1 | [Azure/autorest](https://github.com/Azure/autorest) | 🔥 OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | ⭐ 4796 | `azure` `code-generator` `csharp` `golang` `java` | 2026-10-07 18:14:07 |
 
 [⬆ 返回分类目录](#-分类目录)
 
@@ -1764,7 +1764,7 @@ README 按语言分类展示，每个分类最多展示 **50** 条。
 
 | No. | Repository | Description | Stars | Topics | Updated |
 |---:|---|---|---:|---|---|
-| 1 | [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) | 🔥 Kubernetes 架构与生态：从云原生到 AI 原生基础设施的构建指南 | ⭐ 11629 | `cloud-native` `cncf` `gitbook` `handbook` `istio` | 2026-10-06 02:15:13 |
+| 1 | [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) | 🔥 Kubernetes 架构与生态：从云原生到 AI 原生基础设施的构建指南 | ⭐ 11629 | `cloud-native` `cncf` `gitbook` `handbook` `istio` | 2026-10-07 15:05:22 |
 
 [⬆ 返回分类目录](#-分类目录)
 
